@@ -1,44 +1,65 @@
 {
   "links": {
     "FbyA1AklabWG40DR5zhdrs": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "error",
+      "time": 1791601275675,
+      "err": "bad-request"
     },
     "JuFskGXXd6M1prk5rsYBFF": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "blocked",
+      "time": 1791601278789
     },
     "LYtBmxeYFUr0jvrAYSMgCZ": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601282225,
+      "id": "120363429403235580@g.us",
+      "name": "ROOM CUAN BRAA 1",
+      "size": 21,
+      "approval": true
     },
     "JQW1hr2W2LJKK2T1C26s6w": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601288022,
+      "id": "120363429130021064@g.us",
+      "name": "MARKET ALL ROBLOX $ GAME // by Aniq",
+      "size": 63,
+      "approval": false
     },
     "GmLplBPkftlA1inMmDBw6W": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601292134,
+      "id": "120363415081028856@g.us",
+      "name": "CANCINSTORE ALL GAME",
+      "size": 59,
+      "approval": false
     },
     "Hrs2rIDf08wCEOD4KSEERZ": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "error",
+      "time": 1791601295487,
+      "err": "bad-request"
     },
     "KzFa66dOSJq8qOvBWw23Gh": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "error",
+      "time": 1791601299407,
+      "err": "bad-request"
     },
     "GDmkV5rKyofL7f5VywuoOW": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "error",
+      "time": 1791601303640,
+      "err": "bad-request"
     },
     "IV8C5jJD6Ww2Y255rrP7OU": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "error",
+      "time": 1791601306085,
+      "err": "bad-request"
     },
     "CPn6rVVXpPdDAwb65ZegRM": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601310658,
+      "id": "120363418412616293@g.us",
+      "name": "JB¹ RODD STORE || ALL GAME MOBILE",
+      "size": 47,
+      "approval": false
     },
     "KCfLbLF8NHz4ZzH4P0LDAT": {
       "status": "new",
