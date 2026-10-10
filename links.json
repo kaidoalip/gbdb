@@ -216,44 +216,69 @@
       "approval": true
     },
     "Em0E2XfxprQ1fz4v6caqPm": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601529820,
+      "id": "120363431152910874@g.us",
+      "name": "𝙎𝙏𝙊𝙆𝙍𝙀𝙎𝙎 𝙉𝘼𝙕𝙕 4",
+      "size": 3,
+      "approval": true
     },
     "FkG7w28Nrh642olKj887V1": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601532931,
+      "id": "120363412709127515@g.us",
+      "name": "[GB¹ WARNET || LANGZ275STR]",
+      "size": 125,
+      "approval": true
     },
     "FXOdcv3zXdE6Z8WNWYJsE8": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "error",
+      "time": 1791601535669,
+      "err": "bad-request"
     },
     "Clhn9Bz0vNaERzVBudWxZA": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601539050,
+      "id": "120363430546631544@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗙𝗘𝗥𝗗𝗬 🥷",
+      "size": 3,
+      "approval": true
     },
     "FL3lMwvb8BD49asaY1kxI3": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "expired",
+      "time": 1791601543041
     },
     "FnQ0UP3e5Bn1j2Gkr2T8Gg": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "expired",
+      "time": 1791601547314
     },
     "JXGwf8LSafsBrvOD6OdCq4": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "expired",
+      "time": 1791601550317
     },
     "LopuhsQVbIkDw4gR4xkpG7": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601553873,
+      "id": "120363412345314777@g.us",
+      "name": "WARUNG JPM TEGAR X JAYUS",
+      "size": 244,
+      "approval": false
     },
     "JtneEeBNKOG0Wif5K9Ij63": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601557530,
+      "id": "120363427203301272@g.us",
+      "name": "GB JB ALL GAME DAMZZ #2",
+      "size": 3,
+      "approval": true
     },
     "EIBs3TOM5TS63xyn40PwI6": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601560835,
+      "id": "120363412222850204@g.us",
+      "name": "JB || UTAMA BLACK COBRA",
+      "size": 48,
+      "approval": true
     },
     "IQbJRfLEpbuFsGXhmr20Bw": {
       "status": "new",
