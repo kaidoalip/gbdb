@@ -852,40 +852,68 @@
       "approval": true
     },
     "JjKnd1w7NHN9T1YCFGqXai": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "expired",
+      "time": 1791631134846
     },
     "EevaOZ32uM0H8eOhFjueYI": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631137259,
+      "id": "120363429321421772@g.us",
+      "name": "GB WARJOK PIERR #1",
+      "size": 7,
+      "approval": false
     },
     "LUrivMLXqL9457vU6je8qx": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "expired",
+      "time": 1791631140906
     },
     "DktvpLR28eq4eMl4L8ZgeN": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631144740,
+      "id": "120363413068421940@g.us",
+      "name": "JB ALL ENGGAR STR 2",
+      "size": 13,
+      "approval": false
     },
     "JqJg85vm3EF1Z1qZwtjwg4": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631147812,
+      "id": "120363431900344546@g.us",
+      "name": "JB ALL ENGGGAR STR 3",
+      "size": 9,
+      "approval": false
     },
     "H3oMj8xlqAE1LzlHcORZzK": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631150798,
+      "id": "120363431873536296@g.us",
+      "name": "GB UTAMA VANTZY",
+      "size": 2,
+      "approval": true
     },
     "I1jrftevW8v9lIZ4rfT0Wp": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631153750,
+      "id": "120363411296340279@g.us",
+      "name": "JB MEZZ 1",
+      "size": 101,
+      "approval": false
     },
     "IAzm6NePQdDJo1ez6lt6B5": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631157512,
+      "id": "120363414190660761@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞𝗥𝗘𝗦𝗦 𝗠𝗟𝗕𝗕 [ TERBUKA ]  🇲🇾🇮🇩",
+      "size": 77,
+      "approval": false
     },
     "C8z5epGpssFLtBA7pCMVp7": {
-      "status": "new",
-      "time": 1791630693431
+      "status": "valid",
+      "time": 1791631160579,
+      "id": "120363433623149728@g.us",
+      "name": "𝙂𝘾 𝙎𝙏𝙊𝙆𝙍𝙀𝙎𝙎 𝙈𝙁𝙍 𝙎𝙏𝙐𝙍𝙀 [ 1 ]",
+      "size": 60,
+      "approval": true
     }
   }
 }
