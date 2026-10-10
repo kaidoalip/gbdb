@@ -623,44 +623,81 @@
       "approval": false
     },
     "H2XWssVplhwLBqEC7qR9Ab": {
-      "status": "new",
-      "time": 1791622740941
+      "status": "valid",
+      "time": 1791631027361,
+      "id": "120363431285569787@g.us",
+      "name": "STOK RESS FAA",
+      "size": 11,
+      "approval": true
     },
     "JXYps2VldwaBEPN9i4DpS3": {
-      "status": "new",
-      "time": 1791622850471
+      "status": "valid",
+      "time": 1791631030079,
+      "id": "120363334595190595@g.us",
+      "name": "JB | BARZXX STORE ALL GAMEE",
+      "size": 395,
+      "approval": true
     },
     "KBpdQqULRfC7ofvdK6OQc0": {
-      "status": "new",
-      "time": 1791622850471
+      "status": "valid",
+      "time": 1791631032866,
+      "id": "120363102322451058@g.us",
+      "name": "JB² | BARSZXX STORE ALL GAME",
+      "size": 179,
+      "approval": true
     },
     "JjjmOgEJoZdGLYBJpCV15p": {
-      "status": "new",
-      "time": 1791622850471
+      "status": "valid",
+      "time": 1791631036722,
+      "id": "120363143597197764@g.us",
+      "name": "JB³ | BARSZXX STORE ALL GAME",
+      "size": 155,
+      "approval": true
     },
     "J56UaKInQeC4mKOiQI1LRC": {
-      "status": "new",
-      "time": 1791623153324
+      "status": "error",
+      "time": 1791631038970,
+      "err": "bad-request"
     },
     "Hfa5lOoGQXs4shAK1mpoDk": {
-      "status": "new",
-      "time": 1791623153324
+      "status": "valid",
+      "time": 1791631042027,
+      "id": "120363416468824992@g.us",
+      "name": "💫WARUNG CALISTA STURR V¹🥷",
+      "size": 123,
+      "approval": false
     },
     "DmHaRqXETMo2tp8FoRfUtR": {
-      "status": "new",
-      "time": 1791624749230
+      "status": "valid",
+      "time": 1791631045961,
+      "id": "120363411975479728@g.us",
+      "name": "GB FT BY IKKY⚡",
+      "size": 44,
+      "approval": true
     },
     "CeueC32kVjD6HcnCBWmxea": {
-      "status": "new",
-      "time": 1791624749230
+      "status": "valid",
+      "time": 1791631049228,
+      "id": "120363413370420970@g.us",
+      "name": "JB³ || ALL GAME ADIT#PROSES",
+      "size": 62,
+      "approval": true
     },
     "Fd2apVzIqURIpr8AbHOTT4": {
-      "status": "new",
-      "time": 1791624749230
+      "status": "valid",
+      "time": 1791631052525,
+      "id": "120363430051586887@g.us",
+      "name": "Jb scyncJnr",
+      "size": 35,
+      "approval": false
     },
     "DEQCYXYSfetAB6VZ9wGemP": {
-      "status": "new",
-      "time": 1791624749230
+      "status": "valid",
+      "time": 1791631056524,
+      "id": "120363411762113465@g.us",
+      "name": "JB¹ || R3NZZ STORE",
+      "size": 105,
+      "approval": true
     },
     "GG4Aku6OH2iFvORPcRLdzR": {
       "status": "new",
