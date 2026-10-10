@@ -281,44 +281,80 @@
       "approval": true
     },
     "IQbJRfLEpbuFsGXhmr20Bw": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601564849,
+      "id": "120363423569874849@g.us",
+      "name": "WARUNG JPM TEGAR GZ",
+      "size": 927,
+      "approval": true
     },
     "FpffaXwoJ88Fnz93uCiPdl": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601569020,
+      "id": "120363405341765525@g.us",
+      "name": "WARUNG JPM TEGAR GZ V2",
+      "size": 1024,
+      "approval": true
     },
     "Emr1JzenbnEIi3pZCCtVWx": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601572077,
+      "id": "120363412821310687@g.us",
+      "name": "JB ALLGME 134",
+      "size": 18,
+      "approval": true
     },
     "HKIAPXCSYrDJDFlhJz7YFA": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "expired",
+      "time": 1791601575581
     },
     "L1Csxts7IjM35ksViYFioK": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601579865,
+      "id": "120363428525630598@g.us",
+      "name": "JB ALLGAME KEVIN",
+      "size": 7,
+      "approval": true
     },
     "KjqaaO80x49CRhFLFYNi7w": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601583192,
+      "id": "120363413077243549@g.us",
+      "name": "JB ALLGAME RIZAL",
+      "size": 8,
+      "approval": true
     },
     "HTRp5JSb3YM3R0wKgPfkWi": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601585686,
+      "id": "120363429009847797@g.us",
+      "name": "JB ALLGME 136",
+      "size": 9,
+      "approval": true
     },
     "BPmqAMFybSeCS8MMD03S1j": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601588440,
+      "id": "120363430595393607@g.us",
+      "name": "JB ALLGME 138",
+      "size": 22,
+      "approval": true
     },
     "Lsd2ry2CwCXK2Xtz7uJilB": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601593263,
+      "id": "120363431012509354@g.us",
+      "name": "JB ALLGME 137 TERBUKA",
+      "size": 18,
+      "approval": true
     },
     "HR0kjXt2TwzBeSI4ciYEj9": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601596264,
+      "id": "120363430180392049@g.us",
+      "name": "JB ALLGAME ROBET",
+      "size": 32,
+      "approval": true
     },
     "HR7Dl9chmzYKHDqNktjvcT": {
       "status": "new",
