@@ -411,32 +411,52 @@
       "time": 1791601634586
     },
     "GIrbE9sRbPU565rjWhVZ31": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "expired",
+      "time": 1791601639733
     },
     "HdUQvdlCgSSC2Dfk4601NU": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "expired",
+      "time": 1791601643933
     },
     "DgCBvtSzNLN6yWHo7UJJ4z": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601647513,
+      "id": "120363365064714077@g.us",
+      "name": "𝐉𝐁¹ 𝐀𝐋𝐋 𝐆𝐀𝐌𝐄 𝐅𝐈𝐋𝐙 𝐒𝐓𝐔𝐑",
+      "size": 255,
+      "approval": true
     },
     "FJaho6uDYnoDcoUCzcyMkO": {
-      "status": "new",
-      "time": 1791601273618
+      "status": "valid",
+      "time": 1791601650800,
+      "id": "120363412415093343@g.us",
+      "name": "JB¹ || ALL GAME BY ADIT",
+      "size": 315,
+      "approval": true
     },
     "KSRYpzUQon5LvoCKqS1HEJ": {
-      "status": "new",
-      "time": 1791601299432
+      "status": "valid",
+      "time": 1791601654239,
+      "id": "120363413032988998@g.us",
+      "name": "𝙅𝘽 ||  𝙎𝙏𝙀𝘼𝙇 𝘼𝙉 𝙀𝙂𝙂 || 𝘽𝙔 𝙈𝘼𝙇𝙕𝙕¹",
+      "size": 169,
+      "approval": true
     },
     "F14Uiy0eqbCE8NpuBZSPVx": {
-      "status": "new",
-      "time": 1791601299432
+      "status": "valid",
+      "time": 1791601656871,
+      "id": "120363413050004637@g.us",
+      "name": "𝙅𝘽 || 𝙎𝙏𝙀𝘼𝙇 𝘼𝙉 𝙀𝙂𝙂 || 𝘽𝙔 𝙈𝘼𝙇𝙕𝙕²",
+      "size": 6,
+      "approval": true
     },
     "G7q35VOaAd9BVIhhNBLcJw": {
-      "status": "new",
-      "time": 1791601315905
+      "status": "valid",
+      "time": 1791601660027,
+      "id": "120363432328910975@g.us",
+      "name": "NEW JB || NUNU STR",
+      "size": 5,
+      "approval": false
     },
     "DS1bWjkQ9mKHSnYQvzgWab": {
       "status": "new",
