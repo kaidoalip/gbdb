@@ -1045,7 +1045,7 @@
     },
     "EucYwiZuuyBDgoKkI0Fcyr": {
       "status": "valid",
-      "time": 1791639721551,
+      "time": 1791639763166,
       "id": "120363412625044601@g.us",
       "name": "RS. SPESIALIS DR. ACONG ID.",
       "size": 34,
@@ -1053,7 +1053,7 @@
     },
     "DzM5i5OC81Z08tpc5yi2HZ": {
       "status": "valid",
-      "time": 1791639724787,
+      "time": 1791639767164,
       "id": "120363430465370065@g.us",
       "name": "JB¹ ALL GAME EPAN STORE",
       "size": 25,
@@ -1061,7 +1061,7 @@
     },
     "FdDxlR9AgZS0TBiWSDJmg1": {
       "status": "valid",
-      "time": 1791639727850,
+      "time": 1791639769850,
       "id": "120363432433139375@g.us",
       "name": "𝗝𝗕 𝗔𝗟𝗜𝗜𝗣 𝗢𝗙𝗙𝗖 || 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘",
       "size": 2,
@@ -1069,7 +1069,7 @@
     },
     "B6uErMu5jV6FSzD3rgOB3m": {
       "status": "valid",
-      "time": 1791639731104,
+      "time": 1791639772262,
       "id": "120363427644449473@g.us",
       "name": "JB STEAL AN EGG V¹",
       "size": 52,
@@ -1077,31 +1077,47 @@
     },
     "HurMOKACoGF7QjrYNy9WBP": {
       "status": "valid",
-      "time": 1791639734031,
+      "time": 1791639775851,
       "id": "120363426855289122@g.us",
       "name": "JB ALL GAME KING STORE [ REGION RIAU ]",
       "size": 19,
       "approval": true
     },
     "HLin9RJh4C5GQU2EJIkeUv": {
-      "status": "new",
-      "time": 1791639632418
+      "status": "valid",
+      "time": 1791639779291,
+      "id": "120363412736560741@g.us",
+      "name": "GC STOK BYY AFUWENG #1",
+      "size": 60,
+      "approval": false
     },
     "Hm9vbe38YseLuxkAzfQgGT": {
-      "status": "new",
-      "time": 1791639632418
+      "status": "valid",
+      "time": 1791639782018,
+      "id": "120363429892031321@g.us",
+      "name": "KB Kenzz [M1 ONLY] #1",
+      "size": 50,
+      "approval": true
     },
     "BHRblmlXwp71LXocPVzHh4": {
-      "status": "new",
-      "time": 1791639632418
+      "status": "valid",
+      "time": 1791639785844,
+      "id": "120363426679023828@g.us",
+      "name": "GB 1 ALL GAME PUJA STORE 🧢",
+      "size": 157,
+      "approval": true
     },
     "L3SYrJDd0xf35g95FlQ4K6": {
-      "status": "new",
-      "time": 1791639632418
+      "status": "valid",
+      "time": 1791639788489,
+      "id": "120363425533894108@g.us",
+      "name": "JB¹ BILZ SHOP JB×OWN  [PROSES 100MEMBER DAGET]",
+      "size": 87,
+      "approval": true
     },
     "DZgLqRBs6nP67ap08bvFRA": {
-      "status": "new",
-      "time": 1791639632418
+      "status": "expired",
+      "time": 1791639791222
     },
     "Jb6TmmCpGonKyBEGPB5L5l": {
       "status": "new",
