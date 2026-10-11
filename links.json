@@ -1933,44 +1933,80 @@
       "approval": false
     },
     "LALT0IeMwRY083bryjQ2jP": {
-      "status": "new",
-      "time": 1791648415448
+      "status": "expired",
+      "time": 1791723560679
     },
     "FjDyxUCfZ2dFvRWengX7kY": {
-      "status": "new",
-      "time": 1791648475136
+      "status": "valid",
+      "time": 1791723564271,
+      "id": "120363412539353817@g.us",
+      "name": "MARKET ALL GAME V1 | REPZ KAGENOU × SR",
+      "size": 143,
+      "approval": false
     },
     "KEaBR1uZ6nc7oNsMTEHsZp": {
-      "status": "new",
-      "time": 1791648475136
+      "status": "valid",
+      "time": 1791723567851,
+      "id": "120363410442148140@g.us",
+      "name": "MARKET ALL GAME V2 | REPZ KAGENOU × SR",
+      "size": 21,
+      "approval": false
     },
     "GqI874g0m4z65Pu8FmkbiY": {
-      "status": "new",
-      "time": 1791648475136
+      "status": "valid",
+      "time": 1791723571147,
+      "id": "120363430843250815@g.us",
+      "name": "MARKET ALL GAME V3 | REPZ KAGENOU × SR",
+      "size": 16,
+      "approval": false
     },
     "GzANsWvtdwjIOW9Obau4Lh": {
-      "status": "new",
-      "time": 1791648683765
+      "status": "valid",
+      "time": 1791723574275,
+      "id": "120363413940307453@g.us",
+      "name": "LAGA GOPEAN SALL 🐻 #1",
+      "size": 2,
+      "approval": true
     },
     "D0nxdoWjL33EXKo7LeqQxg": {
-      "status": "new",
-      "time": 1791648683765
+      "status": "valid",
+      "time": 1791723578164,
+      "id": "120363431507298356@g.us",
+      "name": "LAGA PERAKAN SALL 🐻 #1",
+      "size": 4,
+      "approval": true
     },
     "GBWKiWBfbW92GjWTJsROX2": {
-      "status": "new",
-      "time": 1791649151801
+      "status": "valid",
+      "time": 1791723582560,
+      "id": "120363425884652740@g.us",
+      "name": "𝗝𝗕/𝗧𝗥𝗔𝗗𝗘 𝗔𝗟𝗚𝗔𝗠𝗘 𝗥𝗢𝗕𝗟𝗢𝗫🇮🇩",
+      "size": 15,
+      "approval": true
     },
     "IkiybtP3Hff9pAAcYt4Urm": {
-      "status": "new",
-      "time": 1791649199914
+      "status": "valid",
+      "time": 1791723585977,
+      "id": "120363409312748166@g.us",
+      "name": "JB ALL GAME PARAS SHOP¹",
+      "size": 962,
+      "approval": true
     },
     "IsRmsz8Fgvz7WuTZ4JW7DE": {
-      "status": "new",
-      "time": 1791649199914
+      "status": "valid",
+      "time": 1791723589542,
+      "id": "120363412059688943@g.us",
+      "name": "JB² ALL GAME PARASSHOP KE BUKA",
+      "size": 166,
+      "approval": true
     },
     "Lpuj0EHUA5v4n921KdIWuJ": {
-      "status": "new",
-      "time": 1791649199914
+      "status": "valid",
+      "time": 1791723592884,
+      "id": "120363430725205848@g.us",
+      "name": "JB³ PARAS SHOP PROSES",
+      "size": 4,
+      "approval": true
     },
     "J072rcYB2pcCblSsg7qJGF": {
       "status": "new",
