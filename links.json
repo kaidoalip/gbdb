@@ -1237,44 +1237,69 @@
       "approval": true
     },
     "JCNZ5xUzOczA3shtmtFLI3": {
-      "status": "new",
-      "time": 1791641182156
+      "status": "valid",
+      "time": 1791723199449,
+      "id": "120363430116568439@g.us",
+      "name": "𝐅𝐓 𝐂𝐒 𝐑𝐈𝐎 𝟓𝟎𝟎𝐏-𝟓𝐤 #1",
+      "size": 37,
+      "approval": true
     },
     "LlPFImX52x5557Lh1afiDd": {
-      "status": "new",
-      "time": 1791641182156
+      "status": "error",
+      "time": 1791723202586,
+      "err": "bad-request"
     },
     "FXjYvFQIDNQ6IDUs2l2rbM": {
-      "status": "new",
-      "time": 1791641329757
+      "status": "expired",
+      "time": 1791723205538
     },
     "KMB9YzMnHRfJVEnWlot6cS": {
-      "status": "new",
-      "time": 1791641429734
+      "status": "expired",
+      "time": 1791723208149
     },
     "LGqBLyEOPmH21XaKB3dHd8": {
-      "status": "new",
-      "time": 1791641480456
+      "status": "valid",
+      "time": 1791723212361,
+      "id": "120363412648473361@g.us",
+      "name": "JB |Moell15 Sture (blom ada logo)",
+      "size": 19,
+      "approval": true
     },
     "HlOafCkPUJ08pUKpkuJ54F": {
-      "status": "new",
-      "time": 1791641691518
+      "status": "valid",
+      "time": 1791723216792,
+      "id": "120363411956235966@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗨𝗧𝗔𝗠𝗔 𝗙𝗘𝗡 🥷",
+      "size": 151,
+      "approval": true
     },
     "E83nqOSaP5dCkNzpBrjZ9E": {
-      "status": "new",
-      "time": 1791641691518
+      "status": "valid",
+      "time": 1791723219556,
+      "id": "120363430328024523@g.us",
+      "name": "JB ALLGAME FEBZZ STORE💸💸",
+      "size": 3,
+      "approval": true
     },
     "GeaPdVBVIHlHN1KhXJN7ZU": {
-      "status": "new",
-      "time": 1791641691518
+      "status": "expired",
+      "time": 1791723222393
     },
     "BvelAKtUm7B51XFGE4sce5": {
-      "status": "new",
-      "time": 1791641729648
+      "status": "valid",
+      "time": 1791723226493,
+      "id": "120363407802349686@g.us",
+      "name": "SAE/RAP | KAKZSTORE V1",
+      "size": 171,
+      "approval": true
     },
     "B4yJL4pN4vdASKKw9BWLos": {
-      "status": "new",
-      "time": 1791641790940
+      "status": "valid",
+      "time": 1791723230979,
+      "id": "120363404436726688@g.us",
+      "name": "𝐓𝐈𝐆𝐄𝐑𝐒𝐓𝐎𝐑𝐄",
+      "size": 395,
+      "approval": true
     },
     "EJf08TF5rkwFkrh4jLPnUA": {
       "status": "new",
