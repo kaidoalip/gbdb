@@ -1488,44 +1488,72 @@
       "approval": true
     },
     "IEVt7mIyqFD5e1tNURPIn9": {
-      "status": "new",
-      "time": 1791644323450
+      "status": "valid",
+      "time": 1791723348211,
+      "id": "120363414366117446@g.us",
+      "name": "GB |3| NAN SETOR",
+      "size": 3,
+      "approval": true
     },
     "EVMcjpzoNhF6zs7G48WGHm": {
-      "status": "new",
-      "time": 1791644323450
+      "status": "valid",
+      "time": 1791723351398,
+      "id": "120363431776139908@g.us",
+      "name": "GB |4| NAN SETOR",
+      "size": 3,
+      "approval": true
     },
     "HnNBYaK2eeyEyklsd2N338": {
-      "status": "new",
-      "time": 1791644404290
+      "status": "expired",
+      "time": 1791723353896
     },
     "Dxm11Pm3cB9B3JdxqNPKKh": {
-      "status": "new",
-      "time": 1791644404290
+      "status": "valid",
+      "time": 1791723358217,
+      "id": "120363430259067688@g.us",
+      "name": "FJB ALL GAME",
+      "size": 39,
+      "approval": true
     },
     "FXV1vyJr6RJ8pBh3Bguij5": {
-      "status": "new",
-      "time": 1791644404290
+      "status": "valid",
+      "time": 1791723360840,
+      "id": "120363411261973314@g.us",
+      "name": "BEBAS SHARE",
+      "size": 12,
+      "approval": true
     },
     "BL9Hk0bcpKd3AUKRt2BVIN": {
-      "status": "new",
-      "time": 1791644417663
+      "status": "expired",
+      "time": 1791723365027
     },
     "JwZSVoo3rTu1SFYWyjG3uR": {
-      "status": "new",
-      "time": 1791644476734
+      "status": "expired",
+      "time": 1791723369232
     },
     "GKTOY654XlN0rDtMrwuZyK": {
-      "status": "new",
-      "time": 1791644600324
+      "status": "valid",
+      "time": 1791723371926,
+      "id": "120363410742059329@g.us",
+      "name": "𝗝𝗕¹ 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗗𝗥𝗔𝗡𝗭𝗭 𝗦𝗧𝗢𝗥𝗘",
+      "size": 32,
+      "approval": false
     },
     "F36uoL06FnA29qpYhbLcW1": {
-      "status": "new",
-      "time": 1791644600324
+      "status": "valid",
+      "time": 1791723376203,
+      "id": "120363431735518603@g.us",
+      "name": "𝗝𝗕² 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗗𝗥𝗔𝗡𝗭𝗭 𝗦𝗧𝗢𝗥𝗘",
+      "size": 17,
+      "approval": true
     },
     "HdG7pTtWOlw1YqKtjca9ry": {
-      "status": "new",
-      "time": 1791644600324
+      "status": "valid",
+      "time": 1791723378926,
+      "id": "120363410535206923@g.us",
+      "name": "𝗝𝗕³ 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗗𝗥𝗔𝗡𝗭𝗭 𝗦𝗧𝗢𝗥𝗘",
+      "size": 9,
+      "approval": true
     },
     "JhgXV1H0vUsBy8m39FaAX1": {
       "status": "new",
