@@ -2122,44 +2122,77 @@
       "approval": true
     },
     "CQ8Ajf4BWS8IWyTrlp4v8l": {
-      "status": "new",
-      "time": 1791654363058
+      "status": "valid",
+      "time": 1791723673561,
+      "id": "120363023712864613@g.us",
+      "name": "𝐓𝐎𝐏 𝐔𝐏 𝐆𝐀𝐌𝐄 || 𝐌𝐈𝐍𝐏𝐒𝐓𝐎𝐑𝐄",
+      "size": 69,
+      "approval": false
     },
     "CasFZyD9Z3q4eOFSLN3QNx": {
-      "status": "new",
-      "time": 1791654502161
+      "status": "valid",
+      "time": 1791723677893,
+      "id": "120363431542415293@g.us",
+      "name": "GB FT || RIJWARSTR X CALZZ",
+      "size": 27,
+      "approval": false
     },
     "FiMCZRaobxB8lUg8F4aZR5": {
-      "status": "new",
-      "time": 1791654502161
+      "status": "valid",
+      "time": 1791723681975,
+      "id": "120363431102498685@g.us",
+      "name": "JB ALLGME 148",
+      "size": 20,
+      "approval": true
     },
     "J9e1YqKUTW88WfLcC3SxBt": {
-      "status": "new",
-      "time": 1791654502161
+      "status": "valid",
+      "time": 1791723684799,
+      "id": "120363428914562110@g.us",
+      "name": "JB ALLGME 144",
+      "size": 13,
+      "approval": false
     },
     "GGpUNC2s5sV1SmUsYzvmfb": {
-      "status": "new",
-      "time": 1791654502161
+      "status": "valid",
+      "time": 1791723688928,
+      "id": "120363409447074238@g.us",
+      "name": "JB ALLGME 145",
+      "size": 15,
+      "approval": false
     },
     "H944bOoCkTjIrEbJqejxsJ": {
-      "status": "new",
-      "time": 1791654704318
+      "status": "valid",
+      "time": 1791723692240,
+      "id": "120363430304478534@g.us",
+      "name": "GB FT CS BY FARZZX",
+      "size": 85,
+      "approval": false
     },
     "Dzao7S6lM5LFAq7pug1lJ8": {
-      "status": "new",
-      "time": 1791655606290
+      "status": "error",
+      "time": 1791723695303,
+      "err": "bad-request"
     },
     "HANJaIWDB6m4gUDhf61Ie5": {
-      "status": "new",
-      "time": 1791656704651
+      "status": "valid",
+      "time": 1791723699500,
+      "id": "120363431717330754@g.us",
+      "name": "PT/JB SMURF KYY v2",
+      "size": 255,
+      "approval": true
     },
     "G9FBudbHLDZ2u4ARMDZqbX": {
-      "status": "new",
-      "time": 1791656704651
+      "status": "valid",
+      "time": 1791723702536,
+      "id": "120363412241880719@g.us",
+      "name": "PT/JB SMURF BY FERRSZY #1",
+      "size": 555,
+      "approval": true
     },
     "CHfUeN5PAYmCk9IHGLVipU": {
-      "status": "new",
-      "time": 1791667318609
+      "status": "expired",
+      "time": 1791723705520
     },
     "EE2wAodfc8tJHipBO7zArc": {
       "status": "new",
