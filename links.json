@@ -2009,44 +2009,65 @@
       "approval": true
     },
     "J072rcYB2pcCblSsg7qJGF": {
-      "status": "new",
-      "time": 1791649363704
+      "status": "expired",
+      "time": 1791723598726
     },
     "B9JdLWeYMSqCSj8oKT2e2V": {
-      "status": "new",
-      "time": 1791649571106
+      "status": "expired",
+      "time": 1791723602087
     },
     "I4COLXwO8yB4jpUjN84rdH": {
-      "status": "new",
-      "time": 1791649966714
+      "status": "expired",
+      "time": 1791723606087
     },
     "BhrAROFw2h07HhXPu5S7fP": {
-      "status": "new",
-      "time": 1791649966714
+      "status": "error",
+      "time": 1791723608717,
+      "err": "bad-request"
     },
     "EQujwTqY8u80HZA8MGFFZb": {
-      "status": "new",
-      "time": 1791650354021
+      "status": "valid",
+      "time": 1791723613179,
+      "id": "120363411997475937@g.us",
+      "name": "𝑮𝑩 𝑱𝑼𝑨𝑳 𝑩𝑬𝑳𝑰 𝑨𝑲𝑼𝑵 𝑹𝑶𝑩𝑳𝑶𝑿#𝟏",
+      "size": 42,
+      "approval": true
     },
     "Ih6mGJ6dlQqLGY0qcIQr0V": {
-      "status": "new",
-      "time": 1791650376711
+      "status": "valid",
+      "time": 1791723615933,
+      "id": "120363430746007282@g.us",
+      "name": "__JB¹ | CARLOS STORE 🛒__",
+      "size": 62,
+      "approval": false
     },
     "J52XJaT3BPEIfrJ0X4UUgA": {
-      "status": "new",
-      "time": 1791650852959
+      "status": "expired",
+      "time": 1791723619193
     },
     "FAQDJ95eL0A7nEHxomeOi2": {
-      "status": "new",
-      "time": 1791651355467
+      "status": "valid",
+      "time": 1791723622535,
+      "id": "120363427501253331@g.us",
+      "name": "𝙅𝘽² || 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 𝘽𝙇𝙀𝙕𝙕 𝙎𝙏𝙊𝙍𝙀 𝙆𝙇𝘼𝙏𝙀𝙉",
+      "size": 165,
+      "approval": true
     },
     "JYbhlWzvmBgBs8y0KAD5iL": {
-      "status": "new",
-      "time": 1791651444579
+      "status": "valid",
+      "time": 1791723626969,
+      "id": "120363412526682033@g.us",
+      "name": "JB ALL GAME ROBLOX BY TYPO X OWN",
+      "size": 160,
+      "approval": true
     },
     "LnUAnaXyhPG4PVxtPzxRKO": {
-      "status": "new",
-      "time": 1791651703910
+      "status": "valid",
+      "time": 1791723630838,
+      "id": "120363423085632784@g.us",
+      "name": "𝗚𝗥𝗨𝗣 𝗝𝗕¹ 𝗔𝗡𝗗𝗥𝗘𝗔 𝗦𝗧𝗢𝗥𝗘",
+      "size": 637,
+      "approval": true
     },
     "IqPtvqGxDI59slvo7teoTj": {
       "status": "new",
