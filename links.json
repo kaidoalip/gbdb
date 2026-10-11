@@ -2332,44 +2332,69 @@
       "time": 1791723782132
     },
     "G3sqQscpsVz7seWqjpOKkG": {
-      "status": "new",
-      "time": 1791674739451
+      "status": "valid",
+      "time": 1791723787786,
+      "id": "120363427126452334@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗡𝗜𝗔𝗔 𝗦𝗧𝗢𝗥𝗘",
+      "size": 831,
+      "approval": true
     },
     "LUmk9tb0sEh1k0jLhf9BWI": {
-      "status": "new",
-      "time": 1791674739451
+      "status": "valid",
+      "time": 1791723790970,
+      "id": "120363425032527812@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗡𝗜𝗔𝗔 𝗦𝗧𝗢𝗥𝗘",
+      "size": 441,
+      "approval": true
     },
     "G1iU29ICWBNLheAbpjBDQy": {
-      "status": "new",
-      "time": 1791674739451
+      "status": "valid",
+      "time": 1791723794528,
+      "id": "120363410209839606@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗡𝗜𝗔𝗔 𝗦𝗧𝗢𝗥𝗘 𝗩𝟭",
+      "size": 254,
+      "approval": true
     },
     "HaiM1oPZSMJ9bxJKnj9lIW": {
-      "status": "new",
-      "time": 1791674739451
+      "status": "valid",
+      "time": 1791723797980,
+      "id": "120363428530587350@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗡𝗜𝗔𝗔 𝗦𝗧𝗢𝗥𝗘 𝗩𝟮",
+      "size": 157,
+      "approval": true
     },
     "I7mYwbebc8T9628vZ1zSlH": {
-      "status": "new",
-      "time": 1791674836824
+      "status": "valid",
+      "time": 1791723802279,
+      "id": "120363424852292238@g.us",
+      "name": "JB¹ ll DUKZZ NEWW",
+      "size": 338,
+      "approval": true
     },
     "Hy6Bqz2zOQ9HS7ACvBb4D2": {
-      "status": "new",
-      "time": 1791674836824
+      "status": "error",
+      "time": 1791723805434,
+      "err": "bad-request"
     },
     "Bg730hZ7TAy4zImdPzXacl": {
-      "status": "new",
-      "time": 1791675208890
+      "status": "expired",
+      "time": 1791723808588
     },
     "Keq0x33iIK09WHhIySKcNN": {
-      "status": "new",
-      "time": 1791675563135
+      "status": "expired",
+      "time": 1791723812048
     },
     "DiTwkP5Mzbg6PxbVAwGPI0": {
-      "status": "new",
-      "time": 1791675563135
+      "status": "valid",
+      "time": 1791723816544,
+      "id": "120363431816494710@g.us",
+      "name": "AllGAME LUTHFISTORE",
+      "size": 5,
+      "approval": true
     },
     "B4tRbHernQbCM8qlPFqCvN": {
-      "status": "new",
-      "time": 1791676295079
+      "status": "expired",
+      "time": 1791723819216
     },
     "FkELjRbkbNr3uWwidRc8O3": {
       "status": "new",
