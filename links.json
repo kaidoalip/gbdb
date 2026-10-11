@@ -1701,44 +1701,80 @@
       "approval": false
     },
     "DOqbIeNcYOl1FoF63Ew4y3": {
-      "status": "new",
-      "time": 1791646679642
+      "status": "expired",
+      "time": 1791723453797
     },
     "LltcfgDiLvCLCtTShi22u3": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723456563,
+      "id": "120363403020528603@g.us",
+      "name": "𝗣𝗔𝗦𝗔𝗥 𝗙𝗙 𝗩𝟭 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜 🗿",
+      "size": 1003,
+      "approval": true
     },
     "EDUwToC73DB6rHPxSH7HlO": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723460396,
+      "id": "120363405091951049@g.us",
+      "name": "𝗣𝗔𝗦𝗔𝗥 𝗙𝗙 𝗩𝟮 𝗖𝗛𝗥𝗜𝗦𝗭 𝗫 𝗟𝗘𝗩𝗜 🗿",
+      "size": 412,
+      "approval": true
     },
     "H2qZx20jzkhKlb0CtXxUke": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723463808,
+      "id": "120363412447845752@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝟭 𝗕𝗚 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜 𝗔𝗦𝗟𝗜𝗘 [ OTW 200 MEMBER -3 🥵 ]",
+      "size": 3,
+      "approval": true
     },
     "Kn2AjLgtAELGBLsWvJlRK3": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723466902,
+      "id": "120363429944824097@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝟮 𝗕𝗚 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜 𝗔𝗦𝗟𝗜𝗘",
+      "size": 3,
+      "approval": true
     },
     "HE3qaholz0Q3sLyoytYsJ5": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723469593,
+      "id": "120363404807602452@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝟯 𝗕𝗚 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜 𝗔𝗦𝗟𝗜𝗘",
+      "size": 11,
+      "approval": true
     },
     "LtWqdrIl4TJDtQcDILOOJo": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723472108,
+      "id": "120363427338461935@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝟰 𝗕𝗚 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜 𝗔𝗦𝗟𝗜𝗘",
+      "size": 12,
+      "approval": true
     },
     "DtZOZf1uxO1KI36doiA2Nr": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723476234,
+      "id": "120363408214213093@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝟱 𝗕𝗚 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜 𝗔𝗦𝗟𝗜𝗘",
+      "size": 24,
+      "approval": true
     },
     "IF9RMYI5qYG8HaXjh2SrTV": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723479738,
+      "id": "120363426773782674@g.us",
+      "name": "𝗝𝗕 𝗧𝗘𝗥𝗕𝗨𝗞𝗔 𝗩𝟭 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜",
+      "size": 322,
+      "approval": true
     },
     "EHMMMzcFCRn0UrvkUDtknC": {
-      "status": "new",
-      "time": 1791646703517
+      "status": "valid",
+      "time": 1791723482545,
+      "id": "120363403447462459@g.us",
+      "name": "𝗝𝗕 𝗧𝗘𝗥𝗕𝗨𝗞𝗔 𝗩𝟮 𝗖𝗛𝗥𝗜𝗦𝗭𝗭 𝗫 𝗟𝗘𝗩𝗜",
+      "size": 72,
+      "approval": true
     },
     "Ee2HdJv7oIhBHw61r1s2zy": {
       "status": "new",
