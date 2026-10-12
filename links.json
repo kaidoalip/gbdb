@@ -4355,32 +4355,56 @@
       "approval": false
     },
     "LIHLG27ey479czPMi6nU5W": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "valid",
+      "time": 1791808333964,
+      "id": "120363419558391632@g.us",
+      "name": "GC STOK RESS KAD 2",
+      "size": 371,
+      "approval": false
     },
     "LqamddZYvfEFKHaw2KCKl1": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "valid",
+      "time": 1791808337253,
+      "id": "120363409673702960@g.us",
+      "name": "GC STOK RESS KAD 3",
+      "size": 327,
+      "approval": false
     },
     "Gk7586HOiiJEE96ehBXbk1": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "valid",
+      "time": 1791808340525,
+      "id": "120363424494953423@g.us",
+      "name": "GC STOK RESS KAD 4",
+      "size": 267,
+      "approval": false
     },
     "FTcNJeDOwJk1KBpESCnZQL": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "valid",
+      "time": 1791808343793,
+      "id": "120363426314375083@g.us",
+      "name": "GC STOK RESS KAD 5",
+      "size": 208,
+      "approval": false
     },
     "BjeuseTz4ijCkf3GUUm5Uv": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "valid",
+      "time": 1791808347772,
+      "id": "120363405549163569@g.us",
+      "name": "GC STOK RESS KAD 6",
+      "size": 141,
+      "approval": false
     },
     "Ice3xyBBLbh9unWhXXs4l3": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "valid",
+      "time": 1791808351688,
+      "id": "120363429736826334@g.us",
+      "name": "GB STOK DIL JB x PERGAM #1",
+      "size": 375,
+      "approval": false
     },
     "L3L7EtKMMyQ9CRnJseAHSh": {
-      "status": "new",
-      "time": 1791808064821
+      "status": "expired",
+      "time": 1791808354783
     }
   }
 }
