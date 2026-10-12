@@ -3240,17 +3240,17 @@
     },
     "CIOnVxhyU4zHCImQlIB6iN": {
       "status": "error",
-      "time": 1791800219371,
+      "time": 1791800231563,
       "err": "bad-request"
     },
     "BkTtDSxniklAch1r1KJCte": {
       "status": "error",
-      "time": 1791800222087,
+      "time": 1791800235520,
       "err": "bad-request"
     },
     "CQkkkxICjmQ3fKPQcwNk4r": {
       "status": "error",
-      "time": 1791800225932,
+      "time": 1791800239167,
       "err": "bad-request"
     },
     "CMWUeLJRMD9H7don8CxrCz": {
@@ -3323,12 +3323,12 @@
     },
     "H80gLeANBA1HUXAhzzcClw": {
       "status": "error",
-      "time": 1791800228574,
+      "time": 1791800243391,
       "err": "bad-request"
     },
     "I7fRi4a6rYdJpUE9h75BdC": {
       "status": "valid",
-      "time": 1791800232597,
+      "time": 1791800246600,
       "id": "120363414427511646@g.us",
       "name": "STOK NEW ZIOO STR",
       "size": 2,
@@ -3336,11 +3336,11 @@
     },
     "I7Y90CqxMQs7GvbZ05IpMb": {
       "status": "expired",
-      "time": 1791800236014
+      "time": 1791800249114
     },
     "Iq6HXC2eABN5oIQIPghyFh": {
       "status": "valid",
-      "time": 1791800238694,
+      "time": 1791800252771,
       "id": "120363410452156865@g.us",
       "name": "JB¹ ALL GAME || SULL STORE",
       "size": 13,
@@ -3348,15 +3348,15 @@
     },
     "FkLDcxXMOFA08FjV7XXkfz": {
       "status": "valid",
-      "time": 1791800241933,
+      "time": 1791800256841,
       "id": "120363431434841792@g.us",
       "name": "FT CEES 500P-3K BY PINZ X PANZ #1(proses)",
-      "size": 100,
+      "size": 97,
       "approval": true
     },
     "JKQ6BIFSHvjHyMz98uz3Ml": {
       "status": "valid",
-      "time": 1791800246298,
+      "time": 1791800259965,
       "id": "120363432747813597@g.us",
       "name": "FT CS 500P-5K BY ALEX[PROSES]",
       "size": 89,
@@ -3364,7 +3364,7 @@
     },
     "LZdR4XnPosP3nIqN1xbQfY": {
       "status": "valid",
-      "time": 1791800250581,
+      "time": 1791800262464,
       "id": "120363428497036239@g.us",
       "name": "PROJECT CUAN",
       "size": 19,
