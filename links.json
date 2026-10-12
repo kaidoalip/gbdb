@@ -3166,44 +3166,81 @@
       "approval": true
     },
     "CgWYFPtuAAN5clRnJVkGWd": {
-      "status": "new",
-      "time": 1791724928922
+      "status": "valid",
+      "time": 1791779738425,
+      "id": "120363406377965050@g.us",
+      "name": "JB ALL GAME MAMAS STORE",
+      "size": 246,
+      "approval": true
     },
     "Iyghel1YYha85MVPzehaHs": {
-      "status": "new",
-      "time": 1791725048572
+      "status": "valid",
+      "time": 1791779743896,
+      "id": "120363426673570514@g.us",
+      "name": "JB || ALL GAME || BY RANZZ & REXSTORE#proses",
+      "size": 196,
+      "approval": true
     },
     "HPY5McQaX9iDCGQWZc4WBP": {
-      "status": "new",
-      "time": 1791725169104
+      "status": "valid",
+      "time": 1791779748046,
+      "id": "120363427663118705@g.us",
+      "name": "BATTLE OF SQUARE  S15 (Open)",
+      "size": 181,
+      "approval": true
     },
     "G1C8hUt0Hd64XmjyhiEDxC": {
-      "status": "new",
-      "time": 1791726008581
+      "status": "valid",
+      "time": 1791779751839,
+      "id": "120363431106074720@g.us",
+      "name": "GB² || ALL GAME BY REXSTORE",
+      "size": 57,
+      "approval": true
     },
     "CAYIazTXMcq82Iup0Q11ap": {
-      "status": "new",
-      "time": 1791778738371
+      "status": "valid",
+      "time": 1791779754745,
+      "id": "120363426034873255@g.us",
+      "name": "GB¹ MARKET ALL GAME ROBLOX || ZIIK STORE",
+      "size": 341,
+      "approval": false
     },
     "K7WdrQSIcKLBDWtKGfibfJ": {
-      "status": "new",
-      "time": 1791778738371
+      "status": "valid",
+      "time": 1791779757404,
+      "id": "120363409004140456@g.us",
+      "name": "GB³ ALL MAP ROBLOX || ZIIK STORE",
+      "size": 1,
+      "approval": true
     },
     "KWU0tXfxLLeEZE4NdHwsNx": {
-      "status": "new",
-      "time": 1791778898689
+      "status": "valid",
+      "time": 1791779761045,
+      "id": "120363320245213637@g.us",
+      "name": "𝙈𝘼𝙍𝙆𝙀𝙏 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀  YUKO 𝙑1👑",
+      "size": 528,
+      "approval": false
     },
     "Jo30ikUG89bCnmxuOvgsyE": {
-      "status": "new",
-      "time": 1791778898689
+      "status": "valid",
+      "time": 1791779763741,
+      "id": "120363407082296868@g.us",
+      "name": "Yuko proses dri nol🫪",
+      "size": 36,
+      "approval": false
     },
     "E98KGMRYeCaKn96lJhJsv2": {
-      "status": "new",
-      "time": 1791778967377
+      "status": "valid",
+      "time": 1791779768653,
+      "id": "120363408655120713@g.us",
+      "name": "𝙂𝘾¹ 𝙎𝙏𝙊𝙆𝙍𝙀𝙎𝙎 𝙆𝘼𝙔𝙕𝙕𝙔𝙈𝟰𝙍𝙆𝟯𝙏",
+      "size": 197,
+      "approval": true
     },
     "CIOnVxhyU4zHCImQlIB6iN": {
-      "status": "new",
-      "time": 1791778967377
+      "status": "error",
+      "time": 1791779770979,
+      "err": "bad-request"
     },
     "BkTtDSxniklAch1r1KJCte": {
       "status": "new",
