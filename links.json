@@ -1053,11 +1053,11 @@
       "err": "bad-request"
     },
     "DzM5i5OC81Z08tpc5yi2HZ": {
-      "status": "error",
-      "time": 1791800596216,
+      "status": "valid",
+      "time": 1791808130174,
       "id": "120363430465370065@g.us",
       "name": "JB¹ ALL GAME EPAN STORE",
-      "size": 25,
+      "size": 34,
       "approval": true
     },
     "FdDxlR9AgZS0TBiWSDJmg1": {
@@ -1069,11 +1069,11 @@
       "approval": true
     },
     "B6uErMu5jV6FSzD3rgOB3m": {
-      "status": "error",
-      "time": 1791800611251,
+      "status": "valid",
+      "time": 1791808134119,
       "id": "120363427644449473@g.us",
       "name": "JB STEAL AN EGG V¹",
-      "size": 52,
+      "size": 68,
       "approval": false
     },
     "HurMOKACoGF7QjrYNy9WBP": {
@@ -1086,35 +1086,38 @@
     },
     "HLin9RJh4C5GQU2EJIkeUv": {
       "status": "error",
-      "time": 1791800629305,
+      "time": 1791808137819,
       "id": "120363412736560741@g.us",
       "name": "GC STOK BYY AFUWENG #1",
       "size": 60,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "Hm9vbe38YseLuxkAzfQgGT": {
       "status": "error",
-      "time": 1791800646560,
+      "time": 1791808140221,
       "id": "120363429892031321@g.us",
       "name": "KB Kenzz [M1 ONLY] #1",
       "size": 50,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "BHRblmlXwp71LXocPVzHh4": {
-      "status": "error",
-      "time": 1791800663678,
+      "status": "valid",
+      "time": 1791808144155,
       "id": "120363426679023828@g.us",
       "name": "GB 1 ALL GAME PUJA STORE 🧢",
-      "size": 157,
+      "size": 165,
       "approval": true
     },
     "L3SYrJDd0xf35g95FlQ4K6": {
       "status": "error",
-      "time": 1791800676410,
+      "time": 1791808146906,
       "id": "120363425533894108@g.us",
       "name": "JB¹ BILZ SHOP JB×OWN  [PROSES 100MEMBER DAGET]",
       "size": 87,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "DZgLqRBs6nP67ap08bvFRA": {
       "status": "expired",
@@ -1122,35 +1125,37 @@
     },
     "Jb6TmmCpGonKyBEGPB5L5l": {
       "status": "error",
-      "time": 1791800693498,
+      "time": 1791808150899,
       "id": "120363408159601927@g.us",
       "name": "JB¹ ALL GAME BARZZ STORE",
       "size": 45,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "CbBbChaiuCP81kohcCnkD8": {
-      "status": "error",
-      "time": 1791800707111,
+      "status": "valid",
+      "time": 1791808154538,
       "id": "120363412858022006@g.us",
       "name": "𝐓𝐀𝐂𝐀 𝐒𝐓𝐑 V3",
       "size": 4,
       "approval": true
     },
     "E0HThjQhCi7GehNpPEy3aJ": {
-      "status": "error",
-      "time": 1791800722621,
+      "status": "valid",
+      "time": 1791808157029,
       "id": "120363429552090598@g.us",
       "name": "FJB | Aell and Jens",
-      "size": 5,
-      "approval": true
+      "size": 46,
+      "approval": false
     },
     "DpBZLM7gLv3BbYQEw5IWUb": {
       "status": "error",
-      "time": 1791800735310,
+      "time": 1791808159951,
       "id": "120363430022012296@g.us",
       "name": "𝐆𝐂 𝟬𝟭🎀ɞ | 𝗄𝖾𝗇𝗓𝗂𝖾𝗒𝖾̀ 𝐌𝐋𝐁𝐁",
       "size": 180,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "H9rmvzNcYBgHQHWtVqW0kn": {
       "status": "error",
