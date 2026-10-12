@@ -3240,17 +3240,17 @@
     },
     "CIOnVxhyU4zHCImQlIB6iN": {
       "status": "error",
-      "time": 1791779770979,
+      "time": 1791800219371,
       "err": "bad-request"
     },
     "BkTtDSxniklAch1r1KJCte": {
       "status": "error",
-      "time": 1791779775371,
+      "time": 1791800222087,
       "err": "bad-request"
     },
     "CQkkkxICjmQ3fKPQcwNk4r": {
       "status": "error",
-      "time": 1791779778707,
+      "time": 1791800225932,
       "err": "bad-request"
     },
     "CMWUeLJRMD9H7don8CxrCz": {
@@ -3323,32 +3323,52 @@
     },
     "H80gLeANBA1HUXAhzzcClw": {
       "status": "error",
-      "time": 1791779816509,
+      "time": 1791800228574,
       "err": "bad-request"
     },
     "I7fRi4a6rYdJpUE9h75BdC": {
-      "status": "new",
-      "time": 1791782913683
+      "status": "valid",
+      "time": 1791800232597,
+      "id": "120363414427511646@g.us",
+      "name": "STOK NEW ZIOO STR",
+      "size": 2,
+      "approval": true
     },
     "I7Y90CqxMQs7GvbZ05IpMb": {
-      "status": "new",
-      "time": 1791782913683
+      "status": "expired",
+      "time": 1791800236014
     },
     "Iq6HXC2eABN5oIQIPghyFh": {
-      "status": "new",
-      "time": 1791782913683
+      "status": "valid",
+      "time": 1791800238694,
+      "id": "120363410452156865@g.us",
+      "name": "JB¹ ALL GAME || SULL STORE",
+      "size": 13,
+      "approval": true
     },
     "FkLDcxXMOFA08FjV7XXkfz": {
-      "status": "new",
-      "time": 1791782913683
+      "status": "valid",
+      "time": 1791800241933,
+      "id": "120363431434841792@g.us",
+      "name": "FT CEES 500P-3K BY PINZ X PANZ #1(proses)",
+      "size": 100,
+      "approval": true
     },
     "JKQ6BIFSHvjHyMz98uz3Ml": {
-      "status": "new",
-      "time": 1791782913683
+      "status": "valid",
+      "time": 1791800246298,
+      "id": "120363432747813597@g.us",
+      "name": "FT CS 500P-5K BY ALEX[PROSES]",
+      "size": 89,
+      "approval": true
     },
     "LZdR4XnPosP3nIqN1xbQfY": {
-      "status": "new",
-      "time": 1791782913683
+      "status": "valid",
+      "time": 1791800250581,
+      "id": "120363428497036239@g.us",
+      "name": "PROJECT CUAN",
+      "size": 19,
+      "approval": false
     },
     "DlS3wKkBJQz2OoWXvLzaN7": {
       "status": "new",
