@@ -3243,44 +3243,74 @@
       "err": "bad-request"
     },
     "BkTtDSxniklAch1r1KJCte": {
-      "status": "new",
-      "time": 1791778967377
+      "status": "error",
+      "time": 1791779775371,
+      "err": "bad-request"
     },
     "CQkkkxICjmQ3fKPQcwNk4r": {
-      "status": "new",
-      "time": 1791778967377
+      "status": "error",
+      "time": 1791779778707,
+      "err": "bad-request"
     },
     "CMWUeLJRMD9H7don8CxrCz": {
-      "status": "new",
-      "time": 1791779045981
+      "status": "valid",
+      "time": 1791779781377,
+      "id": "120363429369838258@g.us",
+      "name": "💫𝙂𝘽 𝙅𝘽 𝘼𝙍𝘼𝙍 𝙎𝙏𝙍𝙍𝙍 𝙎𝙏𝙊𝙆𝙆𝙆 𝙍𝙀𝙎𝙎𝙎𝙎🚀",
+      "size": 128,
+      "approval": false
     },
     "KzvmuJP3pMiDNKPV1BnJJe": {
-      "status": "new",
-      "time": 1791779081603
+      "status": "valid",
+      "time": 1791779784122,
+      "id": "120363428895561962@g.us",
+      "name": "Gaksa - Jual Beli Seindonesia",
+      "size": 6,
+      "approval": false
     },
     "JXThGGDTC6zAavQg42KFSw": {
-      "status": "new",
-      "time": 1791779104612
+      "status": "valid",
+      "time": 1791779787826,
+      "id": "120363412191438117@g.us",
+      "name": "JB HAYATO STORE🇮🇩🇵🇸",
+      "size": 53,
+      "approval": false
     },
     "KGguMaVjDHqL6thwkUV4Pb": {
-      "status": "new",
-      "time": 1791779135795
+      "status": "valid",
+      "time": 1791779791094,
+      "id": "120363432082619272@g.us",
+      "name": "MARKET ROBLOX || ALL GEME || VAR STORE",
+      "size": 10,
+      "approval": true
     },
     "G9wASVOwlFsImOuKMiZ7k6": {
-      "status": "new",
-      "time": 1791779150814
+      "status": "expired",
+      "time": 1791779794578
     },
     "DbK2OCjwqSz0mA3h6CGsbD": {
-      "status": "new",
-      "time": 1791779182380
+      "status": "valid",
+      "time": 1791779798675,
+      "id": "120363377844208031@g.us",
+      "name": "𝐉𝐁¹ || 𝐀𝐋𝐃𝐎𝐍𝐄𝐒𝐈𝐀 ✅",
+      "size": 32,
+      "approval": true
     },
     "JfeYy7FFBHzCviyhdCYqch": {
-      "status": "new",
-      "time": 1791779379662
+      "status": "valid",
+      "time": 1791779802542,
+      "id": "120363411430440840@g.us",
+      "name": "𝙅𝘽¹ 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 || 𝙄𝙔𝙊𝙓𝙕𝙍 𝙎𝙏𝙐𝙍",
+      "size": 21,
+      "approval": false
     },
     "JGefRIfUbppCGcsMbLnZuJ": {
-      "status": "new",
-      "time": 1791779379662
+      "status": "valid",
+      "time": 1791779806239,
+      "id": "120363411148247898@g.us",
+      "name": "𝙅𝘽² 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 || 𝙄𝙔𝙊𝙓𝙕𝙍 𝙎𝙏𝙐𝙍",
+      "size": 3,
+      "approval": false
     },
     "CmZD01EiGNLAqmfZLeO38b": {
       "status": "new",
