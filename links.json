@@ -1246,7 +1246,7 @@
     },
     "LlPFImX52x5557Lh1afiDd": {
       "status": "error",
-      "time": 1791723202586,
+      "time": 1791779538084,
       "err": "bad-request"
     },
     "FXjYvFQIDNQ6IDUs2l2rbM": {
@@ -1423,7 +1423,7 @@
     },
     "J5Rbqz8u8jGDvzUBbqzRSH": {
       "status": "error",
-      "time": 1791723310183,
+      "time": 1791779541327,
       "err": "bad-request"
     },
     "C5JfPszbQYb5vHY7CjED7j": {
@@ -1456,7 +1456,7 @@
     },
     "HiIg3uvWHfvD90Sb73YiyJ": {
       "status": "error",
-      "time": 1791723328640,
+      "time": 1791779544153,
       "err": "bad-request"
     },
     "GKfbxb9aGg9GDvANzGyO3S": {
@@ -1573,7 +1573,7 @@
     },
     "K2TgAUSyGLeJwEs1TH3BLS": {
       "status": "error",
-      "time": 1791723392877,
+      "time": 1791779547874,
       "err": "bad-request"
     },
     "DO0UkfYJqYYEfoObrpNu6z": {
@@ -2022,7 +2022,7 @@
     },
     "BhrAROFw2h07HhXPu5S7fP": {
       "status": "error",
-      "time": 1791723608717,
+      "time": 1791779551400,
       "err": "bad-request"
     },
     "EQujwTqY8u80HZA8MGFFZb": {
@@ -2171,7 +2171,7 @@
     },
     "Dzao7S6lM5LFAq7pug1lJ8": {
       "status": "error",
-      "time": 1791723695303,
+      "time": 1791779555172,
       "err": "bad-request"
     },
     "HANJaIWDB6m4gUDhf61Ie5": {
@@ -2308,7 +2308,7 @@
     },
     "Blrql2KgYBU4bLqK08Rl4N": {
       "status": "error",
-      "time": 1791723770450,
+      "time": 1791779559355,
       "err": "bad-request"
     },
     "BXtkBrA1qNU2TzDAp5i4AX": {
@@ -2373,7 +2373,7 @@
     },
     "Hy6Bqz2zOQ9HS7ACvBb4D2": {
       "status": "error",
-      "time": 1791723805434,
+      "time": 1791779563564,
       "err": "bad-request"
     },
     "Bg730hZ7TAy4zImdPzXacl": {
@@ -2849,12 +2849,17 @@
       "approval": true
     },
     "BtGzNeXbseHEJBU0SHkS2H": {
-      "status": "new",
-      "time": 1791722287400
+      "status": "error",
+      "time": 1791779567258,
+      "err": "bad-request"
     },
     "KGi4daMMOO8C96vVLRrBG3": {
-      "status": "new",
-      "time": 1791722409431
+      "status": "valid",
+      "time": 1791779570215,
+      "id": "120363432481651825@g.us",
+      "name": "BATTLE OF HIGHLORDS(OPEN)",
+      "size": 17,
+      "approval": false
     },
     "C9PI5iqMGKmJos9ipxo7GT": {
       "status": "new",
