@@ -3313,12 +3313,17 @@
       "approval": false
     },
     "CmZD01EiGNLAqmfZLeO38b": {
-      "status": "new",
-      "time": 1791779397303
+      "status": "valid",
+      "time": 1791779813583,
+      "id": "120363428351392511@g.us",
+      "name": "JB||RDZZSTORE|3",
+      "size": 36,
+      "approval": true
     },
     "H80gLeANBA1HUXAhzzcClw": {
-      "status": "new",
-      "time": 1791779462240
+      "status": "error",
+      "time": 1791779816509,
+      "err": "bad-request"
     }
   }
 }
