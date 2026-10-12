@@ -4037,7 +4037,7 @@
     },
     "DNFvDCx3kEtGw9zBCL2HcH": {
       "status": "valid",
-      "time": 1791800578992,
+      "time": 1791800605795,
       "id": "120363430504714901@g.us",
       "name": "Jb¹ ||  NENZZ STR # 💸",
       "size": 2,
@@ -4045,7 +4045,7 @@
     },
     "Cklir9vIZsa3EXpP0iJA69": {
       "status": "valid",
-      "time": 1791800582868,
+      "time": 1791800609248,
       "id": "120363429696584767@g.us",
       "name": "𝗚𝗕 𝗝𝗕 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗗𝗔𝗣𝗜 𝗦𝗧𝗥²",
       "size": 9,
@@ -4053,31 +4053,55 @@
     },
     "CDcTDiOOSgo4hQfpsf3mGh": {
       "status": "expired",
-      "time": 1791800586578
+      "time": 1791800612678
     },
     "BZZ4N23YKL65qteglhGznP": {
-      "status": "new",
-      "time": 1791800123917
+      "status": "valid",
+      "time": 1791800616740,
+      "id": "120363424940174309@g.us",
+      "name": "GC STOCK 04 || RAPS STORE REGION INDONESIA",
+      "size": 269,
+      "approval": true
     },
     "KY3msS8bb0ULY0f8FfBq46": {
-      "status": "new",
-      "time": 1791800123917
+      "status": "valid",
+      "time": 1791800620796,
+      "id": "120363413979544438@g.us",
+      "name": "𝗔𝗥𝗘𝗔 𝗨𝗧𝗔𝗠𝗔 𝗭𝗶𝗶𝘁𝗺𝘃𝗮𝗻",
+      "size": 10,
+      "approval": true
     },
     "IV8JZ3a1rRCKHUQZThg8Jc": {
-      "status": "new",
-      "time": 1791800123917
+      "status": "valid",
+      "time": 1791800623623,
+      "id": "120363429229395911@g.us",
+      "name": "GB FT CS 500P-3K BY LANG",
+      "size": 60,
+      "approval": true
     },
     "IeonITK64XiLMgJQ3d8qwR": {
-      "status": "new",
-      "time": 1791800123917
+      "status": "valid",
+      "time": 1791800626812,
+      "id": "120363431422519019@g.us",
+      "name": "FT CS TOKE #2👑🔥",
+      "size": 258,
+      "approval": false
     },
     "JDH10KerQVU1knUzJYR3ne": {
-      "status": "new",
-      "time": 1791800123917
+      "status": "valid",
+      "time": 1791800629413,
+      "id": "120363415201827298@g.us",
+      "name": "GB JB ALL GAME FAQIH NOPE UTAMA 02🫡👊",
+      "size": 45,
+      "approval": true
     },
     "DcW64ezMSQj05r3OpKLDbS": {
-      "status": "new",
-      "time": 1791800123917
+      "status": "valid",
+      "time": 1791800633468,
+      "id": "120363431972993977@g.us",
+      "name": "GB MAVEUS NO BELAKANG ATMIN {7440} SELAIN ITU CLONE!!",
+      "size": 15,
+      "approval": true
     }
   }
 }
