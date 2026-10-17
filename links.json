@@ -1,12 +1,20 @@
 {
   "links": {
     "IJ5S5HhHzRF0owJBPRtStC": {
-      "status": "new",
-      "time": 1792239994979
+      "status": "valid",
+      "time": 1792239996205,
+      "id": "120363410717279983@g.us",
+      "name": "Buy And Sell Account Cloud",
+      "size": 121,
+      "approval": false
     },
     "Ba8vGDOZWJ52hPOa4NXpOr": {
-      "status": "new",
-      "time": 1792239994979
+      "status": "valid",
+      "time": 1792240000056,
+      "id": "120363429817848801@g.us",
+      "name": "SALER'S and BUYER'S 🤝",
+      "size": 409,
+      "approval": true
     }
   }
 }
