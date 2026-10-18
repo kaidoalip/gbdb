@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792314551455,
+      "time": 1792318254882,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -370,20 +370,36 @@
       "approval": false
     },
     "DmAslaL8pGTIXQrsjItfyd": {
-      "status": "new",
-      "time": 1792315092695
+      "status": "valid",
+      "time": 1792318257783,
+      "id": "120363144939966875@g.us",
+      "name": "Free online earning",
+      "size": 463,
+      "approval": true
     },
     "KP4SZSzkSIkLcgsk3oNfSS": {
-      "status": "new",
-      "time": 1792316017201
+      "status": "valid",
+      "time": 1792318261626,
+      "id": "120363413877069384@g.us",
+      "name": "I Phone Mix Mail Buy And Sell Group (Only Admin Trusted) ❤️✅",
+      "size": 0,
+      "approval": false
     },
     "GerWJtXfvV9CC6tXIS4G4U": {
-      "status": "new",
-      "time": 1792316475203
+      "status": "valid",
+      "time": 1792318265727,
+      "id": "120363410524040409@g.us",
+      "name": "Zeeshan Tools Sell And Buy",
+      "size": 233,
+      "approval": false
     },
     "FeIr7I8cgjcKmwj4NNvRUV": {
-      "status": "new",
-      "time": 1792318118568
+      "status": "valid",
+      "time": 1792318270043,
+      "id": "120363427612714902@g.us",
+      "name": "TikTok Trade Hub\nBuy • Sell • Trade\nTrusted Deals | Professional Service",
+      "size": 27,
+      "approval": false
     }
   }
 }
