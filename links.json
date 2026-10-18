@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792313263842,
+      "time": 1792314196523,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -362,8 +362,12 @@
       "approval": true
     },
     "JpGGkuZIddV2IE02BpuKlX": {
-      "status": "new",
-      "time": 1792314176755
+      "status": "valid",
+      "time": 1792314200159,
+      "id": "120363413302171660@g.us",
+      "name": "Bor",
+      "size": 11,
+      "approval": false
     }
   }
 }
