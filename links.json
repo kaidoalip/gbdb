@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792410088687,
+      "time": 1792411598635,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -539,7 +539,7 @@
     },
     "HZOn9z6XW9OI4TUPrh55E1": {
       "status": "error",
-      "time": 1792410092642,
+      "time": 1792411601889,
       "err": "growth-locked"
     },
     "EJaSJTVA8DzJBDdW6E6Nhq": {
@@ -944,7 +944,7 @@
     },
     "GmNSH0pVFc35dNkKeOGETo": {
       "status": "error",
-      "time": 1792410095040,
+      "time": 1792411605150,
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
@@ -1064,20 +1064,36 @@
       "approval": false
     },
     "Lh2LXZ8oPtl5pHUIG5JCAZ": {
-      "status": "new",
-      "time": 1792410613659
+      "status": "valid",
+      "time": 1792411608628,
+      "id": "120363426945097472@g.us",
+      "name": "Only escrow work",
+      "size": 1006,
+      "approval": true
     },
     "I9fPTnsLJCQEFrGEtoXJH3": {
-      "status": "new",
-      "time": 1792410969766
+      "status": "valid",
+      "time": 1792411613281,
+      "id": "120363433793355130@g.us",
+      "name": "Paypal/TN/GV/ All Bank   Trested Group",
+      "size": 58,
+      "approval": false
     },
     "ENaNfZFy1zeEG1vKgJNGjw": {
-      "status": "new",
-      "time": 1792411212199
+      "status": "valid",
+      "time": 1792411617439,
+      "id": "120363424673857288@g.us",
+      "name": "GPC Buy & Sell With Saifi 🌹",
+      "size": 0,
+      "approval": false
     },
     "Ifiy7tmRhLb9ujuIHKDZgz": {
-      "status": "new",
-      "time": 1792411451760
+      "status": "valid",
+      "time": 1792411621206,
+      "id": "120363410606604402@g.us",
+      "name": "TRUSTED GMAIL BUYER✅💯",
+      "size": 863,
+      "approval": false
     }
   }
 }
