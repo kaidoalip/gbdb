@@ -948,8 +948,8 @@
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
-      "status": "valid",
-      "time": 1792400204188,
+      "status": "pending",
+      "time": 1792410443892,
       "id": "120363428338743268@g.us",
       "name": "MT103 2D&3D link IBAN CARD S2S IP2IP KTT Work",
       "size": 305,
