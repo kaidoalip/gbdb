@@ -1253,8 +1253,8 @@
       "approval": false
     },
     "FtmjNnuEjg609kCQFJiT3x": {
-      "status": "valid",
-      "time": 1792467964620,
+      "status": "pending",
+      "time": 1792468068253,
       "id": "120363406310560695@g.us",
       "name": "Accepts multiple payment methods: wire transfer, gold, cash withdrawal.",
       "size": 328,
