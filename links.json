@@ -1186,19 +1186,19 @@
       "approval": true
     },
     "BEmRxnLdkpG897WuMno0hz": {
-      "status": "joined",
-      "time": 1792414835058,
+      "status": "expired",
+      "time": 1792471590855,
       "id": "120363051261541504@g.us",
       "name": "SM Trusted Seller",
       "size": 171,
       "approval": false
     },
     "FTxJ6H015s9E47Segohveq": {
-      "status": "joined",
-      "time": 1792414852652,
+      "status": "valid",
+      "time": 1792471594446,
       "id": "120363410512249562@g.us",
       "name": "All in one tricks",
-      "size": 50,
+      "size": 102,
       "approval": false
     },
     "J8K1wdsobgkH85vl7eDPi6": {
@@ -1243,7 +1243,7 @@
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
       "status": "error",
-      "time": 1792470270775,
+      "time": 1792471596673,
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
@@ -1320,7 +1320,7 @@
     },
     "LxN9zyC7ep5GAaXaJjj6I5": {
       "status": "error",
-      "time": 1792470274020,
+      "time": 1792471600705,
       "err": "growth-locked"
     },
     "G6mFygLSf2aKZLdAzGo9ZY": {
@@ -1393,7 +1393,7 @@
     },
     "JMJFZ9bnvyuAJFLHdF0CGA": {
       "status": "error",
-      "time": 1792470277104,
+      "time": 1792471602928,
       "err": "bad-request"
     },
     "GML6iM4dPMH1H3fiMAjEEh": {
@@ -1425,20 +1425,32 @@
       "time": 1792470290847
     },
     "F4Mt1EQAnC1Amv2UPfDGY9": {
-      "status": "new",
-      "time": 1792470417043
+      "status": "expired",
+      "time": 1792471605217
     },
     "EIn4xxJ2HPIBE5Vv42RJKd": {
-      "status": "new",
-      "time": 1792470777045
+      "status": "valid",
+      "time": 1792471608866,
+      "id": "120363428931657310@g.us",
+      "name": "Tt tp tn tf gv buy sell group ❤️❤️",
+      "size": 214,
+      "approval": false
     },
     "FeJlfvQfUSUDuuYAo6z20T": {
-      "status": "new",
-      "time": 1792471137046
+      "status": "valid",
+      "time": 1792471612570,
+      "id": "120363415129532642@g.us",
+      "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
+      "size": 230,
+      "approval": false
     },
     "EIKGNvsyi4NG0z0sCxR5DW": {
-      "status": "new",
-      "time": 1792471137046
+      "status": "valid",
+      "time": 1792471615950,
+      "id": "120363429975554516@g.us",
+      "name": "🍁BANAINCE🎙️EVENT🍁 GRUP🎙️",
+      "size": 137,
+      "approval": false
     }
   }
 }
