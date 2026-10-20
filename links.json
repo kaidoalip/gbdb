@@ -41,8 +41,8 @@
       "approval": false
     },
     "K87NgQb7ccgIYXvRBrVk8G": {
-      "status": "joined",
-      "time": 1792471640620,
+      "status": "blocked",
+      "time": 1792483810485,
       "id": "120363410594790817@g.us",
       "name": "🛡️ M.UMAIS YT BUY & SELL",
       "size": 327,
@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792472551756,
+      "time": 1792483814510,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -107,7 +107,7 @@
     },
     "BR1sPyUPn1H8ncasuy5QQu": {
       "status": "error",
-      "time": 1792472554934,
+      "time": 1792483816801,
       "id": "120363415129532642@g.us",
       "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
       "size": 220,
@@ -227,8 +227,8 @@
       "approval": false
     },
     "L0rT1EBKxn4DJk2HkTZi6X": {
-      "status": "joined",
-      "time": 1792313338358,
+      "status": "blocked",
+      "time": 1792483819916,
       "id": "120363430138982635@g.us",
       "name": "🍁Orhan YT Buy &Sell🇵🇰✨️",
       "size": 282,
@@ -243,8 +243,8 @@
       "approval": false
     },
     "F2c0rjScp0jEvkkzkj0taZ": {
-      "status": "joined",
-      "time": 1792472748567,
+      "status": "valid",
+      "time": 1792483823926,
       "id": "120363431649646607@g.us",
       "name": "S_K_Trick_Zone",
       "size": 4,
@@ -348,7 +348,7 @@
     },
     "EJQCp5KUZYMAxwFdtEZBg5": {
       "status": "error",
-      "time": 1792472560469,
+      "time": 1792483827599,
       "id": "120363414508098170@g.us",
       "name": "DANNY MOBILE SOFTWARE SOLUTION",
       "size": 922,
@@ -404,8 +404,8 @@
       "approval": false
     },
     "I45aAar18Bx5fCPc1wnCy7": {
-      "status": "joined",
-      "time": 1792391341060,
+      "status": "blocked",
+      "time": 1792483831140,
       "id": "120363422499898139@g.us",
       "name": "◦•●◉🇸𝛚͢𝛆𝛆𝐭 🇶ɑ͢𝐮𝐞𝐞𝐧  𝐃𝐞𝐚𝐥𝐢𝐧𝐠 𝐙𝐨𝐧𝐞✿◉●•◦",
       "size": 420,
@@ -946,7 +946,7 @@
     },
     "GmNSH0pVFc35dNkKeOGETo": {
       "status": "error",
-      "time": 1792472661139,
+      "time": 1792483834177,
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
@@ -1023,10 +1023,10 @@
     },
     "LyIzL3yLnaU69ilCroZFYM": {
       "status": "valid",
-      "time": 1792472671313,
+      "time": 1792483837185,
       "id": "120363412269965735@g.us",
       "name": "𝐇𝐊 𝐌𝐀𝐑𝐊𝐄𝐓𝐈𝐍𝐆 𝐆𝐑𝐎𝐔𝐏",
-      "size": 106,
+      "size": 105,
       "approval": false
     },
     "FsR5s5FxoLVHah2qW7ITLF": {
@@ -1035,10 +1035,10 @@
     },
     "B5CP9S7fY5mFDizbqVdAfw": {
       "status": "valid",
-      "time": 1792472675626,
+      "time": 1792483840937,
       "id": "120363411293311602@g.us",
       "name": "Call Forwarding Portal With TFN/DID",
-      "size": 204,
+      "size": 205,
       "approval": false
     },
     "CU1rq8F5SelHdjjIWwe0Zq": {
