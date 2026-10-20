@@ -147,19 +147,19 @@
       "approval": false
     },
     "HsFjuAFFnXYDAYHlXtHWGp": {
-      "status": "joined",
-      "time": 1792306537855,
+      "status": "valid",
+      "time": 1792471351969,
       "id": "120363410924674390@g.us",
       "name": "GOOGLE PLAY CONSOLE BY - JIMMY🖤 -",
-      "size": 215,
+      "size": 217,
       "approval": false
     },
     "KwU70urDF7zBQKmvgS3zYn": {
-      "status": "joined",
-      "time": 1792306556139,
+      "status": "valid",
+      "time": 1792471355580,
       "id": "120363429095710112@g.us",
       "name": "CHINESE AND US GOUPS🇱🇷⚜️🇨🇳",
-      "size": 304,
+      "size": 312,
       "approval": false
     },
     "Ji1HWKtc4wM1LgzwGilZgZ": {
@@ -171,19 +171,19 @@
       "approval": true
     },
     "HpOC4DhVUq5I3Kwk7N1B6O": {
-      "status": "joined",
-      "time": 1792306588789,
+      "status": "valid",
+      "time": 1792471359837,
       "id": "120363427307711461@g.us",
       "name": "*GPC by ꧁꧌Pathan꧌꧂*",
       "size": 0,
       "approval": false
     },
     "EaKXGBZFCVLDrQslweNKQ9": {
-      "status": "joined",
-      "time": 1792305427358,
+      "status": "valid",
+      "time": 1792471363235,
       "id": "120363412264766653@g.us",
       "name": "🍁BANAINCE🍁 EVENT 🍁 GRUP 🍁",
-      "size": 14,
+      "size": 23,
       "approval": false
     },
     "C5VmJHdpsP7Gn9L7wGemja": {
@@ -195,8 +195,8 @@
       "approval": false
     },
     "JMrvSqpLzP57Yk6WQw75jj": {
-      "status": "joined",
-      "time": 1792306617821,
+      "status": "valid",
+      "time": 1792471366523,
       "id": "120363425935633900@g.us",
       "name": "Hiba",
       "size": 0,
@@ -243,8 +243,8 @@
       "approval": false
     },
     "F2c0rjScp0jEvkkzkj0taZ": {
-      "status": "joined",
-      "time": 1792313365285,
+      "status": "valid",
+      "time": 1792471368960,
       "id": "120363431649646607@g.us",
       "name": "S_K_Trick_Zone",
       "size": 4,
@@ -347,12 +347,13 @@
       "approval": false
     },
     "EJQCp5KUZYMAxwFdtEZBg5": {
-      "status": "joined",
-      "time": 1792318340598,
+      "status": "error",
+      "time": 1792471371276,
       "id": "120363414508098170@g.us",
       "name": "DANNY MOBILE SOFTWARE SOLUTION",
       "size": 922,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "Dd0KdP10Kxg8agKvpRNGsB": {
       "status": "pending",
@@ -475,24 +476,24 @@
       "approval": false
     },
     "IBNDobA5SXlD7sC89xk0Y6": {
-      "status": "joined",
-      "time": 1792408230709,
+      "status": "valid",
+      "time": 1792471374659,
       "id": "120363410392256688@g.us",
       "name": "GPC By &Hania Malik 👑",
       "size": 0,
       "approval": false
     },
     "GyagEXcS5CdALYd4hAnp1t": {
-      "status": "joined",
-      "time": 1792408247725,
+      "status": "valid",
+      "time": 1792471377736,
       "id": "120363407134225165@g.us",
       "name": "✨ 𝑨𝒏𝒂𝒃𝒊𝒚𝒂 𝑴𝒂𝒍𝒊𝒌 𝑯𝒖𝒃 ✨",
       "size": 0,
       "approval": false
     },
     "HPlCXaiPbnf4q8rFOxwuYc": {
-      "status": "joined",
-      "time": 1792408262428,
+      "status": "valid",
+      "time": 1792471381391,
       "id": "120363428666257362@g.us",
       "name": "⚜️GPC By AMMAR KHAN ⚜️",
       "size": 0,
