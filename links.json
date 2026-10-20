@@ -33,24 +33,24 @@
       "approval": false
     },
     "GSeAAYhyhwfCTpRFHgrCxa": {
-      "status": "joined",
-      "time": 1792305364383,
+      "status": "valid",
+      "time": 1792471318571,
       "id": "120363420130331141@g.us",
       "name": "𝘾𝙡𝙤𝙪𝙙𝙉𝙚𝙨𝙩 𝙒𝙤𝙧𝙡𝙙........",
-      "size": 409,
+      "size": 406,
       "approval": false
     },
     "K87NgQb7ccgIYXvRBrVk8G": {
-      "status": "joined",
-      "time": 1792305368207,
+      "status": "valid",
+      "time": 1792471321586,
       "id": "120363410594790817@g.us",
-      "name": "Social media accounts buy sale 💸",
-      "size": 251,
+      "name": "🛡️ M.UMAIS YT BUY & SELL",
+      "size": 327,
       "approval": false
     },
     "FwRDTDwyLC63uccYhl2Ixw": {
-      "status": "joined",
-      "time": 1792305370669,
+      "status": "expired",
+      "time": 1792471324215,
       "id": "120363209884300532@g.us",
       "name": "Group Free Share | Promotion",
       "size": 291,
@@ -73,16 +73,16 @@
       "approval": true
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "joined",
-      "time": 1792305381178,
+      "status": "valid",
+      "time": 1792471328293,
       "id": "120363419140015193@g.us",
       "name": "SK Travels",
-      "size": 849,
+      "size": 846,
       "approval": false
     },
     "H8d2AEt7jr5IImgBxnZUaS": {
-      "status": "joined",
-      "time": 1792306463929,
+      "status": "valid",
+      "time": 1792471330743,
       "id": "120363430557841016@g.us",
       "name": "🥳🥳Esha cloud sell,buy market🤩🤩",
       "size": 9,
@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792470263690,
+      "time": 1792471333135,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -106,12 +106,13 @@
       "time": 1792305394681
     },
     "BR1sPyUPn1H8ncasuy5QQu": {
-      "status": "joined",
-      "time": 1792305398357,
+      "status": "error",
+      "time": 1792471336805,
       "id": "120363415129532642@g.us",
       "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
       "size": 220,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "BSeevwOtTUbGuwnma3W0mO": {
       "status": "joined",
@@ -122,27 +123,27 @@
       "approval": false
     },
     "CtkjH6cY4st9dmCCmIsWzH": {
-      "status": "joined",
-      "time": 1792306501043,
+      "status": "valid",
+      "time": 1792471340863,
       "id": "120363430784014701@g.us",
-      "name": "Orzon Trading",
-      "size": 147,
+      "name": "FB~BM~GV~TN Buy& Sell",
+      "size": 149,
       "approval": false
     },
     "CFhst8886FZ2reEI4nuFFg": {
-      "status": "joined",
-      "time": 1792305407101,
+      "status": "valid",
+      "time": 1792471343292,
       "id": "120363401221286650@g.us",
       "name": "Only. group. admins. are. allowed...",
-      "size": 490,
+      "size": 518,
       "approval": false
     },
     "CAWp1XRin7y4kuZK3PXWL5": {
-      "status": "joined",
-      "time": 1792306520308,
+      "status": "valid",
+      "time": 1792471347219,
       "id": "120363404021425400@g.us",
       "name": "TRUSTED TN TF GV BUY GTOUP(SIYAM ISLAM)",
-      "size": 205,
+      "size": 206,
       "approval": false
     },
     "HsFjuAFFnXYDAYHlXtHWGp": {
