@@ -1338,24 +1338,40 @@
       "approval": false
     },
     "FkBR2Y3tJZyDqczo6mRgHe": {
-      "status": "new",
-      "time": 1792419372043
+      "status": "valid",
+      "time": 1792468002589,
+      "id": "120363409359921242@g.us",
+      "name": "Gift Card，Wire, *pickup*💰💵💳🌍 Global Payments",
+      "size": 193,
+      "approval": true
     },
     "GZDbt1RwPR72hJiPuB5cw5": {
-      "status": "new",
-      "time": 1792460887795
+      "status": "valid",
+      "time": 1792468005476,
+      "id": "120363349734283576@g.us",
+      "name": "This group is for posting details about scammers, so please do not post anything related to your own",
+      "size": 676,
+      "approval": true
     },
     "JFSPpizs95Y6jf1YQX0hY5": {
-      "status": "new",
-      "time": 1792462808548
+      "status": "expired",
+      "time": 1792468008714
     },
     "KDxoFEFRUuhJnkRamyIkIG": {
-      "status": "new",
-      "time": 1792467933032
+      "status": "valid",
+      "time": 1792468011130,
+      "id": "120363432662174464@g.us",
+      "name": "Global Gift Card Network🇺🇸",
+      "size": 17,
+      "approval": true
     },
     "FoIglSk0mwu0Ad4KprMDWY": {
-      "status": "new",
-      "time": 1792467933032
+      "status": "valid",
+      "time": 1792468014139,
+      "id": "120363430236852059@g.us",
+      "name": "TN, TP, SL, TF & Gmail BD Premium Accounts Hub",
+      "size": 56,
+      "approval": false
     }
   }
 }
