@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792414578324,
+      "time": 1792467935847,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -538,8 +538,8 @@
       "approval": false
     },
     "HZOn9z6XW9OI4TUPrh55E1": {
-      "status": "error",
-      "time": 1792414582359,
+      "status": "expired",
+      "time": 1792467939969,
       "err": "growth-locked"
     },
     "EJaSJTVA8DzJBDdW6E6Nhq": {
@@ -944,7 +944,7 @@
     },
     "GmNSH0pVFc35dNkKeOGETo": {
       "status": "error",
-      "time": 1792414584840,
+      "time": 1792467943239,
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
@@ -1208,32 +1208,57 @@
       "approval": true
     },
     "Ey3TRBpa6du7i8mA2vdYoL": {
-      "status": "new",
-      "time": 1792414812049
+      "status": "valid",
+      "time": 1792467946221,
+      "id": "120363430721644100@g.us",
+      "name": "RAVAN CLOUD SELLER",
+      "size": 259,
+      "approval": false
     },
     "EUxDxGbH9iO8SKTnukWKWR": {
-      "status": "new",
-      "time": 1792414812049
+      "status": "valid",
+      "time": 1792467948726,
+      "id": "120363401053025539@g.us",
+      "name": "Fb 🆔 Trusted Dealer",
+      "size": 0,
+      "approval": false
     },
     "DTLJCLrXBev8HSS1sTfRsX": {
-      "status": "new",
-      "time": 1792414932183
+      "status": "valid",
+      "time": 1792467951938,
+      "id": "120363429779664919@g.us",
+      "name": "💎 TN | GV | TT | FB | IG — Trusted Community 💵",
+      "size": 167,
+      "approval": false
     },
     "HqihsQudxQYAtZ5d3AOMSp": {
-      "status": "new",
-      "time": 1792414932183
+      "status": "valid",
+      "time": 1792467955813,
+      "id": "120363413756684811@g.us",
+      "name": "Tahaa Online Trusted Store",
+      "size": 55,
+      "approval": true
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
-      "status": "new",
-      "time": 1792415292224
+      "status": "error",
+      "time": 1792467958021,
+      "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
-      "status": "new",
-      "time": 1792415771830
+      "status": "valid",
+      "time": 1792467960823,
+      "id": "120363410717279983@g.us",
+      "name": "Buy And Sell Account Cloud",
+      "size": 192,
+      "approval": false
     },
     "FtmjNnuEjg609kCQFJiT3x": {
-      "status": "new",
-      "time": 1792415892009
+      "status": "valid",
+      "time": 1792467964620,
+      "id": "120363406310560695@g.us",
+      "name": "Accepts multiple payment methods: wire transfer, gold, cash withdrawal.",
+      "size": 328,
+      "approval": true
     },
     "DAQ3zQBKZUb388clU4WCQc": {
       "status": "new",
