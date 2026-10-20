@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792468751581,
+      "time": 1792470263690,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -944,7 +944,7 @@
     },
     "GmNSH0pVFc35dNkKeOGETo": {
       "status": "error",
-      "time": 1792468754721,
+      "time": 1792470266943,
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
@@ -1241,7 +1241,7 @@
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
       "status": "error",
-      "time": 1792468757425,
+      "time": 1792470270775,
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
@@ -1318,7 +1318,7 @@
     },
     "LxN9zyC7ep5GAaXaJjj6I5": {
       "status": "error",
-      "time": 1792468761572,
+      "time": 1792470274020,
       "err": "growth-locked"
     },
     "G6mFygLSf2aKZLdAzGo9ZY": {
@@ -1390,24 +1390,37 @@
       "approval": true
     },
     "JMJFZ9bnvyuAJFLHdF0CGA": {
-      "status": "new",
-      "time": 1792469217015
+      "status": "error",
+      "time": 1792470277104,
+      "err": "bad-request"
     },
     "GML6iM4dPMH1H3fiMAjEEh": {
-      "status": "new",
-      "time": 1792469457241
+      "status": "valid",
+      "time": 1792470280732,
+      "id": "120363412196133054@g.us",
+      "name": "Earn with Imtiaz",
+      "size": 191,
+      "approval": false
     },
     "CjhffGccurc3fQbD0F8l3e": {
-      "status": "new",
-      "time": 1792469457241
+      "status": "valid",
+      "time": 1792470283555,
+      "id": "120363237710652729@g.us",
+      "name": "Bukhari Crypto Exchange",
+      "size": 76,
+      "approval": true
     },
     "K4GpEGffaIg5uFQmnCzAB5": {
-      "status": "new",
-      "time": 1792469457241
+      "status": "valid",
+      "time": 1792470287460,
+      "id": "120363431409828423@g.us",
+      "name": "Learn Amazon E Commerce Free",
+      "size": 17,
+      "approval": false
     },
     "HXH68ZBj1BJCjfnlNzN047": {
-      "status": "new",
-      "time": 1792470177131
+      "status": "expired",
+      "time": 1792470290847
     }
   }
 }
