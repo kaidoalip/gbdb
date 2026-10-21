@@ -1126,12 +1126,13 @@
       "approval": false
     },
     "DlQolwcFjMc1d1jzPz9RoS": {
-      "status": "valid",
-      "time": 1792581771427,
+      "status": "error",
+      "time": 1792583010888,
       "id": "120363411636069319@g.us",
       "name": "حرف و احساس ✍️",
       "size": 453,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "CIzmgkVt5Av1FG39UMdFcc": {
       "status": "valid",
