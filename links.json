@@ -1020,8 +1020,8 @@
       "err": "Connection Closed"
     },
     "DndNdhQGu0J7nNektRT74K": {
-      "status": "valid",
-      "time": 1792583198454,
+      "status": "error",
+      "time": 1792584051553,
       "id": "120363430929760293@g.us",
       "name": "CLOUD VPS AND RDP SERVICE PLATFORM",
       "size": 107,
