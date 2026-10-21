@@ -1046,12 +1046,13 @@
       "approval": true
     },
     "LyIzL3yLnaU69ilCroZFYM": {
-      "status": "valid",
-      "time": 1792581751271,
+      "status": "error",
+      "time": 1792582993824,
       "id": "120363412269965735@g.us",
       "name": "𝐇𝐊 𝐌𝐀𝐑𝐊𝐄𝐓𝐈𝐍𝐆 𝐆𝐑𝐎𝐔𝐏",
       "size": 105,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "FsR5s5FxoLVHah2qW7ITLF": {
       "status": "expired",
