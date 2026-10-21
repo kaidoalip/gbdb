@@ -1059,8 +1059,8 @@
       "time": 1792410098877
     },
     "B5CP9S7fY5mFDizbqVdAfw": {
-      "status": "valid",
-      "time": 1792584279051,
+      "status": "error",
+      "time": 1792584637840,
       "id": "120363411293311602@g.us",
       "name": "Call Forwarding Portal With TFN/DID",
       "size": 225,
