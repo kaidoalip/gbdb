@@ -938,12 +938,13 @@
       "approval": false
     },
     "IO1G0VzSqct8sFaxJWpB2S": {
-      "status": "valid",
-      "time": 1792581722029,
+      "status": "error",
+      "time": 1792582965517,
       "id": "120363413302171660@g.us",
       "name": "Bara",
       "size": 51,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "0gIq10VfdMt5Rdzzcl6ODh": {
       "status": "valid",
