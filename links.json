@@ -2847,7 +2847,7 @@
     },
     "CFA7qmrPkhy4CT1nf807TL": {
       "status": "valid",
-      "time": 1792592040892,
+      "time": 1792625334620,
       "id": "120363429396171659@g.us",
       "name": "Sadia e- Commerce",
       "size": 159,
@@ -2855,15 +2855,15 @@
     },
     "I291SfO7hx8JiqNxRwvzHn": {
       "status": "valid",
-      "time": 1792592044285,
+      "time": 1792625338749,
       "id": "120363345998044576@g.us",
       "name": "Facebook Monetization",
-      "size": 235,
+      "size": 234,
       "approval": true
     },
     "HbifHxqM213BZogdtNzijP": {
-      "status": "joined",
-      "time": 1792582368392,
+      "status": "blocked",
+      "time": 1792625342060,
       "id": "120363415081162660@g.us",
       "name": "💖قرآن مجید اور احادیث💖",
       "size": 129,
@@ -2871,31 +2871,32 @@
     },
     "DlKxex5IhjqB4apfTyWhr0": {
       "status": "valid",
-      "time": 1792592048248,
+      "time": 1792625345764,
       "id": "120363318504509189@g.us",
       "name": "Daraz Updates & Tricks 📢",
-      "size": 134,
+      "size": 133,
       "approval": false
     },
     "HM3yxsDABniGcrBBTpGh6H": {
-      "status": "valid",
-      "time": 1792592051993,
+      "status": "error",
+      "time": 1792625348819,
       "id": "120363430992072882@g.us",
       "name": "👙🫦Viral xxx video‼️ 🔞",
       "size": 379,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "LsVorWZKJ0xFFM6GQS4Yyb": {
       "status": "valid",
-      "time": 1792592055733,
+      "time": 1792625351448,
       "id": "120363364380312450@g.us",
       "name": "🥵لیـک وائـرل ویـڈیـو🥵",
-      "size": 267,
+      "size": 254,
       "approval": true
     },
     "LbGj9ozXHq0LKje1GhpRki": {
-      "status": "joined",
-      "time": 1792583796402,
+      "status": "blocked",
+      "time": 1792625355146,
       "id": "120363432056037304@g.us",
       "name": "RS Tech Hub | Seller Community",
       "size": 9,
@@ -2923,10 +2924,10 @@
     },
     "DaLcBB0z9uv30WlppnnasE": {
       "status": "valid",
-      "time": 1792592059915,
+      "time": 1792625358091,
       "id": "120363152896588615@g.us",
       "name": "CLOUD, RDP, VPS, HTML, CSS & AI",
-      "size": 498,
+      "size": 497,
       "approval": false
     },
     "HlA2MGPI9g38l80ncSft04": {
@@ -3005,7 +3006,7 @@
     },
     "GzKlXIWp5yqH4M7oCSFy0E": {
       "status": "valid",
-      "time": 1792592063762,
+      "time": 1792625361489,
       "id": "120363422078023655@g.us",
       "name": "🤖پشاور بزنس پوائنٹ🤖",
       "size": 1023,
@@ -3043,10 +3044,10 @@
     },
     "B5kuE2LAMQmFWIBSc1qjnS": {
       "status": "valid",
-      "time": 1792592075759,
+      "time": 1792625364844,
       "id": "923185160349-1632055335@g.us",
       "name": "PRIME ASSET MANAGEMENT",
-      "size": 159,
+      "size": 172,
       "approval": true
     },
     "DlGwkit7gT5KXUzzIOLUpI": {
