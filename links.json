@@ -251,28 +251,29 @@
       "approval": true
     },
     "Jg8Ju7tO0JlEc2aN3qoHwF": {
-      "status": "joined",
-      "time": 1792313379984,
+      "status": "komunitas",
+      "time": 1792567117701,
       "id": "120363405365849853@g.us",
       "name": "📚 ★GPC By Mehrab Khan★ 🦋",
       "size": 0,
       "approval": false
     },
     "CMWqHw0YDPGKUMd551aeZN": {
-      "status": "joined",
-      "time": 1792313399925,
+      "status": "komunitas",
+      "time": 1792567122159,
       "id": "120363406557806155@g.us",
       "name": "✨GPC Zulfiqar Khan✨",
       "size": 0,
       "approval": false
     },
     "Da0vtalPDdJFrdP7OvsGYK": {
-      "status": "joined",
-      "time": 1792313421162,
+      "status": "error",
+      "time": 1792567124458,
       "id": "120363408785452820@g.us",
       "name": "🆓 🅔🅐🅡🅝  𝓦𝓲𝓽𝓱 𝔸𝕚𝕤𝕙",
       "size": 0,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "D0uqD21NrwbABP9c9ByPDb": {
       "status": "joined",
@@ -307,8 +308,8 @@
       "approval": false
     },
     "B9LA4cCgg7BC8X95hOKm2S": {
-      "status": "joined",
-      "time": 1792313295699,
+      "status": "expired",
+      "time": 1792567127190,
       "id": "120363429248347801@g.us",
       "name": "Saqlain Trusted",
       "size": 0,
@@ -348,7 +349,7 @@
     },
     "EJQCp5KUZYMAxwFdtEZBg5": {
       "status": "error",
-      "time": 1792483827599,
+      "time": 1792567130530,
       "id": "120363414508098170@g.us",
       "name": "DANNY MOBILE SOFTWARE SOLUTION",
       "size": 922,
@@ -364,12 +365,13 @@
       "approval": true
     },
     "JpGGkuZIddV2IE02BpuKlX": {
-      "status": "joined",
-      "time": 1792314200159,
+      "status": "error",
+      "time": 1792567134094,
       "id": "120363413302171660@g.us",
       "name": "Bor",
       "size": 11,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "DmAslaL8pGTIXQrsjItfyd": {
       "status": "joined",
@@ -380,8 +382,8 @@
       "approval": true
     },
     "KP4SZSzkSIkLcgsk3oNfSS": {
-      "status": "joined",
-      "time": 1792318261626,
+      "status": "komunitas",
+      "time": 1792567136980,
       "id": "120363413877069384@g.us",
       "name": "I Phone Mix Mail Buy And Sell Group (Only Admin Trusted) ❤️✅",
       "size": 0,
@@ -405,7 +407,7 @@
     },
     "I45aAar18Bx5fCPc1wnCy7": {
       "status": "blocked",
-      "time": 1792483831140,
+      "time": 1792567140339,
       "id": "120363422499898139@g.us",
       "name": "◦•●◉🇸𝛚͢𝛆𝛆𝐭 🇶ɑ͢𝐮𝐞𝐞𝐧  𝐃𝐞𝐚𝐥𝐢𝐧𝐠 𝐙𝐨𝐧𝐞✿◉●•◦",
       "size": 420,
@@ -428,18 +430,18 @@
       "approval": true
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "joined",
-      "time": 1792391397446,
+      "status": "valid",
+      "time": 1792567143380,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
       "size": 358,
       "approval": false
     },
     "Joq33mLOtm1HoQCmSjU5XK": {
-      "status": "joined",
-      "time": 1792391427248,
+      "status": "komunitas",
+      "time": 1792567146934,
       "id": "120363414010126406@g.us",
-      "name": "GPC  by  Sell SHAHID MTariq",
+      "name": "GPC by Sell SHAHID MTariq",
       "size": 0,
       "approval": false
     },
