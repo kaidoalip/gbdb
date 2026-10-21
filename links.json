@@ -2115,8 +2115,8 @@
       "approval": false
     },
     "LmrLnPxPLr4LGaRE2yAy2g": {
-      "status": "valid",
-      "time": 1792567477098,
+      "status": "error",
+      "time": 1792568058451,
       "id": "120363412381386840@g.us",
       "name": "Digital Zone",
       "size": 435,
