@@ -2775,16 +2775,26 @@
       "approval": false
     },
     "KQ3mK6V6vVOLjo1Qqclxk4": {
-      "status": "new",
-      "time": 1792570941746
+      "status": "valid",
+      "time": 1792571401386,
+      "id": "120363430752137614@g.us",
+      "name": "✿ ◕‿◕ 🆉🅾🆈🅰 🅷🅰🆆🅰🅻🅸 🔥 •🦈°᭄☆",
+      "size": 5,
+      "approval": true
     },
     "DQIAW4pihFJ106meGUtFND": {
-      "status": "new",
-      "time": 1792571061602
+      "status": "komunitas",
+      "time": 1792571406035,
+      "id": "120363409795419517@g.us",
+      "name": "🤍HANIA GPC 🤍"
     },
     "JoOgbHX3Eoa2hzAFiz0UQH": {
-      "status": "new",
-      "time": 1792571181611
+      "status": "valid",
+      "time": 1792571409232,
+      "id": "120363412816485110@g.us",
+      "name": "Rdps + TFN seller and reseller",
+      "size": 10,
+      "approval": true
     }
   }
 }
