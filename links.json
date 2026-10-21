@@ -33,8 +33,8 @@
       "approval": false
     },
     "GSeAAYhyhwfCTpRFHgrCxa": {
-      "status": "joined",
-      "time": 1792471625019,
+      "status": "blocked",
+      "time": 1792567081276,
       "id": "120363420130331141@g.us",
       "name": "𝘾𝙡𝙤𝙪𝙙𝙉𝙚𝙨𝙩 𝙒𝙤𝙧𝙡𝙙........",
       "size": 406,
@@ -42,7 +42,7 @@
     },
     "K87NgQb7ccgIYXvRBrVk8G": {
       "status": "blocked",
-      "time": 1792483810485,
+      "time": 1792567085086,
       "id": "120363410594790817@g.us",
       "name": "🛡️ M.UMAIS YT BUY & SELL",
       "size": 327,
@@ -98,7 +98,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792483814510,
+      "time": 1792567088121,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -171,16 +171,16 @@
       "approval": true
     },
     "HpOC4DhVUq5I3Kwk7N1B6O": {
-      "status": "joined",
-      "time": 1792471764000,
+      "status": "komunitas",
+      "time": 1792567092009,
       "id": "120363427307711461@g.us",
       "name": "*GPC by ꧁꧌Pathan꧌꧂*",
       "size": 0,
       "approval": false
     },
     "EaKXGBZFCVLDrQslweNKQ9": {
-      "status": "joined",
-      "time": 1792471780847,
+      "status": "expired",
+      "time": 1792567094614,
       "id": "120363412264766653@g.us",
       "name": "🍁BANAINCE🍁 EVENT 🍁 GRUP 🍁",
       "size": 23,
@@ -195,8 +195,8 @@
       "approval": false
     },
     "JMrvSqpLzP57Yk6WQw75jj": {
-      "status": "joined",
-      "time": 1792471799012,
+      "status": "komunitas",
+      "time": 1792567098695,
       "id": "120363425935633900@g.us",
       "name": "Hiba",
       "size": 0,
@@ -211,8 +211,8 @@
       "approval": false
     },
     "JAT1ep2HEYJ2rrJ3Vq4g8K": {
-      "status": "joined",
-      "time": 1792313318531,
+      "status": "komunitas",
+      "time": 1792567102343,
       "id": "120363418143109745@g.us",
       "name": "GPC AND IOS APPLE BY AYYAN AND AMAAR",
       "size": 0,
@@ -228,23 +228,23 @@
     },
     "L0rT1EBKxn4DJk2HkTZi6X": {
       "status": "blocked",
-      "time": 1792483819916,
+      "time": 1792567106345,
       "id": "120363430138982635@g.us",
       "name": "🍁Orhan YT Buy &Sell🇵🇰✨️",
       "size": 282,
       "approval": false
     },
     "HOHvjJWEScGFaxH6YoKk08": {
-      "status": "joined",
-      "time": 1792313351874,
+      "status": "komunitas",
+      "time": 1792567109775,
       "id": "120363428632134941@g.us",
       "name": "Daily with Alex",
       "size": 0,
       "approval": false
     },
     "F2c0rjScp0jEvkkzkj0taZ": {
-      "status": "joined",
-      "time": 1792484093728,
+      "status": "valid",
+      "time": 1792567112700,
       "id": "120363431649646607@g.us",
       "name": "S_K_Trick_Zone",
       "size": 4,
