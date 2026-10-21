@@ -839,12 +839,13 @@
       "approval": false
     },
     "LjxXa4fujA38zgdNkuYL3p": {
-      "status": "valid",
-      "time": 1792581706046,
+      "status": "error",
+      "time": 1792582955380,
       "id": "120363423314664388@g.us",
       "name": "Zainab's broadcast🥰🥰",
       "size": 257,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "CxWblUoUbQuF9NlMKft1fz": {
       "status": "pending",
