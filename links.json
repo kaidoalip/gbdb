@@ -616,27 +616,27 @@
       "approval": false
     },
     "BnqGQzVTW3KIRuDb8YHLDm": {
-      "status": "joined",
-      "time": 1792472070128,
+      "status": "valid",
+      "time": 1792581683221,
       "id": "120363415992310059@g.us",
       "name": "✅\"Mix domen call Its Group\"✅",
-      "size": 300,
+      "size": 309,
       "approval": false
     },
     "G7W8OZMtOg9BYmA1EuUOgB": {
-      "status": "joined",
-      "time": 1792472086260,
+      "status": "valid",
+      "time": 1792581686541,
       "id": "120363438239736588@g.us",
       "name": "Usman YT Buy & Sell 🫶🏻",
-      "size": 217,
+      "size": 216,
       "approval": false
     },
     "KETgrAxbzn3Fc5ZgM6szLb": {
-      "status": "joined",
-      "time": 1792472761153,
+      "status": "valid",
+      "time": 1792581690504,
       "id": "120363412711807556@g.us",
       "name": "Abdul Moiz Market",
-      "size": 89,
+      "size": 100,
       "approval": false
     },
     "FLhlgW0aQ3D0xgp0YdoG2v": {
@@ -656,12 +656,13 @@
       "approval": true
     },
     "HRtjDmorU15JLrnzp0tmd6": {
-      "status": "joined",
-      "time": 1792408679016,
+      "status": "error",
+      "time": 1792581693572,
       "id": "120363430059262558@g.us",
       "name": "Mix Domain Data & leads",
       "size": 163,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "DSkppZpgl6x1ynQI1XeaHR": {
       "status": "komunitas",
@@ -776,8 +777,8 @@
       "approval": false
     },
     "H8gabSt8RiW8sWWWgWuKnm": {
-      "status": "joined",
-      "time": 1792472998608,
+      "status": "valid",
+      "time": 1792581697404,
       "id": "120363402810226467@g.us",
       "name": "Admob & Applovin ... and GPC buy/sell by ( Ghazalio👑 & Mahi Khan🦋)",
       "size": 366,
@@ -800,8 +801,8 @@
       "approval": false
     },
     "EpJAxULUbKi5UvUUlOFC5s": {
-      "status": "joined",
-      "time": 1792473014189,
+      "status": "expired",
+      "time": 1792581701678,
       "id": "120363429402555046@g.us",
       "name": "USA seller account",
       "size": 603,
@@ -832,11 +833,11 @@
       "approval": false
     },
     "LjxXa4fujA38zgdNkuYL3p": {
-      "status": "joined",
-      "time": 1792473027602,
+      "status": "valid",
+      "time": 1792581706046,
       "id": "120363423314664388@g.us",
       "name": "Zainab's broadcast🥰🥰",
-      "size": 255,
+      "size": 257,
       "approval": false
     },
     "CxWblUoUbQuF9NlMKft1fz": {
@@ -856,11 +857,11 @@
       "approval": false
     },
     "GaulBx8R5kcFP7GhG471bC": {
-      "status": "joined",
-      "time": 1792410236390,
+      "status": "valid",
+      "time": 1792581709364,
       "id": "120363420941057517@g.us",
       "name": "ROY INDIAN CLOUDS SELLER 💖✅",
-      "size": 248,
+      "size": 249,
       "approval": true
     },
     "CbwdnCjeB9mFtTA3uSRnME": {
@@ -904,16 +905,16 @@
       "approval": false
     },
     "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "joined",
-      "time": 1792473113821,
+      "status": "valid",
+      "time": 1792581712998,
       "id": "120363412768061441@g.us",
       "name": "Roshan Bhai Trusted seller ✅",
-      "size": 40,
+      "size": 53,
       "approval": false
     },
     "Cld34Mmuc1N9Nuq3WjSi5Y": {
-      "status": "joined",
-      "time": 1792473127780,
+      "status": "expired",
+      "time": 1792581716613,
       "id": "120363399823240676@g.us",
       "name": "𝑆𝑦𝑒𝑑 𝑇𝑟𝑢𝑠𝑒𝑑 𝑆𝑡𝑜𝑟𝑒",
       "size": 600,
