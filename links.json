@@ -956,8 +956,8 @@
       "err": "Connection Closed"
     },
     "DU0kN9EuhYo1hDjRp9vkh0": {
-      "status": "valid",
-      "time": 1792584252317,
+      "status": "error",
+      "time": 1792584549068,
       "id": "120363421633025461@g.us",
       "name": "Digital Marketing",
       "size": 209,
