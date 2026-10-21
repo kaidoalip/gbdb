@@ -947,8 +947,8 @@
       "err": "Connection Closed"
     },
     "0gIq10VfdMt5Rdzzcl6ODh": {
-      "status": "valid",
-      "time": 1792584248353,
+      "status": "error",
+      "time": 1792584532334,
       "id": "85298098259-1490440135@g.us",
       "name": "LinkedIn Rental business",
       "size": 303,
