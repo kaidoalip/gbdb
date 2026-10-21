@@ -636,12 +636,13 @@
       "err": "Connection Closed"
     },
     "KETgrAxbzn3Fc5ZgM6szLb": {
-      "status": "valid",
-      "time": 1792581690504,
+      "status": "error",
+      "time": 1792582948881,
       "id": "120363412711807556@g.us",
       "name": "Abdul Moiz Market",
       "size": 100,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "FLhlgW0aQ3D0xgp0YdoG2v": {
       "status": "pending",
