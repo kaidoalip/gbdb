@@ -1,7 +1,7 @@
 {
   "links": {
     "IJ5S5HhHzRF0owJBPRtStC": {
-      "status": "error",
+      "status": "joined",
       "time": 1792584969415,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
@@ -1278,7 +1278,7 @@
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
-      "status": "error",
+      "status": "joined",
       "time": 1792585121656,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
@@ -2274,7 +2274,7 @@
       "approval": false
     },
     "Gu5pQky4LscKC3yBStFa77": {
-      "status": "valid",
+      "status": "joined",
       "time": 1792585412280,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
