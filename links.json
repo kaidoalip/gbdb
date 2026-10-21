@@ -222,19 +222,19 @@
       "approval": false
     },
     "FdLGinLMh4lI90sIToO3Er": {
-      "status": "joined",
-      "time": 1792305445511,
+      "status": "valid",
+      "time": 1792581567404,
       "id": "120363412052464198@g.us",
       "name": "𝐌𝐢𝐜𝐤𝐲 𝐂𝐥𝐨𝐮𝐝 𝐇𝐮𝐛",
-      "size": 500,
+      "size": 502,
       "approval": false
     },
     "L0rT1EBKxn4DJk2HkTZi6X": {
-      "status": "blocked",
-      "time": 1792567106345,
+      "status": "valid",
+      "time": 1792581571743,
       "id": "120363430138982635@g.us",
       "name": "🍁Orhan YT Buy &Sell🇵🇰✨️",
-      "size": 282,
+      "size": 343,
       "approval": false
     },
     "HOHvjJWEScGFaxH6YoKk08": {
@@ -246,8 +246,8 @@
       "approval": false
     },
     "F2c0rjScp0jEvkkzkj0taZ": {
-      "status": "error",
-      "time": 1792571420145,
+      "status": "valid",
+      "time": 1792581574675,
       "id": "120363431649646607@g.us",
       "name": "S_K_Trick_Zone",
       "size": 4,
@@ -271,7 +271,7 @@
     },
     "Da0vtalPDdJFrdP7OvsGYK": {
       "status": "error",
-      "time": 1792571265638,
+      "time": 1792581578609,
       "id": "120363408785452820@g.us",
       "name": "🆓 🅔🅐🅡🅝  𝓦𝓲𝓽𝓱 𝔸𝕚𝕤𝕙",
       "size": 0,
@@ -279,35 +279,36 @@
       "err": "bad-request"
     },
     "D0uqD21NrwbABP9c9ByPDb": {
-      "status": "joined",
-      "time": 1792313436216,
+      "status": "valid",
+      "time": 1792581582965,
       "id": "120363421248171716@g.us",
       "name": "🐯 🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁☯𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐯",
       "size": 603,
       "approval": false
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
-      "status": "joined",
-      "time": 1792313455030,
+      "status": "valid",
+      "time": 1792581587026,
       "id": "120363412226638074@g.us",
       "name": "🐼🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁❁𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐼",
-      "size": 70,
+      "size": 73,
       "approval": true
     },
     "LadQDjuT42jKZxovvZnkjr": {
-      "status": "joined",
-      "time": 1792314206967,
+      "status": "error",
+      "time": 1792581590021,
       "id": "120363427918476896@g.us",
       "name": "🔥Blasting Data & Leads 🌏",
       "size": 249,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "FKUbsly6ZdQ8DWlBK0N3is": {
-      "status": "joined",
-      "time": 1792313292276,
+      "status": "valid",
+      "time": 1792581594203,
       "id": "120363412564191619@g.us",
-      "name": "Social seller 📲",
-      "size": 38,
+      "name": "ISHAQ_✅",
+      "size": 35,
       "approval": false
     },
     "B9LA4cCgg7BC8X95hOKm2S": {
@@ -319,19 +320,19 @@
       "approval": false
     },
     "LDZT2ttQJ4OBU1UqyMVV6O": {
-      "status": "joined",
-      "time": 1792313299837,
+      "status": "valid",
+      "time": 1792581597875,
       "id": "120363306982867484@g.us",
       "name": "MWS Clouds (AWS, AZURE, DIGITAL OCEAN, GCP, LINODE) HUB",
-      "size": 130,
+      "size": 128,
       "approval": false
     },
     "Hhkf5cmBra8AC9pE8AnZXf": {
-      "status": "joined",
-      "time": 1792318280087,
+      "status": "valid",
+      "time": 1792581600580,
       "id": "120363431036654238@g.us",
       "name": "GPC By Sardar Log 🫴",
-      "size": 26,
+      "size": 38,
       "approval": false
     },
     "BBX2EjEXiMFANqV9Lv1MGe": {
