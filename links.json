@@ -618,12 +618,13 @@
       "err": "Connection Closed"
     },
     "BnqGQzVTW3KIRuDb8YHLDm": {
-      "status": "valid",
-      "time": 1792581683221,
+      "status": "error",
+      "time": 1792582941736,
       "id": "120363415992310059@g.us",
       "name": "✅\"Mix domen call Its Group\"✅",
       "size": 309,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "G7W8OZMtOg9BYmA1EuUOgB": {
       "status": "valid",
