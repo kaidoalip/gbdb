@@ -1936,11 +1936,11 @@
       "approval": false
     },
     "LdYz1EWVQ8U7n1FKTYfxbb": {
-      "status": "error",
-      "time": 1792569242937,
+      "status": "valid",
+      "time": 1792571329983,
       "id": "120363409760945010@g.us",
       "name": "🌹Asif A1Cloud Buying And Selling🌹",
-      "size": 124,
+      "size": 125,
       "approval": false
     },
     "FSCRZk56P1N3swYfG3pCnY": {
@@ -1987,7 +1987,7 @@
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1792568808432,
+      "time": 1792571332515,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
@@ -2174,7 +2174,7 @@
     },
     "H1Hvrn8tRAZFyUvBkog3dh": {
       "status": "error",
-      "time": 1792568881377,
+      "time": 1792571336212,
       "err": "growth-locked"
     },
     "DYxi0GRq9j8BBDsHvop5jG": {
@@ -2225,7 +2225,7 @@
     },
     "EEeHXzmDUpeJEaqYyvIYcG": {
       "status": "error",
-      "time": 1792568899823,
+      "time": 1792571338714,
       "err": "bad-request"
     },
     "HPE2sAtYxQx95GEmVyEBZF": {
@@ -2663,28 +2663,46 @@
       "approval": true
     },
     "LDcKwXiYufcATXpfopwgnP": {
-      "status": "new",
-      "time": 1792569021706
+      "status": "komunitas",
+      "time": 1792571341973,
+      "id": "120363390705883091@g.us",
+      "name": "GPC By Sehar Hayat"
     },
     "LoXGoHERJbsBTIXfC5Y7zF": {
-      "status": "new",
-      "time": 1792569021706
+      "status": "valid",
+      "time": 1792571345620,
+      "id": "120363430931090913@g.us",
+      "name": "Next Digital Enterprise",
+      "size": 43,
+      "approval": false
     },
     "JymplPakkj372PGWqj9upz": {
-      "status": "new",
-      "time": 1792569261686
+      "status": "komunitas",
+      "time": 1792571349450,
+      "id": "120363407963644269@g.us",
+      "name": "👑 KIRAN TECH | CREATOR HUB 💍💵📈"
     },
     "HAubRezsyR0CM6tI0zzv7p": {
-      "status": "new",
-      "time": 1792569381643
+      "status": "valid",
+      "time": 1792571352904,
+      "id": "120363410185058561@g.us",
+      "name": "🌹madam Sara baloch🌷",
+      "size": 388,
+      "approval": false
     },
     "IdxbzN2ZHQm9xsecCLKfRf": {
-      "status": "new",
-      "time": 1792569501600
+      "status": "komunitas",
+      "time": 1792571356201,
+      "id": "120363427974983786@g.us",
+      "name": "ROMAT GROUP'S"
     },
     "GyQOpW0QJmK0XVjg7H64GQ": {
-      "status": "new",
-      "time": 1792569501600
+      "status": "valid",
+      "time": 1792571359520,
+      "id": "120363414180886801@g.us",
+      "name": "PAN INDIA🍳🇮🇳  REAL ESTATE",
+      "size": 621,
+      "approval": false
     },
     "Ipc5IQMdAuxK7PB1KUxCzW": {
       "status": "new",
