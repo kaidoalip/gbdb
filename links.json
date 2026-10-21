@@ -1029,12 +1029,13 @@
       "err": "Connection Closed"
     },
     "BpPDCimwUAYEYp2ei48G3T": {
-      "status": "valid",
-      "time": 1792581747406,
+      "status": "error",
+      "time": 1792582990079,
       "id": "120363413385708115@g.us",
       "name": "🇹 🇳 👑  🇹 🇫 👑  🇹 🇹 👑  🇬 🇻 👑  🇧 🇪 🇾 👑  🇱 🇸 🇪 🇪 🇱 👑 🇬 🇷 🇺 🇵 👑",
       "size": 47,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "LFtX6RAPHxEDMV8GH9k17C": {
       "status": "pending",
