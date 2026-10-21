@@ -609,12 +609,13 @@
       "err": "Connection Closed"
     },
     "E0bILM1JlOB2sEKGiq4SF1": {
-      "status": "valid",
-      "time": 1792581677526,
+      "status": "error",
+      "time": 1792582938306,
       "id": "120363428232192564@g.us",
       "name": "GMAIL BUY & SELL TRUSTED GROUP\n(Parvez)",
       "size": 143,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "BnqGQzVTW3KIRuDb8YHLDm": {
       "status": "valid",
