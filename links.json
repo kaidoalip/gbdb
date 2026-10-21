@@ -864,12 +864,13 @@
       "approval": false
     },
     "GaulBx8R5kcFP7GhG471bC": {
-      "status": "valid",
-      "time": 1792581709364,
+      "status": "error",
+      "time": 1792582958543,
       "id": "120363420941057517@g.us",
       "name": "ROY INDIAN CLOUDS SELLER 💖✅",
       "size": 249,
-      "approval": true
+      "approval": true,
+      "err": "Connection Closed"
     },
     "CbwdnCjeB9mFtTA3uSRnME": {
       "status": "pending",
