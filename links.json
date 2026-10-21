@@ -938,8 +938,8 @@
       "approval": false
     },
     "IO1G0VzSqct8sFaxJWpB2S": {
-      "status": "valid",
-      "time": 1792585590350,
+      "status": "error",
+      "time": 1792586373636,
       "id": "120363413302171660@g.us",
       "name": "Bara",
       "size": 51,
