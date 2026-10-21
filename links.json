@@ -1234,33 +1234,35 @@
       "approval": false
     },
     "DTLJCLrXBev8HSS1sTfRsX": {
-      "status": "joined",
-      "time": 1792468039820,
+      "status": "valid",
+      "time": 1792581796414,
       "id": "120363429779664919@g.us",
       "name": "💎 TN | GV | TT | FB | IG — Trusted Community 💵",
-      "size": 167,
+      "size": 177,
       "approval": false
     },
     "HqihsQudxQYAtZ5d3AOMSp": {
-      "status": "joined",
-      "time": 1792468054019,
+      "status": "error",
+      "time": 1792581800016,
       "id": "120363413756684811@g.us",
       "name": "Tahaa Online Trusted Store",
       "size": 55,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
       "status": "error",
-      "time": 1792571285165,
+      "time": 1792581803513,
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
-      "status": "joined",
-      "time": 1792467960823,
+      "status": "error",
+      "time": 1792581805951,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 192,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "FtmjNnuEjg609kCQFJiT3x": {
       "status": "pending",
@@ -1271,16 +1273,16 @@
       "approval": true
     },
     "DAQ3zQBKZUb388clU4WCQc": {
-      "status": "joined",
-      "time": 1792468081077,
+      "status": "valid",
+      "time": 1792581809568,
       "id": "120363045935170410@g.us",
       "name": "کوہاٹ پشین کوئٹہ آل پاکستان انویسٹر",
-      "size": 261,
-      "approval": true
+      "size": 273,
+      "approval": false
     },
     "ETNKmdXLS3I7ClW6JcH2fV": {
-      "status": "joined",
-      "time": 1792468094936,
+      "status": "expired",
+      "time": 1792581812114,
       "id": "120363414796052757@g.us",
       "name": "A Love TikTok Seller 🛒💰",
       "size": 280,
@@ -1295,8 +1297,8 @@
       "approval": false
     },
     "FvRFHtpHJWP86mmxyHwCqg": {
-      "status": "joined",
-      "time": 1792468126578,
+      "status": "valid",
+      "time": 1792581815991,
       "id": "120363404864950146@g.us",
       "name": "𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗦𝗲𝗹𝗹𝗲𝗿𝘀 / 𝗕𝘂𝘆𝗲𝗿𝘀』 𝗞𝗛𝗔𝗡",
       "size": 51,
@@ -1311,24 +1313,24 @@
       "approval": true
     },
     "HqtfOrfg1nFIxv43K8mDMF": {
-      "status": "joined",
-      "time": 1792468156601,
+      "status": "valid",
+      "time": 1792581819346,
       "id": "120363427941235116@g.us",
       "name": "The trade of the Pingu family 🐧",
-      "size": 118,
+      "size": 126,
       "approval": true
     },
     "Jg23nA0lZDOLtPwqxDtmBG": {
-      "status": "joined",
-      "time": 1792468173764,
+      "status": "valid",
+      "time": 1792581823007,
       "id": "120363412274685980@g.us",
       "name": "AliExpress Tips Trek  group",
-      "size": 396,
+      "size": 455,
       "approval": false
     },
     "LxN9zyC7ep5GAaXaJjj6I5": {
       "status": "error",
-      "time": 1792571289569,
+      "time": 1792581826153,
       "err": "growth-locked"
     },
     "G6mFygLSf2aKZLdAzGo9ZY": {
