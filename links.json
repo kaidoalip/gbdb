@@ -1002,12 +1002,13 @@
       "approval": true
     },
     "LTSzW5t16rR56HLhbvcZv7": {
-      "status": "valid",
-      "time": 1792581736732,
+      "status": "error",
+      "time": 1792582978949,
       "id": "120363430600679894@g.us",
       "name": "Link Group 🔗",
       "size": 291,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "DImIDPAeWoV2bZew24Fu1z": {
       "status": "valid",
