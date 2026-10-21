@@ -1076,12 +1076,13 @@
       "approval": false
     },
     "CDHbCR6j8Jp78In3WmyFjn": {
-      "status": "valid",
-      "time": 1792581764430,
+      "status": "error",
+      "time": 1792583002230,
       "id": "120363425216339393@g.us",
       "name": "Linkdin BuY & Sell Group",
       "size": 339,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "FKcWEr7ZIKkEiecliU2Try": {
       "status": "expired",
