@@ -1753,7 +1753,7 @@
     },
     "B9EETPvPRUI8SgrlgWYIcB": {
       "status": "error",
-      "time": 1792585797052,
+      "time": 1792587262444,
       "id": "120363432112992491@g.us",
       "name": "FREE WORK CENTER 💰",
       "size": 22,
@@ -1790,7 +1790,7 @@
     },
     "JmEeXeq82e07er5O2GZh10": {
       "status": "error",
-      "time": 1792585803445,
+      "time": 1792587265638,
       "id": "120363413819867620@g.us",
       "name": "GLOBAL OTC MARKET✅🇺🇸",
       "size": 97,
@@ -1899,7 +1899,7 @@
     },
     "DGJSjXfUXSb7HyNXGDSCM1w": {
       "status": "error",
-      "time": 1792585828052,
+      "time": 1792587269559,
       "err": "bad-request"
     },
     "IVd0ycVXbis0WnsqYxs7Mz": {
@@ -2024,7 +2024,7 @@
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1792585870238,
+      "time": 1792587272658,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
@@ -2211,7 +2211,7 @@
     },
     "H1Hvrn8tRAZFyUvBkog3dh": {
       "status": "error",
-      "time": 1792585938913,
+      "time": 1792587277045,
       "err": "growth-locked"
     },
     "DYxi0GRq9j8BBDsHvop5jG": {
@@ -2262,7 +2262,7 @@
     },
     "EEeHXzmDUpeJEaqYyvIYcG": {
       "status": "error",
-      "time": 1792585954139,
+      "time": 1792587280905,
       "err": "bad-request"
     },
     "HPE2sAtYxQx95GEmVyEBZF": {
@@ -2773,7 +2773,7 @@
     },
     "KnWUBT7OAkZ3P6HyGDLnCp": {
       "status": "error",
-      "time": 1792586151882,
+      "time": 1792587285052,
       "err": "bad-request"
     },
     "K0BbmsQTNrOBJG1h4JrAeF": {
@@ -2784,7 +2784,7 @@
     },
     "BajgEBSB7hKIHsHm2H5Mxv": {
       "status": "error",
-      "time": 1792586154441,
+      "time": 1792587289057,
       "err": "bad-request"
     },
     "HNNeVJtoGTl7UN4uifmkBC": {
@@ -2996,12 +2996,20 @@
       "name": "𝐼𝓃𝒹𝑒𝓅𝑒𝓃𝒹𝑒𝓃𝒸𝑒 𝒮𝑜𝓊𝓁𝓈"
     },
     "E6dPY9lVZuHCCGeH5E7Ein": {
-      "status": "new",
-      "time": 1792585972679
+      "status": "valid",
+      "time": 1792587292157,
+      "id": "120363414458688159@g.us",
+      "name": "Buy And Sell  BM",
+      "size": 27,
+      "approval": false
     },
     "GzKlXIWp5yqH4M7oCSFy0E": {
-      "status": "new",
-      "time": 1792586212886
+      "status": "valid",
+      "time": 1792587295760,
+      "id": "120363422078023655@g.us",
+      "name": "🤖پشاور بزنس پوائنٹ🤖",
+      "size": 1022,
+      "approval": true
     },
     "HboDmsAgzqU57IKmKG0SpA": {
       "status": "new",
