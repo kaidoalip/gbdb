@@ -627,12 +627,13 @@
       "err": "Connection Closed"
     },
     "G7W8OZMtOg9BYmA1EuUOgB": {
-      "status": "valid",
-      "time": 1792581686541,
+      "status": "error",
+      "time": 1792582944887,
       "id": "120363438239736588@g.us",
       "name": "Usman YT Buy & Sell 🫶🏻",
       "size": 216,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "KETgrAxbzn3Fc5ZgM6szLb": {
       "status": "valid",
