@@ -101,7 +101,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792571259093,
+      "time": 1792581533306,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -109,8 +109,8 @@
       "time": 1792305394681
     },
     "BR1sPyUPn1H8ncasuy5QQu": {
-      "status": "joined",
-      "time": 1792483816801,
+      "status": "error",
+      "time": 1792581535896,
       "id": "120363415129532642@g.us",
       "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
       "size": 220,
@@ -118,48 +118,48 @@
       "err": "bad-request"
     },
     "BSeevwOtTUbGuwnma3W0mO": {
-      "status": "joined",
-      "time": 1792306484592,
+      "status": "valid",
+      "time": 1792581539650,
       "id": "120363422902846331@g.us",
-      "name": "AWS , DIGITAL , GOOGLE CLOUD , AZURE",
-      "size": 183,
+      "name": "*AWS , DIGITAL , GOOGLE CLOUD , AZURE*",
+      "size": 267,
       "approval": false
     },
     "CtkjH6cY4st9dmCCmIsWzH": {
-      "status": "joined",
-      "time": 1792471685302,
+      "status": "valid",
+      "time": 1792581543557,
       "id": "120363430784014701@g.us",
       "name": "FB~BM~GV~TN Buy& Sell",
-      "size": 149,
+      "size": 176,
       "approval": false
     },
     "CFhst8886FZ2reEI4nuFFg": {
-      "status": "joined",
-      "time": 1792471699098,
+      "status": "valid",
+      "time": 1792581546453,
       "id": "120363401221286650@g.us",
       "name": "Only. group. admins. are. allowed...",
-      "size": 518,
+      "size": 527,
       "approval": false
     },
     "CAWp1XRin7y4kuZK3PXWL5": {
-      "status": "joined",
-      "time": 1792471714964,
+      "status": "valid",
+      "time": 1792581548948,
       "id": "120363404021425400@g.us",
       "name": "TRUSTED TN TF GV BUY GTOUP(SIYAM ISLAM)",
-      "size": 206,
+      "size": 207,
       "approval": false
     },
     "HsFjuAFFnXYDAYHlXtHWGp": {
-      "status": "joined",
-      "time": 1792471730048,
+      "status": "valid",
+      "time": 1792581552906,
       "id": "120363410924674390@g.us",
       "name": "GOOGLE PLAY CONSOLE BY - JIMMY🖤 -",
-      "size": 217,
+      "size": 225,
       "approval": false
     },
     "KwU70urDF7zBQKmvgS3zYn": {
-      "status": "joined",
-      "time": 1792471747981,
+      "status": "expired",
+      "time": 1792581555266,
       "id": "120363429095710112@g.us",
       "name": "CHINESE AND US GOUPS🇱🇷⚜️🇨🇳",
       "size": 312,
@@ -190,11 +190,11 @@
       "approval": false
     },
     "C5VmJHdpsP7Gn9L7wGemja": {
-      "status": "joined",
-      "time": 1792305431335,
+      "status": "valid",
+      "time": 1792581558833,
       "id": "120363403726613720@g.us",
       "name": "Buy and Sell Cloud Mart",
-      "size": 316,
+      "size": 326,
       "approval": false
     },
     "JMrvSqpLzP57Yk6WQw75jj": {
@@ -206,11 +206,11 @@
       "approval": false
     },
     "D1FbWjcBz5iHgAKvsoESJg": {
-      "status": "joined",
-      "time": 1792313303838,
+      "status": "valid",
+      "time": 1792581561340,
       "id": "120363432505884894@g.us",
       "name": "​⚡ Mail & TextNow Shop 🚀",
-      "size": 99,
+      "size": 181,
       "approval": false
     },
     "JAT1ep2HEYJ2rrJ3Vq4g8K": {
