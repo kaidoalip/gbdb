@@ -1059,11 +1059,11 @@
       "time": 1792410098877
     },
     "B5CP9S7fY5mFDizbqVdAfw": {
-      "status": "error",
-      "time": 1792584090353,
+      "status": "valid",
+      "time": 1792584279051,
       "id": "120363411293311602@g.us",
       "name": "Call Forwarding Portal With TFN/DID",
-      "size": 224,
+      "size": 225,
       "approval": false,
       "err": "Connection Closed"
     },
@@ -1076,8 +1076,8 @@
       "approval": false
     },
     "CDHbCR6j8Jp78In3WmyFjn": {
-      "status": "error",
-      "time": 1792584102909,
+      "status": "valid",
+      "time": 1792584282438,
       "id": "120363425216339393@g.us",
       "name": "Linkdin BuY & Sell Group",
       "size": 339,
@@ -1101,8 +1101,8 @@
       "approval": true
     },
     "I9fPTnsLJCQEFrGEtoXJH3": {
-      "status": "error",
-      "time": 1792584118653,
+      "status": "valid",
+      "time": 1792584285356,
       "id": "120363433793355130@g.us",
       "name": "Paypal/TN/GV/ All Bank   Trested Group",
       "size": 70,
@@ -1126,8 +1126,8 @@
       "approval": false
     },
     "DlQolwcFjMc1d1jzPz9RoS": {
-      "status": "error",
-      "time": 1792584131421,
+      "status": "valid",
+      "time": 1792584289463,
       "id": "120363411636069319@g.us",
       "name": "حرف و احساس ✍️",
       "size": 453,
@@ -1135,8 +1135,8 @@
       "err": "Connection Closed"
     },
     "CIzmgkVt5Av1FG39UMdFcc": {
-      "status": "error",
-      "time": 1792584145420,
+      "status": "valid",
+      "time": 1792584292308,
       "id": "120363433368894023@g.us",
       "name": "OLD GMAIL BUY & SELL 🌐",
       "size": 82,
@@ -1152,11 +1152,11 @@
       "approval": true
     },
     "ETUAAWO1w8HKVNA2gyzYmW": {
-      "status": "error",
-      "time": 1792584162273,
+      "status": "valid",
+      "time": 1792584295933,
       "id": "120363428513193020@g.us",
       "name": "ALL COUNTRY TELEGRAM/WHATSAPP AVAILABLE FOR SELL 24HRS SERVICE --NEW/OLD NUMBER _250+ COUNTRY 🌏",
-      "size": 733,
+      "size": 735,
       "approval": false
     },
     "EO3ik3agagKCPv4Dj6yxxp": {
@@ -1265,7 +1265,7 @@
     },
     "HqihsQudxQYAtZ5d3AOMSp": {
       "status": "error",
-      "time": 1792583248011,
+      "time": 1792584299602,
       "id": "120363413756684811@g.us",
       "name": "Tahaa Online Trusted Store",
       "size": 55,
@@ -1274,12 +1274,12 @@
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
       "status": "error",
-      "time": 1792583250586,
+      "time": 1792584303667,
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
       "status": "error",
-      "time": 1792583254598,
+      "time": 1792584306872,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 192,
@@ -1352,7 +1352,7 @@
     },
     "LxN9zyC7ep5GAaXaJjj6I5": {
       "status": "error",
-      "time": 1792583274642,
+      "time": 1792584309277,
       "err": "growth-locked"
     },
     "G6mFygLSf2aKZLdAzGo9ZY": {
