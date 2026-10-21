@@ -1224,8 +1224,8 @@
       "approval": false
     },
     "FTxJ6H015s9E47Segohveq": {
-      "status": "valid",
-      "time": 1792583237204,
+      "status": "error",
+      "time": 1792584757662,
       "id": "120363410512249562@g.us",
       "name": "All in one tricks",
       "size": 122,
