@@ -600,12 +600,13 @@
       "approval": false
     },
     "IFMDW6iSQGJ886cFDOZ7HL": {
-      "status": "valid",
-      "time": 1792581673480,
+      "status": "error",
+      "time": 1792582935110,
       "id": "120363426331227655@g.us",
       "name": "Gmail buy & sell group 100% trusted",
       "size": 438,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "E0bILM1JlOB2sEKGiq4SF1": {
       "status": "valid",
