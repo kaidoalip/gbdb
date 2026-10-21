@@ -1101,12 +1101,13 @@
       "approval": true
     },
     "I9fPTnsLJCQEFrGEtoXJH3": {
-      "status": "valid",
-      "time": 1792581766909,
+      "status": "error",
+      "time": 1792583007507,
       "id": "120363433793355130@g.us",
       "name": "Paypal/TN/GV/ All Bank   Trested Group",
       "size": 70,
-      "approval": false
+      "approval": false,
+      "err": "Connection Closed"
     },
     "ENaNfZFy1zeEG1vKgJNGjw": {
       "status": "komunitas",
