@@ -1644,19 +1644,19 @@
       "approval": false
     },
     "I5s4Y3O51I4F0dTNZ4cfUw": {
-      "status": "joined",
-      "time": 1792484677015,
+      "status": "valid",
+      "time": 1792581938352,
       "id": "120363412881169825@g.us",
       "name": "Gv sl buy",
-      "size": 1019,
+      "size": 1025,
       "approval": false
     },
     "Jr4rbju7ul6FFn238meOeq": {
-      "status": "joined",
-      "time": 1792484691741,
+      "status": "valid",
+      "time": 1792581941868,
       "id": "120363414477620974@g.us",
       "name": "❤️OSAMA BUY SALE MARKET ❤️",
-      "size": 14,
+      "size": 32,
       "approval": false
     },
     "DnVuueXNDap1NUJ5X7iDGD": {
@@ -1668,11 +1668,11 @@
       "approval": true
     },
     "ELH4Xte3sWrGe2zYLCetge": {
-      "status": "joined",
-      "time": 1792484720675,
+      "status": "valid",
+      "time": 1792581945044,
       "id": "120363432582708374@g.us",
       "name": "ROOTED IN CHRIST",
-      "size": 270,
+      "size": 304,
       "approval": false
     },
     "I1tV4Gg5NvK7HJkyGYZyV9": {
@@ -1685,7 +1685,7 @@
     },
     "DddUfFXbydsBuZjFaFmfe5": {
       "status": "error",
-      "time": 1792571297709,
+      "time": 1792581949257,
       "err": "bad-request"
     },
     "J3LD5u2IvPcEPbe959TRdY": {
@@ -1697,12 +1697,13 @@
       "approval": true
     },
     "CfdBlq8npGiLFzgf2eJz4S": {
-      "status": "joined",
-      "time": 1792484769747,
+      "status": "error",
+      "time": 1792581953139,
       "id": "120363421534482134@g.us",
       "name": "⚜️🖥️ 🇼‌𝐡𝐚𝐭𝐬𝐀𝐩𝐩 🪀𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧🖥️⚜️",
       "size": 215,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "EsPzNlqb8fcK9Omwmlqx3c": {
       "status": "pending",
@@ -1721,20 +1722,21 @@
       "approval": true
     },
     "JPn2B31QEKAB63jVgYPpT8": {
-      "status": "blocked",
-      "time": 1792567327570,
+      "status": "valid",
+      "time": 1792581957053,
       "id": "120363431093969826@g.us",
       "name": "SHOPPING CENTER ➖",
-      "size": 60,
+      "size": 125,
       "approval": false
     },
     "B9EETPvPRUI8SgrlgWYIcB": {
-      "status": "joined",
-      "time": 1792484832946,
+      "status": "error",
+      "time": 1792581959984,
       "id": "120363432112992491@g.us",
       "name": "FREE WORK CENTER 💰",
       "size": 22,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "LqMyJBseff9C5EoOYrDMpw": {
       "status": "expired",
@@ -1749,28 +1751,29 @@
       "approval": false
     },
     "FQQD7tJj39I24oWeyDKMmD": {
-      "status": "joined",
-      "time": 1792484864350,
+      "status": "valid",
+      "time": 1792581963543,
       "id": "120363427705995122@g.us",
-      "name": "💎 𝗔𝗭𝗔𝗡 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗙𝗔𝗠𝗜𝗟𝗬 💎",
-      "size": 374,
-      "approval": false
+      "name": "𝙏𝙍𝙐𝙎𝙏 𝙕𝙊𝙉𝙀 𝘽𝙔 𝘼𝙕𝘼𝙉 ✌︎㋡",
+      "size": 502,
+      "approval": true
     },
     "JDzJe8s5X9cA0UR5weabFg": {
-      "status": "joined",
-      "time": 1792484879611,
+      "status": "expired",
+      "time": 1792581966571,
       "id": "120363430081321254@g.us",
       "name": "Trusted dealer💝✅",
       "size": 167,
       "approval": false
     },
     "JmEeXeq82e07er5O2GZh10": {
-      "status": "joined",
-      "time": 1792484896674,
+      "status": "error",
+      "time": 1792581970507,
       "id": "120363413819867620@g.us",
       "name": "GLOBAL OTC MARKET✅🇺🇸",
       "size": 97,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "DCioKW6VQ229HUqXJZKS07": {
       "status": "blocked",
