@@ -2217,11 +2217,11 @@
       "err": "growth-locked"
     },
     "DYxi0GRq9j8BBDsHvop5jG": {
-      "status": "joined",
-      "time": 1792628239212,
+      "status": "valid",
+      "time": 1792639429959,
       "id": "120363430567971814@g.us",
       "name": "(8) الیکشن و عُہدے کے اُمیدواران(PTS)",
-      "size": 116,
+      "size": 115,
       "approval": false
     },
     "GkJlIw8NBBFCnmf4xiuv3I": {
@@ -2264,20 +2264,20 @@
     },
     "EEeHXzmDUpeJEaqYyvIYcG": {
       "status": "error",
-      "time": 1792632811488,
+      "time": 1792639432227,
       "err": "bad-request"
     },
     "HPE2sAtYxQx95GEmVyEBZF": {
-      "status": "joined",
-      "time": 1792628290133,
+      "status": "valid",
+      "time": 1792639436395,
       "id": "120363300227072341@g.us",
       "name": "Aliexpress Buy & Sell (Engr. Waqas Ali)",
       "size": 345,
       "approval": false
     },
     "Gu5pQky4LscKC3yBStFa77": {
-      "status": "joined",
-      "time": 1792585412280,
+      "status": "expired",
+      "time": 1792639440543,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 283,
@@ -2324,11 +2324,11 @@
       "approval": true
     },
     "J92HIPIcTmpEhoQW8Yo1aZ": {
-      "status": "joined",
-      "time": 1792628381240,
+      "status": "valid",
+      "time": 1792639444026,
       "id": "120363430493369372@g.us",
       "name": "Verified cicrle ✅✅",
-      "size": 59,
+      "size": 60,
       "approval": false
     },
     "HFf6iHGPhEI7gVetKQOYGJ": {
@@ -2340,11 +2340,11 @@
       "approval": true
     },
     "JEdzYznsH79CpRyNGJG1Yc": {
-      "status": "joined",
-      "time": 1792582165910,
+      "status": "valid",
+      "time": 1792639447991,
       "id": "120363327665953675@g.us",
       "name": "Cloud buy/ sell place",
-      "size": 382,
+      "size": 380,
       "approval": false
     },
     "FbN8QYvWHUBLPbOFGNNmfd": {
@@ -2370,8 +2370,8 @@
       "approval": true
     },
     "FdMKAcjiFqfAXibAutoOWY": {
-      "status": "joined",
-      "time": 1792591856464,
+      "status": "expired",
+      "time": 1792639451992,
       "id": "120363431985016561@g.us",
       "name": "خرید و فروخت پشاور 🌏",
       "size": 313,
@@ -2386,27 +2386,27 @@
       "approval": true
     },
     "EV4Z3A5zOrB7DgOecbADF9": {
-      "status": "joined",
-      "time": 1792628457724,
+      "status": "valid",
+      "time": 1792639456115,
       "id": "120363412451504468@g.us",
       "name": "CloudCart India ☁️🛍️",
-      "size": 307,
+      "size": 310,
       "approval": true
     },
     "EcfBS5oZ3F62LPmcOUrxnB": {
-      "status": "joined",
-      "time": 1792628474133,
+      "status": "valid",
+      "time": 1792639460195,
       "id": "120363428317228977@g.us",
       "name": "SAM✨Cloud Buy / Sell 🛍️",
-      "size": 224,
+      "size": 228,
       "approval": true
     },
     "Lvm1ryxjxDeAxJrVC0Iq7C": {
-      "status": "joined",
-      "time": 1792628491715,
+      "status": "valid",
+      "time": 1792639464005,
       "id": "120363412593925656@g.us",
       "name": "𝙂𝘼𝙇𝘼𝙓𝙔 𝘾𝙇𝙊𝙐𝘿𝙎 𝙎𝙀𝙍𝙑𝙄𝘾𝙀",
-      "size": 69,
+      "size": 70,
       "approval": false
     },
     "CmGIhO4giHeLJkaRKHYhit": {
