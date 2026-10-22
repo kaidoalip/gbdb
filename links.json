@@ -1666,12 +1666,13 @@
       "approval": false
     },
     "I5s4Y3O51I4F0dTNZ4cfUw": {
-      "status": "valid",
-      "time": 1792626499287,
+      "status": "error",
+      "time": 1792627662380,
       "id": "120363412881169825@g.us",
       "name": "Gv sl buy",
       "size": 1025,
-      "approval": false
+      "approval": false,
+      "err": "resource-limit"
     },
     "Jr4rbju7ul6FFn238meOeq": {
       "status": "valid",
