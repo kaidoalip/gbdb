@@ -279,24 +279,24 @@
       "err": "bad-request"
     },
     "D0uqD21NrwbABP9c9ByPDb": {
-      "status": "joined",
-      "time": 1792582617585,
+      "status": "valid",
+      "time": 1792638999634,
       "id": "120363421248171716@g.us",
       "name": "🐯 🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁☯𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐯",
-      "size": 603,
+      "size": 599,
       "approval": false
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
-      "status": "joined",
-      "time": 1792582632903,
+      "status": "valid",
+      "time": 1792639002836,
       "id": "120363412226638074@g.us",
       "name": "🐼🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁❁𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐼",
-      "size": 73,
+      "size": 75,
       "approval": true
     },
     "LadQDjuT42jKZxovvZnkjr": {
       "status": "error",
-      "time": 1792632756071,
+      "time": 1792639006071,
       "id": "120363427918476896@g.us",
       "name": "🔥Blasting Data & Leads 🌏",
       "size": 249,
@@ -304,11 +304,11 @@
       "err": "bad-request"
     },
     "FKUbsly6ZdQ8DWlBK0N3is": {
-      "status": "joined",
-      "time": 1792582650180,
+      "status": "valid",
+      "time": 1792639009161,
       "id": "120363412564191619@g.us",
       "name": "ISHAQ_✅",
-      "size": 35,
+      "size": 36,
       "approval": false
     },
     "B9LA4cCgg7BC8X95hOKm2S": {
@@ -320,40 +320,40 @@
       "approval": false
     },
     "LDZT2ttQJ4OBU1UqyMVV6O": {
-      "status": "joined",
-      "time": 1792582667626,
+      "status": "valid",
+      "time": 1792639012771,
       "id": "120363306982867484@g.us",
       "name": "MWS Clouds (AWS, AZURE, DIGITAL OCEAN, GCP, LINODE) HUB",
       "size": 128,
       "approval": false
     },
     "Hhkf5cmBra8AC9pE8AnZXf": {
-      "status": "joined",
-      "time": 1792582683467,
+      "status": "valid",
+      "time": 1792639016750,
       "id": "120363431036654238@g.us",
       "name": "GPC By Sardar Log 🫴",
-      "size": 38,
+      "size": 40,
       "approval": false
     },
     "BBX2EjEXiMFANqV9Lv1MGe": {
-      "status": "joined",
-      "time": 1792582697614,
+      "status": "valid",
+      "time": 1792639019662,
       "id": "120363428308866376@g.us",
       "name": "𝗦𝗔𝗜𝗙 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗦𝗘𝗟𝗟𝗘𝗥𝗦 ✅🔥",
-      "size": 201,
+      "size": 200,
       "approval": true
     },
     "FZb9NYcr8p71wt5kxAT1O5": {
-      "status": "joined",
-      "time": 1792582711760,
+      "status": "valid",
+      "time": 1792639022509,
       "id": "120363413873783036@g.us",
       "name": "Hassan seller",
-      "size": 83,
+      "size": 84,
       "approval": false
     },
     "EJQCp5KUZYMAxwFdtEZBg5": {
       "status": "error",
-      "time": 1792632760030,
+      "time": 1792639024895,
       "id": "120363414508098170@g.us",
       "name": "DANNY MOBILE SOFTWARE SOLUTION",
       "size": 922,
@@ -369,8 +369,8 @@
       "approval": true
     },
     "JpGGkuZIddV2IE02BpuKlX": {
-      "status": "joined",
-      "time": 1792626030886,
+      "status": "error",
+      "time": 1792639028465,
       "id": "120363413302171660@g.us",
       "name": "Bor",
       "size": 11,
