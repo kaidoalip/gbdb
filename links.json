@@ -1,8 +1,8 @@
 {
   "links": {
     "IJ5S5HhHzRF0owJBPRtStC": {
-      "status": "joined",
-      "time": 1792584969415,
+      "status": "error",
+      "time": 1792638927284,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 121,
@@ -11,7 +11,7 @@
     },
     "Ba8vGDOZWJ52hPOa4NXpOr": {
       "status": "error",
-      "time": 1792632739054,
+      "time": 1792638931520,
       "id": "120363429817848801@g.us",
       "name": "SALER'S and BUYER'S 🤝",
       "size": 409,
@@ -27,24 +27,24 @@
       "approval": false
     },
     "FAfE6Y0tJIbLD1B7W4iq5i": {
-      "status": "joined",
-      "time": 1792582388090,
+      "status": "valid",
+      "time": 1792638934555,
       "id": "120363413115265909@g.us",
       "name": "RAO Gmail group buy and sell",
-      "size": 287,
+      "size": 289,
       "approval": false
     },
     "GSeAAYhyhwfCTpRFHgrCxa": {
-      "status": "blocked",
-      "time": 1792626313622,
+      "status": "valid",
+      "time": 1792638937422,
       "id": "120363420130331141@g.us",
       "name": "𝘾𝙡𝙤𝙪𝙙𝙉𝙚𝙨𝙩 𝙒𝙤𝙧𝙡𝙙........",
-      "size": 400,
+      "size": 397,
       "approval": false
     },
     "K87NgQb7ccgIYXvRBrVk8G": {
-      "status": "joined",
-      "time": 1792582417976,
+      "status": "expired",
+      "time": 1792638940908,
       "id": "120363410594790817@g.us",
       "name": "🛡️ M.UMAIS YT BUY & SELL",
       "size": 350,
@@ -75,24 +75,24 @@
       "approval": true
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "joined",
-      "time": 1792582437121,
+      "status": "valid",
+      "time": 1792638944853,
       "id": "120363419140015193@g.us",
       "name": "SK Travels",
-      "size": 849,
+      "size": 847,
       "approval": false
     },
     "H8d2AEt7jr5IImgBxnZUaS": {
-      "status": "joined",
-      "time": 1792582450202,
+      "status": "valid",
+      "time": 1792638947599,
       "id": "120363430557841016@g.us",
       "name": "🥳🥳Esha cloud sell,buy market🤩🤩",
-      "size": 10,
+      "size": 11,
       "approval": false
     },
     "CiSd7npLqKcDWdhjxxAxYG": {
       "status": "error",
-      "time": 1792632742765,
+      "time": 1792638951795,
       "id": "120363430259871317@g.us",
       "name": "Majid Cloud Creator",
       "size": 58,
@@ -101,7 +101,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792632746553,
+      "time": 1792638954758,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -110,7 +110,7 @@
     },
     "BR1sPyUPn1H8ncasuy5QQu": {
       "status": "error",
-      "time": 1792632750058,
+      "time": 1792638957066,
       "id": "120363415129532642@g.us",
       "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
       "size": 220,
