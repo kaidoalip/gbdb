@@ -3598,12 +3598,16 @@
       "approval": true
     },
     "L4fIBSq8Xkt4TmLaEC1nhu": {
-      "status": "new",
-      "time": 1792634154120
+      "status": "valid",
+      "time": 1792639764728,
+      "id": "120363431043491676@g.us",
+      "name": "New Movies Group",
+      "size": 752,
+      "approval": true
     },
     "IYJZC6uodBiFLXvhH13NDG": {
-      "status": "new",
-      "time": 1792634274023
+      "status": "expired",
+      "time": 1792639767896
     }
   }
 }
