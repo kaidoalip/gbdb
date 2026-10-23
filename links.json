@@ -4128,12 +4128,13 @@
       "err": "already-exists"
     },
     "Dx60oL9yJjc8lYOZQLOOkt": {
-      "status": "valid",
-      "time": 1792657855935,
+      "status": "joined",
+      "time": 1792722504085,
       "id": "120363432064294167@g.us",
       "name": "PRO SALER'S & BUYERS 🤝👑",
       "size": 103,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "LAvimHks4b8BEarju944UM": {
       "status": "valid",
