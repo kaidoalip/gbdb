@@ -4164,12 +4164,13 @@
       "err": "already-exists"
     },
     "JAB6FwCofmgAf4kDyKGLEC": {
-      "status": "valid",
-      "time": 1792657870641,
+      "status": "joined",
+      "time": 1792722561520,
       "id": "120363429995370877@g.us",
       "name": "INTERNATIONAL BUYER'S 🤝",
       "size": 86,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "Fq6PyPldPAfCU5a4yIc2ys": {
       "status": "valid",
