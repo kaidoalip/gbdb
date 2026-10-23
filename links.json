@@ -622,57 +622,63 @@
       "approval": false
     },
     "BSJArujbGQWLWwCbaE6v9u": {
-      "status": "blocked",
-      "time": 1792741374966,
+      "status": "valid",
+      "time": 1792743225873,
       "id": "120363428520967411@g.us",
       "name": "YT Buy & Sell",
-      "size": 479,
-      "approval": false
+      "size": 501,
+      "approval": false,
+      "announce": false
     },
     "IFMDW6iSQGJ886cFDOZ7HL": {
-      "status": "joined",
-      "time": 1792640286483,
+      "status": "valid",
+      "time": 1792743229552,
       "id": "120363426331227655@g.us",
       "name": "Gmail buy & sell group 100% trusted",
-      "size": 444,
+      "size": 456,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "E0bILM1JlOB2sEKGiq4SF1": {
-      "status": "joined",
-      "time": 1792640301420,
+      "status": "valid",
+      "time": 1792743232683,
       "id": "120363428232192564@g.us",
       "name": "GMAIL BUY & SELL TRUSTED GROUP\n(Parvez)",
-      "size": 145,
+      "size": 146,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "BnqGQzVTW3KIRuDb8YHLDm": {
-      "status": "joined",
-      "time": 1792640317667,
+      "status": "valid",
+      "time": 1792743236476,
       "id": "120363415992310059@g.us",
       "name": "✅\"Mix domen call Its Group\"✅",
-      "size": 308,
+      "size": 310,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "G7W8OZMtOg9BYmA1EuUOgB": {
-      "status": "joined",
-      "time": 1792640334403,
+      "status": "valid",
+      "time": 1792743240372,
       "id": "120363438239736588@g.us",
       "name": "Usman YT Buy & Sell 🫶🏻",
-      "size": 240,
+      "size": 260,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "KETgrAxbzn3Fc5ZgM6szLb": {
-      "status": "joined",
-      "time": 1792640350562,
+      "status": "valid",
+      "time": 1792743242806,
       "id": "120363412711807556@g.us",
       "name": "Abdul Moiz Market",
-      "size": 107,
+      "size": 109,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "FLhlgW0aQ3D0xgp0YdoG2v": {
       "status": "pending",
@@ -691,8 +697,8 @@
       "approval": true
     },
     "HRtjDmorU15JLrnzp0tmd6": {
-      "status": "joined",
-      "time": 1792725312394,
+      "status": "error",
+      "time": 1792743246361,
       "id": "120363430059262558@g.us",
       "name": "Mix Domain Data & leads",
       "size": 163,
@@ -812,13 +818,14 @@
       "approval": false
     },
     "H8gabSt8RiW8sWWWgWuKnm": {
-      "status": "joined",
-      "time": 1792640385707,
+      "status": "valid",
+      "time": 1792743250064,
       "id": "120363402810226467@g.us",
       "name": "Admob & Applovin ... and GPC buy/sell by ( Ghazalio👑 & Mahi Khan🦋)",
-      "size": 366,
+      "size": 365,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "L0KvT9y8IQAAobNHcYwbPs": {
       "status": "expired",
@@ -869,13 +876,14 @@
       "approval": false
     },
     "LjxXa4fujA38zgdNkuYL3p": {
-      "status": "joined",
-      "time": 1792640404594,
+      "status": "valid",
+      "time": 1792743253872,
       "id": "120363423314664388@g.us",
       "name": "Zainab's broadcast🥰🥰",
       "size": 258,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "CxWblUoUbQuF9NlMKft1fz": {
       "status": "pending",
@@ -894,13 +902,14 @@
       "approval": false
     },
     "GaulBx8R5kcFP7GhG471bC": {
-      "status": "joined",
-      "time": 1792640419848,
+      "status": "valid",
+      "time": 1792743256933,
       "id": "120363420941057517@g.us",
       "name": "ROY INDIAN CLOUDS SELLER 💖✅",
-      "size": 252,
+      "size": 250,
       "approval": true,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "CbwdnCjeB9mFtTA3uSRnME": {
       "status": "pending",
