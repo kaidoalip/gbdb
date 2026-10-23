@@ -1627,7 +1627,7 @@
     },
     "DADbJK3yHpC8GSmHqUCdXk": {
       "status": "error",
-      "time": 1792741410819,
+      "time": 1792743400239,
       "id": "120363413079657556@g.us",
       "name": "🇵🇰⃟█▂▃ɪɴᴋ•🇬ʳᵒᵘᵖ•²⁰²⁶❉্᭄͜͡ (¹)",
       "size": 325,
@@ -1635,24 +1635,26 @@
       "err": "growth-locked"
     },
     "H3U1bIAItsfBFObfY9RcUK": {
-      "status": "joined",
-      "time": 1792642316059,
+      "status": "valid",
+      "time": 1792743402607,
       "id": "120363411263530565@g.us",
       "name": "ISLAMIC OFFOICAL TikTok/Shop💫",
       "size": 174,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "KLnfOhOVG1g3r9J3ZF8xdA": {
-      "status": "joined",
-      "time": 1792642333643,
+      "status": "valid",
+      "time": 1792743406350,
       "id": "120363430445111187@g.us",
       "name": "LunarisPro V4.0",
-      "size": 165,
-      "approval": false
+      "size": 173,
+      "approval": false,
+      "announce": false
     },
     "LUdTtIfv3vZJygW34CoWGZ": {
       "status": "error",
-      "time": 1792741413657,
+      "time": 1792743409353,
       "id": "120363432960277414@g.us",
       "name": "KOD📊📈 🇬🇸🇬🇧🇱🇷",
       "size": 211,
@@ -1668,44 +1670,49 @@
       "approval": true
     },
     "LQ6pTRvj7S6BER8Nv21mkA": {
-      "status": "joined",
-      "time": 1792642346838,
+      "status": "valid",
+      "time": 1792743413334,
       "id": "120363430470994201@g.us",
       "name": "Z tech Offical",
       "size": 18,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "CLYEc415Flb5WwuC0QFDeI": {
-      "status": "joined",
-      "time": 1792642361349,
+      "status": "valid",
+      "time": 1792743417185,
       "id": "120363432126537546@g.us",
       "name": "YouTube Service Only",
-      "size": 66,
-      "approval": false
+      "size": 83,
+      "approval": false,
+      "announce": false
     },
     "C8ug7qWoMMFARJGGSRpZkf": {
-      "status": "joined",
-      "time": 1792642376766,
+      "status": "valid",
+      "time": 1792743421317,
       "id": "120363411259045245@g.us",
       "name": "👑 PUBG Account Market Pakistan 👑",
-      "size": 20,
-      "approval": false
+      "size": 21,
+      "approval": false,
+      "announce": false
     },
     "ED72r8wAnfr0I0hD55FygH": {
-      "status": "blocked",
-      "time": 1792741416757,
+      "status": "valid",
+      "time": 1792743424305,
       "id": "120363431481300707@g.us",
       "name": "خوشاب میانوالی OLX بازار - خرید و فروخت سنٹر",
-      "size": 106,
-      "approval": false
+      "size": 97,
+      "approval": true,
+      "announce": false
     },
     "BklXNdPvGCDHDELLeW4Zm2": {
-      "status": "joined",
-      "time": 1792645355891,
+      "status": "valid",
+      "time": 1792743427701,
       "id": "120363422472656309@g.us",
       "name": "𝐔𝐒𝐄𝐃 𝐆𝐌𝐀𝐈𝐋 𝐁𝐔𝐘//𝐒𝐄𝐋𝐋🇧🇩🇵🇰🇮🇳🇺🇸🇮🇷🇮🇹🤝",
-      "size": 997,
-      "approval": false
+      "size": 1005,
+      "approval": false,
+      "announce": false
     },
     "FJL0LMt1gZfJXw9vO1bc28": {
       "status": "komunitas",
@@ -1740,8 +1747,8 @@
       "approval": false
     },
     "I5s4Y3O51I4F0dTNZ4cfUw": {
-      "status": "error",
-      "time": 1792742029107,
+      "status": "valid",
+      "time": 1792743432001,
       "id": "120363412881169825@g.us",
       "name": "Gv sl buy",
       "size": 1025,
