@@ -1456,49 +1456,54 @@
       "time": 1792468008714
     },
     "KDxoFEFRUuhJnkRamyIkIG": {
-      "status": "joined",
-      "time": 1792642168674,
+      "status": "valid",
+      "time": 1792743363709,
       "id": "120363432662174464@g.us",
       "name": "Global Gift Card Network🇺🇸",
-      "size": 50,
-      "approval": true
+      "size": 62,
+      "approval": true,
+      "announce": false
     },
     "FoIglSk0mwu0Ad4KprMDWY": {
-      "status": "joined",
-      "time": 1792642184658,
+      "status": "valid",
+      "time": 1792743367892,
       "id": "120363430236852059@g.us",
       "name": "TN, TP, SL, TF & Gmail BD Premium Accounts Hub",
-      "size": 93,
-      "approval": false
+      "size": 103,
+      "approval": false,
+      "announce": false
     },
     "KSJLKDLQVCUDcdu0LmgIXk": {
-      "status": "joined",
-      "time": 1792642199763,
+      "status": "valid",
+      "time": 1792743371027,
       "id": "120363432748944367@g.us",
       "name": "Uk sim Only for wholsaler",
-      "size": 64,
-      "approval": false
+      "size": 86,
+      "approval": false,
+      "announce": false
     },
     "BW4RxfI8IXILcTsPleiPpp": {
-      "status": "joined",
-      "time": 1792642216336,
+      "status": "valid",
+      "time": 1792743374081,
       "id": "120363430059262558@g.us",
       "name": "Mix Domain Data & leads",
-      "size": 189,
-      "approval": true
+      "size": 203,
+      "approval": true,
+      "announce": false
     },
     "JMJFZ9bnvyuAJFLHdF0CGA": {
       "status": "error",
-      "time": 1792741407474,
+      "time": 1792743377528,
       "err": "bad-request"
     },
     "GML6iM4dPMH1H3fiMAjEEh": {
-      "status": "joined",
-      "time": 1792642234572,
+      "status": "valid",
+      "time": 1792743381647,
       "id": "120363412196133054@g.us",
       "name": "Earn with Imtiaz",
-      "size": 214,
-      "approval": false
+      "size": 227,
+      "approval": false,
+      "announce": false
     },
     "CjhffGccurc3fQbD0F8l3e": {
       "status": "pending",
@@ -1509,12 +1514,13 @@
       "approval": true
     },
     "K4GpEGffaIg5uFQmnCzAB5": {
-      "status": "joined",
-      "time": 1792642252602,
+      "status": "valid",
+      "time": 1792743385808,
       "id": "120363431409828423@g.us",
       "name": "Learn Amazon E Commerce Free",
-      "size": 72,
-      "approval": false
+      "size": 70,
+      "approval": false,
+      "announce": false
     },
     "HXH68ZBj1BJCjfnlNzN047": {
       "status": "expired",
@@ -1525,12 +1531,13 @@
       "time": 1792471605217
     },
     "EIn4xxJ2HPIBE5Vv42RJKd": {
-      "status": "joined",
-      "time": 1792642267090,
+      "status": "valid",
+      "time": 1792743388201,
       "id": "120363428931657310@g.us",
       "name": "Tt tp tn tf gv buy sell group ❤️❤️",
       "size": 222,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "FeJlfvQfUSUDuuYAo6z20T": {
       "status": "expired",
@@ -1593,20 +1600,22 @@
       "approval": false
     },
     "EHQEwDg7jbm4RoaIyAbR5q": {
-      "status": "joined",
-      "time": 1792642282588,
+      "status": "valid",
+      "time": 1792743392432,
       "id": "120363427703862229@g.us",
       "name": "👑 NEXVORA | DIGITAL MARKETING 🚀💻✨",
-      "size": 126,
-      "approval": false
+      "size": 127,
+      "approval": false,
+      "announce": false
     },
     "Gv7053uJgHB8OPvLlP5KBZ": {
-      "status": "joined",
-      "time": 1792642298130,
+      "status": "valid",
+      "time": 1792743395967,
       "id": "120363396422552732@g.us",
       "name": "Gmail Needs Group Daily",
-      "size": 197,
-      "approval": true
+      "size": 195,
+      "approval": true,
+      "announce": false
     },
     "Fl0eiYSe0dw4LV0Crm8T18": {
       "status": "pending",
