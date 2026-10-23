@@ -4146,12 +4146,13 @@
       "err": "already-exists"
     },
     "DncOWLEgmxi57qgOwHqcXJ": {
-      "status": "valid",
-      "time": 1792657864290,
+      "status": "joined",
+      "time": 1792722532781,
       "id": "120363412979444303@g.us",
       "name": "World best SALER'S & BUYER'S 🤝",
       "size": 103,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "Dt2k3HakL0IABadgavXxA2": {
       "status": "valid",
