@@ -4190,12 +4190,13 @@
       "err": "already-exists"
     },
     "Eo1vwnQFD6XLBCc7zPvdkk": {
-      "status": "valid",
-      "time": 1792657883085,
+      "status": "joined",
+      "time": 1792722596119,
       "id": "120363412177504594@g.us",
       "name": "YOUTUBE EXPERT'S 🤝",
       "size": 990,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "Fk8w3pMvG0F3wCYP4j2UFh": {
       "status": "valid",
