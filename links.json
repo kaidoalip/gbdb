@@ -1757,12 +1757,13 @@
       "announce": false
     },
     "Jr4rbju7ul6FFn238meOeq": {
-      "status": "joined",
-      "time": 1792645397117,
+      "status": "valid",
+      "time": 1792743437602,
       "id": "120363414477620974@g.us",
       "name": "❤️OSAMA BUY SALE MARKET ❤️",
-      "size": 34,
-      "approval": false
+      "size": 37,
+      "approval": false,
+      "announce": false
     },
     "DnVuueXNDap1NUJ5X7iDGD": {
       "status": "pending",
@@ -1773,12 +1774,13 @@
       "approval": true
     },
     "ELH4Xte3sWrGe2zYLCetge": {
-      "status": "joined",
-      "time": 1792645415990,
+      "status": "valid",
+      "time": 1792743441267,
       "id": "120363432582708374@g.us",
       "name": "ROOTED IN CHRIST",
-      "size": 317,
-      "approval": false
+      "size": 349,
+      "approval": false,
+      "announce": false
     },
     "I1tV4Gg5NvK7HJkyGYZyV9": {
       "status": "komunitas",
@@ -1790,7 +1792,7 @@
     },
     "DddUfFXbydsBuZjFaFmfe5": {
       "status": "error",
-      "time": 1792741422607,
+      "time": 1792743443963,
       "err": "bad-request"
     },
     "J3LD5u2IvPcEPbe959TRdY": {
@@ -1802,8 +1804,8 @@
       "approval": true
     },
     "CfdBlq8npGiLFzgf2eJz4S": {
-      "status": "joined",
-      "time": 1792725351989,
+      "status": "error",
+      "time": 1792743446198,
       "id": "120363421534482134@g.us",
       "name": "⚜️🖥️ 🇼‌𝐡𝐚𝐭𝐬𝐀𝐩𝐩 🪀𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧🖥️⚜️",
       "size": 215,
@@ -1811,12 +1813,13 @@
       "err": "bad-request"
     },
     "EsPzNlqb8fcK9Omwmlqx3c": {
-      "status": "joined",
-      "time": 1792484783847,
+      "status": "error",
+      "time": 1792743449836,
       "id": "120363413096469198@g.us",
       "name": "𝄞🧸⃝.  𝒢𝓊𝓂𝓃𝒶𝒶𝓂᭄🐼ᥫ᭡",
       "size": 2,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "D5ZZ6IUmjE72R73FUfDMnn": {
       "status": "pending",
@@ -1836,7 +1839,7 @@
     },
     "B9EETPvPRUI8SgrlgWYIcB": {
       "status": "error",
-      "time": 1792741424898,
+      "time": 1792743452767,
       "id": "120363432112992491@g.us",
       "name": "FREE WORK CENTER 💰",
       "size": 22,
@@ -1856,12 +1859,13 @@
       "approval": false
     },
     "FQQD7tJj39I24oWeyDKMmD": {
-      "status": "joined",
-      "time": 1792645432049,
+      "status": "valid",
+      "time": 1792743455903,
       "id": "120363427705995122@g.us",
       "name": "𝙏𝙍𝙐𝙎𝙏 𝙕𝙊𝙉𝙀 𝘽𝙔 𝘼𝙕𝘼𝙉 ✌︎㋡",
-      "size": 498,
-      "approval": true
+      "size": 497,
+      "approval": true,
+      "announce": false
     },
     "JDzJe8s5X9cA0UR5weabFg": {
       "status": "expired",
@@ -1873,7 +1877,7 @@
     },
     "JmEeXeq82e07er5O2GZh10": {
       "status": "error",
-      "time": 1792741427431,
+      "time": 1792743459717,
       "id": "120363413819867620@g.us",
       "name": "GLOBAL OTC MARKET✅🇺🇸",
       "size": 97,
@@ -1881,12 +1885,13 @@
       "err": "bad-request"
     },
     "DCioKW6VQ229HUqXJZKS07": {
-      "status": "joined",
-      "time": 1792645448403,
+      "status": "valid",
+      "time": 1792743463918,
       "id": "120363429077935164@g.us",
       "name": "[ 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐈𝐃 𝐁𝐔𝐘 & 𝐒𝐄𝐋𝐋 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐓𝐘]✅",
-      "size": 661,
-      "approval": false
+      "size": 651,
+      "approval": false,
+      "announce": false
     },
     "JlOblMH0Jz4HHUEBdyX6JH": {
       "status": "expired",
@@ -1905,12 +1910,13 @@
       "time": 1792484047113
     },
     "BuViN32xQcXEQCg9jv0ogP": {
-      "status": "joined",
-      "time": 1792645466675,
+      "status": "valid",
+      "time": 1792743467815,
       "id": "120363300291215356@g.us",
       "name": "PEOPLE ZAHIR",
-      "size": 923,
-      "approval": false
+      "size": 954,
+      "approval": true,
+      "announce": false
     },
     "F3KEBSKUyAZFj2SrYNSYOD": {
       "status": "joined",
