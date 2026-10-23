@@ -5597,32 +5597,67 @@
       "announce": false
     },
     "J7umRPQHC6K1rpwq2MQzOX": {
-      "status": "new",
-      "time": 1792740108589
+      "status": "valid",
+      "time": 1792741953226,
+      "id": "120363407687600082@g.us",
+      "name": "Q&A GROUP",
+      "size": 195,
+      "approval": false,
+      "announce": false
     },
     "GN5PY9hJuRF8spyRN2bEYl": {
-      "status": "new",
-      "time": 1792740228490
+      "status": "valid",
+      "time": 1792741956247,
+      "id": "120363392379928818@g.us",
+      "name": "MS.Solar Energy",
+      "size": 180,
+      "approval": true,
+      "announce": false
     },
     "Gxdb94Xtb7PLHWA3VDUYdc": {
-      "status": "new",
-      "time": 1792740588874
+      "status": "valid",
+      "time": 1792741958862,
+      "id": "120363295398382307@g.us",
+      "name": "SKST Pan India Property Deals",
+      "size": 374,
+      "approval": false,
+      "announce": false
     },
     "EZQeOzKRiAwKBMwsFaOmOB": {
-      "status": "new",
-      "time": 1792740828406
+      "status": "valid",
+      "time": 1792741963096,
+      "id": "120363428004576712@g.us",
+      "name": "🇵🇰 Pakistan Buy & Sell | Har Shehar Se, Har Shehar Tak 🚚🛒",
+      "size": 70,
+      "approval": false,
+      "announce": false
     },
     "LhKmGF93dfD9JZikL1IXAw": {
-      "status": "new",
-      "time": 1792740828406
+      "status": "valid",
+      "time": 1792741967148,
+      "id": "120363415325471658@g.us",
+      "name": "ALL KYC GB PLUX",
+      "size": 64,
+      "approval": true,
+      "announce": false
     },
     "JLUVzMuvC8q30EdMR7lakQ": {
-      "status": "new",
-      "time": 1792740828406
+      "status": "valid",
+      "time": 1792741970356,
+      "id": "120363414035329130@g.us",
+      "name": "PENERBIT YANS STORE",
+      "size": 6,
+      "approval": true,
+      "announce": false
     },
     "BLL9NbFcjCT3UuF70cjon3": {
-      "status": "new",
-      "time": 1792740948520
+      "status": "valid",
+      "time": 1792741973675,
+      "id": "120363428050333281@g.us",
+      "name": "🌟Wahab truested saler 🌟🌟",
+      "size": 226,
+      "approval": false,
+      "announce": false
     }
   }
 }
