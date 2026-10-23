@@ -2257,12 +2257,13 @@
       "approval": false
     },
     "LmrLnPxPLr4LGaRE2yAy2g": {
-      "status": "joined",
-      "time": 1792645827493,
+      "status": "valid",
+      "time": 1792743547709,
       "id": "120363412381386840@g.us",
       "name": "AR Free Automation Courses",
-      "size": 447,
-      "approval": false
+      "size": 442,
+      "approval": false,
+      "announce": false
     },
     "CxnQw3hmPBnBoxYj6iffZk": {
       "status": "expired",
@@ -2273,12 +2274,13 @@
       "time": 1792567483867
     },
     "JDlnMTAqv9LDv18kIdvsyD": {
-      "status": "joined",
-      "time": 1792645845659,
+      "status": "valid",
+      "time": 1792743551826,
       "id": "120363411898825454@g.us",
       "name": "✤͜🖤⃛⃟🇫ᴀ͟͞ᴍ͟͞ɪ͟͞ʟ͟͞ʏ☆🇷 ᴏ̲̅ᴏ̲̅ᴍ̲̅🏠⃛͜⃟🖤✤",
-      "size": 490,
-      "approval": false
+      "size": 519,
+      "approval": false,
+      "announce": false
     },
     "L9usLjaU75Y7GBflNCn4rt": {
       "status": "komunitas",
@@ -2291,24 +2293,26 @@
       "time": 1792567494860
     },
     "GKeVo1E9neVABwPfXD8Nnk": {
-      "status": "joined",
-      "time": 1792645861820,
+      "status": "valid",
+      "time": 1792743555670,
       "id": "120363418475367514@g.us",
       "name": "❤️❣️ تلاوت قرآن پاک🌹❤",
-      "size": 545,
-      "approval": false
+      "size": 567,
+      "approval": false,
+      "announce": false
     },
     "ENRDBtuXkSE6briuTJxL53": {
-      "status": "joined",
-      "time": 1792645881500,
+      "status": "valid",
+      "time": 1792743559987,
       "id": "120363364985243488@g.us",
       "name": "꧁✨ســــــــفــر❤آخـــــرت❤✨꧂",
-      "size": 421,
-      "approval": false
+      "size": 424,
+      "approval": false,
+      "announce": false
     },
     "ImLBaKyBWRMKOkDWnPztBZ": {
-      "status": "joined",
-      "time": 1792646908970,
+      "status": "expired",
+      "time": 1792743562537,
       "id": "120363410126296232@g.us",
       "name": "All work group H.J❣️",
       "size": 282,
@@ -2316,7 +2320,7 @@
     },
     "H1Hvrn8tRAZFyUvBkog3dh": {
       "status": "error",
-      "time": 1792741440021,
+      "time": 1792743566154,
       "err": "growth-locked"
     },
     "DYxi0GRq9j8BBDsHvop5jG": {
@@ -2367,16 +2371,17 @@
     },
     "EEeHXzmDUpeJEaqYyvIYcG": {
       "status": "error",
-      "time": 1792741446840,
+      "time": 1792743569593,
       "err": "bad-request"
     },
     "HPE2sAtYxQx95GEmVyEBZF": {
-      "status": "joined",
-      "time": 1792646947245,
+      "status": "valid",
+      "time": 1792743573545,
       "id": "120363300227072341@g.us",
       "name": "Aliexpress Buy & Sell (Engr. Waqas Ali)",
-      "size": 346,
-      "approval": false
+      "size": 359,
+      "approval": false,
+      "announce": false
     },
     "Gu5pQky4LscKC3yBStFa77": {
       "status": "expired",
@@ -2427,12 +2432,13 @@
       "approval": true
     },
     "J92HIPIcTmpEhoQW8Yo1aZ": {
-      "status": "joined",
-      "time": 1792646964430,
+      "status": "valid",
+      "time": 1792743576478,
       "id": "120363430493369372@g.us",
       "name": "Verified cicrle ✅✅",
-      "size": 60,
-      "approval": false
+      "size": 66,
+      "approval": false,
+      "announce": false
     },
     "HFf6iHGPhEI7gVetKQOYGJ": {
       "status": "pending",
@@ -2443,12 +2449,13 @@
       "approval": true
     },
     "JEdzYznsH79CpRyNGJG1Yc": {
-      "status": "joined",
-      "time": 1792646984498,
+      "status": "valid",
+      "time": 1792743578962,
       "id": "120363327665953675@g.us",
       "name": "Cloud buy/ sell place",
-      "size": 379,
-      "approval": false
+      "size": 378,
+      "approval": false,
+      "announce": false
     },
     "FbN8QYvWHUBLPbOFGNNmfd": {
       "status": "komunitas",
