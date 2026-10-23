@@ -952,8 +952,8 @@
       "approval": false
     },
     "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "joined",
-      "time": 1792742001635,
+      "status": "valid",
+      "time": 1792743261398,
       "id": "120363412768061441@g.us",
       "name": "Roshan Bhai Trusted seller ✅",
       "size": 62,
@@ -987,26 +987,28 @@
       "err": "Connection Closed"
     },
     "0gIq10VfdMt5Rdzzcl6ODh": {
-      "status": "joined",
-      "time": 1792640459907,
+      "status": "valid",
+      "time": 1792743265192,
       "id": "85298098259-1490440135@g.us",
       "name": "LinkedIn Rental business",
       "size": 308,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "DU0kN9EuhYo1hDjRp9vkh0": {
-      "status": "joined",
-      "time": 1792640475385,
+      "status": "valid",
+      "time": 1792743269185,
       "id": "120363421633025461@g.us",
       "name": "Digital Marketing",
-      "size": 214,
+      "size": 219,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "GmNSH0pVFc35dNkKeOGETo": {
       "status": "error",
-      "time": 1792741380265,
+      "time": 1792743271714,
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
@@ -1042,40 +1044,44 @@
       "approval": true
     },
     "LTSzW5t16rR56HLhbvcZv7": {
-      "status": "joined",
-      "time": 1792640493147,
+      "status": "valid",
+      "time": 1792743275196,
       "id": "120363430600679894@g.us",
       "name": "Link Group 🔗",
-      "size": 301,
+      "size": 304,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "DImIDPAeWoV2bZew24Fu1z": {
-      "status": "joined",
-      "time": 1792640506801,
+      "status": "valid",
+      "time": 1792743279025,
       "id": "120363429798212585@g.us",
       "name": "🔥 uLTiMaTuM cLoUdS 💠\nBuy✅SELL",
-      "size": 194,
+      "size": 202,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "DndNdhQGu0J7nNektRT74K": {
-      "status": "joined",
-      "time": 1792640525249,
+      "status": "valid",
+      "time": 1792743281969,
       "id": "120363430929760293@g.us",
       "name": "CLOUD VPS AND RDP SERVICE PLATFORM",
-      "size": 108,
+      "size": 115,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "BpPDCimwUAYEYp2ei48G3T": {
-      "status": "joined",
-      "time": 1792640539829,
+      "status": "valid",
+      "time": 1792743285274,
       "id": "120363413385708115@g.us",
       "name": "🇹 🇳 👑  🇹 🇫 👑  🇹 🇹 👑  🇬 🇻 👑  🇧 🇪 🇾 👑  🇱 🇸 🇪 🇪 🇱 👑 🇬 🇷 🇺 🇵 👑",
-      "size": 54,
+      "size": 100,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "LFtX6RAPHxEDMV8GH9k17C": {
       "status": "pending",
@@ -1086,26 +1092,28 @@
       "approval": true
     },
     "LyIzL3yLnaU69ilCroZFYM": {
-      "status": "joined",
-      "time": 1792640554615,
+      "status": "valid",
+      "time": 1792743287698,
       "id": "120363412269965735@g.us",
       "name": "UMER TRUSTED SELLER",
-      "size": 137,
+      "size": 246,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "FsR5s5FxoLVHah2qW7ITLF": {
       "status": "expired",
       "time": 1792410098877
     },
     "B5CP9S7fY5mFDizbqVdAfw": {
-      "status": "joined",
-      "time": 1792640569618,
+      "status": "valid",
+      "time": 1792743291108,
       "id": "120363411293311602@g.us",
       "name": "Call Forwarding Portal With TFN/DID",
-      "size": 243,
+      "size": 253,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "CU1rq8F5SelHdjjIWwe0Zq": {
       "status": "blocked",
