@@ -1116,21 +1116,23 @@
       "announce": false
     },
     "CU1rq8F5SelHdjjIWwe0Zq": {
-      "status": "blocked",
-      "time": 1792741382790,
+      "status": "valid",
+      "time": 1792743296463,
       "id": "120363428928494855@g.us",
       "name": "𝙂𝙑 𝙏𝙉 𝘽𝙐𝙔 & 𝙎𝙀𝙇𝙇",
-      "size": 73,
-      "approval": false
+      "size": 112,
+      "approval": false,
+      "announce": false
     },
     "CDHbCR6j8Jp78In3WmyFjn": {
-      "status": "joined",
-      "time": 1792641915589,
+      "status": "valid",
+      "time": 1792743300285,
       "id": "120363425216339393@g.us",
       "name": "Linkdin BuY & Sell Group",
-      "size": 340,
+      "size": 343,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "FKcWEr7ZIKkEiecliU2Try": {
       "status": "expired",
@@ -1149,13 +1151,14 @@
       "approval": true
     },
     "I9fPTnsLJCQEFrGEtoXJH3": {
-      "status": "joined",
-      "time": 1792641932007,
+      "status": "valid",
+      "time": 1792743304360,
       "id": "120363433793355130@g.us",
       "name": "Paypal/TN/GV/ All Bank   Trested Group",
       "size": 71,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "ENaNfZFy1zeEG1vKgJNGjw": {
       "status": "komunitas",
@@ -1174,22 +1177,24 @@
       "approval": false
     },
     "DlQolwcFjMc1d1jzPz9RoS": {
-      "status": "joined",
-      "time": 1792641946447,
+      "status": "valid",
+      "time": 1792743307752,
       "id": "120363411636069319@g.us",
       "name": "حرف و احساس ✍️",
-      "size": 450,
+      "size": 442,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "CIzmgkVt5Av1FG39UMdFcc": {
-      "status": "joined",
-      "time": 1792641962687,
+      "status": "valid",
+      "time": 1792743310222,
       "id": "120363433368894023@g.us",
       "name": "OLD GMAIL BUY & SELL 🌐",
-      "size": 83,
+      "size": 97,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "KzymMQ1JP8B1VUFfUmaPe0": {
       "status": "pending",
@@ -1200,28 +1205,30 @@
       "approval": true
     },
     "ETUAAWO1w8HKVNA2gyzYmW": {
-      "status": "joined",
-      "time": 1792641979346,
+      "status": "expired",
+      "time": 1792743314225,
       "id": "120363428513193020@g.us",
       "name": "ALL COUNTRY TELEGRAM/WHATSAPP AVAILABLE FOR SELL 24HRS SERVICE --NEW/OLD NUMBER _250+ COUNTRY 🌏",
       "size": 741,
       "approval": false
     },
     "EO3ik3agagKCPv4Dj6yxxp": {
-      "status": "joined",
-      "time": 1792641996853,
+      "status": "valid",
+      "time": 1792743318266,
       "id": "120363410412311806@g.us",
       "name": "PREMIUM ACCOUNT & PRODUCT BUY SELL GROUP",
-      "size": 216,
-      "approval": false
+      "size": 232,
+      "approval": false,
+      "announce": false
     },
     "KKpb0qOIIKwITBgk78S0ia": {
-      "status": "joined",
-      "time": 1792642014945,
+      "status": "valid",
+      "time": 1792743320597,
       "id": "120363409988190960@g.us",
       "name": "Sourav-Gv-TN-TF-Index-Sideline-  trusted -group[BD]",
-      "size": 209,
-      "approval": false
+      "size": 246,
+      "approval": false,
+      "announce": false
     },
     "D4gqZ2mWormKjfpoNW4dE7": {
       "status": "pending",
@@ -1272,12 +1279,13 @@
       "approval": false
     },
     "FTxJ6H015s9E47Segohveq": {
-      "status": "joined",
-      "time": 1792642029012,
+      "status": "error",
+      "time": 1792743323234,
       "id": "120363410512249562@g.us",
       "name": "All in one tricks",
       "size": 127,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "J8K1wdsobgkH85vl7eDPi6": {
       "status": "pending",
@@ -1288,12 +1296,13 @@
       "approval": true
     },
     "Ey3TRBpa6du7i8mA2vdYoL": {
-      "status": "joined",
-      "time": 1792642043707,
+      "status": "valid",
+      "time": 1792743326506,
       "id": "120363430721644100@g.us",
       "name": "RAVAN CLOUD SELLER",
-      "size": 282,
-      "approval": true
+      "size": 287,
+      "approval": true,
+      "announce": false
     },
     "EUxDxGbH9iO8SKTnukWKWR": {
       "status": "komunitas",
