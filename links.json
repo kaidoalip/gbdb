@@ -2122,7 +2122,7 @@
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1792741437244,
+      "time": 1792743508975,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
@@ -2134,28 +2134,31 @@
       "approval": true
     },
     "ELxyiWMGdXA4sZ5jAQVpfF": {
-      "status": "joined",
-      "time": 1792645652124,
+      "status": "valid",
+      "time": 1792743513115,
       "id": "120363425294160653@g.us",
       "name": "All account by sell 🇺🇸🇺🇸🇺🇸",
-      "size": 660,
-      "approval": false
+      "size": 666,
+      "approval": false,
+      "announce": false
     },
     "D8Jq2bOQp3fGsryfDOL7I4": {
-      "status": "joined",
-      "time": 1792645669090,
+      "status": "valid",
+      "time": 1792743517198,
       "id": "120363287868181653@g.us",
       "name": "MUFASA 🦁 Online  💰EMPIRE 👑💯",
-      "size": 618,
-      "approval": false
+      "size": 619,
+      "approval": false,
+      "announce": false
     },
     "K1WmuSm2b12Ge87RAekJEy": {
-      "status": "joined",
-      "time": 1792645688898,
+      "status": "valid",
+      "time": 1792743520809,
       "id": "120363429864671071@g.us",
-      "name": "Zaman trusted zone 💫🤝🤝",
-      "size": 203,
-      "approval": false
+      "name": "Juni trusted zone 💫🤝🤝",
+      "size": 223,
+      "approval": false,
+      "announce": false
     },
     "Fe2CHfIeW7GJVSH8nUmNNa": {
       "status": "komunitas",
@@ -2164,20 +2167,22 @@
       "name": "Usa WhatsApp Sell"
     },
     "IZnQPkvggaEC8rAqGIAg4D": {
-      "status": "joined",
-      "time": 1792645715843,
+      "status": "valid",
+      "time": 1792743523954,
       "id": "120363428448599439@g.us",
       "name": "پشاور ان لائن خرید گروپ",
-      "size": 54,
-      "approval": false
+      "size": 52,
+      "approval": false,
+      "announce": false
     },
     "K97gpQ7GTgYDYAm29VYEBe": {
-      "status": "joined",
-      "time": 1792645730906,
+      "status": "valid",
+      "time": 1792743527330,
       "id": "120363413834803620@g.us",
       "name": "Piya..gmail  fb buy sell🌏",
-      "size": 49,
-      "approval": false
+      "size": 90,
+      "approval": false,
+      "announce": false
     },
     "BmHTeOtjayhIsyfQQZ3GOG": {
       "status": "expired",
@@ -2194,12 +2199,13 @@
       "name": "Rēhãñ Khãñ Gmail Buying Zone  🔥💯"
     },
     "GMejlqTSK54H57L2Sq1kAg": {
-      "status": "joined",
-      "time": 1792645749563,
+      "status": "valid",
+      "time": 1792743531081,
       "id": "120363428052383990@g.us",
       "name": "The Holy Trinity💰",
-      "size": 228,
-      "approval": false
+      "size": 227,
+      "approval": false,
+      "announce": false
     },
     "Dk6NW0a31JHBpQGdHRvW4g": {
       "status": "pending",
@@ -2218,12 +2224,13 @@
       "approval": true
     },
     "LxJUarJmmKw4LOJMfzlWB6": {
-      "status": "joined",
-      "time": 1792645767704,
+      "status": "valid",
+      "time": 1792743535217,
       "id": "120363411294740558@g.us",
       "name": "DEALING X ZONNN",
-      "size": 33,
-      "approval": false
+      "size": 35,
+      "approval": false,
+      "announce": false
     },
     "FteqaALW5jP61v2ipo2jRv": {
       "status": "pending",
@@ -2234,16 +2241,16 @@
       "approval": true
     },
     "IUc1BluclrHFSxzLEK49XZ": {
-      "status": "joined",
-      "time": 1792645789163,
+      "status": "expired",
+      "time": 1792743539335,
       "id": "120363401651867600@g.us",
       "name": "GMAIL Marketing (Al Amin)",
       "size": 376,
       "approval": false
     },
     "F3NjrWkOUMv4b3m43GJevE": {
-      "status": "joined",
-      "time": 1792645807391,
+      "status": "expired",
+      "time": 1792743542374,
       "id": "120363431264580602@g.us",
       "name": "Al-Safa International with Miss Alizay",
       "size": 4,
