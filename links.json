@@ -4199,12 +4199,13 @@
       "err": "already-exists"
     },
     "Fk8w3pMvG0F3wCYP4j2UFh": {
-      "status": "valid",
-      "time": 1792657887704,
+      "status": "joined",
+      "time": 1792722610929,
       "id": "120363432019813423@g.us",
       "name": "Everything buy & sale 🤝",
       "size": 806,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "JzfxbhbP8jIF0hoX3bKmP1": {
       "status": "valid",
