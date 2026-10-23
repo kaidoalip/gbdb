@@ -4155,12 +4155,13 @@
       "err": "already-exists"
     },
     "Dt2k3HakL0IABadgavXxA2": {
-      "status": "valid",
-      "time": 1792657867288,
+      "status": "joined",
+      "time": 1792722547930,
       "id": "120363430740591174@g.us",
       "name": "BUY AND SALE experts 🤝",
       "size": 76,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "JAB6FwCofmgAf4kDyKGLEC": {
       "status": "valid",
