@@ -3657,12 +3657,13 @@
       "approval": true
     },
     "EQOY73BaZE43KsQKke7ywB": {
-      "status": "joined",
-      "time": 1792659916745,
+      "status": "error",
+      "time": 1792741503233,
       "id": "120363431225896466@g.us",
       "name": "✯͜𝄟⍣⃟❤️ 𝙍𝙊𝙈𝘼𝙉𝙏𝙄𝘾 👀",
       "size": 52,
-      "approval": false
+      "approval": false,
+      "err": "growth-locked"
     },
     "CkEVI7aKPByAyEIuV5Poq3": {
       "status": "joined",
@@ -3717,8 +3718,8 @@
       "approval": false
     },
     "LJqB3XtHdsoLH0c6cufkXy": {
-      "status": "joined",
-      "time": 1792660028658,
+      "status": "expired",
+      "time": 1792741506193,
       "id": "120363430406384480@g.us",
       "name": "𝙿𝚞𝚗𝚓𝚊𝚋 𝙳𝚎𝚟𝚒𝚕 𝙶𝚛𝚘𝚞𝚙",
       "size": 24,
@@ -3771,12 +3772,13 @@
       "approval": false
     },
     "D4y6kunkUTm8fflts11wc1": {
-      "status": "joined",
-      "time": 1792660150885,
+      "status": "valid",
+      "time": 1792741509007,
       "id": "120363426639955736@g.us",
       "name": "HUSTLERS ZONE🔗",
       "size": 130,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "DkkKxZjG8OxIqyZzLkLtYy": {
       "status": "joined",
@@ -3823,8 +3825,8 @@
       "approval": true
     },
     "DjKlbWTRLMH6irc93AMxcH": {
-      "status": "joined",
-      "time": 1792660257895,
+      "status": "blocked",
+      "time": 1792741511499,
       "id": "120363403359582262@g.us",
       "name": "🌹𝙎𝙝𝙖𝙠𝙚𝙚𝙡🪷 𝙟𝙖𝙖𝙩 𝙠𝙖 🪷𝘿𝙚𝙧𝙖🌹",
       "size": 46,
@@ -3953,8 +3955,8 @@
       "approval": false
     },
     "J39SaRcsOalGTYXAAbEcxN": {
-      "status": "joined",
-      "time": 1792660480163,
+      "status": "expired",
+      "time": 1792741515488,
       "id": "120363431299371667@g.us",
       "name": "👑 Global Accounts Hub",
       "size": 171,
@@ -3967,16 +3969,16 @@
       "name": "𝙈𝙊𝙃𝙎𝙄 𝙀𝘿𝙄𝙏𝙕 𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝙎𝙀𝙇𝙇𝙀𝙍 𝙏𝙄𝙆𝙏𝙊𝙆 𝙎𝙃𝙊𝙋"
     },
     "FvEiB5PW6Q543rYGSYW0tl": {
-      "status": "joined",
-      "time": 1792660498356,
+      "status": "blocked",
+      "time": 1792741519453,
       "id": "120363428172749677@g.us",
       "name": "Shah g Google play console buy and sell trusted 💯 group",
       "size": 175,
       "approval": false
     },
     "DX27E7f2L3dE7k4i1mXKJr": {
-      "status": "joined",
-      "time": 1792660518853,
+      "status": "blocked",
+      "time": 1792741522182,
       "id": "120363413626084306@g.us",
       "name": "𓆩👑𓆪 𝑫𝑬𝑨𝑳𝑿 𝑴𝑨𝑹𝑲𝑬𝑻 𓆩💎𓆪",
       "size": 65,
@@ -4032,7 +4034,7 @@
     },
     "E1n26UD692GEVgzzw7wkyt": {
       "status": "blocked",
-      "time": 1792720061548,
+      "time": 1792741525897,
       "id": "120363412595249966@g.us",
       "name": "eCom Trade Hub | Accounts • Processing • Dollars",
       "size": 175,
@@ -4112,17 +4114,18 @@
     },
     "IuQwjRxRNWXEnGBOpNt06J": {
       "status": "error",
-      "time": 1792725388123,
+      "time": 1792741528078,
       "err": "bad-request"
     },
     "IXPrKlc2g28FtDMCsSHxET": {
-      "status": "joined",
-      "time": 1792722475574,
+      "status": "valid",
+      "time": 1792741531235,
       "id": "120363429889115116@g.us",
       "name": "Best SALER'S VS BUYER'S 🤝",
-      "size": 125,
+      "size": 120,
       "approval": true,
-      "err": "already-exists"
+      "err": "already-exists",
+      "announce": false
     },
     "CDdvL0bGThy4mtDRYX5C8f": {
       "status": "joined",
