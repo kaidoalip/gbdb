@@ -1919,20 +1919,22 @@
       "announce": false
     },
     "F3KEBSKUyAZFj2SrYNSYOD": {
-      "status": "joined",
-      "time": 1792645487745,
+      "status": "valid",
+      "time": 1792743473965,
       "id": "120363411853172858@g.us",
-      "name": "USA/UK ACCOUNTS VERIFICATION",
-      "size": 337,
-      "approval": false
+      "name": "ZAHIR ACCOUNTS VERIFICATION",
+      "size": 374,
+      "approval": false,
+      "announce": false
     },
     "IzQWK67R67rJ6QiqqvpoTO": {
-      "status": "joined",
-      "time": 1792645511099,
+      "status": "valid",
+      "time": 1792743477899,
       "id": "120363410957830027@g.us",
       "name": "ZAHIR BACK UP GROUP",
-      "size": 55,
-      "approval": false
+      "size": 96,
+      "approval": false,
+      "announce": false
     },
     "IHQmbgzPfrlJ45kyyFtB4M": {
       "status": "expired",
@@ -1951,12 +1953,13 @@
       "time": 1792484068133
     },
     "Cmzpx3L4gY79u2NRcBuZtv": {
-      "status": "joined",
-      "time": 1792645532930,
+      "status": "valid",
+      "time": 1792743481376,
       "id": "120363407283479673@g.us",
       "name": "🌨️ 𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗖𝗟𝗢𝗨𝗗 | 𝗧𝗢𝗡𝗭 𝗦𝗧𝗢𝗥𝗘 🛒",
-      "size": 257,
-      "approval": false
+      "size": 253,
+      "approval": false,
+      "announce": false
     },
     "ESxZtHW6qlHJDg8lrN112k": {
       "status": "pending",
@@ -1971,12 +1974,13 @@
       "time": 1792484079835
     },
     "CasTMOKaDfhGKMn7qacPXe": {
-      "status": "joined",
-      "time": 1792645550217,
+      "status": "valid",
+      "time": 1792743483795,
       "id": "120363396600879289@g.us",
       "name": "GV, TN, TF, ID, SL buy & Sell Group",
-      "size": 242,
-      "approval": true
+      "size": 244,
+      "approval": true,
+      "announce": false
     },
     "KlfIQlPrlHn8Sgcdwv8F2M": {
       "status": "pending",
@@ -1988,7 +1992,7 @@
     },
     "DGJSjXfUXSb7HyNXGDSCM1w": {
       "status": "error",
-      "time": 1792741429629,
+      "time": 1792743487747,
       "err": "bad-request"
     },
     "IVd0ycVXbis0WnsqYxs7Mz": {
@@ -2028,20 +2032,22 @@
       "time": 1792567357949
     },
     "Ci4K7Qv5DdGFoKPMoAtOsN": {
-      "status": "blocked",
-      "time": 1792741433656,
+      "status": "valid",
+      "time": 1792743490515,
       "id": "120363427994923557@g.us",
       "name": "Google Play Console Buy&Sell",
-      "size": 122,
-      "approval": false
+      "size": 119,
+      "approval": false,
+      "announce": false
     },
     "I9cyAFqT027Higrk3FEjL2": {
-      "status": "joined",
-      "time": 1792645581948,
+      "status": "valid",
+      "time": 1792743494322,
       "id": "120363423831539213@g.us",
       "name": "Deal with ilyas gpc ✓",
-      "size": 405,
-      "approval": false
+      "size": 408,
+      "approval": false,
+      "announce": false
     },
     "HTU8pNxcs7UBdGHVnwyFRL": {
       "status": "komunitas",
@@ -2062,12 +2068,13 @@
       "approval": false
     },
     "LdYz1EWVQ8U7n1FKTYfxbb": {
-      "status": "joined",
-      "time": 1792645600093,
+      "status": "valid",
+      "time": 1792743498567,
       "id": "120363409760945010@g.us",
       "name": "🌹Asif A1Cloud Buying And Selling🌹",
-      "size": 129,
-      "approval": false
+      "size": 136,
+      "approval": false,
+      "announce": false
     },
     "FSCRZk56P1N3swYfG3pCnY": {
       "status": "expired",
@@ -2096,20 +2103,22 @@
       "name": "KHAN 👑 TRUSTED 💯 MARKETING HUB 🚀"
     },
     "IQbUyZHR5UAG30wS0WamOT": {
-      "status": "joined",
-      "time": 1792645616382,
+      "status": "valid",
+      "time": 1792743501914,
       "id": "120363429996618054@g.us",
       "name": "(•ᴗ•) ʙʟᴀꜱᴛɪɴɢ ᴛᴇᴀᴍ ᴀᴅᴍɪɴ (•ᴗ•)",
-      "size": 42,
-      "approval": false
+      "size": 43,
+      "approval": false,
+      "announce": false
     },
     "HQYBsoqPAxsGOLPR9anWja": {
-      "status": "joined",
-      "time": 1792645632700,
+      "status": "valid",
+      "time": 1792743504951,
       "id": "120363431672703043@g.us",
       "name": "Buy--Sell Group✅",
-      "size": 23,
-      "approval": false
+      "size": 29,
+      "approval": false,
+      "announce": false
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
