@@ -4181,12 +4181,13 @@
       "approval": false
     },
     "GVglPZ0YdJ6AJtqL60KvfD": {
-      "status": "valid",
-      "time": 1792657878621,
+      "status": "joined",
+      "time": 1792722580129,
       "id": "120363415817540941@g.us",
       "name": "YOUTUBE LEGEND'S ✨",
       "size": 951,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "Eo1vwnQFD6XLBCc7zPvdkk": {
       "status": "valid",
