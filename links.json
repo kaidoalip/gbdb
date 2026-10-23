@@ -2856,11 +2856,11 @@
       "name": "ROMAT GROUP'S"
     },
     "GyQOpW0QJmK0XVjg7H64GQ": {
-      "status": "joined",
-      "time": 1792742045617,
+      "status": "valid",
+      "time": 1792743617800,
       "id": "120363414180886801@g.us",
       "name": "PAN INDIA🍳🇮🇳  REAL ESTATE",
-      "size": 615,
+      "size": 616,
       "approval": false,
       "announce": false
     },
@@ -2896,7 +2896,7 @@
     },
     "KnWUBT7OAkZ3P6HyGDLnCp": {
       "status": "error",
-      "time": 1792741454122,
+      "time": 1792743621311,
       "err": "bad-request"
     },
     "K0BbmsQTNrOBJG1h4JrAeF": {
@@ -2907,16 +2907,17 @@
     },
     "BajgEBSB7hKIHsHm2H5Mxv": {
       "status": "error",
-      "time": 1792741457867,
+      "time": 1792743623619,
       "err": "bad-request"
     },
     "HNNeVJtoGTl7UN4uifmkBC": {
-      "status": "joined",
-      "time": 1792647197395,
+      "status": "valid",
+      "time": 1792743626214,
       "id": "120363363574596406@g.us",
       "name": "💢❤️‍🩹 انـــٓــــــمـــٓول یـــادیـــــں❤️‍🩹💢",
-      "size": 647,
-      "approval": false
+      "size": 655,
+      "approval": false,
+      "announce": false
     },
     "J6yZJ39XPrp7ff8ZsDNziw": {
       "status": "pending",
@@ -2927,8 +2928,8 @@
       "approval": true
     },
     "I0msIl8Ce3WK4VN1ivoU3Y": {
-      "status": "joined",
-      "time": 1792647213438,
+      "status": "expired",
+      "time": 1792743630010,
       "id": "120363413102123098@g.us",
       "name": "🥰 🇭 🇩 😍 🇸‌🆃ąⓉųS⃟   🥰",
       "size": 89,
@@ -2949,8 +2950,8 @@
       "name": "🤍HANIA GPC 🤍"
     },
     "JoOgbHX3Eoa2hzAFiz0UQH": {
-      "status": "joined",
-      "time": 1792647229019,
+      "status": "expired",
+      "time": 1792743632968,
       "id": "120363412816485110@g.us",
       "name": "Rdps + TFN seller and reseller",
       "size": 32,
@@ -2961,20 +2962,21 @@
       "time": 1792582352954
     },
     "Ka9DgSrMWMwDGydiYmLlQV": {
-      "status": "joined",
-      "time": 1792647248134,
+      "status": "expired",
+      "time": 1792743636383,
       "id": "120363428641219454@g.us",
       "name": "BRING IPHONE & IPAD USER SURE DEALS💸💸💸LOADING UPTO 4500$📱📲",
       "size": 397,
       "approval": false
     },
     "CFA7qmrPkhy4CT1nf807TL": {
-      "status": "joined",
-      "time": 1792647269269,
+      "status": "valid",
+      "time": 1792743639366,
       "id": "120363429396171659@g.us",
       "name": "Sadia e- Commerce",
-      "size": 159,
-      "approval": false
+      "size": 162,
+      "approval": false,
+      "announce": false
     },
     "I291SfO7hx8JiqNxRwvzHn": {
       "status": "pending",
@@ -2985,20 +2987,22 @@
       "approval": true
     },
     "HbifHxqM213BZogdtNzijP": {
-      "status": "blocked",
-      "time": 1792741460484,
+      "status": "valid",
+      "time": 1792743643282,
       "id": "120363415081162660@g.us",
       "name": "💖قرآن مجید اور احادیث💖",
-      "size": 142,
-      "approval": false
+      "size": 145,
+      "approval": false,
+      "announce": false
     },
     "DlKxex5IhjqB4apfTyWhr0": {
-      "status": "joined",
-      "time": 1792647301493,
+      "status": "valid",
+      "time": 1792743645655,
       "id": "120363318504509189@g.us",
       "name": "Daraz Updates & Tricks 📢",
-      "size": 135,
-      "approval": false
+      "size": 138,
+      "approval": false,
+      "announce": false
     },
     "HM3yxsDABniGcrBBTpGh6H": {
       "status": "error",
