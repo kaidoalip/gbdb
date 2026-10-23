@@ -4313,44 +4313,90 @@
       "time": 1792719757279
     },
     "BpOC78GLC778IvhlWkouec": {
-      "status": "new",
-      "time": 1792662336209
+      "status": "valid",
+      "time": 1792719761545,
+      "id": "120363431094191023@g.us",
+      "name": "🚀 BM Market Hub | Buy & Sell 💼",
+      "size": 27,
+      "approval": false,
+      "announce": false
     },
     "I1DaXtSV3oM5m89pFNgzfZ": {
-      "status": "new",
-      "time": 1792662336209
+      "status": "valid",
+      "time": 1792719766461,
+      "id": "120363432774952243@g.us",
+      "name": "Majid Cloud Creator",
+      "size": 20,
+      "approval": false,
+      "announce": false
     },
     "EQM6HxBeBNB0q6vunPP3DK": {
-      "status": "new",
-      "time": 1792662456243
+      "status": "valid",
+      "time": 1792719770072,
+      "id": "120363430651467515@g.us",
+      "name": "Trusted Zone✅",
+      "size": 395,
+      "approval": false,
+      "announce": false
     },
     "GYwFTYs7yMyHl3woJVsCRo": {
-      "status": "new",
-      "time": 1792662816941
+      "status": "valid",
+      "time": 1792719774805,
+      "id": "120363114119034800@g.us",
+      "name": "PRIME ASSET MANAGEMENT",
+      "size": 104,
+      "approval": true,
+      "announce": false
     },
     "DYm8TeARRm59tberHM6HeZ": {
-      "status": "new",
-      "time": 1792662936731
+      "status": "valid",
+      "time": 1792719777408,
+      "id": "120363430905681171@g.us",
+      "name": "𝗔𝗛𝗔𝗗 𝗖𝗟𝗢𝗨𝗗𝗦 𝗛𝗨𝗕",
+      "size": 125,
+      "approval": false,
+      "announce": false
     },
     "E9jxqM140Q1784XsLVQaRM": {
-      "status": "new",
-      "time": 1792663541553
+      "status": "valid",
+      "time": 1792719781501,
+      "id": "120363409109185466@g.us",
+      "name": "🦅شوق کبوتروں کا🦅",
+      "size": 248,
+      "approval": true,
+      "announce": false
     },
     "DrYhV7unqFXGcWEgTW4HQQ": {
-      "status": "new",
-      "time": 1792664620174
+      "status": "valid",
+      "time": 1792719785591,
+      "id": "120363413327395484@g.us",
+      "name": "Call by & Sell",
+      "size": 36,
+      "approval": false,
+      "announce": false
     },
     "L1bzbgBz4fg054M2jfxmwR": {
-      "status": "new",
-      "time": 1792664739480
+      "status": "valid",
+      "time": 1792719790414,
+      "id": "120363431531610749@g.us",
+      "name": "𓆩‎‎𝐃ᴀʀᴋ 𝐋ᴏᴠᴇ 𝐍ɪɢʜᴛ 𝐂ʟᴜʙ‎»⤸𓆪𓂃🖤🥀\n\n⤓⤿𓂃‎◎⧠😈\n\n⤓⤿𓂃‎◎⧠💋\n\n⤓⤿𓂃‎◎⧠🍒\n\n⤓⤿𓂃‎◎⧠🔥\n\n⤓⤿𓂃‎◎⧠❤️‍🔥",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "DEIVJSuxlQhETAIqzSls50": {
-      "status": "new",
-      "time": 1792664739480
+      "status": "valid",
+      "time": 1792719794875,
+      "id": "120363431108191970@g.us",
+      "name": "اکیل اکبر لاٹری گروپ 51",
+      "size": 176,
+      "approval": false,
+      "announce": false
     },
     "Li661MWG8JkLcNNQzz6Yzd": {
-      "status": "new",
-      "time": 1792664865942
+      "status": "error",
+      "time": 1792719799558,
+      "err": "bad-request"
     },
     "Hwy0kWeOZGp5tXca7EMbRB": {
       "status": "new",
