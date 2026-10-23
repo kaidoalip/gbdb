@@ -2976,8 +2976,8 @@
       "approval": false
     },
     "BE35h1kRqoD6HRuQhmRyw0": {
-      "status": "joined",
-      "time": 1792647466638,
+      "status": "blocked",
+      "time": 1792741469542,
       "id": "120363432006472074@g.us",
       "name": "Digital Success Community🤝",
       "size": 222,
@@ -3138,8 +3138,8 @@
       "approval": false
     },
     "EbrFp8LvtUt7w2A3bX1HNM": {
-      "status": "joined",
-      "time": 1792658081700,
+      "status": "blocked",
+      "time": 1792741472051,
       "id": "120363414890346339@g.us",
       "name": "Youtube skills",
       "size": 145,
@@ -3178,8 +3178,8 @@
       "approval": false
     },
     "GXfnl25v0u87kwgDI4Izal": {
-      "status": "joined",
-      "time": 1792658170478,
+      "status": "blocked",
+      "time": 1792741475587,
       "id": "120363433517258240@g.us",
       "name": "Al Hafiz  Perfume",
       "size": 21,
@@ -3202,16 +3202,16 @@
       "approval": true
     },
     "HW11N26IQMU22v9Xte3qDE": {
-      "status": "joined",
-      "time": 1792658219525,
+      "status": "blocked",
+      "time": 1792741478075,
       "id": "120363426614791910@g.us",
       "name": "صوابی مردان پشاور کاروباری گروپ",
       "size": 833,
       "approval": false
     },
     "HGzLgG8o3GV7kh3f0YyfNz": {
-      "status": "joined",
-      "time": 1792658235690,
+      "status": "blocked",
+      "time": 1792741482194,
       "id": "120363432274225509@g.us",
       "name": "💸💸N♥️A/ KinG dealing zone™ 💸💸",
       "size": 358,
@@ -3331,7 +3331,7 @@
     },
     "H7Sd1wYRB8HEGKCEmFfSJR": {
       "status": "error",
-      "time": 1792725383933,
+      "time": 1792741485276,
       "err": "bad-request"
     },
     "IsP4KvydIoHLmq39DjGAY6": {
@@ -3341,8 +3341,8 @@
       "name": "♥️ 𝙈 𝙄𝙇𝙔𝘼𝙎 𝙆𝙃𝘼𝙉 𝙂𝙋𝘾 𝘽𝙐𝙔&𝙎𝙀𝙇𝙇 ♥️🇵🇰"
     },
     "K6MvRZHmug6G208lgvoUBk": {
-      "status": "joined",
-      "time": 1792658392240,
+      "status": "blocked",
+      "time": 1792741489195,
       "id": "120363413710620006@g.us",
       "name": "MUBEEN DIGITAL HUB",
       "size": 72,
@@ -3389,12 +3389,13 @@
       "approval": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
-      "status": "joined",
-      "time": 1792658432087,
+      "status": "valid",
+      "time": 1792741491802,
       "id": "120363421225872930@g.us",
       "name": "All Service Provider 💝",
-      "size": 781,
-      "approval": false
+      "size": 784,
+      "approval": false,
+      "announce": false
     },
     "Hj2FJPGYA1lJzcrD3afxQu": {
       "status": "expired",
@@ -3535,8 +3536,8 @@
       "approval": false
     },
     "IXO6VYSY58FGdOResMlyGQ": {
-      "status": "joined",
-      "time": 1792659743814,
+      "status": "blocked",
+      "time": 1792741494265,
       "id": "120363431709371618@g.us",
       "name": "خریداری گروپ",
       "size": 10,
@@ -3583,12 +3584,13 @@
       "approval": false
     },
     "C8IxwlwllwJCcFVl3d7ZDL": {
-      "status": "joined",
-      "time": 1792659831579,
+      "status": "error",
+      "time": 1792741497721,
       "id": "120363427297364731@g.us",
       "name": "Viral Videos",
       "size": 397,
-      "approval": false
+      "approval": false,
+      "err": "growth-locked"
     },
     "ILjwTJNe0C49ubeyvm6GdJ": {
       "status": "expired",
