@@ -1945,8 +1945,8 @@
       "time": 1792567357949
     },
     "Ci4K7Qv5DdGFoKPMoAtOsN": {
-      "status": "joined",
-      "time": 1792645566876,
+      "status": "blocked",
+      "time": 1792741433656,
       "id": "120363427994923557@g.us",
       "name": "Google Play Console Buy&Sell",
       "size": 122,
@@ -2030,7 +2030,7 @@
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1792725363314,
+      "time": 1792741437244,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
@@ -2217,12 +2217,12 @@
     },
     "H1Hvrn8tRAZFyUvBkog3dh": {
       "status": "error",
-      "time": 1792725365792,
+      "time": 1792741440021,
       "err": "growth-locked"
     },
     "DYxi0GRq9j8BBDsHvop5jG": {
-      "status": "joined",
-      "time": 1792646928118,
+      "status": "expired",
+      "time": 1792741444075,
       "id": "120363430567971814@g.us",
       "name": "(8) الیکشن و عُہدے کے اُمیدواران(PTS)",
       "size": 112,
@@ -2268,7 +2268,7 @@
     },
     "EEeHXzmDUpeJEaqYyvIYcG": {
       "status": "error",
-      "time": 1792725369998,
+      "time": 1792741446840,
       "err": "bad-request"
     },
     "HPE2sAtYxQx95GEmVyEBZF": {
@@ -2740,12 +2740,13 @@
       "name": "ROMAT GROUP'S"
     },
     "GyQOpW0QJmK0XVjg7H64GQ": {
-      "status": "joined",
-      "time": 1792647182002,
+      "status": "valid",
+      "time": 1792741450837,
       "id": "120363414180886801@g.us",
       "name": "PAN INDIA🍳🇮🇳  REAL ESTATE",
-      "size": 614,
-      "approval": false
+      "size": 615,
+      "approval": false,
+      "announce": false
     },
     "Ipc5IQMdAuxK7PB1KUxCzW": {
       "status": "pending",
@@ -2779,7 +2780,7 @@
     },
     "KnWUBT7OAkZ3P6HyGDLnCp": {
       "status": "error",
-      "time": 1792725373139,
+      "time": 1792741454122,
       "err": "bad-request"
     },
     "K0BbmsQTNrOBJG1h4JrAeF": {
@@ -2790,7 +2791,7 @@
     },
     "BajgEBSB7hKIHsHm2H5Mxv": {
       "status": "error",
-      "time": 1792725376746,
+      "time": 1792741457867,
       "err": "bad-request"
     },
     "HNNeVJtoGTl7UN4uifmkBC": {
@@ -2868,8 +2869,8 @@
       "approval": true
     },
     "HbifHxqM213BZogdtNzijP": {
-      "status": "joined",
-      "time": 1792647284859,
+      "status": "blocked",
+      "time": 1792741460484,
       "id": "120363415081162660@g.us",
       "name": "💖قرآن مجید اور احادیث💖",
       "size": 142,
@@ -2885,7 +2886,7 @@
     },
     "HM3yxsDABniGcrBBTpGh6H": {
       "status": "error",
-      "time": 1792725381720,
+      "time": 1792741464417,
       "id": "120363430992072882@g.us",
       "name": "👙🫦Viral xxx video‼️ 🔞",
       "size": 379,
