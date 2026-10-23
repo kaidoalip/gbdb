@@ -3006,7 +3006,7 @@
     },
     "HM3yxsDABniGcrBBTpGh6H": {
       "status": "error",
-      "time": 1792741464417,
+      "time": 1792743649772,
       "id": "120363430992072882@g.us",
       "name": "👙🫦Viral xxx video‼️ 🔞",
       "size": 379,
@@ -3022,64 +3022,71 @@
       "approval": true
     },
     "LbGj9ozXHq0LKje1GhpRki": {
-      "status": "joined",
-      "time": 1792647321575,
+      "status": "valid",
+      "time": 1792743653429,
       "id": "120363432056037304@g.us",
       "name": "RS Tech Hub | Seller Community",
       "size": 12,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "HGO0CXm9Z0JHHJihEofqgc": {
       "status": "expired",
       "time": 1792583799799
     },
     "FTS9t3rNygQ2UXT6dsgO72": {
-      "status": "joined",
-      "time": 1792647339537,
+      "status": "valid",
+      "time": 1792743656100,
       "id": "120363427704367793@g.us",
       "name": "CLOUD",
-      "size": 50,
-      "approval": false
+      "size": 55,
+      "approval": false,
+      "announce": false
     },
     "Fc4787PBUBfJsCHFmmXC9n": {
-      "status": "joined",
-      "time": 1792647358845,
+      "status": "valid",
+      "time": 1792743660143,
       "id": "120363209884300532@g.us",
       "name": "Group Free Share | Promotion",
-      "size": 284,
-      "approval": false
+      "size": 281,
+      "approval": false,
+      "announce": false
     },
     "DaLcBB0z9uv30WlppnnasE": {
-      "status": "joined",
-      "time": 1792647379606,
+      "status": "valid",
+      "time": 1792743663387,
       "id": "120363152896588615@g.us",
       "name": "CLOUD, RDP, VPS, HTML, CSS & AI",
-      "size": 496,
-      "approval": false
+      "size": 495,
+      "approval": false,
+      "announce": false
     },
     "HlA2MGPI9g38l80ncSft04": {
-      "status": "joined",
-      "time": 1792647399398,
+      "status": "valid",
+      "time": 1792743666431,
       "id": "120363051261541504@g.us",
       "name": "SM Trusted Seller",
-      "size": 262,
-      "approval": false
+      "size": 260,
+      "approval": false,
+      "announce": false
     },
     "CsjXpHYoYKkFgiv2giVAB7": {
-      "status": "joined",
-      "time": 1792647416158,
+      "status": "valid",
+      "time": 1792743669872,
       "id": "120363427768533319@g.us",
       "name": "AETHEL (LIFE STYLE)",
-      "size": 202,
-      "approval": true
+      "size": 195,
+      "approval": true,
+      "announce": false
     },
     "G2LFhZJ2zVQ0fW6edAykVo": {
-      "status": "joined",
-      "time": 1792647434544,
+      "status": "valid",
+      "time": 1792743672317,
       "id": "120363426979644452@g.us",
       "name": "Account buy and sell",
-      "size": 466,
-      "approval": false
+      "size": 484,
+      "approval": false,
+      "announce": false
     },
     "HnnGVYOuRKGGuxqBafMsF0": {
       "status": "komunitas",
@@ -3088,20 +3095,22 @@
       "name": "Adeel Gmail Buyer"
     },
     "IX97yndVID46R7aRpJ9lzZ": {
-      "status": "joined",
-      "time": 1792647449845,
+      "status": "valid",
+      "time": 1792743675138,
       "id": "120363430633110691@g.us",
       "name": "𝑩𝒍𝒂𝒔𝒕𝒊𝒏𝒈 𝑫𝒂𝒕𝒂 𝒂𝒏𝒅 𝑮𝒎𝒂𝒊𝒍 𝑮𝒓𝒐𝒖𝒑 𝒐𝒇 𝑺𝒉𝒂𝒉𝒛𝒂𝒊𝒏 📈",
-      "size": 222,
-      "approval": false
+      "size": 270,
+      "approval": false,
+      "announce": false
     },
     "BE35h1kRqoD6HRuQhmRyw0": {
-      "status": "blocked",
-      "time": 1792741469542,
+      "status": "valid",
+      "time": 1792743679280,
       "id": "120363432006472074@g.us",
       "name": "Digital Success Community🤝",
-      "size": 222,
-      "approval": false
+      "size": 241,
+      "approval": false,
+      "announce": false
     },
     "BeQYxDm6NCv9FtvCiwHuPA": {
       "status": "komunitas",
