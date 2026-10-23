@@ -516,8 +516,8 @@
       "approval": false
     },
     "KJwBqEEwc2U0tm0jgnNlLT": {
-      "status": "joined",
-      "time": 1792640186588,
+      "status": "blocked",
+      "time": 1792741372397,
       "id": "120363413516790470@g.us",
       "name": "Data & Blasting Network With Ali",
       "size": 554,
@@ -593,8 +593,8 @@
       "approval": false
     },
     "BSJArujbGQWLWwCbaE6v9u": {
-      "status": "joined",
-      "time": 1792640268834,
+      "status": "blocked",
+      "time": 1792741374966,
       "id": "120363428520967411@g.us",
       "name": "YT Buy & Sell",
       "size": 479,
@@ -914,13 +914,14 @@
       "approval": false
     },
     "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "joined",
-      "time": 1792640438382,
+      "status": "valid",
+      "time": 1792741377689,
       "id": "120363412768061441@g.us",
       "name": "Roshan Bhai Trusted seller ✅",
-      "size": 57,
+      "size": 62,
       "approval": false,
-      "err": "Connection Closed"
+      "err": "Connection Closed",
+      "announce": false
     },
     "Cld34Mmuc1N9Nuq3WjSi5Y": {
       "status": "expired",
@@ -967,7 +968,7 @@
     },
     "GmNSH0pVFc35dNkKeOGETo": {
       "status": "error",
-      "time": 1792725314949,
+      "time": 1792741380265,
       "err": "bad-request"
     },
     "BuUV6350W8yHrhWK8ojEOH": {
@@ -1069,8 +1070,8 @@
       "err": "Connection Closed"
     },
     "CU1rq8F5SelHdjjIWwe0Zq": {
-      "status": "joined",
-      "time": 1792640585411,
+      "status": "blocked",
+      "time": 1792741382790,
       "id": "120363428928494855@g.us",
       "name": "𝙂𝙑 𝙏𝙉 𝘽𝙐𝙔 & 𝙎𝙀𝙇𝙇",
       "size": 73,
@@ -1266,7 +1267,7 @@
     },
     "HqihsQudxQYAtZ5d3AOMSp": {
       "status": "error",
-      "time": 1792725318511,
+      "time": 1792741386426,
       "id": "120363413756684811@g.us",
       "name": "Tahaa Online Trusted Store",
       "size": 55,
@@ -1275,7 +1276,7 @@
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
       "status": "error",
-      "time": 1792725321876,
+      "time": 1792741389002,
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
@@ -1296,8 +1297,8 @@
       "approval": true
     },
     "DAQ3zQBKZUb388clU4WCQc": {
-      "status": "joined",
-      "time": 1792642076554,
+      "status": "blocked",
+      "time": 1792741391979,
       "id": "120363045935170410@g.us",
       "name": "کوہاٹ پشین کوئٹہ آل پاکستان انویسٹر",
       "size": 269,
@@ -1353,7 +1354,7 @@
     },
     "LxN9zyC7ep5GAaXaJjj6I5": {
       "status": "error",
-      "time": 1792725329054,
+      "time": 1792741394908,
       "err": "growth-locked"
     },
     "G6mFygLSf2aKZLdAzGo9ZY": {
@@ -1365,8 +1366,8 @@
       "approval": true
     },
     "DjgDIQ9iEskFAHx2NFwmM7": {
-      "status": "joined",
-      "time": 1792642122438,
+      "status": "blocked",
+      "time": 1792741398068,
       "id": "120363412774722949@g.us",
       "name": "MAlik Dealing Zone👽☠️",
       "size": 23,
