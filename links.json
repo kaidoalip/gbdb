@@ -4119,12 +4119,13 @@
       "err": "already-exists"
     },
     "CDdvL0bGThy4mtDRYX5C8f": {
-      "status": "valid",
-      "time": 1792657853062,
+      "status": "joined",
+      "time": 1792722488407,
       "id": "120363411679707453@g.us",
       "name": "MASTER SALER'S & BUYER'S 🤝",
       "size": 109,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "Dx60oL9yJjc8lYOZQLOOkt": {
       "status": "valid",
