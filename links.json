@@ -4217,12 +4217,13 @@
       "err": "already-exists"
     },
     "EeiwOweVZO8FSsXQgArT8K": {
-      "status": "valid",
-      "time": 1792657897900,
+      "status": "error",
+      "time": 1792722638561,
       "id": "120363414221177980@g.us",
       "name": "👑 ANH SERVICE FAMILY OFFICIAL ✓",
       "size": 74,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "LVeHf5SUHs4L9AXmtwFh1z": {
       "status": "valid",
