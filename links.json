@@ -4137,12 +4137,13 @@
       "err": "already-exists"
     },
     "LAvimHks4b8BEarju944UM": {
-      "status": "valid",
-      "time": 1792657860111,
+      "status": "joined",
+      "time": 1792722518443,
       "id": "120363414213237021@g.us",
       "name": "Experts SALER'S & BUYER'S 🤝",
       "size": 96,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "DncOWLEgmxi57qgOwHqcXJ": {
       "status": "valid",
