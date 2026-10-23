@@ -4110,12 +4110,13 @@
       "err": "bad-request"
     },
     "IXPrKlc2g28FtDMCsSHxET": {
-      "status": "valid",
-      "time": 1792657848392,
+      "status": "joined",
+      "time": 1792722475574,
       "id": "120363429889115116@g.us",
       "name": "Best SALER'S VS BUYER'S 🤝",
       "size": 125,
-      "approval": true
+      "approval": true,
+      "err": "already-exists"
     },
     "CDdvL0bGThy4mtDRYX5C8f": {
       "status": "valid",
