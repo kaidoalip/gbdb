@@ -11,7 +11,7 @@
     },
     "Ba8vGDOZWJ52hPOa4NXpOr": {
       "status": "error",
-      "time": 1792725283617,
+      "time": 1792741336821,
       "id": "120363429817848801@g.us",
       "name": "SALER'S and BUYER'S 🤝",
       "size": 409,
@@ -35,8 +35,8 @@
       "approval": false
     },
     "GSeAAYhyhwfCTpRFHgrCxa": {
-      "status": "joined",
-      "time": 1792639789606,
+      "status": "blocked",
+      "time": 1792741340277,
       "id": "120363420130331141@g.us",
       "name": "𝘾𝙡𝙤𝙪𝙙𝙉𝙚𝙨𝙩 𝙒𝙤𝙧𝙡𝙙........",
       "size": 397,
@@ -92,7 +92,7 @@
     },
     "CiSd7npLqKcDWdhjxxAxYG": {
       "status": "error",
-      "time": 1792725286575,
+      "time": 1792741342905,
       "id": "120363430259871317@g.us",
       "name": "Majid Cloud Creator",
       "size": 58,
@@ -101,7 +101,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792725290253,
+      "time": 1792741345773,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -110,7 +110,7 @@
     },
     "BR1sPyUPn1H8ncasuy5QQu": {
       "status": "error",
-      "time": 1792725292945,
+      "time": 1792741349561,
       "id": "120363415129532642@g.us",
       "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
       "size": 220,
@@ -271,7 +271,7 @@
     },
     "Da0vtalPDdJFrdP7OvsGYK": {
       "status": "error",
-      "time": 1792725297016,
+      "time": 1792741352242,
       "id": "120363408785452820@g.us",
       "name": "🆓 🅔🅐🅡🅝  𝓦𝓲𝓽𝓱 𝔸𝕚𝕤𝕙",
       "size": 0,
@@ -353,7 +353,7 @@
     },
     "EJQCp5KUZYMAxwFdtEZBg5": {
       "status": "error",
-      "time": 1792725302324,
+      "time": 1792741355193,
       "id": "120363414508098170@g.us",
       "name": "DANNY MOBILE SOFTWARE SOLUTION",
       "size": 922,
@@ -370,7 +370,7 @@
     },
     "JpGGkuZIddV2IE02BpuKlX": {
       "status": "error",
-      "time": 1792725305443,
+      "time": 1792741359219,
       "id": "120363413302171660@g.us",
       "name": "Bor",
       "size": 11,
@@ -434,12 +434,13 @@
       "approval": true
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "joined",
-      "time": 1792640168896,
+      "status": "valid",
+      "time": 1792741362490,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
-      "size": 358,
-      "approval": false
+      "size": 356,
+      "approval": false,
+      "announce": false
     },
     "Joq33mLOtm1HoQCmSjU5XK": {
       "status": "komunitas",
@@ -499,7 +500,7 @@
     },
     "HPlCXaiPbnf4q8rFOxwuYc": {
       "status": "error",
-      "time": 1792725307868,
+      "time": 1792741366422,
       "id": "120363428666257362@g.us",
       "name": "⚜️GPC By AMMAR KHAN ⚜️",
       "size": 0,
