@@ -459,12 +459,13 @@
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
       "status": "valid",
-      "time": 1792743200808,
+      "time": 1792819006017,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
       "size": 356,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "Joq33mLOtm1HoQCmSjU5XK": {
       "status": "komunitas",
