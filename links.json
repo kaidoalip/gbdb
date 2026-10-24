@@ -6046,44 +6046,79 @@
       "announce": false
     },
     "KYvnxNjoDgLAgfVzD6A9A8": {
-      "status": "new",
-      "time": 1792816685052
+      "status": "komunitas",
+      "time": 1792818913806,
+      "id": "120363409620533711@g.us",
+      "name": "🌸 ༺ 𝐙𝐀𝐈𝐍𝐀𝐁 𝐅𝐈𝐋𝐄 𝐖𝐎𝐑𝐊 𝐒𝐓𝐀𝐓𝐈𝐎𝐍 ༻ 🌸🦋💖"
     },
     "KfzCFHtLHDG1yhxZFOQkRh": {
-      "status": "new",
-      "time": 1792816685052
+      "status": "komunitas",
+      "time": 1792818918336,
+      "id": "120363424897899994@g.us",
+      "name": "✨ 𝐙𝐚𝐢𝐧𝐚𝐛’𝐬 𝐀𝐜𝐭𝐢𝐯𝐞 𝐂𝐢𝐫𝐜𝐥𝐞 🔥💬"
     },
     "FqrUPAU8Nbh8niNO5CdwDh": {
-      "status": "new",
-      "time": 1792816685052
+      "status": "error",
+      "time": 1792818921943,
+      "err": "bad-request"
     },
     "KBDlhrQ08wI2gaAj7f9xaJ": {
-      "status": "new",
-      "time": 1792816685052
+      "status": "valid",
+      "time": 1792818924944,
+      "id": "120363426103871971@g.us",
+      "name": "Zee Cloth Resell 🥼👚👔",
+      "size": 137,
+      "approval": false,
+      "announce": false
     },
     "IaOSXPsN8NQJMe6H7fcdro": {
-      "status": "new",
-      "time": 1792817045042
+      "status": "valid",
+      "time": 1792818928432,
+      "id": "120363408446622048@g.us",
+      "name": "🌹 ایثار السیفی فی الطریقہ الحنفی 🌹",
+      "size": 781,
+      "approval": false,
+      "announce": false
     },
     "GR9pMjnqAYUAHQj40n7HT8": {
-      "status": "new",
-      "time": 1792817765355
+      "status": "valid",
+      "time": 1792818931324,
+      "id": "120363421595034037@g.us",
+      "name": "Carohmcomputers Group",
+      "size": 105,
+      "approval": false,
+      "announce": false
     },
     "EOh1WvMeirtEmloGD1lhAv": {
-      "status": "new",
-      "time": 1792818245232
+      "status": "valid",
+      "time": 1792818934616,
+      "id": "917033861301-1521908622@g.us",
+      "name": "TRUST MILLION BINARY FX",
+      "size": 18,
+      "approval": false,
+      "announce": false
     },
     "EsCizwbCixm7tZoKB4oFHU": {
-      "status": "new",
-      "time": 1792818402098
+      "status": "valid",
+      "time": 1792818939044,
+      "id": "120363430088666437@g.us",
+      "name": "Usman yt gaming incentive",
+      "size": 224,
+      "approval": false,
+      "announce": false
     },
     "Cvwlblk6Q5i6wNPhy1jVCS": {
-      "status": "new",
-      "time": 1792818402098
+      "status": "valid",
+      "time": 1792818941747,
+      "id": "120363324074443704@g.us",
+      "name": "PRIME ASSET MANAGEMENT",
+      "size": 100,
+      "approval": true,
+      "announce": false
     },
     "JUql5bbfWONGDUUfxMUZB5": {
-      "status": "new",
-      "time": 1792818522062
+      "status": "blocked",
+      "time": 1792818945597
     },
     "LWWNM2EBt8p82nIolWmtvC": {
       "status": "new",
