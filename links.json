@@ -2149,29 +2149,30 @@
       "approval": true
     },
     "ELxyiWMGdXA4sZ5jAQVpfF": {
-      "status": "valid",
-      "time": 1792743513115,
+      "status": "error",
+      "time": 1793242280481,
       "id": "120363425294160653@g.us",
       "name": "All account by sell 🇺🇸🇺🇸🇺🇸",
       "size": 666,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "D8Jq2bOQp3fGsryfDOL7I4": {
       "status": "valid",
-      "time": 1792743517198,
+      "time": 1793242284404,
       "id": "120363287868181653@g.us",
       "name": "MUFASA 🦁 Online  💰EMPIRE 👑💯",
-      "size": 619,
+      "size": 621,
       "approval": false,
       "announce": false
     },
     "K1WmuSm2b12Ge87RAekJEy": {
       "status": "valid",
-      "time": 1792743520809,
+      "time": 1793242288595,
       "id": "120363429864671071@g.us",
-      "name": "Juni trusted zone 💫🤝🤝",
-      "size": 223,
+      "name": "ZAMAN  trusted zone 💫🤝🤝",
+      "size": 248,
       "approval": false,
       "announce": false
     },
@@ -2183,19 +2184,19 @@
     },
     "IZnQPkvggaEC8rAqGIAg4D": {
       "status": "valid",
-      "time": 1792743523954,
+      "time": 1793242292143,
       "id": "120363428448599439@g.us",
       "name": "پشاور ان لائن خرید گروپ",
-      "size": 52,
+      "size": 48,
       "approval": false,
       "announce": false
     },
     "K97gpQ7GTgYDYAm29VYEBe": {
       "status": "valid",
-      "time": 1792743527330,
+      "time": 1793242295056,
       "id": "120363413834803620@g.us",
       "name": "Piya..gmail  fb buy sell🌏",
-      "size": 90,
+      "size": 135,
       "approval": false,
       "announce": false
     },
@@ -2214,13 +2215,14 @@
       "name": "Rēhãñ Khãñ Gmail Buying Zone  🔥💯"
     },
     "GMejlqTSK54H57L2Sq1kAg": {
-      "status": "valid",
-      "time": 1792743531081,
+      "status": "error",
+      "time": 1793242297646,
       "id": "120363428052383990@g.us",
       "name": "The Holy Trinity💰",
       "size": 227,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Dk6NW0a31JHBpQGdHRvW4g": {
       "status": "pending",
@@ -2239,8 +2241,8 @@
       "approval": true
     },
     "LxJUarJmmKw4LOJMfzlWB6": {
-      "status": "valid",
-      "time": 1792743535217,
+      "status": "expired",
+      "time": 1793242301062,
       "id": "120363411294740558@g.us",
       "name": "DEALING X ZONNN",
       "size": 35,
@@ -2272,13 +2274,14 @@
       "approval": false
     },
     "LmrLnPxPLr4LGaRE2yAy2g": {
-      "status": "valid",
-      "time": 1792743547709,
+      "status": "error",
+      "time": 1793242305063,
       "id": "120363412381386840@g.us",
       "name": "AR Free Automation Courses",
       "size": 442,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "CxnQw3hmPBnBoxYj6iffZk": {
       "status": "expired",
@@ -2289,8 +2292,8 @@
       "time": 1792567483867
     },
     "JDlnMTAqv9LDv18kIdvsyD": {
-      "status": "valid",
-      "time": 1792743551826,
+      "status": "expired",
+      "time": 1793242308849,
       "id": "120363411898825454@g.us",
       "name": "✤͜🖤⃛⃟🇫ᴀ͟͞ᴍ͟͞ɪ͟͞ʟ͟͞ʏ☆🇷 ᴏ̲̅ᴏ̲̅ᴍ̲̅🏠⃛͜⃟🖤✤",
       "size": 519,
@@ -2309,10 +2312,10 @@
     },
     "GKeVo1E9neVABwPfXD8Nnk": {
       "status": "valid",
-      "time": 1792743555670,
+      "time": 1793242312004,
       "id": "120363418475367514@g.us",
       "name": "❤️❣️ تلاوت قرآن پاک🌹❤",
-      "size": 567,
+      "size": 602,
       "approval": false,
       "announce": false
     },
