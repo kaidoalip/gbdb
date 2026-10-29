@@ -1996,13 +1996,14 @@
       "time": 1792484079835
     },
     "CasTMOKaDfhGKMn7qacPXe": {
-      "status": "valid",
-      "time": 1793261944840,
+      "status": "error",
+      "time": 1793278687993,
       "id": "120363396600879289@g.us",
       "name": "GV, TN, TF, ID, SL buy & Sell Group",
       "size": 261,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "KlfIQlPrlHn8Sgcdwv8F2M": {
       "status": "pending",
