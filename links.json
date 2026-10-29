@@ -6103,29 +6103,30 @@
       "announce": false
     },
     "EjjEp6cNVR69I5CdEUJ59J": {
-      "status": "valid",
-      "time": 1792818871835,
+      "status": "error",
+      "time": 1793243318566,
       "id": "120363428050333281@g.us",
       "name": "🌟Wahab truested saler 🌟🌟",
       "size": 326,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Gc5ElVdeqGRDSyi73Qjnyy": {
       "status": "valid",
-      "time": 1792818875827,
+      "time": 1793243322332,
       "id": "447958709941-1529446447@g.us",
       "name": "🖤⃢⃟🇧𝙍𝙊𝙆𝙀𝙉💔🇭𝙀𝘼𝙍𝙏⃟⃢🦋📡",
-      "size": 236,
+      "size": 211,
       "approval": true,
       "announce": false
     },
     "LesHYXDyXzyALYIkD5rdKW": {
       "status": "valid",
-      "time": 1792818878464,
+      "time": 1793243326161,
       "id": "120363401152956981@g.us",
       "name": "10 شرعی مسائل کا حل",
-      "size": 648,
+      "size": 717,
       "approval": false,
       "announce": false
     },
@@ -6137,46 +6138,48 @@
     },
     "KRr0D4iWd5vGMWkcjtOHTy": {
       "status": "valid",
-      "time": 1792818886255,
+      "time": 1793243329042,
       "id": "120363161096486561@g.us",
       "name": "SRS Mobile Software New Gulfam🖥️",
-      "size": 604,
+      "size": 596,
       "approval": false,
       "announce": false
     },
     "CTuDTJnoIoj9oGN1YHZcG1": {
-      "status": "valid",
-      "time": 1792818889939,
+      "status": "error",
+      "time": 1793243332553,
       "id": "120363425748840238@g.us",
       "name": "ONLINE JOB HUB",
       "size": 92,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Ekm8yPeQtmiCMee3ut1btS": {
-      "status": "valid",
-      "time": 1792818894046,
+      "status": "error",
+      "time": 1793243334830,
       "id": "120363430678395562@g.us",
       "name": "Aysha truested saler",
       "size": 153,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "EdizGvdQJ7YLRmPkXWi7ZK": {
       "status": "valid",
-      "time": 1792818897857,
+      "time": 1793243338613,
       "id": "120363413756684811@g.us",
       "name": "Tahaa Online Trusted Store Group",
-      "size": 135,
+      "size": 124,
       "approval": true,
       "announce": false
     },
     "J2z9Yheog6vLPZUQlublpu": {
       "status": "valid",
-      "time": 1792818900939,
+      "time": 1793243341714,
       "id": "120363410167866817@g.us",
       "name": "KYC SELALU DIHATI",
-      "size": 392,
+      "size": 598,
       "approval": false,
       "announce": false
     },
@@ -6188,10 +6191,10 @@
     },
     "EVwsIBF3hazF1Ylm04xfd2": {
       "status": "valid",
-      "time": 1792818908781,
+      "time": 1793243345659,
       "id": "120363422208001830@g.us",
       "name": "Dara Brand Aram's delivery all Pakistan",
-      "size": 556,
+      "size": 572,
       "approval": false,
       "announce": false
     },
@@ -6209,7 +6212,7 @@
     },
     "FqrUPAU8Nbh8niNO5CdwDh": {
       "status": "error",
-      "time": 1792818921943,
+      "time": 1793243348075,
       "err": "bad-request"
     },
     "KBDlhrQ08wI2gaAj7f9xaJ": {
