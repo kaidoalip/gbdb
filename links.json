@@ -1722,13 +1722,14 @@
       "err": "account_reachout_restricted"
     },
     "BklXNdPvGCDHDELLeW4Zm2": {
-      "status": "valid",
-      "time": 1793253177366,
+      "status": "error",
+      "time": 1793255388876,
       "id": "120363422472656309@g.us",
       "name": "𝐔𝐒𝐄𝐃 𝐆𝐌𝐀𝐈𝐋 𝐁𝐔𝐘//𝐒𝐄𝐋𝐋🇧🇩🇵🇰🇮🇳🇺🇸🇮🇷🇮🇹🤝",
       "size": 975,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "account_reachout_restricted"
     },
     "FJL0LMt1gZfJXw9vO1bc28": {
       "status": "komunitas",
