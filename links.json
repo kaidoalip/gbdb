@@ -4299,12 +4299,13 @@
       "announce": false
     },
     "JNLhywWDDd98FhZnAGxJYx": {
-      "status": "joined",
-      "time": 1792720119518,
+      "status": "valid",
+      "time": 1793242736746,
       "id": "120363430135751809@g.us",
       "name": "Yt market place",
-      "size": 22,
-      "approval": false
+      "size": 84,
+      "approval": false,
+      "announce": false
     },
     "HQoOzu1AQNrEtPecqVoIdl": {
       "status": "expired",
@@ -4323,12 +4324,13 @@
       "approval": true
     },
     "Dx2OjHtW8bZK3AYtN3U05l": {
-      "status": "joined",
-      "time": 1792722425875,
+      "status": "error",
+      "time": 1793242740856,
       "id": "120363427989885000@g.us",
       "name": "𓆩𝐁𝐇𝐔𝐓𝐓𝐎 𝐊𝐀 𝐁𝐀𝐍𝐆𝐋𝐀𓆪 \n亗᪳»💋🥵*\n\n⎯꯭𝆭̽🙈̊᭡᪳𓆪ꪾ\n\n\n⎯꯭𝆭̽💋̊᭡᪳𓆪ꪾ\n\n\n⎯꯭𝆭̽🫂̊᭡᪳𓆪ꪾ\n\n\n⎯꯭𝆭",
       "size": 460,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "DsjUlgLGKUW0kaf3TRUiVu": {
       "status": "pending",
@@ -4348,75 +4350,75 @@
     },
     "IuQwjRxRNWXEnGBOpNt06J": {
       "status": "error",
-      "time": 1792818783416,
+      "time": 1793242744370,
       "err": "bad-request"
     },
     "IXPrKlc2g28FtDMCsSHxET": {
-      "status": "joined",
-      "time": 1792742099742,
+      "status": "valid",
+      "time": 1793242747209,
       "id": "120363429889115116@g.us",
       "name": "Best SALER'S VS BUYER'S 🤝",
-      "size": 120,
+      "size": 621,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "CDdvL0bGThy4mtDRYX5C8f": {
-      "status": "joined",
-      "time": 1792742115640,
+      "status": "valid",
+      "time": 1793242750263,
       "id": "120363411679707453@g.us",
       "name": "MASTER SALER'S & BUYER'S 🤝",
-      "size": 107,
+      "size": 602,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "Dx60oL9yJjc8lYOZQLOOkt": {
-      "status": "joined",
-      "time": 1792742132799,
+      "status": "valid",
+      "time": 1793242753482,
       "id": "120363432064294167@g.us",
       "name": "PRO SALER'S & BUYERS 🤝👑",
-      "size": 100,
+      "size": 555,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "LAvimHks4b8BEarju944UM": {
       "status": "valid",
-      "time": 1792741543224,
+      "time": 1793242756430,
       "id": "120363414213237021@g.us",
       "name": "Experts SALER'S & BUYER'S 🤝",
-      "size": 93,
+      "size": 542,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "DncOWLEgmxi57qgOwHqcXJ": {
       "status": "valid",
-      "time": 1792741545853,
+      "time": 1793242760754,
       "id": "120363412979444303@g.us",
       "name": "World best SALER'S & BUYER'S 🤝",
-      "size": 102,
+      "size": 579,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "Dt2k3HakL0IABadgavXxA2": {
       "status": "valid",
-      "time": 1792741549359,
+      "time": 1793242764442,
       "id": "120363430740591174@g.us",
       "name": "BUY AND SALE experts 🤝",
-      "size": 76,
+      "size": 358,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "JAB6FwCofmgAf4kDyKGLEC": {
       "status": "valid",
-      "time": 1792741552515,
+      "time": 1793242768666,
       "id": "120363429995370877@g.us",
       "name": "INTERNATIONAL BUYER'S 🤝",
-      "size": 85,
+      "size": 599,
       "approval": true,
       "err": "already-exists",
       "announce": false
