@@ -1124,19 +1124,19 @@
     },
     "CU1rq8F5SelHdjjIWwe0Zq": {
       "status": "valid",
-      "time": 1792743296463,
+      "time": 1793242067362,
       "id": "120363428928494855@g.us",
       "name": "𝙂𝙑 𝙏𝙉 𝘽𝙐𝙔 & 𝙎𝙀𝙇𝙇",
-      "size": 112,
+      "size": 109,
       "approval": false,
       "announce": false
     },
     "CDHbCR6j8Jp78In3WmyFjn": {
       "status": "valid",
-      "time": 1792743300285,
+      "time": 1793242070448,
       "id": "120363425216339393@g.us",
       "name": "Linkdin BuY & Sell Group",
-      "size": 343,
+      "size": 317,
       "approval": false,
       "err": "Connection Closed",
       "announce": false
@@ -1159,10 +1159,10 @@
     },
     "I9fPTnsLJCQEFrGEtoXJH3": {
       "status": "valid",
-      "time": 1792743304360,
+      "time": 1793242073809,
       "id": "120363433793355130@g.us",
       "name": "Paypal/TN/GV/ All Bank   Trested Group",
-      "size": 71,
+      "size": 90,
       "approval": false,
       "err": "Connection Closed",
       "announce": false
@@ -1185,20 +1185,20 @@
     },
     "DlQolwcFjMc1d1jzPz9RoS": {
       "status": "valid",
-      "time": 1792743307752,
+      "time": 1793242077157,
       "id": "120363411636069319@g.us",
       "name": "حرف و احساس ✍️",
-      "size": 442,
+      "size": 405,
       "approval": false,
       "err": "Connection Closed",
       "announce": false
     },
     "CIzmgkVt5Av1FG39UMdFcc": {
       "status": "valid",
-      "time": 1792743310222,
+      "time": 1793242081429,
       "id": "120363433368894023@g.us",
       "name": "OLD GMAIL BUY & SELL 🌐",
-      "size": 97,
+      "size": 111,
       "approval": false,
       "err": "Connection Closed",
       "announce": false
@@ -1220,20 +1220,21 @@
       "approval": false
     },
     "EO3ik3agagKCPv4Dj6yxxp": {
-      "status": "valid",
-      "time": 1792743318266,
+      "status": "error",
+      "time": 1793242085597,
       "id": "120363410412311806@g.us",
       "name": "PREMIUM ACCOUNT & PRODUCT BUY SELL GROUP",
       "size": 232,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KKpb0qOIIKwITBgk78S0ia": {
       "status": "valid",
-      "time": 1792743320597,
+      "time": 1793242089222,
       "id": "120363409988190960@g.us",
       "name": "Sourav-Gv-TN-TF-Index-Sideline-  trusted -group[BD]",
-      "size": 246,
+      "size": 289,
       "approval": false,
       "announce": false
     },
@@ -1287,7 +1288,7 @@
     },
     "FTxJ6H015s9E47Segohveq": {
       "status": "error",
-      "time": 1792818701627,
+      "time": 1793242092207,
       "id": "120363410512249562@g.us",
       "name": "All in one tricks",
       "size": 127,
@@ -1304,11 +1305,11 @@
     },
     "Ey3TRBpa6du7i8mA2vdYoL": {
       "status": "valid",
-      "time": 1792743326506,
+      "time": 1793242095076,
       "id": "120363430721644100@g.us",
       "name": "RAVAN CLOUD SELLER",
-      "size": 287,
-      "approval": true,
+      "size": 300,
+      "approval": false,
       "announce": false
     },
     "EUxDxGbH9iO8SKTnukWKWR": {
@@ -1321,10 +1322,10 @@
     },
     "DTLJCLrXBev8HSS1sTfRsX": {
       "status": "valid",
-      "time": 1792743331437,
+      "time": 1793242098455,
       "id": "120363429779664919@g.us",
       "name": "💎 TN | GV | TT | FB | IG — Trusted Community 💵",
-      "size": 180,
+      "size": 178,
       "approval": false,
       "announce": false
     },
