@@ -3333,36 +3333,39 @@
       "err": "bad-request"
     },
     "FWNlUQR1xBK1WINtgNV56I": {
-      "status": "joined",
-      "time": 1792658139770,
+      "status": "valid",
+      "time": 1793242491977,
       "id": "120363409912936186@g.us",
       "name": "Castom room",
-      "size": 121,
-      "approval": false
+      "size": 159,
+      "approval": false,
+      "announce": false
     },
     "EVYslll2EUoDdEPMJiNdy7": {
-      "status": "joined",
-      "time": 1792658155521,
+      "status": "expired",
+      "time": 1793242494675,
       "id": "120363410057758933@g.us",
       "name": "Panda Studio   Funding Solutions🇮🇳🇮🇳",
       "size": 162,
       "approval": false
     },
     "GXfnl25v0u87kwgDI4Izal": {
-      "status": "blocked",
-      "time": 1792741475587,
+      "status": "valid",
+      "time": 1793242498516,
       "id": "120363433517258240@g.us",
-      "name": "Al Hafiz  Perfume",
-      "size": 21,
-      "approval": false
+      "name": "꧁༺ 𝑨𝒍 𝑯𝒂𝒇𝒊𝒛 𝑷𝒆𝒓𝒇𝒖𝒎𝒆 ༻꧂",
+      "size": 43,
+      "approval": false,
+      "announce": false
     },
     "IxroMyntGmN6vwOO8Xvhuw": {
-      "status": "joined",
-      "time": 1792658195921,
+      "status": "valid",
+      "time": 1793242501758,
       "id": "120363432050265418@g.us",
       "name": "Pakistan Buy and Sell group",
-      "size": 82,
-      "approval": false
+      "size": 112,
+      "approval": false,
+      "announce": false
     },
     "FaGJRJoJ82l13qsjcjK2pm": {
       "status": "pending",
@@ -3373,20 +3376,22 @@
       "approval": true
     },
     "HW11N26IQMU22v9Xte3qDE": {
-      "status": "blocked",
-      "time": 1792741478075,
+      "status": "valid",
+      "time": 1793242504616,
       "id": "120363426614791910@g.us",
       "name": "صوابی مردان پشاور کاروباری گروپ",
-      "size": 833,
-      "approval": false
+      "size": 818,
+      "approval": false,
+      "announce": false
     },
     "HGzLgG8o3GV7kh3f0YyfNz": {
-      "status": "blocked",
-      "time": 1792741482194,
+      "status": "error",
+      "time": 1793242508414,
       "id": "120363432274225509@g.us",
       "name": "💸💸N♥️A/ KinG dealing zone™ 💸💸",
       "size": 358,
-      "approval": false
+      "approval": false,
+      "err": "growth-locked"
     },
     "JT5Fg9stHXsGOvpfIbBvaK": {
       "status": "expired",
@@ -3417,12 +3422,13 @@
       "name": "LASER Seller DeliVerY All PakiStan AVailable. 🚚💸💸💸"
     },
     "CsXQclw88eV04v6JQ6SAyO": {
-      "status": "joined",
-      "time": 1792658255123,
+      "status": "error",
+      "time": 1793242511220,
       "id": "120363429609153454@g.us",
       "name": "سستے فیملی انٹرنیٹ پیکجز",
       "size": 552,
-      "approval": false
+      "approval": false,
+      "err": "growth-locked"
     },
     "CGIyqkcV8qw33vRX2s65Gy": {
       "status": "pending",
@@ -3433,20 +3439,22 @@
       "approval": true
     },
     "DOoZaIQkemQIzUf8pd4bAi": {
-      "status": "joined",
-      "time": 1792658277053,
+      "status": "valid",
+      "time": 1793242515092,
       "id": "120363431562706599@g.us",
       "name": "Ali Hussnain TikTok Store ✅",
-      "size": 275,
-      "approval": false
+      "size": 382,
+      "approval": false,
+      "announce": false
     },
     "HGeNAXhwQas9rC9T726u8W": {
-      "status": "joined",
-      "time": 1792658297342,
+      "status": "valid",
+      "time": 1793242519714,
       "id": "120363411007334848@g.us",
       "name": "Alhani TikTok Services.",
-      "size": 515,
-      "approval": false
+      "size": 516,
+      "approval": false,
+      "announce": false
     },
     "C14BQDS8hpi9RkPTN2klsO": {
       "status": "komunitas",
@@ -3455,12 +3463,13 @@
       "name": "Al Noor Collection (3)"
     },
     "DAcLGcnm7bo1TN7tHxENs6": {
-      "status": "joined",
-      "time": 1792658318072,
+      "status": "valid",
+      "time": 1793242523562,
       "id": "120363427232453821@g.us",
       "name": "GMAIL BUYING GROUP 🌸",
-      "size": 83,
-      "approval": false
+      "size": 146,
+      "approval": false,
+      "announce": false
     },
     "CFEmWUQISa8Brdzj5v95fZ": {
       "status": "komunitas",
