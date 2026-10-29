@@ -4424,56 +4424,57 @@
       "announce": false
     },
     "Fq6PyPldPAfCU5a4yIc2ys": {
-      "status": "joined",
-      "time": 1792657874725,
+      "status": "valid",
+      "time": 1793242774056,
       "id": "120363429691130566@g.us",
       "name": "PRO YOUTUBER'S 👑",
-      "size": 214,
-      "approval": false
+      "size": 443,
+      "approval": true,
+      "announce": false
     },
     "GVglPZ0YdJ6AJtqL60KvfD": {
       "status": "valid",
-      "time": 1792741556855,
+      "time": 1793242777332,
       "id": "120363415817540941@g.us",
       "name": "YOUTUBE LEGEND'S ✨",
-      "size": 946,
+      "size": 1017,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "Eo1vwnQFD6XLBCc7zPvdkk": {
       "status": "valid",
-      "time": 1792741560230,
+      "time": 1793242779848,
       "id": "120363412177504594@g.us",
       "name": "YOUTUBE EXPERT'S 🤝",
-      "size": 984,
+      "size": 950,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "Fk8w3pMvG0F3wCYP4j2UFh": {
       "status": "valid",
-      "time": 1792741564421,
+      "time": 1793242783871,
       "id": "120363432019813423@g.us",
       "name": "Everything buy & sale 🤝",
-      "size": 799,
+      "size": 1012,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "JzfxbhbP8jIF0hoX3bKmP1": {
       "status": "valid",
-      "time": 1792741567107,
+      "time": 1793242786762,
       "id": "120363431820446314@g.us",
       "name": "YOUTUBE KiNG'S 👑",
-      "size": 1007,
+      "size": 980,
       "approval": true,
       "err": "already-exists",
       "announce": false
     },
     "EeiwOweVZO8FSsXQgArT8K": {
       "status": "error",
-      "time": 1792818786593,
+      "time": 1793242790804,
       "id": "120363414221177980@g.us",
       "name": "👑 ANH SERVICE FAMILY OFFICIAL ✓",
       "size": 74,
@@ -4489,36 +4490,40 @@
       "approval": true
     },
     "L0PGUXJVb1B96XoKKDydc4": {
-      "status": "joined",
-      "time": 1792722662784,
+      "status": "valid",
+      "time": 1793242794526,
       "id": "120363428057894157@g.us",
       "name": "Digital tool sale or buy",
-      "size": 113,
-      "approval": false
+      "size": 111,
+      "approval": false,
+      "announce": false
     },
     "EhpvYLR3GBF6S32pmdMlci": {
-      "status": "joined",
-      "time": 1792722681691,
+      "status": "valid",
+      "time": 1793242798580,
       "id": "120363429438806727@g.us",
       "name": "VERIFIED SAMMYZOE UPDATE",
-      "size": 500,
-      "approval": false
+      "size": 602,
+      "approval": false,
+      "announce": false
     },
     "Iy2jeGOpfRfLK28ZAiO5H2": {
-      "status": "joined",
-      "time": 1792722701031,
+      "status": "valid",
+      "time": 1793242801398,
       "id": "120363431309438202@g.us",
       "name": "USA number buy sell",
-      "size": 51,
-      "approval": false
+      "size": 119,
+      "approval": false,
+      "announce": false
     },
     "FjDdXq1Dpxv4ukj0D1BoWW": {
-      "status": "joined",
-      "time": 1792722719099,
+      "status": "valid",
+      "time": 1793242804924,
       "id": "120363409066007697@g.us",
       "name": "IT & solution",
-      "size": 184,
-      "approval": false
+      "size": 197,
+      "approval": false,
+      "announce": false
     },
     "IpU85DOnw9N41XJNF155VN": {
       "status": "komunitas",
