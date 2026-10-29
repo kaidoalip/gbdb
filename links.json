@@ -6870,32 +6870,32 @@
     },
     "IRJr2uOpcuVBGDGVSwf4JW": {
       "status": "error",
-      "time": 1793278240863,
+      "time": 1793280340693,
       "err": "bad-request"
     },
     "GmKyTi0sIVdCzPG1X4IqFA": {
       "status": "error",
-      "time": 1793278244710,
+      "time": 1793280343313,
       "err": "bad-request"
     },
     "CU7rpz7gVSaFde3G9FJOsz": {
       "status": "error",
-      "time": 1793278248934,
+      "time": 1793280346732,
       "err": "growth-locked"
     },
     "BKRhmb7LGs94GYINde0GOB": {
       "status": "error",
-      "time": 1793278251313,
+      "time": 1793280349537,
       "err": "bad-request"
     },
     "IK8B9NyoUi3LW5n5tLBIvl": {
       "status": "error",
-      "time": 1793278255173,
+      "time": 1793280353076,
       "err": "bad-request"
     },
     "DWotLyR2Yt7FZ2MJUGTsoL": {
       "status": "error",
-      "time": 1793278259197,
+      "time": 1793280356362,
       "err": "bad-request"
     },
     "HIChZ8YdZAiKw54jEZbTZT": {
@@ -6927,8 +6927,8 @@
     },
     "FnHxrA7ddlGHeusDj2ok6H": {
       "status": "error",
-      "time": 1793278263277,
-      "err": "bad-request"
+      "time": 1793280360197,
+      "err": "Connection Closed"
     },
     "BoopzX1SofL7Ar67fuu967": {
       "status": "valid",
@@ -6959,7 +6959,7 @@
     },
     "Do5ahuOE6U6FlnkbHafESv": {
       "status": "error",
-      "time": 1793278267214,
+      "time": 1793280362364,
       "err": "bad-request"
     },
     "LR6CtcBzr0E0hnnw3KFfpb": {
@@ -6982,12 +6982,12 @@
     },
     "FaNdFPBBqYqARViP5inU7p": {
       "status": "error",
-      "time": 1793278269808,
+      "time": 1793280365867,
       "err": "bad-request"
     },
     "HWASrxyiERPJEGN6NUcMS0": {
       "status": "error",
-      "time": 1793278272991,
+      "time": 1793280368645,
       "err": "bad-request"
     },
     "GfI4mGHINOm3b1RVTmZ5Iv": {
