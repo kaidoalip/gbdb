@@ -1942,13 +1942,14 @@
       "announce": false
     },
     "IzQWK67R67rJ6QiqqvpoTO": {
-      "status": "valid",
-      "time": 1792743477899,
+      "status": "error",
+      "time": 1793242244874,
       "id": "120363410957830027@g.us",
       "name": "ZAHIR BACK UP GROUP",
       "size": 96,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IHQmbgzPfrlJ45kyyFtB4M": {
       "status": "expired",
@@ -1967,8 +1968,8 @@
       "time": 1792484068133
     },
     "Cmzpx3L4gY79u2NRcBuZtv": {
-      "status": "valid",
-      "time": 1792743481376,
+      "status": "expired",
+      "time": 1793242248751,
       "id": "120363407283479673@g.us",
       "name": "🌨️ 𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗖𝗟𝗢𝗨𝗗 | 𝗧𝗢𝗡𝗭 𝗦𝗧𝗢𝗥𝗘 🛒",
       "size": 253,
@@ -1989,10 +1990,10 @@
     },
     "CasTMOKaDfhGKMn7qacPXe": {
       "status": "valid",
-      "time": 1792743483795,
+      "time": 1793242252318,
       "id": "120363396600879289@g.us",
       "name": "GV, TN, TF, ID, SL buy & Sell Group",
-      "size": 244,
+      "size": 261,
       "approval": true,
       "announce": false
     },
@@ -2006,7 +2007,7 @@
     },
     "DGJSjXfUXSb7HyNXGDSCM1w": {
       "status": "error",
-      "time": 1792818748420,
+      "time": 1793242255727,
       "err": "bad-request"
     },
     "IVd0ycVXbis0WnsqYxs7Mz": {
@@ -2047,19 +2048,19 @@
     },
     "Ci4K7Qv5DdGFoKPMoAtOsN": {
       "status": "valid",
-      "time": 1792743490515,
+      "time": 1793242258544,
       "id": "120363427994923557@g.us",
-      "name": "Google Play Console Buy&Sell",
-      "size": 119,
+      "name": "Pakistan zindabad!🇵🇰",
+      "size": 91,
       "approval": false,
       "announce": false
     },
     "I9cyAFqT027Higrk3FEjL2": {
       "status": "valid",
-      "time": 1792743494322,
+      "time": 1793242261649,
       "id": "120363423831539213@g.us",
-      "name": "Deal with ilyas gpc ✓",
-      "size": 408,
+      "name": "Allah de Marzi all",
+      "size": 316,
       "approval": false,
       "announce": false
     },
@@ -2083,10 +2084,10 @@
     },
     "LdYz1EWVQ8U7n1FKTYfxbb": {
       "status": "valid",
-      "time": 1792743498567,
+      "time": 1793242265126,
       "id": "120363409760945010@g.us",
       "name": "🌹Asif A1Cloud Buying And Selling🌹",
-      "size": 136,
+      "size": 179,
       "approval": false,
       "announce": false
     },
@@ -2118,25 +2119,25 @@
     },
     "IQbUyZHR5UAG30wS0WamOT": {
       "status": "valid",
-      "time": 1792743501914,
+      "time": 1793242269738,
       "id": "120363429996618054@g.us",
       "name": "(•ᴗ•) ʙʟᴀꜱᴛɪɴɢ ᴛᴇᴀᴍ ᴀᴅᴍɪɴ (•ᴗ•)",
-      "size": 43,
+      "size": 61,
       "approval": false,
       "announce": false
     },
     "HQYBsoqPAxsGOLPR9anWja": {
       "status": "valid",
-      "time": 1792743504951,
+      "time": 1793242272635,
       "id": "120363431672703043@g.us",
       "name": "Buy--Sell Group✅",
-      "size": 29,
+      "size": 33,
       "approval": false,
       "announce": false
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1792818751680,
+      "time": 1793242275128,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
