@@ -8325,44 +8325,63 @@
       "time": 1793244359203
     },
     "I99anUIzQfv1jKeHTmxY7f": {
-      "status": "new",
-      "time": 1792998624915
+      "status": "error",
+      "time": 1793244363170,
+      "err": "bad-request"
     },
     "J615zkPKit4JyW8fIhEHWC": {
-      "status": "new",
-      "time": 1792999225513
+      "status": "valid",
+      "time": 1793244366235,
+      "id": "120363430198888134@g.us",
+      "name": "CP family 🚀🫂",
+      "size": 240,
+      "approval": false,
+      "announce": false
     },
     "IetgBl6UDpA4bXdfq612iq": {
-      "status": "new",
-      "time": 1792999345503
+      "status": "error",
+      "time": 1793244369299,
+      "err": "bad-request"
     },
     "BzET5VRYDaO2poB5omi8qi": {
-      "status": "new",
-      "time": 1792999465496
+      "status": "error",
+      "time": 1793244372165,
+      "err": "bad-request"
     },
     "LscGmsizYpzH1asN88dUjF": {
-      "status": "new",
-      "time": 1792999825451
+      "status": "valid",
+      "time": 1793244376581,
+      "id": "120363407911990210@g.us",
+      "name": "I",
+      "size": 207,
+      "approval": true,
+      "announce": false
     },
     "HlWAf97MawK3vsxFGwx8E9": {
-      "status": "new",
-      "time": 1792999945192
+      "status": "error",
+      "time": 1793244378957,
+      "err": "bad-request"
     },
     "D4sP8FQIpTxDPEGbCASJ9x": {
-      "status": "new",
-      "time": 1792999945192
+      "status": "error",
+      "time": 1793244381454,
+      "err": "bad-request"
     },
     "FjhCebAsabG177VMYiOwwb": {
-      "status": "new",
-      "time": 1792999945192
+      "status": "komunitas",
+      "time": 1793244385092,
+      "id": "120363410046627601@g.us",
+      "name": "𓆩🌐𓆪 𝐇𝐀𝐃𝐈 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐇𝐔𝐁 𓆩🌐𓆪"
     },
     "LtWjunxNkbTAtnpABRoiNi": {
-      "status": "new",
-      "time": 1793000065818
+      "status": "error",
+      "time": 1793244387951,
+      "err": "bad-request"
     },
     "IGF1tQOScAU4L4PtTne4fD": {
-      "status": "new",
-      "time": 1793000185345
+      "status": "error",
+      "time": 1793244390754,
+      "err": "bad-request"
     },
     "BxKrmr5Tw9z9SVowzrbBjh": {
       "status": "new",
