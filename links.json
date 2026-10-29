@@ -5732,8 +5732,8 @@
       "announce": false
     },
     "KVArwczFH4y7t5yr2FAjgl": {
-      "status": "valid",
-      "time": 1792741888952,
+      "status": "expired",
+      "time": 1793243172236,
       "id": "120363429294012871@g.us",
       "name": "🔞 *Adults Only — बाकी सब बाहर!*",
       "size": 1,
@@ -5742,19 +5742,19 @@
     },
     "LipQEHQCqI8AiGfYfMMs5V": {
       "status": "valid",
-      "time": 1792741891475,
+      "time": 1793243176275,
       "id": "120363428687912213@g.us",
       "name": "🕊High falling pegan🕊",
-      "size": 152,
+      "size": 176,
       "approval": false,
       "announce": false
     },
     "CZ3v9CSLmFm90yZrl4YZzu": {
       "status": "valid",
-      "time": 1792741895257,
+      "time": 1793243180059,
       "id": "120363431188655921@g.us",
       "name": "Faizan YT Service's",
-      "size": 36,
+      "size": 65,
       "approval": false,
       "announce": false
     },
@@ -5765,29 +5765,31 @@
       "name": "𝚂𝙷𝙾𝙰𝙸𝙱 𝚃𝙴𝙲𝙷 𝚉𝙾𝙽𝙴"
     },
     "Law57XbHvWa37EYH1vC7pH": {
-      "status": "valid",
-      "time": 1792741903002,
+      "status": "error",
+      "time": 1793243184013,
       "id": "120363415694505567@g.us",
       "name": "*⎯꯭᪳𝆺𝅥⃝🌚𝐘𝛂͢𝛂͢།ꝛ๏፝֟ղ֟፝ ʞ𝆭ī֟፝ ϻ̈̐𝛆̽ͱ꧊ƒ⃪ī֟፝ɭ⎯꯭᪳ᥫ᭡*   \n»⎯꯭̽♥️⤸   \n»⎯꯭̽👑⤸   \n»⎯꯭̽🐾 ⤸  \n»⎯꯭̽🍒⤸   \n»⎯꯭̽🚩⤸",
       "size": 77,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HvD8ZfUXQBE2GIOVGY6b7a": {
-      "status": "valid",
-      "time": 1792741906212,
+      "status": "error",
+      "time": 1793243186383,
       "id": "120363431658038098@g.us",
       "name": "🇸 ꍩOᐃ𝖎β 🅣︎ЄƇӇ",
       "size": 2,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CjFQ2sZar82ByBbAzFJm9R": {
       "status": "valid",
-      "time": 1792741908628,
+      "time": 1793243190607,
       "id": "120363412297352185@g.us",
       "name": "api সেলার",
-      "size": 6,
+      "size": 9,
       "approval": false,
       "announce": false
     },
@@ -5799,37 +5801,37 @@
     },
     "CndaPUEYxwO75Ht29vtLVt": {
       "status": "valid",
-      "time": 1792741918479,
+      "time": 1793243194630,
       "id": "120363405054204294@g.us",
       "name": "LAPSOL COMPUTER ACCESSORIES",
-      "size": 596,
+      "size": 626,
       "approval": false,
       "announce": false
     },
     "GF0h2okiK9z05jHrVEPQYM": {
       "status": "valid",
-      "time": 1792741922442,
+      "time": 1793243197559,
       "id": "120363411538768265@g.us",
       "name": "𝙋𝙏𝙈 𝙐𝙋𝘿𝘼𝙏𝙀𝙎🚩",
-      "size": 33,
+      "size": 72,
       "approval": true,
       "announce": false
     },
     "KbQ8RIP4SFxBDNMTmaFAHf": {
       "status": "valid",
-      "time": 1792741925691,
+      "time": 1793243201168,
       "id": "923432306910-1592468727@g.us",
       "name": "PRIME ASSET MANAGEMENT",
-      "size": 167,
+      "size": 162,
       "approval": false,
       "announce": false
     },
     "Ko9vZzGvGhUEnkewCLWFBt": {
       "status": "valid",
-      "time": 1792741930030,
+      "time": 1793243205070,
       "id": "120363425071038422@g.us",
       "name": "WATIN COMPUTERS LTD 🖥",
-      "size": 398,
+      "size": 395,
       "approval": false,
       "announce": false
     },
