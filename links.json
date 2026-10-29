@@ -8660,21 +8660,21 @@
     },
     "Flj3QFg8SzuFLkCQ6CqIKU": {
       "status": "error",
-      "time": 1793255305619,
+      "time": 1793264005339,
       "err": "bad-request"
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
       "status": "valid",
-      "time": 1793255309112,
+      "time": 1793264009687,
       "id": "120363415245952994@g.us",
       "name": "AdeelLabs",
-      "size": 224,
+      "size": 225,
       "approval": false,
       "announce": false
     },
     "HOqx3GyMPbxK5TvrF0a29K": {
       "status": "valid",
-      "time": 1793255312451,
+      "time": 1793264013623,
       "id": "120363410521771067@g.us",
       "name": "YASIR AUTOMATION",
       "size": 340,
@@ -8683,7 +8683,7 @@
     },
     "EMWInINgSI5IClEjAFTXqU": {
       "status": "valid",
-      "time": 1793255316492,
+      "time": 1793264016308,
       "id": "120363411668143951@g.us",
       "name": "───※ 𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝑻𝒓𝒖𝒔𝒕𝒆𝒅 𝑭𝒂𝒎𝒊𝒍𝒚 ※───",
       "size": 74,
@@ -8691,28 +8691,51 @@
       "announce": false
     },
     "IVy8HrYqSLcIUP9fTuoe5r": {
-      "status": "new",
-      "time": 1793254983717
+      "status": "valid",
+      "time": 1793264020139,
+      "id": "120363431718864872@g.us",
+      "name": "OFFICL CARDER❤️💫",
+      "size": 79,
+      "approval": false,
+      "announce": false
     },
     "Bn0wFXciV195YsY9pbLzuc": {
-      "status": "new",
-      "time": 1793255583393
+      "status": "valid",
+      "time": 1793264022789,
+      "id": "120363430318605535@g.us",
+      "name": "𝗞𝗜𝗡𝗚",
+      "size": 4,
+      "approval": true,
+      "announce": false
     },
     "DAPoHWncHdd64UDkmnKnNA": {
-      "status": "new",
-      "time": 1793257263218
+      "status": "valid",
+      "time": 1793264027153,
+      "id": "120363433479618129@g.us",
+      "name": "CLOUD NODE NEXUS 🌦️",
+      "size": 7,
+      "approval": false,
+      "announce": false
     },
     "FEDwkQJBZ6BBGWyM0Dbodl": {
-      "status": "new",
-      "time": 1793257983197
+      "status": "komunitas",
+      "time": 1793264029958,
+      "id": "120363432263844644@g.us",
+      "name": "Active Zone"
     },
     "EC0KM8xXYY08NozDm7dXeV": {
-      "status": "new",
-      "time": 1793258223276
+      "status": "valid",
+      "time": 1793264033270,
+      "id": "120363410675031910@g.us",
+      "name": "AETHEL (LIFE STYLE)",
+      "size": 127,
+      "approval": true,
+      "announce": false
     },
     "IKapwfUIDrLB48VnWcDoeF": {
-      "status": "new",
-      "time": 1793258463511
+      "status": "error",
+      "time": 1793264036940,
+      "err": "growth-locked"
     },
     "FrXsSKDHKva4wfZNS1MrFV": {
       "status": "new",
