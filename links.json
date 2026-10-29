@@ -2989,10 +2989,10 @@
     },
     "CFA7qmrPkhy4CT1nf807TL": {
       "status": "valid",
-      "time": 1792743639366,
+      "time": 1793242387361,
       "id": "120363429396171659@g.us",
-      "name": "Sadia e- Commerce",
-      "size": 162,
+      "name": "E commerce with SADIA",
+      "size": 172,
       "approval": false,
       "announce": false
     },
@@ -3006,25 +3006,25 @@
     },
     "HbifHxqM213BZogdtNzijP": {
       "status": "valid",
-      "time": 1792743643282,
+      "time": 1793242390305,
       "id": "120363415081162660@g.us",
-      "name": "💖قرآن مجید اور احادیث💖",
-      "size": 145,
+      "name": "💖 Islamic Group 💖",
+      "size": 124,
       "approval": false,
       "announce": false
     },
     "DlKxex5IhjqB4apfTyWhr0": {
       "status": "valid",
-      "time": 1792743645655,
+      "time": 1793242393137,
       "id": "120363318504509189@g.us",
       "name": "Daraz Updates & Tricks 📢",
-      "size": 138,
+      "size": 141,
       "approval": false,
       "announce": false
     },
     "HM3yxsDABniGcrBBTpGh6H": {
       "status": "error",
-      "time": 1792818771966,
+      "time": 1793242395306,
       "id": "120363430992072882@g.us",
       "name": "👙🫦Viral xxx video‼️ 🔞",
       "size": 379,
@@ -3041,10 +3041,10 @@
     },
     "LbGj9ozXHq0LKje1GhpRki": {
       "status": "valid",
-      "time": 1792743653429,
+      "time": 1793242398796,
       "id": "120363432056037304@g.us",
       "name": "RS Tech Hub | Seller Community",
-      "size": 12,
+      "size": 8,
       "approval": false,
       "announce": false
     },
@@ -3054,48 +3054,50 @@
     },
     "FTS9t3rNygQ2UXT6dsgO72": {
       "status": "valid",
-      "time": 1792743656100,
+      "time": 1793242402486,
       "id": "120363427704367793@g.us",
       "name": "CLOUD",
-      "size": 55,
+      "size": 72,
       "approval": false,
       "announce": false
     },
     "Fc4787PBUBfJsCHFmmXC9n": {
       "status": "valid",
-      "time": 1792743660143,
+      "time": 1793242406729,
       "id": "120363209884300532@g.us",
       "name": "Group Free Share | Promotion",
-      "size": 281,
+      "size": 271,
       "approval": false,
       "announce": false
     },
     "DaLcBB0z9uv30WlppnnasE": {
       "status": "valid",
-      "time": 1792743663387,
+      "time": 1793242409211,
       "id": "120363152896588615@g.us",
       "name": "CLOUD, RDP, VPS, HTML, CSS & AI",
-      "size": 495,
+      "size": 499,
       "approval": false,
       "announce": false
     },
     "HlA2MGPI9g38l80ncSft04": {
-      "status": "valid",
-      "time": 1792743666431,
+      "status": "error",
+      "time": 1793242411478,
       "id": "120363051261541504@g.us",
       "name": "SM Trusted Seller",
       "size": 260,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CsjXpHYoYKkFgiv2giVAB7": {
-      "status": "valid",
-      "time": 1792743669872,
+      "status": "error",
+      "time": 1793242415532,
       "id": "120363427768533319@g.us",
       "name": "AETHEL (LIFE STYLE)",
       "size": 195,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "G2LFhZJ2zVQ0fW6edAykVo": {
       "status": "valid",
