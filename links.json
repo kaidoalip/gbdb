@@ -3916,12 +3916,13 @@
       "name": "Gpc By Shahid"
     },
     "CIWezcbuNszL9u44t8ucAI": {
-      "status": "joined",
-      "time": 1792660009394,
+      "status": "error",
+      "time": 1793242631847,
       "id": "120363430284132580@g.us",
       "name": "❤️ اپنا گھر 🏡",
       "size": 78,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "LJqB3XtHdsoLH0c6cufkXy": {
       "status": "expired",
@@ -3954,32 +3955,35 @@
       "approval": true
     },
     "HOVfzD6cBsjJB8U8kUvddd": {
-      "status": "joined",
-      "time": 1792660093728,
+      "status": "valid",
+      "time": 1793242635065,
       "id": "120363430465675966@g.us",
-      "name": "𝙬𝙤𝙧𝙡𝘿 𝙗𝙚𝙨𝙩 𝙡𝙞𝙣𝙠𝙨",
-      "size": 588,
-      "approval": true
+      "name": "𝐀𝛆̽𝐬፝ʈͱ𐇲ᴇ᪳͢ʈɪ֟͡ᴄ̬𝆭  𝐬ʈaʈūs",
+      "size": 548,
+      "approval": true,
+      "announce": false
     },
     "DB3H8DME72RFHteDAZwiaE": {
-      "status": "joined",
-      "time": 1792660112009,
+      "status": "valid",
+      "time": 1793242637734,
       "id": "120363428380707472@g.us",
       "name": "TITAN EARNING POINT",
-      "size": 398,
-      "approval": false
+      "size": 414,
+      "approval": false,
+      "announce": false
     },
     "HhZlPhJVXW90XPRM1r9bix": {
-      "status": "joined",
-      "time": 1792660130631,
+      "status": "error",
+      "time": 1793242641045,
       "id": "120363429490127189@g.us",
       "name": "༆⃟✦𝆺𝅥𝆬᷼💃🇸ticker𝆺𝆭𝆬𝆭𝆬*Group 🍫♔︎༆⃟*✤͜♥️ ⃟🇱̸𝗼̸ͥ͢𝘃̸ͫ𝗲̸🥀𝗕𝗼𝘆*✦✦",
       "size": 122,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "D4y6kunkUTm8fflts11wc1": {
-      "status": "joined",
-      "time": 1792742081584,
+      "status": "valid",
+      "time": 1793242644106,
       "id": "120363426639955736@g.us",
       "name": "HUSTLERS ZONE🔗",
       "size": 130,
@@ -3987,12 +3991,13 @@
       "announce": false
     },
     "DkkKxZjG8OxIqyZzLkLtYy": {
-      "status": "joined",
-      "time": 1792660169923,
+      "status": "error",
+      "time": 1793242646518,
       "id": "120363430722058791@g.us",
       "name": "••𝐅𝐚𝐭i𝐦𝐚  𝐍𝐨𝐨𝐫꧂,᭡᪳꧊༨𝛆̽  Ħ𝐀͠Ꮿ𝐀͠ɭĪᯓ᭡᪳»🚩☠️   ⎯꯭𝆭̽💸̊᭡᪳𓆪ꪾ       ⎯꯭𝆭̽🇦🇱̊᭡᪳𓆪ꪾ       ⎯꯭𝆭̽💀̊᭡᪳𓆪ꪾ",
       "size": 61,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "K1gw6CrTSsKA8W2gJayAyO": {
       "status": "pending",
@@ -4003,24 +4008,26 @@
       "approval": true
     },
     "BcvYxhnTzBdJVJ1f4mHxB5": {
-      "status": "joined",
-      "time": 1792660203515,
+      "status": "error",
+      "time": 1793242650273,
       "id": "120363413096469198@g.us",
       "name": "𝄞🧸⃝.  𝒢𝓊𝓂𝓃𝒶𝒶𝓂᭄🐼ᥫ᭡",
       "size": 3,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "KTZKOfJAT9D3LJle6Fzd9L": {
       "status": "expired",
       "time": 1792657661909
     },
     "FS1SQkIQhQS0o9uYrVaTiN": {
-      "status": "joined",
-      "time": 1792660225458,
+      "status": "error",
+      "time": 1793242653422,
       "id": "120363406377655213@g.us",
       "name": "🔥🍂🍃ایک دل❤️‍🩹 درد ہزار🍃🍂🔥.",
       "size": 94,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "Lb4P41uKTYMA2WnQ0SHIq3": {
       "status": "pending",
@@ -4031,20 +4038,22 @@
       "approval": true
     },
     "DjKlbWTRLMH6irc93AMxcH": {
-      "status": "blocked",
-      "time": 1792741511499,
+      "status": "error",
+      "time": 1793242655647,
       "id": "120363403359582262@g.us",
       "name": "🌹𝙎𝙝𝙖𝙠𝙚𝙚𝙡🪷 𝙟𝙖𝙖𝙩 𝙠𝙖 🪷𝘿𝙚𝙧𝙖🌹",
       "size": 46,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "ImamtD4Ljy84StyMq6EXsF": {
-      "status": "joined",
-      "time": 1792660275994,
+      "status": "error",
+      "time": 1793242659350,
       "id": "120363429465561587@g.us",
       "name": "📡ڪــــشــــش🖥️ ٽــــي وي²⁰²¹🦚",
       "size": 932,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "CUTulfSMCteLP2E9cIUYp2": {
       "status": "joined",
