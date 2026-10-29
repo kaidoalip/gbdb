@@ -419,20 +419,20 @@
       "approval": false
     },
     "GerWJtXfvV9CC6tXIS4G4U": {
-      "status": "joined",
-      "time": 1792743190964,
+      "status": "valid",
+      "time": 1793241957235,
       "id": "120363410524040409@g.us",
-      "name": "Zeeshan Tools Sell And Buy",
-      "size": 244,
+      "name": "Zeeshan",
+      "size": 235,
       "approval": false,
       "announce": false
     },
     "FeIr7I8cgjcKmwj4NNvRUV": {
-      "status": "joined",
-      "time": 1792743194393,
+      "status": "valid",
+      "time": 1793241961270,
       "id": "120363427612714902@g.us",
       "name": "TikTok Trade Hub\nBuy • Sell • Trade\nTrusted Deals | Professional Service",
-      "size": 34,
+      "size": 33,
       "approval": false,
       "announce": false
     },
@@ -453,20 +453,21 @@
       "approval": false
     },
     "KCUqYrAdTQQIwWi6Y0YjiQ": {
-      "status": "joined",
-      "time": 1792743197970,
+      "status": "error",
+      "time": 1793241964627,
       "id": "120363410738176605@g.us",
       "name": "💎💎 My Mailer+3S Ultimate+Isender available 🥰🥰",
       "size": 269,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
       "status": "valid",
-      "time": 1792819006017,
+      "time": 1793241968977,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
-      "size": 356,
+      "size": 361,
       "approval": false,
       "announce": false,
       "err": "rate-overlimit"
@@ -529,7 +530,7 @@
     },
     "HPlCXaiPbnf4q8rFOxwuYc": {
       "status": "error",
-      "time": 1792818690596,
+      "time": 1793241972482,
       "id": "120363428666257362@g.us",
       "name": "⚜️GPC By AMMAR KHAN ⚜️",
       "size": 0,
@@ -545,13 +546,14 @@
       "approval": false
     },
     "KJwBqEEwc2U0tm0jgnNlLT": {
-      "status": "valid",
-      "time": 1792743207148,
+      "status": "error",
+      "time": 1793241975150,
       "id": "120363413516790470@g.us",
       "name": "Data & Blasting Network With Ali",
       "size": 655,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HiIfM6lvc4S3rKDB1VZBmG": {
       "status": "pending",
@@ -563,19 +565,19 @@
     },
     "Je6uTBVE3S57DlMj0hCwhY": {
       "status": "valid",
-      "time": 1792743210108,
+      "time": 1793241979355,
       "id": "120363431653125828@g.us",
       "name": "محفلِ حدیث ﷺ",
-      "size": 23,
+      "size": 21,
       "approval": false,
       "announce": false
     },
     "CdTV1IPzExwFYFfRftXAOj": {
       "status": "valid",
-      "time": 1792743214300,
+      "time": 1793241982941,
       "id": "120363433601127296@g.us",
       "name": "All Type Social Buy Sell",
-      "size": 14,
+      "size": 23,
       "approval": false,
       "announce": false
     },
@@ -586,10 +588,10 @@
     },
     "EJaSJTVA8DzJBDdW6E6Nhq": {
       "status": "valid",
-      "time": 1792743218303,
+      "time": 1793241987114,
       "id": "120363426695609894@g.us",
       "name": "TikTok & Facebook Marketplace",
-      "size": 260,
+      "size": 265,
       "approval": false,
       "announce": false
     },
@@ -603,10 +605,10 @@
     },
     "FSU4U4OI3LI2Pb15DNz2sY": {
       "status": "valid",
-      "time": 1792743221027,
+      "time": 1793241990302,
       "id": "120363431743008681@g.us",
       "name": "TRUSTED SELLER & BUYER CLOUDS ☁️",
-      "size": 66,
+      "size": 73,
       "approval": false,
       "announce": false
     },
