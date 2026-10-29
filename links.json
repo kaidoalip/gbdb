@@ -6819,44 +6819,63 @@
       "time": 1793243628191
     },
     "JiEXhPYpz1pF0j2SdhjqzE": {
-      "status": "new",
-      "time": 1792833402147
+      "status": "valid",
+      "time": 1793243634034,
+      "id": "120363428608679868@g.us",
+      "name": "✅Gmail Bay & Sell📩",
+      "size": 430,
+      "approval": false,
+      "announce": false
     },
     "Hv5nCMRkn1o2zricwTaEWL": {
-      "status": "new",
-      "time": 1792833522454
+      "status": "error",
+      "time": 1793243636426,
+      "err": "bad-request"
     },
     "I3FL64vE00cIQF4nyYPBpj": {
-      "status": "new",
-      "time": 1792833762401
+      "status": "valid",
+      "time": 1793243640032,
+      "id": "120363431299270836@g.us",
+      "name": "★⃝◉⃝⚫🕋 ✦ قُلْ هُوَ ٱللّٰهُ أَحَدٌ ✦ 🕋🟢★⃝◉⃝★",
+      "size": 327,
+      "approval": true,
+      "announce": false
     },
     "Kjs264zmVFe4jJbXDTLrSN": {
-      "status": "new",
-      "time": 1792835202267
+      "status": "error",
+      "time": 1793243643004,
+      "err": "bad-request"
     },
     "ILQMJFwtDuDFK0OBHw3YFb": {
-      "status": "new",
-      "time": 1792835202267
+      "status": "komunitas",
+      "time": 1793243645586,
+      "id": "120363429196705207@g.us",
+      "name": "E-commerce A&Z Naveed Jutt"
     },
     "FrlagCq4b7e3xwvHLlTnCH": {
-      "status": "new",
-      "time": 1792835442243
+      "status": "error",
+      "time": 1793243648710,
+      "err": "bad-request"
     },
     "IRJr2uOpcuVBGDGVSwf4JW": {
-      "status": "new",
-      "time": 1792836042365
+      "status": "error",
+      "time": 1793243652567,
+      "err": "bad-request"
     },
     "GmKyTi0sIVdCzPG1X4IqFA": {
-      "status": "new",
-      "time": 1792836042365
+      "status": "error",
+      "time": 1793243656319,
+      "err": "bad-request"
     },
     "CU7rpz7gVSaFde3G9FJOsz": {
-      "status": "new",
-      "time": 1792836162216
+      "status": "error",
+      "time": 1793243659818,
+      "err": "growth-locked"
     },
     "BKRhmb7LGs94GYINde0GOB": {
-      "status": "new",
-      "time": 1792898928510
+      "status": "error",
+      "time": 1793243663334,
+      "err": "bad-request"
     },
     "IK8B9NyoUi3LW5n5tLBIvl": {
       "status": "new",
