@@ -6952,44 +6952,71 @@
       "err": "bad-request"
     },
     "LR6CtcBzr0E0hnnw3KFfpb": {
-      "status": "new",
-      "time": 1792924033973
+      "status": "valid",
+      "time": 1793243703887,
+      "id": "120363410615537948@g.us",
+      "name": "★𝄞 ⠿🌐🖇️【𝗚𝗥𝗢𝗨𝗣】━━【𝗟𝗜𝗡𝗞𝗦】🖇️🌐⠿ 𝄞★",
+      "size": 863,
+      "approval": true,
+      "announce": false
     },
     "HZkivl5XInT7sn2ITPRsR1": {
-      "status": "new",
-      "time": 1792924493312
+      "status": "valid",
+      "time": 1793243708441,
+      "id": "120363417953354376@g.us",
+      "name": "Nawabzada Service's 💸",
+      "size": 229,
+      "approval": false,
+      "announce": false
     },
     "FaNdFPBBqYqARViP5inU7p": {
-      "status": "new",
-      "time": 1792924493312
+      "status": "error",
+      "time": 1793243711160,
+      "err": "bad-request"
     },
     "HWASrxyiERPJEGN6NUcMS0": {
-      "status": "new",
-      "time": 1792924613539
+      "status": "error",
+      "time": 1793243714006,
+      "err": "bad-request"
     },
     "GfI4mGHINOm3b1RVTmZ5Iv": {
-      "status": "new",
-      "time": 1792924853702
+      "status": "error",
+      "time": 1793243716968,
+      "err": "bad-request"
     },
     "BIAqbxCbFGi3bTHCO98m5j": {
-      "status": "new",
-      "time": 1792924973571
+      "status": "error",
+      "time": 1793243720580,
+      "err": "bad-request"
     },
     "EZGBdeb3EpeE61ehuyW6qH": {
-      "status": "new",
-      "time": 1792924973572
+      "status": "valid",
+      "time": 1793243724710,
+      "id": "120363413314511645@g.us",
+      "name": "Legit Works",
+      "size": 110,
+      "approval": false,
+      "announce": false
     },
     "FtsTZcR27JGFLQsJAqQe5D": {
-      "status": "new",
-      "time": 1792925093734
+      "status": "komunitas",
+      "time": 1793243728303,
+      "id": "120363412325826818@g.us",
+      "name": "Hafsa Ecom USA/UK Stock Deals"
     },
     "BtznpsPWfSSD42onYZk0Ci": {
-      "status": "new",
-      "time": 1792925214043
+      "status": "valid",
+      "time": 1793243732919,
+      "id": "120363417904141570@g.us",
+      "name": "𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙎𝙚𝙧𝙫𝙞𝙘𝙚𝙨 𝙃𝙪𝙗",
+      "size": 587,
+      "approval": false,
+      "announce": false
     },
     "CYwElajoQFhEDyro5VAYQL": {
-      "status": "new",
-      "time": 1792925214043
+      "status": "error",
+      "time": 1793243736566,
+      "err": "bad-request"
     },
     "K5x3FLjTbms7S4C5iL7XLX": {
       "status": "new",
