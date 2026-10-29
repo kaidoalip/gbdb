@@ -1682,13 +1682,14 @@
       "approval": true
     },
     "LQ6pTRvj7S6BER8Nv21mkA": {
-      "status": "valid",
-      "time": 1793253164831,
+      "status": "error",
+      "time": 1793255331525,
       "id": "120363430470994201@g.us",
       "name": "Z tech Offical",
       "size": 20,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "account_reachout_restricted"
     },
     "CLYEc415Flb5WwuC0QFDeI": {
       "status": "valid",
