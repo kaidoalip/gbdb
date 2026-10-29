@@ -5338,37 +5338,38 @@
     },
     "BKJ6WXC8wkf5TfbrWdn1gt": {
       "status": "valid",
-      "time": 1792741731998,
+      "time": 1793243027408,
       "id": "120363430992524513@g.us",
-      "name": "bm verify bayr",
-      "size": 46,
+      "name": "BM BAY & SELL marketing",
+      "size": 93,
       "approval": true,
       "announce": false
     },
     "LJHtiUJVQT3KOAv0tsjwWN": {
       "status": "valid",
-      "time": 1792741734555,
+      "time": 1793243031824,
       "id": "120363428265748084@g.us",
       "name": "TN_TT_GV_SL_TP_TF_LinkedIn",
-      "size": 167,
+      "size": 170,
       "approval": false,
       "announce": false
     },
     "EnbrIoteVlr7nygbVszest": {
-      "status": "valid",
-      "time": 1792741738506,
+      "status": "error",
+      "time": 1793243035513,
       "id": "120363426303827495@g.us",
       "name": "MR TRUSTED SELLER 📍",
       "size": 408,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "EHVM3TapoDC9jnLuotDJwV": {
       "status": "valid",
-      "time": 1792741742995,
+      "time": 1793243039469,
       "id": "120363401533391065@g.us",
       "name": "⚜️TAHA ⚜️TRUSTED BUYING SELLING 💯",
-      "size": 363,
+      "size": 348,
       "approval": true,
       "announce": false
     },
@@ -5385,53 +5386,58 @@
       "time": 1792741754073
     },
     "Gn128AFYHre7zqmGOPbxQM": {
-      "status": "valid",
-      "time": 1792741758164,
+      "status": "error",
+      "time": 1793243042084,
       "id": "120363411940490022@g.us",
       "name": "BM Agency",
       "size": 8,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GmtpTcBUVqQEXBomyzt61z": {
-      "status": "valid",
-      "time": 1792741760635,
+      "status": "error",
+      "time": 1793243044519,
       "id": "120363410664921163@g.us",
       "name": "⎯꯭᪳𝆺꯭𝆭⃟🍒𝛅ɣ̬ɕ̄❍ B͠𝐀͠ɕ̄Ħī ʞ𝆭ī֟ ͱ꧊ɑ͢Ꮿ͢ɭ̈̂ī֟ɣ̬⎯꯭᪳𝆺꯭𝆭⃞ ⃟🎀🥂",
       "size": 31,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BWHgHIk9OPt15eBIh2fYBI": {
-      "status": "valid",
-      "time": 1792741763422,
+      "status": "error",
+      "time": 1793243047773,
       "id": "120363430391402812@g.us",
       "name": "سکس. xxxx",
       "size": 2,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FDGTm77S3PYI0BG0jUeWvg": {
-      "status": "blocked",
-      "time": 1792741765631
+      "status": "error",
+      "time": 1793243050506,
+      "err": "bad-request"
     },
     "Iu0Gqps5PIM85HFYYwAsWy": {
       "status": "valid",
-      "time": 1792741768656,
+      "time": 1793243053856,
       "id": "120363430776415011@g.us",
-      "name": "ᥫ᭡ ⃟ᴰʳᵃᵐᵃ 𝐂𝐥𝐮𝐛⃞  𑁍ܓ🌷˚₊",
-      "size": 52,
+      "name": "⤹³ᑭOOKIᗴՏ⎯꯭𝅼ꪳꪲ𓍯꯭🍷🎀💗",
+      "size": 79,
       "approval": true,
       "announce": false
     },
     "JZRYkI1QbMO0SqCnj6Wzij": {
-      "status": "valid",
-      "time": 1792741771911,
+      "status": "error",
+      "time": 1793243057254,
       "id": "120363411572735791@g.us",
       "name": "𐙚℘𝛂𝐆ɭʊ̊ 𝐗 ͱ꧊❍❍ɽ 🙈🫂💋\n\n𓆩🌸𓆪\n\n\n𓆩🤍𓆪\n\n\n𓆩🍫𓆪\n\n\n𓆩🍒𓆪",
       "size": 101,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CCpTRxDJgRcFgkyMslr4aY": {
       "status": "komunitas",
