@@ -8956,8 +8956,13 @@
       "announce": false
     },
     "JdaKanLnZDa6o4Xuz8Mlko": {
-      "status": "new",
-      "time": 1793277638870
+      "status": "valid",
+      "time": 1793278501054,
+      "id": "120363319978595854@g.us",
+      "name": "Gmail, Gv,TN, trusted zone 💵💲",
+      "size": 31,
+      "approval": true,
+      "announce": false
     }
   }
 }
