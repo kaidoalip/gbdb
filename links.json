@@ -6680,44 +6680,75 @@
       "err": "bad-request"
     },
     "J239d4861gMEtZP6RQzltA": {
-      "status": "new",
-      "time": 1792828962146
+      "status": "error",
+      "time": 1793243568179,
+      "err": "bad-request"
     },
     "CrgF5gOHRBX1aEgCOykiQq": {
-      "status": "new",
-      "time": 1792828962146
+      "status": "error",
+      "time": 1793243571033,
+      "err": "bad-request"
     },
     "CaYdm7kxJF3BPXWEvPmjdn": {
-      "status": "new",
-      "time": 1792829442320
+      "status": "komunitas",
+      "time": 1793243573618,
+      "id": "120363428536681333@g.us",
+      "name": "—̳͟͞͞💗 𝗔𝗭 𝗦𝗜𝗡𝗗𝗛𝗜 𝗦𝗘𝗟𝗟𝗘𝗥 🛍️"
     },
     "H07OWeTZlMQ8hI2dw6AWpK": {
-      "status": "new",
-      "time": 1792829682213
+      "status": "valid",
+      "time": 1793243576584,
+      "id": "120363411335271139@g.us",
+      "name": "★⃝🦪🤎 𝐀𝐧𝐦𝐨𝐥 𝐦𝐨𝐭𝐢 & 𝐥𝐢𝐧𝐤𝐬 🖇️🤎🦪★⃝",
+      "size": 660,
+      "approval": true,
+      "announce": false
     },
     "CI73JTKQnt8JHJgqOZ0gjq": {
-      "status": "new",
-      "time": 1792829922115
+      "status": "valid",
+      "time": 1793243580346,
+      "id": "120363407490871972@g.us",
+      "name": "M.umais (Trusted sealer)",
+      "size": 237,
+      "approval": false,
+      "announce": false
     },
     "BfbPPmhD3PA0U4Yf7CpL0S": {
-      "status": "new",
-      "time": 1792830402511
+      "status": "valid",
+      "time": 1793243584221,
+      "id": "120363303863625199@g.us",
+      "name": "Sale & perchase everythings Lahore👇",
+      "size": 79,
+      "approval": false,
+      "announce": false
     },
     "FKFrIP0JcxTD4KHqe2YNDv": {
-      "status": "new",
-      "time": 1792830522123
+      "status": "error",
+      "time": 1793243588140,
+      "err": "bad-request"
     },
     "HuhbADHvt9qEFzKSbCAMDN": {
-      "status": "new",
-      "time": 1792830762236
+      "status": "valid",
+      "time": 1793243590864,
+      "id": "120363384589046747@g.us",
+      "name": "BABU TN.TF.GV. All Text account online Buy/Sell",
+      "size": 619,
+      "approval": false,
+      "announce": false
     },
     "GUnMcQFxTYS23QxyHj3NsX": {
-      "status": "new",
-      "time": 1792830762236
+      "status": "valid",
+      "time": 1793243594227,
+      "id": "120363301464699006@g.us",
+      "name": "ALIEXPRESS GLITCH PRODUCT ❤️",
+      "size": 310,
+      "approval": true,
+      "announce": false
     },
     "JhtQsUUkHtO76Kf4zf9JkI": {
-      "status": "new",
-      "time": 1792831482230
+      "status": "error",
+      "time": 1793243596863,
+      "err": "bad-request"
     },
     "F62FWaOqhjX9kOZmPl13J3": {
       "status": "new",
