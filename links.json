@@ -3620,12 +3620,13 @@
       "announce": false
     },
     "F8vM0mBLKTD3siT5NXQGVf": {
-      "status": "joined",
-      "time": 1792659619875,
+      "status": "valid",
+      "time": 1793242564026,
       "id": "120363024446267271@g.us",
       "name": "𝐅𝐀𝐈𝐒𝐀𝐋 𝐓𝐈𝐊𝐓𝐎𝐊 𝐒𝐇𝐎𝐏💯✅♥️💥",
-      "size": 209,
-      "approval": false
+      "size": 226,
+      "approval": false,
+      "announce": false
     },
     "HjQFJXER5lH2kWSkCN7H1s": {
       "status": "pending",
@@ -3636,20 +3637,22 @@
       "approval": true
     },
     "FbwGsrD9mAvL4F32kdjDqm": {
-      "status": "joined",
-      "time": 1792659635196,
+      "status": "error",
+      "time": 1793242566455,
       "id": "120363427918476896@g.us",
       "name": "🔥Blasting Data & Leads 🌏",
       "size": 258,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "Ii48ntjSAYaA28Uj69NUDa": {
-      "status": "joined",
-      "time": 1792659652356,
+      "status": "error",
+      "time": 1793242570662,
       "id": "120363414406522027@g.us",
       "name": "All pak sales",
       "size": 82,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "EiZyE2U8QB65KQ4idfyYpC": {
       "status": "komunitas",
@@ -3658,12 +3661,13 @@
       "name": "GMAIL HUB™ | Trusted Marketplace🤝"
     },
     "KDHNHiq0hutHbI88J9tTMW": {
-      "status": "joined",
-      "time": 1792659672298,
+      "status": "valid",
+      "time": 1793242574064,
       "id": "120363424925736972@g.us",
       "name": "Social media Store 2",
-      "size": 148,
-      "approval": false
+      "size": 151,
+      "approval": false,
+      "announce": false
     },
     "Kgg5Qj1zo5ZC1AOrAELkC8": {
       "status": "komunitas",
@@ -3686,12 +3690,13 @@
       "name": "⚡ 𝙎𝙃𝘼𝙃𝙕𝘼𝙄𝙉 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 𝙂𝙈𝘼𝙄𝙇 𝙃𝙐𝘽 ⚡』"
     },
     "G9m0GnnBegf4INOjjHuqnj": {
-      "status": "joined",
-      "time": 1792659694573,
+      "status": "valid",
+      "time": 1793242576894,
       "id": "120363430482834398@g.us",
       "name": "TT GV TN SL TF TP LinkedIn by and sell trusted group",
-      "size": 18,
-      "approval": false
+      "size": 28,
+      "approval": false,
+      "announce": false
     },
     "BFsBy1QMrv00AVtU6bMcrZ": {
       "status": "komunitas",
@@ -3708,28 +3713,31 @@
       "approval": false
     },
     "GHwlFBhd7SQ1oyIiPSdXWB": {
-      "status": "joined",
-      "time": 1792659713196,
+      "status": "valid",
+      "time": 1793242581444,
       "id": "120363428864735871@g.us",
       "name": "Amir trusted seller",
-      "size": 212,
-      "approval": false
+      "size": 214,
+      "approval": false,
+      "announce": false
     },
     "IO1srKs865X8UrTmoSz6uJ": {
-      "status": "joined",
-      "time": 1792659728163,
+      "status": "valid",
+      "time": 1793242584109,
       "id": "120363411379871535@g.us",
       "name": "📡🅳𝒓𝒂𝒎𝒂➳♥Ⓜ️𝒐𝒗𝒊𝒆𝒔𝒆🚔",
-      "size": 163,
-      "approval": false
+      "size": 436,
+      "approval": false,
+      "announce": false
     },
     "IXO6VYSY58FGdOResMlyGQ": {
-      "status": "blocked",
-      "time": 1792741494265,
+      "status": "valid",
+      "time": 1793242587353,
       "id": "120363431709371618@g.us",
       "name": "خریداری گروپ",
-      "size": 10,
-      "approval": false
+      "size": 7,
+      "approval": false,
+      "announce": false
     },
     "GFihYhPCpQH9fhNEvSAk2F": {
       "status": "pending",
@@ -3756,20 +3764,22 @@
       "approval": true
     },
     "BENG2n5UPGI5lsXJklw8KJ": {
-      "status": "joined",
-      "time": 1792659799508,
+      "status": "error",
+      "time": 1793242591055,
       "id": "120363430562708209@g.us",
       "name": "کراچی کاروباری گروپ B2B",
       "size": 55,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "G5NBSyoXbmf6ODYiqtn9Fw": {
-      "status": "joined",
-      "time": 1792659815622,
+      "status": "valid",
+      "time": 1793242593580,
       "id": "120363153039442358@g.us",
       "name": "All Services Available | Trusted ✅",
-      "size": 143,
-      "approval": false
+      "size": 141,
+      "approval": false,
+      "announce": false
     },
     "C8IxwlwllwJCcFVl3d7ZDL": {
       "status": "error",
