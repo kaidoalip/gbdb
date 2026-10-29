@@ -1476,44 +1476,46 @@
     },
     "FoIglSk0mwu0Ad4KprMDWY": {
       "status": "valid",
-      "time": 1792743367892,
+      "time": 1793242138264,
       "id": "120363430236852059@g.us",
       "name": "TN, TP, SL, TF & Gmail BD Premium Accounts Hub",
-      "size": 103,
+      "size": 132,
       "approval": false,
       "announce": false
     },
     "KSJLKDLQVCUDcdu0LmgIXk": {
-      "status": "valid",
-      "time": 1792743371027,
+      "status": "error",
+      "time": 1793242142071,
       "id": "120363432748944367@g.us",
       "name": "Uk sim Only for wholsaler",
       "size": 86,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BW4RxfI8IXILcTsPleiPpp": {
       "status": "valid",
-      "time": 1792743374081,
+      "time": 1793242145870,
       "id": "120363430059262558@g.us",
       "name": "Mix Domain Data & leads",
-      "size": 203,
+      "size": 205,
       "approval": true,
       "announce": false
     },
     "JMJFZ9bnvyuAJFLHdF0CGA": {
       "status": "error",
-      "time": 1792818719553,
+      "time": 1793242148498,
       "err": "bad-request"
     },
     "GML6iM4dPMH1H3fiMAjEEh": {
-      "status": "valid",
-      "time": 1792743381647,
+      "status": "error",
+      "time": 1793242151800,
       "id": "120363412196133054@g.us",
       "name": "Earn with Imtiaz",
       "size": 227,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "CjhffGccurc3fQbD0F8l3e": {
       "status": "pending",
@@ -1525,10 +1527,10 @@
     },
     "K4GpEGffaIg5uFQmnCzAB5": {
       "status": "valid",
-      "time": 1792743385808,
+      "time": 1793242155916,
       "id": "120363431409828423@g.us",
       "name": "Learn Amazon E Commerce Free",
-      "size": 70,
+      "size": 67,
       "approval": false,
       "announce": false
     },
@@ -1542,10 +1544,10 @@
     },
     "EIn4xxJ2HPIBE5Vv42RJKd": {
       "status": "valid",
-      "time": 1792743388201,
+      "time": 1793242158333,
       "id": "120363428931657310@g.us",
       "name": "Tt tp tn tf gv buy sell group ❤️❤️",
-      "size": 222,
+      "size": 235,
       "approval": false,
       "announce": false
     },
@@ -1611,7 +1613,7 @@
     },
     "EHQEwDg7jbm4RoaIyAbR5q": {
       "status": "valid",
-      "time": 1792743392432,
+      "time": 1793242160885,
       "id": "120363427703862229@g.us",
       "name": "👑 NEXVORA | DIGITAL MARKETING 🚀💻✨",
       "size": 127,
@@ -1620,10 +1622,10 @@
     },
     "Gv7053uJgHB8OPvLlP5KBZ": {
       "status": "valid",
-      "time": 1792743395967,
+      "time": 1793242164081,
       "id": "120363396422552732@g.us",
       "name": "Gmail Needs Group Daily",
-      "size": 195,
+      "size": 205,
       "approval": true,
       "announce": false
     },
@@ -1637,12 +1639,12 @@
     },
     "DADbJK3yHpC8GSmHqUCdXk": {
       "status": "error",
-      "time": 1792818722705,
+      "time": 1793242168254,
       "id": "120363413079657556@g.us",
       "name": "🇵🇰⃟█▂▃ɪɴᴋ•🇬ʳᵒᵘᵖ•²⁰²⁶❉্᭄͜͡ (¹)",
       "size": 325,
       "approval": false,
-      "err": "growth-locked"
+      "err": "bad-request"
     },
     "H3U1bIAItsfBFObfY9RcUK": {
       "status": "valid",
