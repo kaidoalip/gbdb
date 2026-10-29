@@ -8451,44 +8451,86 @@
       "announce": false
     },
     "GSj5y1bLngeE8T2xFuOiLl": {
-      "status": "new",
-      "time": 1793015376935
+      "status": "error",
+      "time": 1793244427112,
+      "err": "bad-request"
     },
     "EY8vR4LYFkpAjvGOirlZWp": {
-      "status": "new",
-      "time": 1793016465125
+      "status": "valid",
+      "time": 1793244429772,
+      "id": "120363413640859420@g.us",
+      "name": "Barq Server",
+      "size": 39,
+      "approval": false,
+      "announce": false
     },
     "FUmwvLoEQfGH2GASx2lgCE": {
-      "status": "new",
-      "time": 1793016580740
+      "status": "valid",
+      "time": 1793244432887,
+      "id": "120363428515894717@g.us",
+      "name": "BM Market 2k🎈/10k/100k Rent & Official Admin Deal\n✨",
+      "size": 71,
+      "approval": false,
+      "announce": false
     },
     "JxZgZuDhqFZF2vOUEYOOym": {
-      "status": "new",
-      "time": 1793016580740
+      "status": "valid",
+      "time": 1793244437104,
+      "id": "120363426628301779@g.us",
+      "name": "Meta BM Solutions Marketing Save Group ✅",
+      "size": 109,
+      "approval": true,
+      "announce": false
     },
     "BKbtZCSJX62BEiyPG9ZPJt": {
-      "status": "new",
-      "time": 1793016700706
+      "status": "valid",
+      "time": 1793244440919,
+      "id": "120363408432359454@g.us",
+      "name": "Aaron Voip Solutions Community",
+      "size": 976,
+      "approval": true,
+      "announce": false
     },
     "CBCHNH2307k8vPEeganZbi": {
-      "status": "new",
-      "time": 1793017300941
+      "status": "valid",
+      "time": 1793244443682,
+      "id": "120363427575247459@g.us",
+      "name": "💸💰ALL SOCIAL MEDIA ACCOUNT SELL BY ADMIN DEAL INTERESTED💯",
+      "size": 215,
+      "approval": true,
+      "announce": false
     },
     "FxqEbnbTbe9FIMnJJpVUKt": {
-      "status": "new",
-      "time": 1793017423008
+      "status": "valid",
+      "time": 1793244446756,
+      "id": "120363411709376547@g.us",
+      "name": "S_K_Zone",
+      "size": 4,
+      "approval": true,
+      "announce": false
     },
     "I4EKHt0E2wQApdqhUTaJZS": {
-      "status": "new",
-      "time": 1793018741678
+      "status": "error",
+      "time": 1793244449690,
+      "err": "bad-request"
     },
     "BaOEzURbNhwFKj2IHEjT1z": {
-      "status": "new",
-      "time": 1793019823281
+      "status": "valid",
+      "time": 1793244453400,
+      "id": "120363415597562515@g.us",
+      "name": "ALL PANEL OTP WORK🔥🔥🔥",
+      "size": 183,
+      "approval": false,
+      "announce": false
     },
     "E4rKtPod7cYJCIHG6Y4DUH": {
-      "status": "new",
-      "time": 1793019823281
+      "status": "valid",
+      "time": 1793244457347,
+      "id": "120363433687430734@g.us",
+      "name": "MADDY TECH SUPPORT 🦁",
+      "size": 46,
+      "approval": false,
+      "announce": false
     },
     "FTw1sQVL2mhCZCguPz0JWu": {
       "status": "new",
