@@ -4865,20 +4865,21 @@
       "time": 1792719896706
     },
     "HzwVeAT7GCL8kv7L2dHRfE": {
-      "status": "joined",
-      "time": 1792724434773,
+      "status": "error",
+      "time": 1793242883908,
       "id": "120363412481404594@g.us",
       "name": "HACKING ZOON",
       "size": 133,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HHAyrQTnpv8C1nHAofqlKw": {
-      "status": "joined",
-      "time": 1792724455780,
+      "status": "valid",
+      "time": 1793242886393,
       "id": "120363412169141845@g.us",
       "name": "OCTOPUS 🐙 PRO 100% INBOXING GUARANTEED",
-      "size": 59,
+      "size": 75,
       "approval": false,
       "announce": false
     },
@@ -4892,8 +4893,8 @@
       "announce": false
     },
     "FctCtw7kTP4KQLA6mteQLa": {
-      "status": "joined",
-      "time": 1792724491622,
+      "status": "expired",
+      "time": 1793242889576,
       "id": "120363412935090014@g.us",
       "name": "دوستی اور تفریح پوائنٹ 🤝",
       "size": 414,
@@ -4907,22 +4908,24 @@
       "name": "𝗺𝗮𝗻𝗮𝘁 𝗭𝗮𝗵𝗿𝗮"
     },
     "LkqIyfHhJpL7FniMRXCHUs": {
-      "status": "joined",
-      "time": 1792724509102,
+      "status": "error",
+      "time": 1793242892089,
       "id": "120363432819018143@g.us",
       "name": "Uk sim saller",
       "size": 27,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FOGjHi8O2hCKCwyMg1Kp0S": {
-      "status": "joined",
-      "time": 1792724528590,
+      "status": "error",
+      "time": 1793242895533,
       "id": "120363415607679475@g.us",
       "name": "Daraz item only for wholsaler",
       "size": 40,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IFxIe4Z5tdJ9Cg6ZcI8nPY": {
       "status": "komunitas",
@@ -4950,30 +4953,32 @@
     },
     "EKzLkssTQgn9FjSd5tpvkL": {
       "status": "valid",
-      "time": 1792741593255,
+      "time": 1793242898765,
       "id": "120363404686650785@g.us",
       "name": "Munna China Import Service*\n- *Web TF & TextNow Service Zone*\n- *SL China Payment Service*",
-      "size": 520,
+      "size": 505,
       "approval": false,
       "announce": false
     },
     "LO0feRqrsyo6q2jIqHwUNi": {
-      "status": "valid",
-      "time": 1792741596451,
+      "status": "error",
+      "time": 1793242901782,
       "id": "120363401972334534@g.us",
       "name": "Munna China Hub™ - All Payment & Number Service",
       "size": 88,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LfLhg7CHXEf1d30Af4as5v": {
-      "status": "valid",
-      "time": 1792741600322,
+      "status": "error",
+      "time": 1793242905781,
       "id": "120363406193660273@g.us",
       "name": "بنيان مرصوص",
       "size": 779,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "Dr4haE4L5tTBIIR7Mqw27C": {
       "status": "pending",
@@ -4985,22 +4990,24 @@
       "announce": false
     },
     "LayUA5ev6JOCY5VGve3yxS": {
-      "status": "valid",
-      "time": 1792741604210,
+      "status": "error",
+      "time": 1793242909880,
       "id": "120363413154453428@g.us",
       "name": "Truested ser",
       "size": 44,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "I0h3AnrzG6rHn6xo4ibPJC": {
-      "status": "valid",
-      "time": 1792741608547,
+      "status": "error",
+      "time": 1793242912054,
       "id": "120363426084824594@g.us",
       "name": "AS.FREE GIVEAWAY",
       "size": 75,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KIRLyI63OVQIuBD37vGnKJ": {
       "status": "valid",
