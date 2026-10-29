@@ -3235,10 +3235,10 @@
     },
     "KwjVm9F29anBGgssn9rfxr": {
       "status": "valid",
-      "time": 1792743710126,
+      "time": 1793242455916,
       "id": "120363408683388776@g.us",
       "name": "💖 Students Business Point  💖",
-      "size": 244,
+      "size": 269,
       "approval": false,
       "announce": false
     },
@@ -3248,81 +3248,89 @@
     },
     "LnWgaO0eHAO7r7KbO6O2qi": {
       "status": "valid",
-      "time": 1792743714125,
+      "time": 1793242458498,
       "id": "120363179705331083@g.us",
       "name": "👍Student's Business Hub👍",
-      "size": 482,
+      "size": 468,
       "approval": false,
       "announce": false
     },
     "C1OaSk34pTwDNQrup8R62M": {
-      "status": "valid",
-      "time": 1792743718249,
+      "status": "error",
+      "time": 1793242461225,
       "id": "120363411222627894@g.us",
       "name": "King SMTP Gmail Bey and selling trusted group 🤝🤝🤝📥❣️💕❣️❣️",
       "size": 167,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LL4JLsJoITr8IoOdINwNfG": {
       "status": "expired",
       "time": 1792592101123
     },
     "GUQJRdkV4F7EdLv5ke4RGj": {
-      "status": "joined",
-      "time": 1792658002691,
+      "status": "error",
+      "time": 1793242464378,
       "id": "120363158053155007@g.us",
       "name": "XAUUSD ForeX KinG",
       "size": 381,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "EPgyftZdwgyCcrNHhaAr7a": {
-      "status": "joined",
-      "time": 1792658020539,
+      "status": "valid",
+      "time": 1793242467829,
       "id": "120363431798446107@g.us",
       "name": "Afridi Arms Dealer 💯",
-      "size": 298,
-      "approval": false
+      "size": 281,
+      "approval": false,
+      "announce": false
     },
     "JqXctRQi75O4CnjBVisngu": {
-      "status": "joined",
-      "time": 1792658037934,
+      "status": "error",
+      "time": 1793242471766,
       "id": "120363410525796724@g.us",
       "name": "♠️PBET ♣️",
       "size": 25,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "HjhrnQn6YT0Fjj4qjeqL8L": {
-      "status": "joined",
-      "time": 1792658061275,
+      "status": "valid",
+      "time": 1793242475165,
       "id": "120363412965540439@g.us",
-      "name": "A Love TikTok Shop Seller 🛒💰",
-      "size": 17,
-      "approval": false
+      "name": "A Z Trusted Zone 🛒💰",
+      "size": 241,
+      "approval": false,
+      "announce": false
     },
     "EbrFp8LvtUt7w2A3bX1HNM": {
-      "status": "blocked",
-      "time": 1792741472051,
+      "status": "valid",
+      "time": 1793242478566,
       "id": "120363414890346339@g.us",
       "name": "Youtube skills",
-      "size": 145,
-      "approval": false
+      "size": 182,
+      "approval": false,
+      "announce": false
     },
     "EZS4dwxayBFLDPGYJpTV6i": {
-      "status": "joined",
-      "time": 1792658100630,
+      "status": "valid",
+      "time": 1793242482722,
       "id": "120363414974032311@g.us",
       "name": "Linkedin GV TN TF bay sell (MK SHUVO)",
-      "size": 116,
-      "approval": false
+      "size": 159,
+      "approval": false,
+      "announce": false
     },
     "D3jnZvXoA6S69hnhxDia5S": {
-      "status": "joined",
-      "time": 1792658120024,
+      "status": "error",
+      "time": 1793242486733,
       "id": "120363413149160922@g.us",
       "name": "TikTok BUYING AND SELLING POINT",
       "size": 161,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "FWNlUQR1xBK1WINtgNV56I": {
       "status": "joined",
