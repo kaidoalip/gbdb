@@ -2533,13 +2533,14 @@
       "err": "sock is not defined"
     },
     "EcfBS5oZ3F62LPmcOUrxnB": {
-      "status": "valid",
-      "time": 1793262026745,
+      "status": "error",
+      "time": 1793278971938,
       "id": "120363428317228977@g.us",
       "name": "SAM✨Cloud Buy / Sell 🛍️",
       "size": 242,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "Lvm1ryxjxDeAxJrVC0Iq7C": {
       "status": "valid",
