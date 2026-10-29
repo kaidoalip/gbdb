@@ -8665,7 +8665,7 @@
     },
     "Flj3QFg8SzuFLkCQ6CqIKU": {
       "status": "error",
-      "time": 1793280556265,
+      "time": 1793281500985,
       "err": "bad-request"
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
@@ -8739,7 +8739,7 @@
     },
     "IKapwfUIDrLB48VnWcDoeF": {
       "status": "error",
-      "time": 1793280559879,
+      "time": 1793281504182,
       "err": "growth-locked"
     },
     "FrXsSKDHKva4wfZNS1MrFV": {
@@ -9012,24 +9012,49 @@
       "announce": false
     },
     "C1hm95xN6LQ3WkDmoVeCE1": {
-      "status": "new",
-      "time": 1793280058874
+      "status": "valid",
+      "time": 1793281507277,
+      "id": "120363428885718080@g.us",
+      "name": "🇨🇳𝑳𝒖𝒊𝒔| Technical treatment plan",
+      "size": 233,
+      "approval": true,
+      "announce": false
     },
     "BTUnuRB0zNaC1w3T9hCz10": {
-      "status": "new",
-      "time": 1793280058874
+      "status": "valid",
+      "time": 1793281510854,
+      "id": "120363404928000301@g.us",
+      "name": "❤️ATIK HASAN NILOY GMAIL BUY GROUP 100% TRUST 🔥",
+      "size": 598,
+      "approval": false,
+      "announce": false
     },
     "E5FNrBkbnQV2WynO3ABXVk": {
-      "status": "new",
-      "time": 1793280177653
+      "status": "valid",
+      "time": 1793281513462,
+      "id": "120363432080776098@g.us",
+      "name": "FACEBOOK DEALING ZONE 📘",
+      "size": 92,
+      "approval": true,
+      "announce": false
     },
     "BybyXyscFPrDg4ULhNKp6R": {
-      "status": "new",
-      "time": 1793280177653
+      "status": "valid",
+      "time": 1793281517672,
+      "id": "120363431014946764@g.us",
+      "name": "facebook experts 👑",
+      "size": 41,
+      "approval": true,
+      "announce": false
     },
     "IBsNPMky8XzK6X610RX3Cq": {
-      "status": "new",
-      "time": 1793280297828
+      "status": "valid",
+      "time": 1793281520272,
+      "id": "120363411384196130@g.us",
+      "name": "INTERNATIONAL BUYERS & SELLERS 🌍",
+      "size": 293,
+      "approval": true,
+      "announce": false
     },
     "CHkaz5txKyD1W0k1EpV3HW": {
       "status": "new",
