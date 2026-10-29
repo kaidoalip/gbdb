@@ -4056,28 +4056,31 @@
       "err": "bad-request"
     },
     "CUTulfSMCteLP2E9cIUYp2": {
-      "status": "joined",
-      "time": 1792660294261,
+      "status": "valid",
+      "time": 1793242664569,
       "id": "120363421534482134@g.us",
       "name": "⚜️🖥️ 🇼‌𝐡𝐚𝐭𝐬𝐀𝐩𝐩 🪀𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧🖥️⚜️",
-      "size": 294,
-      "approval": true
+      "size": 270,
+      "approval": true,
+      "announce": false
     },
     "Ks7cqnxhtxJHIhGOVrDH9u": {
-      "status": "joined",
-      "time": 1792657694204,
+      "status": "error",
+      "time": 1793242667379,
       "id": "120363425640314924@g.us",
       "name": "All social services Available ✅",
       "size": 435,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "Lg4Dwsai8CREXi2qTIFtsp": {
-      "status": "joined",
-      "time": 1792657696963,
+      "status": "valid",
+      "time": 1793242670307,
       "id": "120363409681173450@g.us",
       "name": "𝐒𝐚𝐥𝐞𝐞𝐦 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐅𝐚𝐦𝐢𝐥𝐲 🔥",
-      "size": 93,
-      "approval": false
+      "size": 107,
+      "approval": false,
+      "announce": false
     },
     "BEMGQjBLs5E7b01L4XhVRb": {
       "status": "pending",
@@ -4088,12 +4091,13 @@
       "approval": true
     },
     "GH2cFs1EXvQFHRTIhzxIrV": {
-      "status": "joined",
-      "time": 1792660334308,
+      "status": "error",
+      "time": 1793242673781,
       "id": "120363088752342321@g.us",
       "name": "🇵🇰Hashmi YT Zone 🔥",
       "size": 617,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "BxUYosiZH8vBY7ZUJd4pxG": {
       "status": "expired",
@@ -4104,12 +4108,13 @@
       "approval": false
     },
     "EGwmSCd9JUC6aAOzW7z00p": {
-      "status": "joined",
-      "time": 1792660360443,
+      "status": "error",
+      "time": 1793242676709,
       "id": "120363429616263766@g.us",
       "name": "Tahaa & Ruman Online Trusted Store",
       "size": 902,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "GBZPrLdvPp8IWBNcQJOJBA": {
       "status": "expired",
@@ -4122,44 +4127,48 @@
       "name": "Saira TRUSTED GMAIL Buyer ❤️💯"
     },
     "F6w6QEPKt3L9nHg3P7qlMY": {
-      "status": "joined",
-      "time": 1792660378199,
+      "status": "expired",
+      "time": 1793242680056,
       "id": "120363408935926218@g.us",
       "name": "ZAHIR INTERPARK/MELON SHARP 💯",
       "size": 334,
       "approval": false
     },
     "JMNlaPi3nly5nMq9l2mBe6": {
-      "status": "joined",
-      "time": 1792660394495,
+      "status": "error",
+      "time": 1793242683187,
       "id": "120363429035799033@g.us",
       "name": "ZAHiR PEOPLE 💯",
       "size": 62,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "Jcfq748tac3B5fxpZ8Lebt": {
-      "status": "joined",
-      "time": 1792660411553,
+      "status": "valid",
+      "time": 1793242687120,
       "id": "120363428922364137@g.us",
       "name": "ZAHIR KYC 24/7",
-      "size": 7,
-      "approval": false
+      "size": 68,
+      "approval": true,
+      "announce": false
     },
     "IxcHuLKGhXP05XTsPp6Ar5": {
-      "status": "joined",
-      "time": 1792660433392,
+      "status": "valid",
+      "time": 1793242690856,
       "id": "120363409984933097@g.us",
       "name": "ZAHiR DOLLARS 💸",
-      "size": 64,
-      "approval": false
+      "size": 140,
+      "approval": false,
+      "announce": false
     },
     "L7wLuBdf0ktEJg7vBpvPfF": {
-      "status": "joined",
-      "time": 1792660459074,
+      "status": "valid",
+      "time": 1793242694109,
       "id": "120363411828642320@g.us",
       "name": "ZAHIR REMOTASK GROUP",
-      "size": 8,
-      "approval": false
+      "size": 48,
+      "approval": true,
+      "announce": false
     },
     "IJR4mUeIAxz2okepV1JyEU": {
       "status": "joined",
