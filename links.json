@@ -8660,7 +8660,7 @@
     },
     "Flj3QFg8SzuFLkCQ6CqIKU": {
       "status": "error",
-      "time": 1793274730144,
+      "time": 1793278463158,
       "err": "bad-request"
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
@@ -8734,7 +8734,7 @@
     },
     "IKapwfUIDrLB48VnWcDoeF": {
       "status": "error",
-      "time": 1793274734545,
+      "time": 1793278465619,
       "err": "growth-locked"
     },
     "FrXsSKDHKva4wfZNS1MrFV": {
@@ -8831,14 +8831,24 @@
       "announce": false
     },
     "H89pxXFStbg048bva3VyBw": {
-      "status": "error",
-      "time": 1793274770412,
-      "err": "Connection Closed"
+      "status": "valid",
+      "time": 1793278468539,
+      "err": "Connection Closed",
+      "id": "120363425640314924@g.us",
+      "name": "DEALING TRUSTED GROUP ✅",
+      "size": 531,
+      "approval": false,
+      "announce": false
     },
     "L6u1wuvN3Vt5cznhRuALwg": {
-      "status": "error",
-      "time": 1793274773513,
-      "err": "Connection Closed"
+      "status": "valid",
+      "time": 1793278472271,
+      "err": "Connection Closed",
+      "id": "120363413808014958@g.us",
+      "name": "Social  media  acc recovery 🤝✅",
+      "size": 82,
+      "approval": false,
+      "announce": false
     },
     "D266QlerTp6JVPPUDmtvWp": {
       "status": "valid",
@@ -8892,28 +8902,58 @@
       "name": "ONLY GMAIL BUYING AND SELLING"
     },
     "I2gefaGYU8wLnn3jz1O5KT": {
-      "status": "new",
-      "time": 1793274183404
+      "status": "valid",
+      "time": 1793278475277,
+      "id": "120363432618399627@g.us",
+      "name": "Gmail Escrow Group",
+      "size": 207,
+      "approval": false,
+      "announce": false
     },
     "Ceq0OgHuyuLFOTUxxsSim3": {
-      "status": "new",
-      "time": 1793274423386
+      "status": "valid",
+      "time": 1793278478442,
+      "id": "120363408408419688@g.us",
+      "name": "GSM WORLD",
+      "size": 33,
+      "approval": false,
+      "announce": false
     },
     "CuUuIjqoNcAHyeZbyUFAsW": {
-      "status": "new",
-      "time": 1793275863412
+      "status": "valid",
+      "time": 1793278480996,
+      "id": "120363389458594452@g.us",
+      "name": "​💼 [ GV.TN.LINKEDIN ACCOUNT BUY FOR ADMIN ] ⭐",
+      "size": 501,
+      "approval": true,
+      "announce": false
     },
     "IkDtLPyeS9EJyjo7ShQVfI": {
-      "status": "new",
-      "time": 1793276103287
+      "status": "valid",
+      "time": 1793278485237,
+      "id": "120363398880509994@g.us",
+      "name": "𝔾𝕍●丅ᑎ ● 丅丅 ● 𝐓𝐅 ...𝔹𝕌𝕐 𝕊𝔼𝕃𝕃...𝙶𝚄𝚁𝚄𝙿  ♡",
+      "size": 411,
+      "approval": false,
+      "announce": false
     },
     "FasLpLNx0rx1lBP4TwSYiR": {
-      "status": "new",
-      "time": 1793276583289
+      "status": "valid",
+      "time": 1793278492096,
+      "id": "120363429114294898@g.us",
+      "name": "PakFlow",
+      "size": 284,
+      "approval": false,
+      "announce": false
     },
     "DT8nAXeJgJqB146fbkVcLw": {
-      "status": "new",
-      "time": 1793276583289
+      "status": "valid",
+      "time": 1793278496402,
+      "id": "120363427940126547@g.us",
+      "name": "Best friend 💓",
+      "size": 364,
+      "approval": false,
+      "announce": false
     },
     "JdaKanLnZDa6o4Xuz8Mlko": {
       "status": "new",
