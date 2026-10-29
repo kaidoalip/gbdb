@@ -5927,62 +5927,64 @@
       "announce": false
     },
     "JLUVzMuvC8q30EdMR7lakQ": {
-      "status": "valid",
-      "time": 1792741970356,
+      "status": "error",
+      "time": 1793243247756,
       "id": "120363414035329130@g.us",
       "name": "PENERBIT YANS STORE",
       "size": 6,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BLL9NbFcjCT3UuF70cjon3": {
-      "status": "valid",
-      "time": 1792741973675,
+      "status": "error",
+      "time": 1793243250175,
       "id": "120363428050333281@g.us",
       "name": "🌟Wahab truested saler 🌟🌟",
       "size": 226,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "K9VBuB7gC9NATYW2FrhDst": {
       "status": "valid",
-      "time": 1792818805576,
+      "time": 1793243254141,
       "id": "120363410126296232@g.us",
-      "name": "ALL WORK GROUP H❣️J",
-      "size": 314,
+      "name": "ALL WORK GROUP H❤️‍🩹J",
+      "size": 491,
       "approval": false,
       "announce": false
     },
     "EI6iW8qbXbn6RKyUrANDRt": {
       "status": "valid",
-      "time": 1792818808645,
+      "time": 1793243257135,
       "id": "120363429334109377@g.us",
       "name": "GSM MASTER",
-      "size": 172,
+      "size": 171,
       "approval": false,
       "announce": false
     },
     "JPuOh3JX3IEJt3QQv7Cbem": {
       "status": "valid",
-      "time": 1792818811897,
+      "time": 1793243260744,
       "id": "120363299062123873@g.us",
       "name": "اولین دیار شوق در قطغن",
-      "size": 604,
+      "size": 552,
       "approval": true,
       "announce": false
     },
     "L1NUvyvkRMvKPaht3GB6Ku": {
       "status": "valid",
-      "time": 1792818815010,
+      "time": 1793243264926,
       "id": "120363412085850528@g.us",
       "name": "Aroob Ecom USA & UK  Stock Dealing",
-      "size": 73,
+      "size": 75,
       "approval": false,
       "announce": false
     },
     "Gb0f13l2wqY6QDtNtvgnx5": {
-      "status": "valid",
-      "time": 1792818818281,
+      "status": "expired",
+      "time": 1793243268339,
       "id": "120363402899541187@g.us",
       "name": "KHF V²",
       "size": 102,
@@ -5990,29 +5992,30 @@
       "announce": false
     },
     "CwNw0I9kqnL8rb0xmKhBhV": {
-      "status": "valid",
-      "time": 1792818821563,
+      "status": "error",
+      "time": 1793243272484,
       "id": "120363409759713189@g.us",
       "name": "REST AREA WIJAYA",
       "size": 184,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HNoXSAk2Ga7BLiAUAPbjI1": {
       "status": "valid",
-      "time": 1792818825195,
+      "time": 1793243275477,
       "id": "120363429702348871@g.us",
       "name": "❣️تـــلاوت قـــرآن پـــاک ❣️",
-      "size": 440,
+      "size": 449,
       "approval": false,
       "announce": false
     },
     "KTuHW61otOACOhbtgCrKWa": {
       "status": "valid",
-      "time": 1792818829622,
+      "time": 1793243279016,
       "id": "120363418768690928@g.us",
       "name": "GM Online Official Store 🧦💼🎒🍯🐄👕🎽👚🥼🎓💻",
-      "size": 439,
+      "size": 428,
       "approval": false,
       "announce": false
     },
