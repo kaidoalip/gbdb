@@ -8608,36 +8608,63 @@
       "announce": false
     },
     "EBYNB0p69Vp1Jfb1wnUWEa": {
-      "status": "new",
-      "time": 1793022388527
+      "status": "expired",
+      "time": 1793244496655
     },
     "LipquJu5LPA3kMjNUZsGa2": {
-      "status": "new",
-      "time": 1793022508359
+      "status": "valid",
+      "time": 1793244500229,
+      "id": "120363413703177460@g.us",
+      "name": "Malik Faam Gujrat",
+      "size": 65,
+      "approval": true,
+      "announce": false
     },
     "GpWBShYa6QWL2tNbjmkZWD": {
-      "status": "new",
-      "time": 1793022628544
+      "status": "valid",
+      "time": 1793244503032,
+      "id": "120363429975554516@g.us",
+      "name": "🍁BANAINCE🎙️EVENT🍁 GRUP🎙️",
+      "size": 183,
+      "approval": false,
+      "announce": false
     },
     "EZkNxFpVH1r0bUr5QWrimd": {
-      "status": "new",
-      "time": 1793022628544
+      "status": "valid",
+      "time": 1793244506905,
+      "id": "120363408970875910@g.us",
+      "name": "International wire transfer, parcel mailing, credit/debit card payment, gift card purchase, etc., al",
+      "size": 262,
+      "approval": true,
+      "announce": false
     },
     "J6gljJYDXMvBgXnHlZJfXR": {
-      "status": "new",
-      "time": 1793022988225
+      "status": "error",
+      "time": 1793244509673,
+      "err": "bad-request"
     },
     "CRSdwyIFcNl4X7qI4IxhIK": {
-      "status": "new",
-      "time": 1793023108349
+      "status": "valid",
+      "time": 1793244512429,
+      "id": "120363418613162989@g.us",
+      "name": "ALINA SUBSCRIPTION SELLER 💯🔥",
+      "size": 473,
+      "approval": true,
+      "announce": false
     },
     "Flj3QFg8SzuFLkCQ6CqIKU": {
-      "status": "new",
-      "time": 1793065023044
+      "status": "error",
+      "time": 1793244515386,
+      "err": "bad-request"
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
-      "status": "new",
-      "time": 1793066224695
+      "status": "valid",
+      "time": 1793244519354,
+      "id": "120363415245952994@g.us",
+      "name": "AdeelLabs",
+      "size": 222,
+      "approval": false,
+      "announce": false
     }
   }
 }
