@@ -8517,7 +8517,7 @@
     },
     "I4EKHt0E2wQApdqhUTaJZS": {
       "status": "error",
-      "time": 1793263947894,
+      "time": 1793274714265,
       "err": "bad-request"
     },
     "BaOEzURbNhwFKj2IHEjT1z": {
@@ -8549,7 +8549,7 @@
     },
     "D5RqPNFbmfxF4DmwoGLhIj": {
       "status": "error",
-      "time": 1793263960184,
+      "time": 1793274717495,
       "err": "bad-request"
     },
     "KyxzvEx2EktF1d9a2rSBPV": {
@@ -8587,7 +8587,7 @@
     },
     "JxRjz1Ec1sVEdSr8mkXffT": {
       "status": "error",
-      "time": 1793263975245,
+      "time": 1793274721508,
       "err": "bad-request"
     },
     "Fmi3KQWOaMuJ1cFLS2Qq5X": {
@@ -8601,7 +8601,7 @@
     },
     "KMtyJpx4WqLGMD32qluI6g": {
       "status": "error",
-      "time": 1793263981551,
+      "time": 1793274724253,
       "err": "bad-request"
     },
     "ClSJXKRx99Z7lUc8LRaTMQ": {
@@ -8646,7 +8646,7 @@
     },
     "J6gljJYDXMvBgXnHlZJfXR": {
       "status": "error",
-      "time": 1793263995894,
+      "time": 1793274726565,
       "err": "bad-request"
     },
     "CRSdwyIFcNl4X7qI4IxhIK": {
@@ -8660,7 +8660,7 @@
     },
     "Flj3QFg8SzuFLkCQ6CqIKU": {
       "status": "error",
-      "time": 1793264005339,
+      "time": 1793274730144,
       "err": "bad-request"
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
@@ -8734,7 +8734,7 @@
     },
     "IKapwfUIDrLB48VnWcDoeF": {
       "status": "error",
-      "time": 1793264036940,
+      "time": 1793274734545,
       "err": "growth-locked"
     },
     "FrXsSKDHKva4wfZNS1MrFV": {
@@ -8760,16 +8760,26 @@
       "announce": false
     },
     "Lac1Dm7bdBHItqrHXfHnrc": {
-      "status": "new",
-      "time": 1793261943344
+      "status": "expired",
+      "time": 1793274739007
     },
     "BM7wWCyDReZ3vTTm2I93X1": {
-      "status": "new",
-      "time": 1793263023570
+      "status": "valid",
+      "time": 1793274742497,
+      "id": "120363427918476896@g.us",
+      "name": "🔥Blasting Data & Leads 🌏",
+      "size": 293,
+      "approval": true,
+      "announce": false
     },
     "GWSQkr1WHY1E2VvXPOtgh4": {
-      "status": "new",
-      "time": 1793263263166
+      "status": "valid",
+      "time": 1793274745868,
+      "id": "120363412807569161@g.us",
+      "name": "KING 👑 MART SHOPS 🏬",
+      "size": 168,
+      "approval": true,
+      "announce": false
     },
     "CfE8SPRSygY0WEF9Eip6zJ": {
       "status": "new",
