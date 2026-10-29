@@ -4675,7 +4675,7 @@
     },
     "Hwy0kWeOZGp5tXca7EMbRB": {
       "status": "error",
-      "time": 1792818792542,
+      "time": 1793242848250,
       "err": "bad-request"
     },
     "FL42Ka5TfJ11O4cEqU2hux": {
@@ -4694,40 +4694,42 @@
       "name": "Ghazi Trusted Gmail Buyer"
     },
     "EoMSOCe3niRFUzgWhX60eQ": {
-      "status": "joined",
-      "time": 1792722931600,
+      "status": "valid",
+      "time": 1793242852558,
       "id": "120363412760084009@g.us",
       "name": "Gmail Fb tn Instagram All.Group",
-      "size": 240,
+      "size": 244,
       "approval": false,
       "announce": false
     },
     "F1dyRx8ElMM5npOH2Jrlzs": {
-      "status": "blocked",
-      "time": 1792741588887,
+      "status": "valid",
+      "time": 1793242856123,
       "id": "120363411638925833@g.us",
       "name": "Fresh and old Gmail trusted",
-      "size": 89,
+      "size": 110,
       "approval": false,
       "announce": false
     },
     "LGzLveZn39dCNfl94q6jGI": {
-      "status": "joined",
-      "time": 1792722969468,
+      "status": "error",
+      "time": 1793242859998,
       "id": "120363414108449422@g.us",
       "name": "彡[ɪɴɴᴏᴄᴇɴᴛ ʟɪɴᴋ ɢʀᴏᴜᴘ]彡 2",
       "size": 17,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Fed00QD1vrx9zgKXiTwSPY": {
-      "status": "joined",
-      "time": 1792722985798,
+      "status": "error",
+      "time": 1793242863339,
       "id": "120363414606966784@g.us",
       "name": "彡[ɪɴɴᴏᴄᴇɴᴛ ʟɪɴᴋ ɢʀᴏᴜᴘ]彡3",
       "size": 15,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "L3o1omRfKUa7dDmP9AAB5b": {
       "status": "pending",
@@ -4766,13 +4768,14 @@
       "announce": false
     },
     "HUQNe9iXusrIvIYr4eYxuZ": {
-      "status": "joined",
-      "time": 1792723064629,
+      "status": "error",
+      "time": 1793242866337,
       "id": "120363428138992458@g.us",
       "name": "🌐POPOL SPACE🇮🇩 | Digital Business Community",
       "size": 77,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KJ2kkRJQogVIAHdVqwu6oL": {
       "status": "pending",
@@ -4793,11 +4796,11 @@
       "announce": false
     },
     "D3yv1ph2NX38KomrzWluMe": {
-      "status": "joined",
-      "time": 1792723112798,
+      "status": "valid",
+      "time": 1793242870515,
       "id": "120363411099453630@g.us",
       "name": "𝑴𝑨𝒁𝑯𝑨𝑹 𝑳𝑨𝑮𝑯𝑨𝑹𝑰 𝒀𝑻 𝑭𝑨𝑴𝑰𝑳𝒀  ❤️",
-      "size": 364,
+      "size": 390,
       "approval": false,
       "announce": false
     },
@@ -4811,13 +4814,14 @@
       "announce": false
     },
     "BDgr7Dx3UuBH2ckjkBFZDF": {
-      "status": "joined",
-      "time": 1792723143003,
+      "status": "error",
+      "time": 1793242873134,
       "id": "120363431336650945@g.us",
       "name": "BLASTING FOR EMAIL",
       "size": 15,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IAyxQtdcqxfHXB8o0RECra": {
       "status": "pending",
@@ -4829,13 +4833,14 @@
       "announce": false
     },
     "CfQpOZ2BlsBGhdY0mAoYmW": {
-      "status": "joined",
-      "time": 1792723176493,
+      "status": "error",
+      "time": 1793242876117,
       "id": "120363430153926407@g.us",
       "name": "✤͜🤍⃛⃟🇫ᴀ͟͞ᴍ͟͞ɪ͟͞ʟ͟͞ʏ☆🇭 ᴏ͟͞ᴍ͟͞ᴇ͟͞🏠",
       "size": 361,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "F1Uh3G0B09KJ02JffKjpmk": {
       "status": "pending",
@@ -4847,11 +4852,11 @@
       "announce": false
     },
     "EsM1dpSMdYnCThslsNKcCW": {
-      "status": "joined",
-      "time": 1792724420209,
+      "status": "valid",
+      "time": 1793242878755,
       "id": "120363407349382667@g.us",
       "name": "Buy And Sell Group",
-      "size": 105,
+      "size": 135,
       "approval": false,
       "announce": false
     },
