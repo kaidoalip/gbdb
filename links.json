@@ -3478,28 +3478,31 @@
       "name": "Shahbaz Trade With Mr RK"
     },
     "DlLS8E4832F6HtcEoxaAK1": {
-      "status": "joined",
-      "time": 1792658337394,
+      "status": "error",
+      "time": 1793242528417,
       "id": "120363427645685757@g.us",
       "name": "Pakistan Electronic Accesries dealer",
       "size": 40,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "DV7HvOEoW6R7OnCsiHyLp7": {
-      "status": "joined",
-      "time": 1792658356279,
+      "status": "error",
+      "time": 1793242532533,
       "id": "120363415252903564@g.us",
       "name": "Mbl.Accesries&,gadgets Only wholsale G15",
       "size": 7,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "LZ9uBi5RYuQ9ivzBXltrsJ": {
-      "status": "joined",
-      "time": 1792658375357,
+      "status": "error",
+      "time": 1793242535076,
       "id": "120363414430085250@g.us",
       "name": "CREATOR ACCESSORIES HUB 🇵🇰\nTikTok • Studio • Lighting • Mic • Tripod • B2B",
       "size": 82,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "DFM8yDv2ZWG1HALRutiZtJ": {
       "status": "pending",
@@ -3511,7 +3514,7 @@
     },
     "H7Sd1wYRB8HEGKCEmFfSJR": {
       "status": "error",
-      "time": 1792818775151,
+      "time": 1793242538508,
       "err": "bad-request"
     },
     "IsP4KvydIoHLmq39DjGAY6": {
@@ -3521,12 +3524,13 @@
       "name": "♥️ 𝙈 𝙄𝙇𝙔𝘼𝙎 𝙆𝙃𝘼𝙉 𝙂𝙋𝘾 𝘽𝙐𝙔&𝙎𝙀𝙇𝙇 ♥️🇵🇰"
     },
     "K6MvRZHmug6G208lgvoUBk": {
-      "status": "blocked",
-      "time": 1792741489195,
+      "status": "error",
+      "time": 1793242542081,
       "id": "120363413710620006@g.us",
       "name": "MUBEEN DIGITAL HUB",
       "size": 72,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "DWXVNjLZ0bj4zwP7jqsL8e": {
       "status": "pending",
@@ -3553,12 +3557,13 @@
       "approval": true
     },
     "HRsuLA3GVTd67hmUaqt0AL": {
-      "status": "joined",
-      "time": 1792658408355,
+      "status": "valid",
+      "time": 1793242546090,
       "id": "120363427976600013@g.us",
       "name": "Secure 🔐🔐 Deals",
-      "size": 288,
-      "approval": false
+      "size": 290,
+      "approval": false,
+      "announce": false
     },
     "G8ued14XxlpJbTYToXhn4v": {
       "status": "pending",
@@ -3569,11 +3574,11 @@
       "approval": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
-      "status": "joined",
-      "time": 1792742065001,
+      "status": "valid",
+      "time": 1793242548971,
       "id": "120363421225872930@g.us",
       "name": "All Service Provider 💝",
-      "size": 784,
+      "size": 833,
       "approval": false,
       "announce": false
     },
@@ -3582,12 +3587,13 @@
       "time": 1792625513867
     },
     "JE0KVAV0JyU5IHrxzEnxmu": {
-      "status": "joined",
-      "time": 1792658451269,
+      "status": "valid",
+      "time": 1793242553063,
       "id": "120363427286803247@g.us",
       "name": "Indonesia🇮🇩 ~ᡕ ❍─➭⌗𝙎𝑚𝙩𝚙 𝚙𝙧σ𝐯𝓲ⓓ",
-      "size": 636,
-      "approval": false
+      "size": 708,
+      "approval": false,
+      "announce": false
     },
     "JbGdiyaiUbY3GkHA2kjjpp": {
       "status": "komunitas",
@@ -3596,20 +3602,22 @@
       "name": "WholSale Products"
     },
     "K7HfaZ34LtsFBQVgXwBKc0": {
-      "status": "joined",
-      "time": 1792658470935,
+      "status": "error",
+      "time": 1793242555918,
       "id": "120363428921526829@g.us",
       "name": "TikTok account master",
       "size": 705,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "D47dPc3VXocKoLEWlobZQk": {
-      "status": "joined",
-      "time": 1792658486113,
+      "status": "valid",
+      "time": 1793242560114,
       "id": "120363429259513689@g.us",
       "name": "🚀 𝐃𝐚𝐢𝐦 𝐊𝐡𝐚𝐧 | 𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞",
-      "size": 313,
-      "approval": false
+      "size": 359,
+      "approval": false,
+      "announce": false
     },
     "F8vM0mBLKTD3siT5NXQGVf": {
       "status": "joined",
