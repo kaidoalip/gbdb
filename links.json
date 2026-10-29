@@ -1943,7 +1943,7 @@
     },
     "IzQWK67R67rJ6QiqqvpoTO": {
       "status": "error",
-      "time": 1793242244874,
+      "time": 1793245565446,
       "id": "120363410957830027@g.us",
       "name": "ZAHIR BACK UP GROUP",
       "size": 96,
@@ -1990,7 +1990,7 @@
     },
     "CasTMOKaDfhGKMn7qacPXe": {
       "status": "valid",
-      "time": 1793242252318,
+      "time": 1793245568481,
       "id": "120363396600879289@g.us",
       "name": "GV, TN, TF, ID, SL buy & Sell Group",
       "size": 261,
@@ -2007,7 +2007,7 @@
     },
     "DGJSjXfUXSb7HyNXGDSCM1w": {
       "status": "error",
-      "time": 1793242255727,
+      "time": 1793245571930,
       "err": "bad-request"
     },
     "IVd0ycVXbis0WnsqYxs7Mz": {
@@ -2048,7 +2048,7 @@
     },
     "Ci4K7Qv5DdGFoKPMoAtOsN": {
       "status": "valid",
-      "time": 1793242258544,
+      "time": 1793245575014,
       "id": "120363427994923557@g.us",
       "name": "Pakistan zindabad!🇵🇰",
       "size": 91,
@@ -2056,13 +2056,14 @@
       "announce": false
     },
     "I9cyAFqT027Higrk3FEjL2": {
-      "status": "valid",
-      "time": 1793242261649,
+      "status": "error",
+      "time": 1793245598514,
       "id": "120363423831539213@g.us",
       "name": "Allah de Marzi all",
       "size": 316,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "TIMEOUT: groupGetInviteInfo melebihi 20 detik"
     },
     "HTU8pNxcs7UBdGHVnwyFRL": {
       "status": "komunitas",
@@ -2084,7 +2085,7 @@
     },
     "LdYz1EWVQ8U7n1FKTYfxbb": {
       "status": "valid",
-      "time": 1793242265126,
+      "time": 1793245602277,
       "id": "120363409760945010@g.us",
       "name": "🌹Asif A1Cloud Buying And Selling🌹",
       "size": 179,
@@ -2119,7 +2120,7 @@
     },
     "IQbUyZHR5UAG30wS0WamOT": {
       "status": "valid",
-      "time": 1793242269738,
+      "time": 1793245605850,
       "id": "120363429996618054@g.us",
       "name": "(•ᴗ•) ʙʟᴀꜱᴛɪɴɢ ᴛᴇᴀᴍ ᴀᴅᴍɪɴ (•ᴗ•)",
       "size": 61,
@@ -2128,7 +2129,7 @@
     },
     "HQYBsoqPAxsGOLPR9anWja": {
       "status": "valid",
-      "time": 1793242272635,
+      "time": 1793245608720,
       "id": "120363431672703043@g.us",
       "name": "Buy--Sell Group✅",
       "size": 33,
@@ -2137,7 +2138,7 @@
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1793242275128,
+      "time": 1793245611616,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
@@ -2150,7 +2151,7 @@
     },
     "ELxyiWMGdXA4sZ5jAQVpfF": {
       "status": "error",
-      "time": 1793242280481,
+      "time": 1793245614931,
       "id": "120363425294160653@g.us",
       "name": "All account by sell 🇺🇸🇺🇸🇺🇸",
       "size": 666,
