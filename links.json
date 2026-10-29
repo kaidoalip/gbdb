@@ -4532,23 +4532,24 @@
       "name": "𝗧𝗶𝗸𝘁𝗼𝗸 𝗰𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 + 𝗔𝗜"
     },
     "FHTJHJnxzPaGNJUMGgOLWP": {
-      "status": "joined",
-      "time": 1792659587423,
+      "status": "error",
+      "time": 1793242809622,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 253,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "BnVkIAg0XDQHVoshlxkKfM": {
       "status": "expired",
       "time": 1792719738677
     },
     "DtoxkntyJHoJMR7kS2e9sx": {
-      "status": "joined",
-      "time": 1792722735970,
+      "status": "valid",
+      "time": 1793242813906,
       "id": "120363413883121231@g.us",
-      "name": "All videos",
-      "size": 202,
+      "name": "All type videos",
+      "size": 235,
       "approval": false,
       "announce": false
     },
@@ -4559,11 +4560,11 @@
       "name": "Trust Saller Alhamdulillah"
     },
     "ClIpGV4lj42JqTDkTzogul": {
-      "status": "joined",
-      "time": 1792722752132,
+      "status": "valid",
+      "time": 1793242817875,
       "id": "120363313619870351@g.us",
       "name": "Gmail buy & sell💰🪙",
-      "size": 137,
+      "size": 143,
       "approval": false,
       "announce": false
     },
@@ -4585,31 +4586,32 @@
       "time": 1792719757279
     },
     "BpOC78GLC778IvhlWkouec": {
-      "status": "joined",
-      "time": 1792722785263,
+      "status": "valid",
+      "time": 1793242820624,
       "id": "120363431094191023@g.us",
       "name": "🚀 BM Market Hub | Buy & Sell 💼",
-      "size": 27,
+      "size": 40,
       "approval": false,
       "announce": false
     },
     "I1DaXtSV3oM5m89pFNgzfZ": {
-      "status": "joined",
-      "time": 1792722801098,
+      "status": "valid",
+      "time": 1793242824796,
       "id": "120363432774952243@g.us",
       "name": "Majid Cloud Creator",
-      "size": 20,
+      "size": 79,
       "approval": false,
       "announce": false
     },
     "EQM6HxBeBNB0q6vunPP3DK": {
-      "status": "blocked",
-      "time": 1792741575501,
+      "status": "error",
+      "time": 1793242828657,
       "id": "120363430651467515@g.us",
       "name": "Trusted Zone✅",
       "size": 395,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "GYwFTYs7yMyHl3woJVsCRo": {
       "status": "pending",
@@ -4621,11 +4623,11 @@
       "announce": false
     },
     "DYm8TeARRm59tberHM6HeZ": {
-      "status": "joined",
-      "time": 1792722851668,
+      "status": "valid",
+      "time": 1793242832475,
       "id": "120363430905681171@g.us",
       "name": "𝗔𝗛𝗔𝗗 𝗖𝗟𝗢𝗨𝗗𝗦 𝗛𝗨𝗕",
-      "size": 125,
+      "size": 137,
       "approval": false,
       "announce": false
     },
@@ -4639,11 +4641,11 @@
       "announce": false
     },
     "DrYhV7unqFXGcWEgTW4HQQ": {
-      "status": "blocked",
-      "time": 1792741579148,
+      "status": "valid",
+      "time": 1793242836639,
       "id": "120363413327395484@g.us",
       "name": "Call by & Sell",
-      "size": 36,
+      "size": 59,
       "approval": false,
       "announce": false
     },
@@ -4657,17 +4659,18 @@
       "announce": false
     },
     "DEIVJSuxlQhETAIqzSls50": {
-      "status": "joined",
-      "time": 1792722898244,
+      "status": "error",
+      "time": 1793242840381,
       "id": "120363431108191970@g.us",
       "name": "اکیل اکبر لاٹری گروپ 51",
       "size": 176,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Li661MWG8JkLcNNQzz6Yzd": {
       "status": "error",
-      "time": 1792818789368,
+      "time": 1793242842590,
       "err": "bad-request"
     },
     "Hwy0kWeOZGp5tXca7EMbRB": {
