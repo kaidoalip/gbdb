@@ -1331,7 +1331,7 @@
     },
     "HqihsQudxQYAtZ5d3AOMSp": {
       "status": "error",
-      "time": 1792818704487,
+      "time": 1793242103249,
       "id": "120363413756684811@g.us",
       "name": "Tahaa Online Trusted Store",
       "size": 55,
@@ -1340,12 +1340,12 @@
     },
     "CWRb2iXuBtDJnVSD6xzeCS": {
       "status": "error",
-      "time": 1792818708502,
+      "time": 1793242107162,
       "err": "bad-request"
     },
     "IRn8Z0SESgX0azqA22Bfdv": {
       "status": "error",
-      "time": 1792818711410,
+      "time": 1793242109311,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 192,
@@ -1362,11 +1362,11 @@
     },
     "DAQ3zQBKZUb388clU4WCQc": {
       "status": "valid",
-      "time": 1792743342847,
+      "time": 1793242112502,
       "id": "120363045935170410@g.us",
       "name": "ISLAMABAD PROPERTY ALL PK",
-      "size": 258,
-      "approval": true,
+      "size": 224,
+      "approval": false,
       "announce": false
     },
     "ETNKmdXLS3I7ClW6JcH2fV": {
@@ -1402,27 +1402,29 @@
       "approval": true
     },
     "HqtfOrfg1nFIxv43K8mDMF": {
-      "status": "valid",
-      "time": 1792743346692,
+      "status": "error",
+      "time": 1793242116033,
       "id": "120363427941235116@g.us",
       "name": "The trade of the Pingu family 🐧",
       "size": 133,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Jg23nA0lZDOLtPwqxDtmBG": {
-      "status": "valid",
-      "time": 1792743349375,
+      "status": "error",
+      "time": 1793242118335,
       "id": "120363412274685980@g.us",
       "name": "AliExpress Tips Trek  group",
       "size": 451,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LxN9zyC7ep5GAaXaJjj6I5": {
       "status": "error",
-      "time": 1792818715331,
-      "err": "growth-locked"
+      "time": 1793242122440,
+      "err": "bad-request"
     },
     "G6mFygLSf2aKZLdAzGo9ZY": {
       "status": "pending",
@@ -1434,10 +1436,10 @@
     },
     "DjgDIQ9iEskFAHx2NFwmM7": {
       "status": "valid",
-      "time": 1792743355971,
+      "time": 1793242125922,
       "id": "120363412774722949@g.us",
-      "name": "MAlik Dealing Zone👽☠️",
-      "size": 26,
+      "name": "MAlik Dealing Zone👽☠️۔",
+      "size": 66,
       "approval": false,
       "announce": false
     },
@@ -1452,10 +1454,10 @@
     },
     "GZDbt1RwPR72hJiPuB5cw5": {
       "status": "valid",
-      "time": 1792743358663,
+      "time": 1793242130177,
       "id": "120363349734283576@g.us",
       "name": "This group is for posting details about scammers, so please do not post anything related to your own",
-      "size": 738,
+      "size": 776,
       "approval": true,
       "announce": false
     },
@@ -1465,10 +1467,10 @@
     },
     "KDxoFEFRUuhJnkRamyIkIG": {
       "status": "valid",
-      "time": 1792743363709,
+      "time": 1793242132795,
       "id": "120363432662174464@g.us",
       "name": "Global Gift Card Network🇺🇸",
-      "size": 62,
+      "size": 123,
       "approval": true,
       "announce": false
     },
