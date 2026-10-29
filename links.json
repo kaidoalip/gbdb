@@ -1712,13 +1712,14 @@
       "err": "account_reachout_restricted"
     },
     "ED72r8wAnfr0I0hD55FygH": {
-      "status": "valid",
-      "time": 1793253173102,
+      "status": "error",
+      "time": 1793255376003,
       "id": "120363431481300707@g.us",
       "name": "خوشاب میانوالی OLX بازار - خرید و فروخت سنٹر",
       "size": 166,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "account_reachout_restricted"
     },
     "BklXNdPvGCDHDELLeW4Zm2": {
       "status": "valid",
