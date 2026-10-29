@@ -4171,12 +4171,13 @@
       "announce": false
     },
     "IJR4mUeIAxz2okepV1JyEU": {
-      "status": "joined",
-      "time": 1792657751004,
+      "status": "valid",
+      "time": 1793242700136,
       "id": "120363405326777756@g.us",
       "name": "Mirza Selling Zone",
-      "size": 262,
-      "approval": false
+      "size": 260,
+      "approval": false,
+      "announce": false
     },
     "J39SaRcsOalGTYXAAbEcxN": {
       "status": "expired",
@@ -4193,28 +4194,31 @@
       "name": "𝙈𝙊𝙃𝙎𝙄 𝙀𝘿𝙄𝙏𝙕 𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝙎𝙀𝙇𝙇𝙀𝙍 𝙏𝙄𝙆𝙏𝙊𝙆 𝙎𝙃𝙊𝙋"
     },
     "FvEiB5PW6Q543rYGSYW0tl": {
-      "status": "blocked",
-      "time": 1792741519453,
+      "status": "error",
+      "time": 1793242703037,
       "id": "120363428172749677@g.us",
       "name": "Shah g Google play console buy and sell trusted 💯 group",
       "size": 175,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "DX27E7f2L3dE7k4i1mXKJr": {
-      "status": "blocked",
-      "time": 1792741522182,
+      "status": "valid",
+      "time": 1793242706044,
       "id": "120363413626084306@g.us",
       "name": "𓆩👑𓆪 𝑫𝑬𝑨𝑳𝑿 𝑴𝑨𝑹𝑲𝑬𝑻 𓆩💎𓆪",
-      "size": 65,
-      "approval": false
+      "size": 148,
+      "approval": false,
+      "announce": false
     },
     "CUaEM3E8WSd6WbYW0GxHJm": {
-      "status": "joined",
-      "time": 1792719976182,
+      "status": "valid",
+      "time": 1793242709602,
       "id": "120363426229287520@g.us",
       "name": "TECHMARTKE",
-      "size": 266,
-      "approval": true
+      "size": 310,
+      "approval": true,
+      "announce": false
     },
     "GwuJta6zCBZ6lUN1LObVmH": {
       "status": "pending",
@@ -4225,12 +4229,13 @@
       "approval": true
     },
     "K0hcRUGVb2G23IUGasgfrk": {
-      "status": "joined",
-      "time": 1792720006061,
+      "status": "valid",
+      "time": 1793242712210,
       "id": "120363411667881476@g.us",
       "name": "Shahzaib trusted dealer 💯",
-      "size": 53,
-      "approval": false
+      "size": 105,
+      "approval": false,
+      "announce": false
     },
     "EmzURml1yNJAdFeygupLJf": {
       "status": "expired",
@@ -4241,12 +4246,13 @@
       "approval": true
     },
     "KjpdUZZi8GDFszdD21zkG2": {
-      "status": "joined",
-      "time": 1792720027700,
+      "status": "valid",
+      "time": 1793242715585,
       "id": "120363428564141868@g.us",
-      "name": "KELUARGA UPIN DAN IPIN😝😝",
-      "size": 30,
-      "approval": true
+      "name": "👽Golden era 😝",
+      "size": 29,
+      "approval": true,
+      "announce": false
     },
     "FyiGbXSMTnCDhK0xyq256f": {
       "status": "pending",
@@ -4257,36 +4263,40 @@
       "approval": true
     },
     "E1n26UD692GEVgzzw7wkyt": {
-      "status": "blocked",
-      "time": 1792741525897,
+      "status": "valid",
+      "time": 1793242719372,
       "id": "120363412595249966@g.us",
       "name": "eCom Trade Hub | Accounts • Processing • Dollars",
-      "size": 175,
-      "approval": false
+      "size": 177,
+      "approval": false,
+      "announce": false
     },
     "F6pekPtkIFe9GrZmmhLnIy": {
-      "status": "joined",
-      "time": 1792720068682,
+      "status": "error",
+      "time": 1793242722971,
       "id": "120363431833021644@g.us",
       "name": "Chandia trusted family♥️🥀❤",
       "size": 42,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "DnpEOLLQ3B0CG1vMzBWkfL": {
-      "status": "joined",
-      "time": 1792720085043,
+      "status": "valid",
+      "time": 1793242726971,
       "id": "120363412792630604@g.us",
       "name": "Ajmal multani broadcast",
-      "size": 198,
-      "approval": false
+      "size": 214,
+      "approval": false,
+      "announce": false
     },
     "GfonZaiug89HXP6JNwckoa": {
-      "status": "joined",
-      "time": 1792720101904,
+      "status": "valid",
+      "time": 1793242731142,
       "id": "120363429532681534@g.us",
       "name": "📡جیو آفیشل نیوز گروپ🇵🇰",
-      "size": 170,
-      "approval": false
+      "size": 322,
+      "approval": false,
+      "announce": false
     },
     "JNLhywWDDd98FhZnAGxJYx": {
       "status": "joined",
