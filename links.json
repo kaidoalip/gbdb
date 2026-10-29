@@ -6878,44 +6878,78 @@
       "err": "bad-request"
     },
     "IK8B9NyoUi3LW5n5tLBIvl": {
-      "status": "new",
-      "time": 1792899290092
+      "status": "error",
+      "time": 1793243669141,
+      "err": "bad-request"
     },
     "DWotLyR2Yt7FZ2MJUGTsoL": {
-      "status": "new",
-      "time": 1792899892343
+      "status": "error",
+      "time": 1793243671681,
+      "err": "bad-request"
     },
     "HIChZ8YdZAiKw54jEZbTZT": {
-      "status": "new",
-      "time": 1792900854993
+      "status": "valid",
+      "time": 1793243675620,
+      "id": "120363431217068683@g.us",
+      "name": "Reseller The Zeb,S store",
+      "size": 27,
+      "approval": false,
+      "announce": false
     },
     "CEOmu67HvKb4ZpZKXl6aRn": {
-      "status": "new",
-      "time": 1792901934249
+      "status": "valid",
+      "time": 1793243679484,
+      "id": "120363412283669964@g.us",
+      "name": "آنلائن میلہ کاٹلنگ مردان",
+      "size": 359,
+      "approval": false,
+      "announce": false
     },
     "BwySmAtZNhuB85WeqTtfxj": {
-      "status": "new",
-      "time": 1792901934249
+      "status": "valid",
+      "time": 1793243683081,
+      "id": "120363421830281753@g.us",
+      "name": "★H̸A̸M̸Z̸A̸_̸S̸E̸L̸L̸E̸R̸ ❤̸️̸★",
+      "size": 570,
+      "approval": false,
+      "announce": false
     },
     "FnHxrA7ddlGHeusDj2ok6H": {
-      "status": "new",
-      "time": 1792902054569
+      "status": "error",
+      "time": 1793243685665,
+      "err": "bad-request"
     },
     "BoopzX1SofL7Ar67fuu967": {
-      "status": "new",
-      "time": 1792902054569
+      "status": "valid",
+      "time": 1793243689167,
+      "id": "120363412264766653@g.us",
+      "name": "🍁BANAINCE🍁 EVENT 🍁 GRUP 🍁",
+      "size": 48,
+      "approval": false,
+      "announce": false
     },
     "DMw7HYHxExh4glbDI2h7vP": {
-      "status": "new",
-      "time": 1792902174757
+      "status": "valid",
+      "time": 1793243691889,
+      "id": "120363422244491487@g.us",
+      "name": "گڑھا موڑ فار سیل گروپ 786 ❤️",
+      "size": 310,
+      "approval": false,
+      "announce": false
     },
     "JHTrA31KDQe3Nj45dvcQBj": {
-      "status": "new",
-      "time": 1792923310802
+      "status": "valid",
+      "time": 1793243695724,
+      "id": "120363404995653663@g.us",
+      "name": "𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐆𝐌𝐀𝐈𝐋 𝐒𝐄𝐋𝐋𝐄𝐑 𝐀𝐍𝐃 𝐁𝐔𝐘𝐄𝐑 𝐖𝐎𝐑𝐋𝐃𝐖𝐈𝐃𝐄 ⛁ $ˎˊ˗",
+      "size": 90,
+      "approval": false,
+      "announce": false
     },
     "Do5ahuOE6U6FlnkbHafESv": {
-      "status": "new",
-      "time": 1792924033973
+      "status": "error",
+      "time": 1793243698250,
+      "err": "bad-request"
     },
     "LR6CtcBzr0E0hnnw3KFfpb": {
       "status": "new",
