@@ -7878,44 +7878,78 @@
       "err": "bad-request"
     },
     "JKQD96gRKM99HFZgQM9SKJ": {
-      "status": "new",
-      "time": 1792960034255
+      "status": "error",
+      "time": 1793244148726,
+      "err": "bad-request"
     },
     "FmAH50J0p27IvuwHMxfgdD": {
-      "status": "new",
-      "time": 1792960154564
+      "status": "valid",
+      "time": 1793244152534,
+      "id": "120363429713897019@g.us",
+      "name": "Pakistan Tehreek-E-Insaf",
+      "size": 473,
+      "approval": false,
+      "announce": false
     },
     "LrCLlQisadX9s9FrVW9LKq": {
-      "status": "new",
-      "time": 1792960874588
+      "status": "valid",
+      "time": 1793244157153,
+      "id": "120363413572809979@g.us",
+      "name": "محمدی مجموعۃ النکاح",
+      "size": 431,
+      "approval": false,
+      "announce": false
     },
     "F8FfAeshA7SAWlHvSdqkwT": {
-      "status": "new",
-      "time": 1792960874588
+      "status": "valid",
+      "time": 1793244160698,
+      "id": "120363430058688319@g.us",
+      "name": "☆ۣۜۜ͜͡༆ℬѧᎠ⃝😈🅑〄¥✘⃠🇬‌a⃟ᑎ🅶²⁰¹¹",
+      "size": 526,
+      "approval": true,
+      "announce": false
     },
     "BTlN5esT5CxLa3ZV6iQiDl": {
-      "status": "new",
-      "time": 1792961354215
+      "status": "valid",
+      "time": 1793244163740,
+      "id": "120363428876092465@g.us",
+      "name": "DIGITAL CORE INVESTMENT",
+      "size": 143,
+      "approval": true,
+      "announce": false
     },
     "GGt8aVpdwmK9tVl5juuuVX": {
-      "status": "new",
-      "time": 1792961594983
+      "status": "valid",
+      "time": 1793244166385,
+      "id": "120363410920876478@g.us",
+      "name": "AYESHA TRUSTED SELLER ❤️🫶",
+      "size": 95,
+      "approval": true,
+      "announce": false
     },
     "ImRtDoc2ov8F3tCspp9uQh": {
-      "status": "new",
-      "time": 1792962794434
+      "status": "error",
+      "time": 1793244168717,
+      "err": "bad-request"
     },
     "C7exSWQTb9H8Sogx24g64C": {
-      "status": "new",
-      "time": 1792964234654
+      "status": "error",
+      "time": 1793244172086,
+      "err": "bad-request"
     },
     "D4qIDjnyB937n1MVBMyq8L": {
-      "status": "new",
-      "time": 1792966755347
+      "status": "error",
+      "time": 1793244175707,
+      "err": "bad-request"
     },
     "DOduoy1lkUOINq9PkzdA7f": {
-      "status": "new",
-      "time": 1792967234502
+      "status": "valid",
+      "time": 1793244178160,
+      "id": "120363430935837664@g.us",
+      "name": "KING FISHER COMMUNITY",
+      "size": 209,
+      "approval": false,
+      "announce": false
     },
     "GPjJD0BDXSuGEpelFwZb3E": {
       "status": "new",
