@@ -8738,16 +8738,26 @@
       "err": "growth-locked"
     },
     "FrXsSKDHKva4wfZNS1MrFV": {
-      "status": "new",
-      "time": 1793259063228
+      "status": "expired",
+      "time": 1793264042322
     },
     "FmimT9faRXoHeyxradh4vx": {
-      "status": "new",
-      "time": 1793259903363
+      "status": "valid",
+      "time": 1793264045268,
+      "id": "120363408084945752@g.us",
+      "name": "Dev Services ❤️‍🔥",
+      "size": 466,
+      "approval": false,
+      "announce": false
     },
     "CXpJKxlFyhAF5ssjlYeboz": {
-      "status": "new",
-      "time": 1793261583337
+      "status": "valid",
+      "time": 1793264047816,
+      "id": "120363430838072239@g.us",
+      "name": "Data and blasting network with Raza",
+      "size": 376,
+      "approval": false,
+      "announce": false
     },
     "Lac1Dm7bdBHItqrHXfHnrc": {
       "status": "new",
