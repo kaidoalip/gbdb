@@ -5244,8 +5244,8 @@
       "announce": false
     },
     "GbDBrx8NYuHLDNLYfWr5Cq": {
-      "status": "valid",
-      "time": 1792741692583,
+      "status": "expired",
+      "time": 1793242988892,
       "id": "120363428691427748@g.us",
       "name": "Amir yt service",
       "size": 135,
@@ -5254,80 +5254,83 @@
     },
     "EvL9zE3LhCM2gs2DqsaDeb": {
       "status": "valid",
-      "time": 1792741696752,
+      "time": 1793242992253,
       "id": "120363355993845669@g.us",
       "name": "💞گروه 💘عش.قعا💚شقی💜",
-      "size": 551,
+      "size": 595,
       "approval": true,
       "announce": false
     },
     "KG3Ua2Je67u3pQAqAs8xgI": {
       "status": "error",
-      "time": 1792818796719,
+      "time": 1793242996160,
       "err": "growth-locked"
     },
     "EJgNJNs237XGR11GOvXdA6": {
-      "status": "valid",
-      "time": 1792741704122,
+      "status": "error",
+      "time": 1793242999106,
       "id": "120363430377488264@g.us",
       "name": "Casa dos Viado",
       "size": 115,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "IUG9dMYUi5yK9A1DDDnDmA": {
       "status": "valid",
-      "time": 1792741709391,
+      "time": 1793243002822,
       "id": "120363403042068186@g.us",
       "name": "Solar Energy (Jhelum)",
-      "size": 314,
+      "size": 313,
       "approval": true,
       "announce": false
     },
     "JDBLcDqQpwI8OJYEtItjTz": {
       "status": "valid",
-      "time": 1792741712053,
+      "time": 1793243006921,
       "id": "120363420556897290@g.us",
       "name": "Brazil🇧🇷 CNPJ Gmail Available✅",
-      "size": 140,
+      "size": 144,
       "approval": false,
       "announce": false
     },
     "BDq1H9Zv4JxAmYcakRXSY5": {
       "status": "valid",
-      "time": 1792741715679,
+      "time": 1793243011110,
       "id": "120363407260076801@g.us",
       "name": "Anaya Gul Trusted Seller",
-      "size": 85,
+      "size": 105,
       "approval": false,
       "announce": false
     },
     "BdytW4D3KmnCkVA2SCubIc": {
       "status": "valid",
-      "time": 1792741717943,
+      "time": 1793243014596,
       "id": "6285795008030-1588296379@g.us",
       "name": "💰OFFICIAL ASPAL INDONESIA , KYC 🏝️",
-      "size": 180,
+      "size": 490,
       "approval": true,
       "announce": false
     },
     "CtsA6gXrEn526cZmELHcGf": {
-      "status": "valid",
-      "time": 1792741721416,
+      "status": "error",
+      "time": 1793243018396,
       "id": "120363404831270714@g.us",
       "name": "ＺＯＮＥ ＰＲＯＪＥＣＴ ＳＴＯＲＥ",
       "size": 28,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Hz9amfU7Qp8HKYZcDddpV5": {
-      "status": "valid",
-      "time": 1792741724747,
+      "status": "error",
+      "time": 1793243022447,
       "id": "6281919771220-1522513822@g.us",
       "name": "✦ ＺＯＮＥ ＰＲＯＪＥＣＴ ＯＴＣ ✦",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LBfht2sOreiIgm09QvbwaN": {
       "status": "expired",
