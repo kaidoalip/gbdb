@@ -304,17 +304,17 @@
       "announce": false
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
-      "status": "joined",
-      "time": 1792743157825,
+      "status": "valid",
+      "time": 1793241923095,
       "id": "120363412226638074@g.us",
       "name": "🐼🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁❁𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐼",
-      "size": 79,
+      "size": 88,
       "approval": true,
       "announce": false
     },
     "LadQDjuT42jKZxovvZnkjr": {
       "status": "error",
-      "time": 1792818680648,
+      "time": 1793241926623,
       "id": "120363427918476896@g.us",
       "name": "🔥Blasting Data & Leads 🌏",
       "size": 249,
@@ -322,11 +322,11 @@
       "err": "bad-request"
     },
     "FKUbsly6ZdQ8DWlBK0N3is": {
-      "status": "joined",
-      "time": 1792743165575,
+      "status": "valid",
+      "time": 1793241929090,
       "id": "120363412564191619@g.us",
-      "name": "ISHAQ_✅",
-      "size": 36,
+      "name": ".",
+      "size": 34,
       "approval": false,
       "announce": false
     },
@@ -339,8 +339,8 @@
       "approval": false
     },
     "LDZT2ttQJ4OBU1UqyMVV6O": {
-      "status": "joined",
-      "time": 1792743168463,
+      "status": "valid",
+      "time": 1793241933609,
       "id": "120363306982867484@g.us",
       "name": "MWS Clouds (AWS, AZURE, DIGITAL OCEAN, GCP, LINODE) HUB",
       "size": 137,
@@ -348,35 +348,36 @@
       "announce": false
     },
     "Hhkf5cmBra8AC9pE8AnZXf": {
-      "status": "joined",
-      "time": 1792743172027,
+      "status": "error",
+      "time": 1793241936881,
       "id": "120363431036654238@g.us",
       "name": "GPC By Sardar Log 🫴",
       "size": 41,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BBX2EjEXiMFANqV9Lv1MGe": {
-      "status": "joined",
-      "time": 1792743174470,
+      "status": "valid",
+      "time": 1793241939407,
       "id": "120363428308866376@g.us",
       "name": "𝗦𝗔𝗜𝗙 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗦𝗘𝗟𝗟𝗘𝗥𝗦 ✅🔥",
-      "size": 206,
+      "size": 224,
       "approval": true,
       "announce": false
     },
     "FZb9NYcr8p71wt5kxAT1O5": {
-      "status": "joined",
-      "time": 1792743177440,
+      "status": "valid",
+      "time": 1793241943551,
       "id": "120363413873783036@g.us",
       "name": "Hassan seller",
-      "size": 85,
+      "size": 83,
       "approval": false,
       "announce": false
     },
     "EJQCp5KUZYMAxwFdtEZBg5": {
       "status": "error",
-      "time": 1792818684902,
+      "time": 1793241946078,
       "id": "120363414508098170@g.us",
       "name": "DANNY MOBILE SOFTWARE SOLUTION",
       "size": 922,
@@ -393,7 +394,7 @@
     },
     "JpGGkuZIddV2IE02BpuKlX": {
       "status": "error",
-      "time": 1792818687619,
+      "time": 1793241949301,
       "id": "120363413302171660@g.us",
       "name": "Bor",
       "size": 11,
@@ -401,11 +402,11 @@
       "err": "bad-request"
     },
     "DmAslaL8pGTIXQrsjItfyd": {
-      "status": "joined",
-      "time": 1792743186470,
+      "status": "valid",
+      "time": 1793241952502,
       "id": "120363144939966875@g.us",
       "name": "Free online earning",
-      "size": 464,
+      "size": 457,
       "approval": true,
       "announce": false
     },
