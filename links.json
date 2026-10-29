@@ -3783,24 +3783,25 @@
     },
     "C8IxwlwllwJCcFVl3d7ZDL": {
       "status": "error",
-      "time": 1792818777830,
+      "time": 1793242598858,
       "id": "120363427297364731@g.us",
       "name": "Viral Videos",
       "size": 397,
       "approval": false,
-      "err": "growth-locked"
+      "err": "bad-request"
     },
     "ILjwTJNe0C49ubeyvm6GdJ": {
       "status": "expired",
       "time": 1792639755991
     },
     "HPafAVqAHUBLr7j6YkxV2l": {
-      "status": "joined",
-      "time": 1792659847178,
+      "status": "valid",
+      "time": 1793242602079,
       "id": "120363244751425104@g.us",
       "name": "🔥ALL PREMIUM DATA HERE 💯",
-      "size": 358,
-      "approval": true
+      "size": 361,
+      "approval": true,
+      "announce": false
     },
     "L4fIBSq8Xkt4TmLaEC1nhu": {
       "status": "pending",
@@ -3815,48 +3816,53 @@
       "time": 1792639767896
     },
     "I3YnAsaXjIM7k31JjjXP8q": {
-      "status": "joined",
-      "time": 1792641900420,
+      "status": "valid",
+      "time": 1793242604608,
       "id": "120363419896536469@g.us",
       "name": "Gmail and Facebook Bay sale unlimited",
-      "size": 16,
-      "approval": false
+      "size": 115,
+      "approval": false,
+      "announce": false
     },
     "CnINx3vXCyGGHVMLZtSy3q": {
-      "status": "joined",
-      "time": 1792645289991,
+      "status": "error",
+      "time": 1793242607986,
       "id": "120363415245952994@g.us",
       "name": "Adeel Labs",
       "size": 47,
-      "approval": false
+      "approval": false,
+      "err": "bad-request"
     },
     "GxyzBacMLe900a4aBNwJuO": {
-      "status": "joined",
-      "time": 1792659881948,
+      "status": "valid",
+      "time": 1793242610538,
       "id": "120363431827373982@g.us",
       "name": "B2B Lead Gen Pros BD",
-      "size": 150,
-      "approval": false
+      "size": 171,
+      "approval": false,
+      "announce": false
     },
     "JES0BLLtHyn20UOQDpXojZ": {
-      "status": "joined",
-      "time": 1792645296107,
+      "status": "error",
+      "time": 1793242614549,
       "id": "120363413998356624@g.us",
       "name": "Abdullah Trusted Deals",
       "size": 118,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "BP8fvGEWPUX48QVAOGVjH3": {
-      "status": "joined",
-      "time": 1792659900488,
+      "status": "error",
+      "time": 1793242616959,
       "id": "120363412429623026@g.us",
       "name": "All Pakistan Sale Purchase Group 🇵🇰",
       "size": 118,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "EQOY73BaZE43KsQKke7ywB": {
       "status": "error",
-      "time": 1792818780205,
+      "time": 1793242620014,
       "id": "120363431225896466@g.us",
       "name": "✯͜𝄟⍣⃟❤️ 𝙍𝙊𝙈𝘼𝙉𝙏𝙄𝘾 👀",
       "size": 52,
@@ -3864,12 +3870,13 @@
       "err": "growth-locked"
     },
     "CkEVI7aKPByAyEIuV5Poq3": {
-      "status": "joined",
-      "time": 1792659936969,
+      "status": "valid",
+      "time": 1793242623055,
       "id": "120363424687127657@g.us",
       "name": "Data vendor group",
-      "size": 532,
-      "approval": false
+      "size": 533,
+      "approval": false,
+      "announce": false
     },
     "EbQaiSL9eErF4xRqLJMIEY": {
       "status": "pending",
@@ -3894,12 +3901,13 @@
       "name": "Gmail Buy Sell"
     },
     "Lc4TlkEnFd5K56nOyB7OB8": {
-      "status": "joined",
-      "time": 1792659991410,
+      "status": "valid",
+      "time": 1793242626997,
       "id": "120363431808264226@g.us",
       "name": "KHAN AND FARHAN TRUSTED ADMINS",
-      "size": 155,
-      "approval": false
+      "size": 204,
+      "approval": false,
+      "announce": false
     },
     "LoaGDMms2xOGxqrxHuMgAR": {
       "status": "komunitas",
