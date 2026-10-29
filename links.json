@@ -2523,13 +2523,14 @@
       "approval": true
     },
     "EV4Z3A5zOrB7DgOecbADF9": {
-      "status": "valid",
-      "time": 1793262023048,
+      "status": "error",
+      "time": 1793278956805,
       "id": "120363412451504468@g.us",
       "name": "CloudCart India ☁️🛍️",
       "size": 340,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "EcfBS5oZ3F62LPmcOUrxnB": {
       "status": "valid",
