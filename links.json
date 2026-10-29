@@ -3101,10 +3101,10 @@
     },
     "G2LFhZJ2zVQ0fW6edAykVo": {
       "status": "valid",
-      "time": 1792743672317,
+      "time": 1793242420693,
       "id": "120363426979644452@g.us",
       "name": "Account buy and sell",
-      "size": 484,
+      "size": 469,
       "approval": false,
       "announce": false
     },
@@ -3116,19 +3116,19 @@
     },
     "IX97yndVID46R7aRpJ9lzZ": {
       "status": "valid",
-      "time": 1792743675138,
+      "time": 1793242423761,
       "id": "120363430633110691@g.us",
       "name": "𝑩𝒍𝒂𝒔𝒕𝒊𝒏𝒈 𝑫𝒂𝒕𝒂 𝒂𝒏𝒅 𝑮𝒎𝒂𝒊𝒍 𝑮𝒓𝒐𝒖𝒑 𝒐𝒇 𝑺𝒉𝒂𝒉𝒛𝒂𝒊𝒏 📈",
-      "size": 270,
-      "approval": false,
+      "size": 330,
+      "approval": true,
       "announce": false
     },
     "BE35h1kRqoD6HRuQhmRyw0": {
       "status": "valid",
-      "time": 1792743679280,
+      "time": 1793242427101,
       "id": "120363432006472074@g.us",
       "name": "Digital Success Community🤝",
-      "size": 241,
+      "size": 297,
       "approval": false,
       "announce": false
     },
@@ -3139,13 +3139,14 @@
       "name": "All Ip Bulk Gmail's Buyer 💪"
     },
     "LOL3xqMazF23ViqyQepmfI": {
-      "status": "valid",
-      "time": 1792743685056,
+      "status": "error",
+      "time": 1793242430906,
       "id": "120363428774942416@g.us",
       "name": "Gmail seller and buyer trusted group👥✅",
       "size": 343,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "LFLa3DqAboHL9MXyeZ7SRj": {
       "status": "komunitas",
@@ -3154,13 +3155,14 @@
       "name": "𝐼𝓃𝒹𝑒𝓅𝑒𝓃𝒹𝑒𝓃𝒸𝑒 𝒮𝑜𝓊𝓁𝓈"
     },
     "E6dPY9lVZuHCCGeH5E7Ein": {
-      "status": "valid",
-      "time": 1792743688600,
+      "status": "error",
+      "time": 1793242434129,
       "id": "120363414458688159@g.us",
       "name": "Business Of BM",
       "size": 105,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GzKlXIWp5yqH4M7oCSFy0E": {
       "status": "pending",
@@ -3171,20 +3173,21 @@
       "approval": true
     },
     "HboDmsAgzqU57IKmKG0SpA": {
-      "status": "valid",
-      "time": 1792743692026,
+      "status": "error",
+      "time": 1793242437387,
       "id": "120363428440752433@g.us",
       "name": "Premium subscription",
       "size": 349,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GVfsPCkhLgiFb3VR1WLnIl": {
       "status": "valid",
-      "time": 1792743694782,
+      "time": 1793242441334,
       "id": "120363423247779072@g.us",
       "name": "True kyc group 💵💵✅✅",
-      "size": 180,
+      "size": 184,
       "approval": false,
       "announce": false
     },
@@ -3196,10 +3199,10 @@
     },
     "JEsLREEzM5d593RSrLIeDK": {
       "status": "valid",
-      "time": 1792743699000,
+      "time": 1793242444306,
       "id": "120363427711012007@g.us",
       "name": "𝗖𝗟𝗢𝗨𝗗 𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗬 𝗔𝗛𝗔𝗗",
-      "size": 300,
+      "size": 305,
       "approval": false,
       "announce": false
     },
@@ -3212,17 +3215,18 @@
       "approval": true
     },
     "DlGwkit7gT5KXUzzIOLUpI": {
-      "status": "valid",
-      "time": 1792743703171,
+      "status": "error",
+      "time": 1793242446939,
       "id": "120363432814894777@g.us",
       "name": "خرید و فروخت پشاور 🌏",
       "size": 86,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HPWoeUq1DSo2yY3fxAvrmK": {
       "status": "valid",
-      "time": 1792743706311,
+      "time": 1793242451222,
       "id": "120363431792219627@g.us",
       "name": "World war 3",
       "size": 7,
