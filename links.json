@@ -1702,13 +1702,14 @@
       "err": "account_reachout_restricted"
     },
     "C8ug7qWoMMFARJGGSRpZkf": {
-      "status": "valid",
-      "time": 1793253170578,
+      "status": "error",
+      "time": 1793255361570,
       "id": "120363411259045245@g.us",
       "name": "👑 PUBG Account Market Pakistan 👑",
       "size": 18,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "account_reachout_restricted"
     },
     "ED72r8wAnfr0I0hD55FygH": {
       "status": "valid",
