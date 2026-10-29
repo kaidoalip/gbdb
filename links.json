@@ -2,7 +2,7 @@
   "links": {
     "IJ5S5HhHzRF0owJBPRtStC": {
       "status": "error",
-      "time": 1792818659156,
+      "time": 1793241851838,
       "id": "120363410717279983@g.us",
       "name": "Buy And Sell Account Cloud",
       "size": 121,
@@ -11,7 +11,7 @@
     },
     "Ba8vGDOZWJ52hPOa4NXpOr": {
       "status": "error",
-      "time": 1792818662850,
+      "time": 1793241855807,
       "id": "120363429817848801@g.us",
       "name": "SALER'S and BUYER'S 🤝",
       "size": 409,
@@ -27,20 +27,21 @@
       "approval": false
     },
     "FAfE6Y0tJIbLD1B7W4iq5i": {
-      "status": "joined",
-      "time": 1792743095418,
+      "status": "error",
+      "time": 1793241859036,
       "id": "120363413115265909@g.us",
       "name": "RAO Gmail group buy and sell",
       "size": 296,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GSeAAYhyhwfCTpRFHgrCxa": {
-      "status": "blocked",
-      "time": 1792818968519,
+      "status": "valid",
+      "time": 1793241863319,
       "id": "120363420130331141@g.us",
       "name": "𝘾𝙡𝙤𝙪𝙙𝙉𝙚𝙨𝙩 𝙒𝙤𝙧𝙡𝙙........",
-      "size": 394,
+      "size": 387,
       "approval": false,
       "announce": false
     },
@@ -77,17 +78,17 @@
       "approval": true
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "joined",
-      "time": 1792743102488,
+      "status": "valid",
+      "time": 1793241866570,
       "id": "120363419140015193@g.us",
       "name": "SK Travels",
-      "size": 847,
+      "size": 840,
       "approval": false,
       "announce": false
     },
     "H8d2AEt7jr5IImgBxnZUaS": {
-      "status": "joined",
-      "time": 1792743105470,
+      "status": "valid",
+      "time": 1793241869720,
       "id": "120363430557841016@g.us",
       "name": "🥳🥳Esha cloud sell,buy market🤩🤩",
       "size": 12,
@@ -96,7 +97,7 @@
     },
     "CiSd7npLqKcDWdhjxxAxYG": {
       "status": "error",
-      "time": 1792818666497,
+      "time": 1793241872935,
       "id": "120363430259871317@g.us",
       "name": "Majid Cloud Creator",
       "size": 58,
@@ -105,7 +106,7 @@
     },
     "G4te6bL3AYh0w5HR9V2t4H": {
       "status": "error",
-      "time": 1792818669622,
+      "time": 1793241875890,
       "err": "bad-request"
     },
     "J7ZB53ZAXru047MGT4n7j8": {
@@ -114,7 +115,7 @@
     },
     "BR1sPyUPn1H8ncasuy5QQu": {
       "status": "error",
-      "time": 1792818673628,
+      "time": 1793241878989,
       "id": "120363415129532642@g.us",
       "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
       "size": 220,
@@ -122,11 +123,11 @@
       "err": "bad-request"
     },
     "BSeevwOtTUbGuwnma3W0mO": {
-      "status": "joined",
-      "time": 1792743119934,
+      "status": "valid",
+      "time": 1793241881643,
       "id": "120363422902846331@g.us",
-      "name": "*AWS , DIGITAL , GOOGLE CLOUD , AZURE*",
-      "size": 271,
+      "name": "~Khan Cloud buy and sell~",
+      "size": 263,
       "approval": false,
       "announce": false
     },
