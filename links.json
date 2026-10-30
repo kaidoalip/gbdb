@@ -182,12 +182,13 @@
       "approval": false
     },
     "F2c0rjScp0jEvkkzkj0taZ": {
-      "status": "joined",
-      "time": 1792582600626,
+      "status": "error",
+      "time": 1793346951512,
       "id": "120363431649646607@g.us",
       "name": "S_K_Trick_Zone",
       "size": 4,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "Jg8Ju7tO0JlEc2aN3qoHwF": {
       "status": "komunitas",
@@ -215,8 +216,8 @@
       "announce": false
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
-      "status": "joined",
-      "time": 1793244742985,
+      "status": "valid",
+      "time": 1793346954318,
       "id": "120363412226638074@g.us",
       "name": "🐼🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁❁𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐼",
       "size": 88,
@@ -276,11 +277,11 @@
       "approval": true
     },
     "DmAslaL8pGTIXQrsjItfyd": {
-      "status": "joined",
-      "time": 1793244820584,
+      "status": "valid",
+      "time": 1793346958465,
       "id": "120363144939966875@g.us",
       "name": "Free online earning",
-      "size": 457,
+      "size": 455,
       "approval": true,
       "announce": false
     },
@@ -345,12 +346,13 @@
       "approval": false
     },
     "Ck9IFZIZyWb3orJ5vRPFba": {
-      "status": "joined",
-      "time": 1792391449586,
+      "status": "valid",
+      "time": 1793346963003,
       "id": "120363430274978486@g.us",
       "name": "𓆩𝐇ᴋ 𝐋ᴇɢᴇɴᴅ 𝐒ᴇʟʟᴇʀ𓆪",
-      "size": 4,
-      "approval": true
+      "size": 812,
+      "approval": true,
+      "announce": false
     },
     "JhJQJokoqBADAFeKOJFNO3": {
       "status": "komunitas",
@@ -532,12 +534,13 @@
       "approval": true
     },
     "BlzraQOYngiALDNxQdrvDc": {
-      "status": "joined",
-      "time": 1792640369145,
+      "status": "valid",
+      "time": 1793346966352,
       "id": "120363298751876863@g.us",
-      "name": "LinkedIn big seller Waheed",
-      "size": 847,
-      "approval": true
+      "name": "BM verified FB buy sell",
+      "size": 929,
+      "approval": true,
+      "announce": false
     },
     "HRtjDmorU15JLrnzp0tmd6": {
       "status": "joined",
@@ -934,8 +937,8 @@
       "announce": false
     },
     "CU1rq8F5SelHdjjIWwe0Zq": {
-      "status": "joined",
-      "time": 1793261833861,
+      "status": "blocked",
+      "time": 1793346970199,
       "id": "120363428928494855@g.us",
       "name": "𝙂𝙑 𝙏𝙉 𝘽𝙐𝙔 & 𝙎𝙀𝙇𝙇",
       "size": 110,
@@ -1461,12 +1464,13 @@
       "approval": true
     },
     "D5ZZ6IUmjE72R73FUfDMnn": {
-      "status": "joined",
-      "time": 1792484800965,
+      "status": "error",
+      "time": 1793346973921,
       "id": "120363410630298229@g.us",
       "name": "༄ ᭄🔥⃝   𝒢𝓊𝓂𝓃𝒶𝒶𝓂 l i n k z o o❤️❥❥",
       "size": 3,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "JPn2B31QEKAB63jVgYPpT8": {
       "status": "expired",
@@ -1489,8 +1493,8 @@
       "approval": false
     },
     "FQQD7tJj39I24oWeyDKMmD": {
-      "status": "error",
-      "time": 1793346363137,
+      "status": "valid",
+      "time": 1793346977917,
       "id": "120363427705995122@g.us",
       "name": "𝙏𝙍𝙐𝙎𝙏 𝙕𝙊𝙉𝙀 𝘽𝙔 𝘼𝙕𝘼𝙉 ✌︎㋡",
       "size": 468,
@@ -1523,11 +1527,11 @@
       "time": 1792484047113
     },
     "F3KEBSKUyAZFj2SrYNSYOD": {
-      "status": "joined",
-      "time": 1793326128907,
+      "status": "valid",
+      "time": 1793346980950,
       "id": "120363411853172858@g.us",
       "name": "ZAHIR ACCOUNTS VERIFICATION",
-      "size": 387,
+      "size": 386,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
@@ -1570,11 +1574,11 @@
       "time": 1792484079835
     },
     "CasTMOKaDfhGKMn7qacPXe": {
-      "status": "joined",
-      "time": 1793326133953,
+      "status": "valid",
+      "time": 1793346984681,
       "id": "120363396600879289@g.us",
       "name": "GV, TN, TF, ID, SL buy & Sell Group",
-      "size": 260,
+      "size": 259,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
