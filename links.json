@@ -3052,20 +3052,20 @@
       "announce": false
     },
     "IO1srKs865X8UrTmoSz6uJ": {
-      "status": "joined",
-      "time": 1793262274194,
+      "status": "valid",
+      "time": 1793347703513,
       "id": "120363411379871535@g.us",
       "name": "📡🅳𝒓𝒂𝒎𝒂➳♥Ⓜ️𝒐𝒗𝒊𝒆𝒔𝒆🚔",
-      "size": 443,
+      "size": 442,
       "approval": false,
       "announce": false
     },
     "IXO6VYSY58FGdOResMlyGQ": {
-      "status": "joined",
-      "time": 1793262278344,
+      "status": "valid",
+      "time": 1793347706878,
       "id": "120363431709371618@g.us",
       "name": "خریداری گروپ",
-      "size": 7,
+      "size": 6,
       "approval": false,
       "announce": false
     },
@@ -3086,19 +3086,20 @@
       "approval": true
     },
     "Ge7ZBCLl02J5veUw3hURAM": {
-      "status": "joined",
-      "time": 1792659781166,
+      "status": "error",
+      "time": 1793347710188,
       "id": "120363411529365017@g.us",
       "name": "𝙃𝙖𝙘𝙠𝙨 𝙖𝙣𝙙 𝙏𝙧𝙞𝙘𝙠𝙨",
       "size": 999,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "G5NBSyoXbmf6ODYiqtn9Fw": {
-      "status": "joined",
-      "time": 1793327745938,
+      "status": "valid",
+      "time": 1793347713302,
       "id": "120363153039442358@g.us",
       "name": "All Services Available | Trusted ✅",
-      "size": 141,
+      "size": 139,
       "approval": false,
       "announce": false
     },
@@ -3107,8 +3108,8 @@
       "time": 1792639755991
     },
     "HPafAVqAHUBLr7j6YkxV2l": {
-      "status": "error",
-      "time": 1793346510831,
+      "status": "valid",
+      "time": 1793347717756,
       "id": "120363244751425104@g.us",
       "name": "🔥ALL PREMIUM DATA HERE 💯",
       "size": 361,
@@ -3129,29 +3130,29 @@
       "time": 1792639767896
     },
     "I3YnAsaXjIM7k31JjjXP8q": {
-      "status": "joined",
-      "time": 1793327778973,
+      "status": "valid",
+      "time": 1793347721130,
       "id": "120363419896536469@g.us",
       "name": "Gmail and Facebook Bay sale unlimited",
-      "size": 124,
+      "size": 131,
       "approval": false,
       "announce": false
     },
     "GxyzBacMLe900a4aBNwJuO": {
-      "status": "joined",
-      "time": 1793327795842,
+      "status": "valid",
+      "time": 1793347723749,
       "id": "120363431827373982@g.us",
       "name": "B2B Lead Gen Pros BD",
-      "size": 171,
+      "size": 180,
       "approval": false,
       "announce": false
     },
     "CkEVI7aKPByAyEIuV5Poq3": {
-      "status": "joined",
-      "time": 1793327815291,
+      "status": "valid",
+      "time": 1793347728345,
       "id": "120363424687127657@g.us",
       "name": "Data vendor group",
-      "size": 533,
+      "size": 531,
       "approval": false,
       "announce": false
     },
@@ -3178,11 +3179,11 @@
       "name": "Gmail Buy Sell"
     },
     "Lc4TlkEnFd5K56nOyB7OB8": {
-      "status": "joined",
-      "time": 1793327833718,
+      "status": "valid",
+      "time": 1793347732915,
       "id": "120363431808264226@g.us",
       "name": "KHAN AND FARHAN TRUSTED ADMINS",
-      "size": 204,
+      "size": 205,
       "approval": false,
       "announce": false
     },
@@ -3223,8 +3224,8 @@
       "approval": true
     },
     "HOVfzD6cBsjJB8U8kUvddd": {
-      "status": "error",
-      "time": 1793346585127,
+      "status": "valid",
+      "time": 1793347736135,
       "id": "120363430465675966@g.us",
       "name": "𝐀𝛆̽𝐬፝ʈͱ𐇲ᴇ᪳͢ʈɪ֟͡ᴄ̬𝆭  𝐬ʈaʈūs",
       "size": 529,
