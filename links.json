@@ -2540,12 +2540,13 @@
     },
     "GzKlXIWp5yqH4M7oCSFy0E": {
       "status": "valid",
-      "time": 1793347601328,
+      "time": 1793355048578,
       "id": "120363422078023655@g.us",
       "name": "🤖پشاور بزنس پوائنٹ🤖",
       "size": 1020,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "GVfsPCkhLgiFb3VR1WLnIl": {
       "status": "valid",
