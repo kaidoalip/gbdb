@@ -3589,13 +3589,13 @@
       "approval": true
     },
     "IXPrKlc2g28FtDMCsSHxET": {
-      "status": "valid",
-      "time": 1793262439392,
+      "status": "error",
+      "time": 1793329507346,
       "id": "120363429889115116@g.us",
       "name": "Best SALER'S VS BUYER'S 🤝",
       "size": 617,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "CDdvL0bGThy4mtDRYX5C8f": {
