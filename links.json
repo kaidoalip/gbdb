@@ -3609,13 +3609,13 @@
       "announce": false
     },
     "Dx60oL9yJjc8lYOZQLOOkt": {
-      "status": "valid",
-      "time": 1793262447757,
+      "status": "error",
+      "time": 1793329537089,
       "id": "120363432064294167@g.us",
       "name": "PRO SALER'S & BUYERS 🤝👑",
       "size": 556,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "LAvimHks4b8BEarju944UM": {
