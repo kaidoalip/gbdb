@@ -2661,12 +2661,13 @@
     },
     "FWNlUQR1xBK1WINtgNV56I": {
       "status": "valid",
-      "time": 1793347632180,
+      "time": 1793355125238,
       "id": "120363409912936186@g.us",
       "name": "Castom room",
       "size": 159,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "EVYslll2EUoDdEPMJiNdy7": {
       "status": "expired",
