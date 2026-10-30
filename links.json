@@ -181,15 +181,6 @@
       "size": 0,
       "approval": false
     },
-    "F2c0rjScp0jEvkkzkj0taZ": {
-      "status": "error",
-      "time": 1793347440394,
-      "id": "120363431649646607@g.us",
-      "name": "S_K_Trick_Zone",
-      "size": 4,
-      "approval": true,
-      "err": "bad-request"
-    },
     "Jg8Ju7tO0JlEc2aN3qoHwF": {
       "status": "komunitas",
       "time": 1792567117701,
@@ -936,15 +927,6 @@
       "err": "Connection Closed",
       "announce": false
     },
-    "CU1rq8F5SelHdjjIWwe0Zq": {
-      "status": "blocked",
-      "time": 1793347459316,
-      "id": "120363428928494855@g.us",
-      "name": "𝙂𝙑 𝙏𝙉 𝘽𝙐𝙔 & 𝙎𝙀𝙇𝙇",
-      "size": 110,
-      "approval": false,
-      "announce": false
-    },
     "CDHbCR6j8Jp78In3WmyFjn": {
       "status": "joined",
       "time": 1793250566371,
@@ -1462,15 +1444,6 @@
       "name": "𝄟✮͢🦋⃟𝒢𝓊𝓂𝓃𝒶𝒶𝓂love,😚🔥⃝🕊️",
       "size": 2,
       "approval": true
-    },
-    "D5ZZ6IUmjE72R73FUfDMnn": {
-      "status": "error",
-      "time": 1793347462938,
-      "id": "120363410630298229@g.us",
-      "name": "༄ ᭄🔥⃝   𝒢𝓊𝓂𝓃𝒶𝒶𝓂 l i n k z o o❤️❥❥",
-      "size": 3,
-      "approval": true,
-      "err": "bad-request"
     },
     "JPn2B31QEKAB63jVgYPpT8": {
       "status": "expired",
@@ -2237,15 +2210,6 @@
       "size": 5,
       "approval": true
     },
-    "KXaDZXqsHez13GEqivJGFr": {
-      "status": "error",
-      "time": 1793347498078,
-      "id": "120363407513299275@g.us",
-      "name": "𝙐𝙏𝘼𝙈𝘼 𝙑𝟮 𝙕𝘼𝘼",
-      "size": 3,
-      "approval": true,
-      "err": "bad-request"
-    },
     "GCg9QWOj7AJ8hlEV8BRCYY": {
       "status": "expired",
       "time": 1792625233052,
@@ -2253,15 +2217,6 @@
       "name": "WARUNG JPM TEGAR GZ",
       "size": 46,
       "approval": false
-    },
-    "G2r4jBigsaW9huixZ5JLqq": {
-      "status": "error",
-      "time": 1793347501931,
-      "id": "120363431429904426@g.us",
-      "name": "JB ALLGAME 158",
-      "size": 64,
-      "approval": true,
-      "err": "bad-request"
     },
     "Ef7iPieGug99pfSu3NOXdV": {
       "status": "pending",
@@ -2271,24 +2226,6 @@
       "size": 114,
       "approval": true
     },
-    "G3aIA8UMTIBBlQzmRXzZwK": {
-      "status": "error",
-      "time": 1793347505083,
-      "id": "120363414303194348@g.us",
-      "name": "JB ALLGAME 161",
-      "size": 83,
-      "approval": true,
-      "err": "bad-request"
-    },
-    "LbtP72s3SlYLYFwiDrJisM": {
-      "status": "error",
-      "time": 1793347508447,
-      "id": "120363430927728796@g.us",
-      "name": "JB ALLGAME 166",
-      "size": 30,
-      "approval": true,
-      "err": "bad-request"
-    },
     "L0xI60YiqCg9BCtNTSp38q": {
       "status": "valid",
       "time": 1793347512356,
@@ -2297,51 +2234,6 @@
       "size": 157,
       "approval": true,
       "announce": false
-    },
-    "DiWa4jM6YpMJ9UQjw1SACz": {
-      "status": "error",
-      "time": 1793347516426,
-      "id": "120363411457824790@g.us",
-      "name": "JB ALLGAME 167",
-      "size": 25,
-      "approval": true,
-      "err": "bad-request"
-    },
-    "JBTShnMmBKG6uPXER2WeWA": {
-      "status": "error",
-      "time": 1793347520499,
-      "id": "120363429306911192@g.us",
-      "name": "JB ALLGAME 170",
-      "size": 13,
-      "approval": true,
-      "err": "bad-request"
-    },
-    "FmvWNZLMclPEFsUnUJMSxn": {
-      "status": "error",
-      "time": 1793347524119,
-      "id": "120363412637133380@g.us",
-      "name": "JB ALLGAME 169",
-      "size": 16,
-      "approval": true,
-      "err": "bad-request"
-    },
-    "BzBaLnPmRPDLlYHcZjxmUN": {
-      "status": "error",
-      "time": 1793347526574,
-      "id": "120363430335871231@g.us",
-      "name": "JB ALLGAME 172",
-      "size": 11,
-      "approval": true,
-      "err": "bad-request"
-    },
-    "CJnwKV84YDADAuAgXyf2OG": {
-      "status": "error",
-      "time": 1793347528834,
-      "id": "120363412649325550@g.us",
-      "name": "JB ALLGAME 161",
-      "size": 11,
-      "approval": true,
-      "err": "bad-request"
     },
     "IrasMcSmvNdJlfT4EOf1JG": {
       "status": "valid",
@@ -2768,16 +2660,6 @@
       "size": 162,
       "approval": false
     },
-    "GXfnl25v0u87kwgDI4Izal": {
-      "status": "error",
-      "time": 1793347635865,
-      "id": "120363433517258240@g.us",
-      "name": "꧁༺ 𝑨𝒍 𝑯𝒂𝒇𝒊𝒛 𝑷𝒆𝒓𝒇𝒖𝒎𝒆 ༻꧂",
-      "size": 43,
-      "approval": false,
-      "announce": false,
-      "err": "bad-request"
-    },
     "IxroMyntGmN6vwOO8Xvhuw": {
       "status": "valid",
       "time": 1793347639314,
@@ -2808,15 +2690,6 @@
       "time": 1792625430294,
       "id": "120363426883600333@g.us",
       "name": "Gmail Buyers And Sellers"
-    },
-    "Hus3jvUUc9u6IngCT2fXE8": {
-      "status": "error",
-      "time": 1793347641926,
-      "id": "120363414058514558@g.us",
-      "name": "Aston Deposit & Claim services 🚨",
-      "size": 96,
-      "approval": true,
-      "err": "bad-request"
     },
     "CVd6xsODyFBLsTWUMjL4xn": {
       "status": "komunitas",
@@ -2902,15 +2775,6 @@
       "size": 163,
       "approval": true
     },
-    "DLkxGMKSM0YFW9CQqylhsQ": {
-      "status": "error",
-      "time": 1793347662044,
-      "id": "120363411261849446@g.us",
-      "name": "PARDEEP TRUSTED SELLER",
-      "size": 295,
-      "approval": true,
-      "err": "bad-request"
-    },
     "HRsuLA3GVTd67hmUaqt0AL": {
       "status": "valid",
       "time": 1793347667133,
@@ -2974,15 +2838,6 @@
       "approval": false,
       "announce": false
     },
-    "HjQFJXER5lH2kWSkCN7H1s": {
-      "status": "error",
-      "time": 1793347683724,
-      "id": "120363414265756993@g.us",
-      "name": "ETSY.EBAY.SHOPIFY.CHATGPT 🇪🇺🇺🇸🇬🇧",
-      "size": 68,
-      "approval": true,
-      "err": "bad-request"
-    },
     "EiZyE2U8QB65KQ4idfyYpC": {
       "status": "komunitas",
       "time": 1792625546176,
@@ -3003,15 +2858,6 @@
       "time": 1792626098252,
       "id": "120363403064799688@g.us",
       "name": "Without Investment Work 📱📱💻🖥️"
-    },
-    "GYD791iyrt88LnxaTCwHT3": {
-      "status": "error",
-      "time": 1793347692140,
-      "id": "120363413177514633@g.us",
-      "name": "ONLY USA RECEIVER AND LOADER",
-      "size": 41,
-      "approval": true,
-      "err": "bad-request"
     },
     "GC21qZDNqcgDmtpXrHIYhr": {
       "status": "komunitas",
@@ -3084,15 +2930,6 @@
       "name": "𓆩‎‎𝐌ꪜ 𝐋ɪɴᴋ 𝐙ᴏɴᴇ‎»⤸𓆪𓂃⤹🌚🌷\n\n⤓⤿𓂃‎◎⧠🐣\n\n⤓⤿𓂃‎◎⧠💋\n\n⤓⤿𓂃‎◎⧠🫀\n\n⤓⤿𓂃‎◎⧠💍\n\n⤓⤿𓂃‎◎⧠🌚",
       "size": 44,
       "approval": true
-    },
-    "Ge7ZBCLl02J5veUw3hURAM": {
-      "status": "error",
-      "time": 1793347710188,
-      "id": "120363411529365017@g.us",
-      "name": "𝙃𝙖𝙘𝙠𝙨 𝙖𝙣𝙙 𝙏𝙧𝙞𝙘𝙠𝙨",
-      "size": 999,
-      "approval": true,
-      "err": "bad-request"
     },
     "G5NBSyoXbmf6ODYiqtn9Fw": {
       "status": "valid",
@@ -3489,15 +3326,6 @@
       "name": "EAW Global Ventures",
       "size": 274,
       "approval": true
-    },
-    "DsjUlgLGKUW0kaf3TRUiVu": {
-      "status": "error",
-      "time": 1793347798599,
-      "id": "120363413756684811@g.us",
-      "name": "Tahaa Online Trusted Store",
-      "size": 100,
-      "approval": true,
-      "err": "bad-request"
     },
     "BA9eCY97iSl7VrM6AnU1hn": {
       "status": "pending",
@@ -5970,16 +5798,6 @@
       "approval": true,
       "announce": false
     },
-    "H4R0rn3grVNBnnPcQtbqk8": {
-      "status": "error",
-      "time": 1793348579980,
-      "id": "120363414430085250@g.us",
-      "name": "CREATOR ACCESSORIES HUB 🇵🇰\nTikTok • Studio • Lighting • Mic • Tripod • B2B",
-      "size": 228,
-      "approval": false,
-      "announce": false,
-      "err": "bad-request"
-    },
     "BzIlxGzcgFqAzh4KmePsON": {
       "status": "valid",
       "time": 1793348583492,
@@ -6197,15 +6015,6 @@
       "name": "Daraz 11.11 Sale",
       "size": 344,
       "approval": true,
-      "announce": false
-    },
-    "Ieg5y6osWUW3lmN4zCPB6Z": {
-      "status": "expired",
-      "time": 1793348664999,
-      "id": "120363415252903564@g.us",
-      "name": "Mbl.Accesries&,gadgets Only wholsale G15",
-      "size": 85,
-      "approval": false,
       "announce": false
     },
     "GtXXlPGsaOS863JvfB19kq": {
@@ -7489,39 +7298,12 @@
       "approval": true,
       "announce": false
     },
-    "JzKrKjFq3k8JmuFGn7RNAr": {
-      "status": "expired",
-      "time": 1793349139308,
-      "id": "120363431164107919@g.us",
-      "name": "Gorengan|gumoo👑",
-      "size": 3,
-      "approval": true,
-      "announce": false
-    },
-    "DbQPfncWX1818sEa2IvG2C": {
-      "status": "expired",
-      "time": 1793349143113,
-      "id": "120363423729651548@g.us",
-      "name": "MARKET || ☆ KENZ STORE V3 ☆",
-      "size": 68,
-      "approval": true,
-      "announce": false
-    },
     "Bgk4uxjxudJ2YbNtGqJZdd": {
       "status": "valid",
       "time": 1793349146404,
       "id": "120363414621225406@g.us",
       "name": "GB OPTES REALTIM #1",
       "size": 37,
-      "approval": true,
-      "announce": false
-    },
-    "LyIfsQ32raiGy9rvBS0cNx": {
-      "status": "expired",
-      "time": 1793349149909,
-      "id": "120363431440327094@g.us",
-      "name": "JB¹ | ZARRD STORE",
-      "size": 30,
       "approval": true,
       "announce": false
     },
@@ -7585,15 +7367,6 @@
       "id": "120363428829608094@g.us",
       "name": "JB || ALL GAME IASS STORE [BLK]",
       "size": 42,
-      "approval": true,
-      "announce": false
-    },
-    "CrBBX0CJbnk6cgscyHYiyI": {
-      "status": "expired",
-      "time": 1793349180926,
-      "id": "120363411660068223@g.us",
-      "name": "𝗝𝗕 𝗕𝗥𝗘𝗔𝗞 𝗦𝗧𝗘𝗔𝗟 𝗔𝗡 𝗘𝗚𝗚 𝗥𝗜𝗙𝗤𝗜×𝗩𝗜𝗡𝗩𝗜𝗡𝗦𝗘𝗡¹",
-      "size": 11,
       "approval": true,
       "announce": false
     },
@@ -8209,30 +7982,12 @@
       "approval": false,
       "announce": false
     },
-    "KMSzGv3iBEFHHDpDkRbXFR": {
-      "status": "expired",
-      "time": 1793349437670,
-      "id": "120363427616797172@g.us",
-      "name": "𝙂𝘽¹||𝘼𝙇𝙇 𝙂𝘼𝙈𝙀|| 𝘼𝙍𝙐𝙇🍀",
-      "size": 193,
-      "approval": true,
-      "announce": false
-    },
     "GKPcOQq2kOX4EwGcDK1TLl": {
       "status": "valid",
       "time": 1793349442086,
       "id": "120363433046628779@g.us",
       "name": "LADANG COOKIE BY ZEYY v2",
       "size": 11,
-      "approval": true,
-      "announce": false
-    },
-    "Dfix0jtIOpFKIzRcc5aeJy": {
-      "status": "expired",
-      "time": 1793349445853,
-      "id": "120363431762318942@g.us",
-      "name": "JB ALL GAME ROBLOX BY TOPIA",
-      "size": 4,
       "approval": true,
       "announce": false
     },
@@ -8252,15 +8007,6 @@
       "name": "War ff 1 vs 1",
       "size": 4,
       "approval": true,
-      "announce": false
-    },
-    "J4Z29jV9fO55HjPppnJ387": {
-      "status": "expired",
-      "time": 1793349458654,
-      "id": "120363415860919465@g.us",
-      "name": "⚔👑 ꧁༒☬ THRESHOLD BOOSTER PRO ☬༒꧂",
-      "size": 8,
-      "approval": false,
       "announce": false
     },
     "JFrQq2FixPJB6taWwWFq9u": {
@@ -8548,15 +8294,6 @@
       "approval": true,
       "announce": false
     },
-    "KaW5ScOJicgIuPHogMZja8": {
-      "status": "expired",
-      "time": 1793349581781,
-      "id": "120363412920853631@g.us",
-      "name": "Free Whatsapp Number Create",
-      "size": 48,
-      "approval": false,
-      "announce": false
-    },
     "CUAHFGm64RvGTcygVWYEGs": {
       "status": "komunitas",
       "time": 1793343765318,
@@ -8714,6 +8451,6 @@
       "time": 1793349470089
     }
   },
-  "total": 1044,
-  "updated": 1793346296504
+  "total": 1023,
+  "updated": 1793349636273
 }
