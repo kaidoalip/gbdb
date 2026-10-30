@@ -3619,13 +3619,13 @@
       "announce": false
     },
     "LAvimHks4b8BEarju944UM": {
-      "status": "valid",
-      "time": 1793262451129,
+      "status": "error",
+      "time": 1793329551561,
       "id": "120363414213237021@g.us",
       "name": "Experts SALER'S & BUYER'S 🤝",
       "size": 539,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "DncOWLEgmxi57qgOwHqcXJ": {
