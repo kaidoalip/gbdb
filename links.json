@@ -6904,25 +6904,25 @@
     },
     "EMWInINgSI5IClEjAFTXqU": {
       "status": "valid",
-      "time": 1793264016308,
+      "time": 1793337557307,
       "id": "120363411668143951@g.us",
       "name": "───※ 𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝑻𝒓𝒖𝒔𝒕𝒆𝒅 𝑭𝒂𝒎𝒊𝒍𝒚 ※───",
-      "size": 74,
+      "size": 71,
       "approval": false,
       "announce": false
     },
     "IVy8HrYqSLcIUP9fTuoe5r": {
       "status": "valid",
-      "time": 1793264020139,
+      "time": 1793337559698,
       "id": "120363431718864872@g.us",
       "name": "OFFICL CARDER❤️💫",
-      "size": 79,
+      "size": 94,
       "approval": false,
       "announce": false
     },
     "Bn0wFXciV195YsY9pbLzuc": {
       "status": "valid",
-      "time": 1793264022789,
+      "time": 1793337563298,
       "id": "120363430318605535@g.us",
       "name": "𝗞𝗜𝗡𝗚",
       "size": 4,
@@ -6931,7 +6931,7 @@
     },
     "DAPoHWncHdd64UDkmnKnNA": {
       "status": "valid",
-      "time": 1793264027153,
+      "time": 1793337567085,
       "id": "120363433479618129@g.us",
       "name": "CLOUD NODE NEXUS 🌦️",
       "size": 7,
@@ -6946,10 +6946,10 @@
     },
     "EC0KM8xXYY08NozDm7dXeV": {
       "status": "valid",
-      "time": 1793264033270,
+      "time": 1793337569889,
       "id": "120363410675031910@g.us",
       "name": "AETHEL (LIFE STYLE)",
-      "size": 127,
+      "size": 124,
       "approval": true,
       "announce": false
     },
@@ -6959,19 +6959,19 @@
     },
     "FmimT9faRXoHeyxradh4vx": {
       "status": "valid",
-      "time": 1793264045268,
+      "time": 1793337574208,
       "id": "120363408084945752@g.us",
       "name": "Dev Services ❤️‍🔥",
-      "size": 466,
+      "size": 467,
       "approval": false,
       "announce": false
     },
     "CXpJKxlFyhAF5ssjlYeboz": {
       "status": "valid",
-      "time": 1793264047816,
+      "time": 1793337577807,
       "id": "120363430838072239@g.us",
       "name": "Data and blasting network with Raza",
-      "size": 376,
+      "size": 384,
       "approval": false,
       "announce": false
     },
@@ -6989,17 +6989,18 @@
       "announce": false
     },
     "GWSQkr1WHY1E2VvXPOtgh4": {
-      "status": "valid",
-      "time": 1793274745868,
+      "status": "error",
+      "time": 1793337581446,
       "id": "120363412807569161@g.us",
       "name": "KING 👑 MART SHOPS 🏬",
       "size": 168,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CfE8SPRSygY0WEF9Eip6zJ": {
       "status": "valid",
-      "time": 1793274750279,
+      "time": 1793337584813,
       "id": "120363431618547400@g.us",
       "name": "Tech Support / CPA / Affiliate / Crypto Data Buy Sell USA UK AUS",
       "size": 6,
@@ -7016,13 +7017,14 @@
       "announce": false
     },
     "LGZ3eXPc5el7CWXxVzuKpP": {
-      "status": "valid",
-      "time": 1793274755598,
+      "status": "error",
+      "time": 1793337588422,
       "id": "120363412421851738@g.us",
       "name": "Online earning free",
       "size": 38,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LjuM6EO3pLKAQsAmK2a54Z": {
       "status": "valid",
