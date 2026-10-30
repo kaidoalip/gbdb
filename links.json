@@ -6955,15 +6955,6 @@
       "approval": true,
       "announce": false
     },
-    "CHkaz5txKyD1W0k1EpV3HW": {
-      "status": "expired",
-      "time": 1793343221555,
-      "id": "120363416009261647@g.us",
-      "name": "FB MONETIZATION EXPERTS ✅",
-      "size": 396,
-      "approval": true,
-      "announce": false
-    },
     "EWIQKYYa8MRCheMa4mTD1J": {
       "status": "valid",
       "time": 1793343225528,
@@ -7639,15 +7630,6 @@
       "approval": true,
       "announce": false
     },
-    "LjdvAN45S53In2MmnwXAGJ": {
-      "status": "expired",
-      "time": 1793343433577,
-      "id": "120363414641556162@g.us",
-      "name": "JB |DHLUN&KNCIL|STR😎👌",
-      "size": 4,
-      "approval": true,
-      "announce": false
-    },
     "FpdIqEOqAhWCSOyDG8qdFP": {
       "status": "valid",
       "time": 1793343436463,
@@ -8197,15 +8179,6 @@
       "approval": false,
       "announce": false
     },
-    "G77PTqF1YHH4nnESlgmbtr": {
-      "status": "expired",
-      "time": 1793343629514,
-      "id": "120363427391466203@g.us",
-      "name": "𝙁𝙏 𝘾𝙀𝙀𝙎 𝙅𝘼𝙉𝙕 #𝟭",
-      "size": 146,
-      "approval": true,
-      "announce": false
-    },
     "KMSzGv3iBEFHHDpDkRbXFR": {
       "status": "valid",
       "time": 1793343632816,
@@ -8608,6 +8581,6 @@
       "time": 1793343471083
     }
   },
-  "total": 1007,
-  "updated": 1793338146300
+  "total": 1041,
+  "updated": 1793343777273
 }
