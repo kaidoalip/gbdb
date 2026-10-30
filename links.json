@@ -2566,12 +2566,13 @@
     },
     "JEsLREEzM5d593RSrLIeDK": {
       "status": "valid",
-      "time": 1793347607153,
+      "time": 1793355065845,
       "id": "120363427711012007@g.us",
       "name": "𝗖𝗟𝗢𝗨𝗗 𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗬 𝗔𝗛𝗔𝗗",
       "size": 304,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "B5kuE2LAMQmFWIBSc1qjnS": {
       "status": "pending",
