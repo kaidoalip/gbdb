@@ -10282,8 +10282,13 @@
       "err": "bad-request"
     },
     "C7MHtWkRTSIHVWTdllYToR": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327350071,
+      "id": "120363400647236469@g.us",
+      "name": "ZAHIR SHARP BITGETERS",
+      "size": 38,
+      "approval": false,
+      "announce": false
     },
     "JJXKbtibKkd7BXrDP1G7yj": {
       "status": "new",
