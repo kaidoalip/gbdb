@@ -8489,32 +8489,63 @@
       "announce": false
     },
     "FJ7JOYF1IVOLBIsNYZQUeD": {
-      "status": "new",
-      "time": 1793327278660
+      "status": "valid",
+      "time": 1793329233306,
+      "id": "120363410220654359@g.us",
+      "name": "MARKET ALL GAME BY SOFTYAN STORE",
+      "size": 74,
+      "approval": true,
+      "announce": false
     },
     "KnmHOF6bALYLHuWw3aYCMr": {
-      "status": "new",
-      "time": 1793327278660
+      "status": "valid",
+      "time": 1793329237575,
+      "id": "120363432081657666@g.us",
+      "name": "FT RECEH BAY GRIZZY",
+      "size": 4,
+      "approval": true,
+      "announce": false
     },
     "ITZKIA9OEXZFDBe9q4Enzp": {
-      "status": "new",
-      "time": 1793327278660
+      "status": "valid",
+      "time": 1793329240789,
+      "id": "120363413207770013@g.us",
+      "name": "BEBAS SER LINK V3",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "JZvhSx9abwZCse4X9GsMx9": {
-      "status": "new",
-      "time": 1793327518585
+      "status": "valid",
+      "time": 1793329244832,
+      "id": "120363410890858614@g.us",
+      "name": "JB ALL Game || SAMORA #1",
+      "size": 301,
+      "approval": true,
+      "announce": false
     },
     "JHYD4MWGjIwCgaEroc9HGh": {
-      "status": "new",
-      "time": 1793327758628
+      "status": "valid",
+      "time": 1793329249135,
+      "id": "120363431692682279@g.us",
+      "name": "Creater content with latest new digital tool",
+      "size": 21,
+      "approval": false,
+      "announce": false
     },
     "EWjdsTzLB0mEB2EZTgc8Cf": {
-      "status": "new",
-      "time": 1793328538420
+      "status": "valid",
+      "time": 1793329252884,
+      "id": "120363430219583295@g.us",
+      "name": "کراچی شیرشا،  کیماڑی،جیکسن، مارکیٹ",
+      "size": 11,
+      "approval": false,
+      "announce": false
     },
     "HKSLCnXlpXWKohalx3EMGj": {
-      "status": "new",
-      "time": 1793329192323
+      "status": "error",
+      "time": 1793329256788,
+      "err": "bad-request"
     }
   },
   "total": 1029,
