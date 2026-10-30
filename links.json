@@ -2651,12 +2651,13 @@
     },
     "EZS4dwxayBFLDPGYJpTV6i": {
       "status": "valid",
-      "time": 1793347628604,
+      "time": 1793355116694,
       "id": "120363414974032311@g.us",
       "name": "Linkedin GV TN TF bay sell (MK SHUVO)",
       "size": 173,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "FWNlUQR1xBK1WINtgNV56I": {
       "status": "valid",
