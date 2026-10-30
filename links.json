@@ -4142,13 +4142,14 @@
       "announce": false
     },
     "BdytW4D3KmnCkVA2SCubIc": {
-      "status": "valid",
-      "time": 1793336713668,
+      "status": "error",
+      "time": 1793338820262,
       "id": "6285795008030-1588296379@g.us",
       "name": "💰OFFICIAL ASPAL INDONESIA , KYC 🏝️",
       "size": 480,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "LBfht2sOreiIgm09QvbwaN": {
       "status": "expired",
