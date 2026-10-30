@@ -8645,20 +8645,35 @@
       "announce": false
     },
     "GVcUT4aWEoPG0R1Auxx0Bf": {
-      "status": "new",
-      "time": 1793336291893
+      "status": "valid",
+      "time": 1793338132354,
+      "id": "120363430172676302@g.us",
+      "name": "BAKSO MALANG RAPZZSTORE12",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "GUTLidZKqBKJNy2pkM5lbJ": {
-      "status": "new",
-      "time": 1793336291893
+      "status": "expired",
+      "time": 1793338136146
     },
     "JUPDLlcoHCUIyGXV7LR6h1": {
-      "status": "new",
-      "time": 1793336291893
+      "status": "valid",
+      "time": 1793338138630,
+      "id": "120363430475395575@g.us",
+      "name": "War ff 1 vs 1",
+      "size": 4,
+      "approval": true,
+      "announce": false
     },
     "J4Z29jV9fO55HjPppnJ387": {
-      "status": "new",
-      "time": 1793336338687
+      "status": "valid",
+      "time": 1793338141380,
+      "id": "120363415860919465@g.us",
+      "name": "⚔👑 ꧁༒☬ THRESHOLD BOOSTER PRO ☬༒꧂",
+      "size": 8,
+      "approval": false,
+      "announce": false
     },
     "JFrQq2FixPJB6taWwWFq9u": {
       "status": "new",
