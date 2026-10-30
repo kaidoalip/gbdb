@@ -279,14 +279,14 @@
       "approval": true
     },
     "DmAslaL8pGTIXQrsjItfyd": {
-      "status": "valid",
-      "time": 1793367415308,
+      "status": "joined",
+      "time": 1793369455572,
       "id": "120363144939966875@g.us",
       "name": "Free online earning",
       "size": 467,
       "approval": true,
       "announce": false,
-      "err": "Connection Closed"
+      "err": "already-exists"
     },
     "KP4SZSzkSIkLcgsk3oNfSS": {
       "status": "komunitas",
