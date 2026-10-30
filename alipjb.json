@@ -243,10 +243,6 @@
       "approval": true,
       "announce": false
     },
-    "BjULynmtLI11Q1V4vnA7Fj": {
-      "status": "expired",
-      "time": 1793331251770
-    },
     "CAAWZffbDnYEJS68uLeGru": {
       "status": "valid",
       "time": 1793331255915,
@@ -309,10 +305,6 @@
       "size": 11,
       "approval": true,
       "announce": false
-    },
-    "HnX9xFXT1IO8NBB6iNOFuG": {
-      "status": "expired",
-      "time": 1793331280909
     },
     "Cro3dYi5qRgCO7fx2wX3zq": {
       "status": "valid",
@@ -581,11 +573,6 @@
       "approval": false,
       "announce": false
     },
-    "EiZyE2U8QB65KQ4idfyYpC": {
-      "status": "error",
-      "time": 1793331385553,
-      "err": "bad-request"
-    },
     "GxTkMJYxUOsD9sHlL0QFHy": {
       "status": "valid",
       "time": 1793331389401,
@@ -630,11 +617,6 @@
       "size": 624,
       "approval": true,
       "announce": false
-    },
-    "F6w6QEPKt3L9nHg3P7qlMY": {
-      "status": "error",
-      "time": 1793331409991,
-      "err": "bad-request"
     },
     "EzqdPxub1ax9YaQqDvqCwC": {
       "status": "valid",
@@ -690,11 +672,6 @@
       "approval": false,
       "announce": false
     },
-    "HKSLCnXlpXWKohalx3EMGj": {
-      "status": "error",
-      "time": 1793331436818,
-      "err": "bad-request"
-    },
     "C7MHtWkRTSIHVWTdllYToR": {
       "status": "valid",
       "time": 1793331440179,
@@ -728,15 +705,11 @@
       "id": "120363430983344049@g.us",
       "name": "Trust on Allah 🇮🇹"
     },
-    "DjgDIQ9iEskFAHx2NFwmM7": {
-      "status": "blocked",
-      "time": 1793331453519
-    },
     "C5V7kI5n43YFtzbno1Fptj": {
       "status": "new",
       "time": 1793331358721
     }
   },
-  "updated": 1793331125102,
-  "total": 0
+  "updated": 1793331457035,
+  "total": 82
 }
