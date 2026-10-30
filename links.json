@@ -3699,13 +3699,13 @@
       "announce": false
     },
     "JzfxbhbP8jIF0hoX3bKmP1": {
-      "status": "valid",
-      "time": 1793262482791,
+      "status": "error",
+      "time": 1793329609941,
       "id": "120363431820446314@g.us",
       "name": "YOUTUBE KiNG'S 👑",
       "size": 979,
       "approval": true,
-      "err": "already-exists",
+      "err": "bad-request",
       "announce": false
     },
     "LVeHf5SUHs4L9AXmtwFh1z": {
