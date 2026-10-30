@@ -2472,12 +2472,13 @@
     },
     "FTS9t3rNygQ2UXT6dsgO72": {
       "status": "valid",
-      "time": 1793347581372,
+      "time": 1793350080196,
       "id": "120363427704367793@g.us",
       "name": "CLOUD",
       "size": 80,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "Fc4787PBUBfJsCHFmmXC9n": {
       "status": "valid",
