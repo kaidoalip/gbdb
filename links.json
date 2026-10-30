@@ -6363,7 +6363,7 @@
     },
     "BCEme1t701qEtkx38pUllx": {
       "status": "valid",
-      "time": 1793263715066,
+      "time": 1793337387293,
       "id": "120363160819550745@g.us",
       "name": "Ecom with MALIK FAIZAN",
       "size": 856,
@@ -6371,26 +6371,27 @@
       "announce": false
     },
     "D1FBsUgIFw4GSHhfVwHM6p": {
-      "status": "valid",
-      "time": 1793263723905,
+      "status": "error",
+      "time": 1793337390274,
       "id": "120363412398236859@g.us",
       "name": "𝗠𝗮𝗶𝗹 𝗡𝗲𝗲𝗱 𝗨𝗻𝗹𝗶𝗺𝗶𝘁𝗲𝗱 💌🧿",
       "size": 56,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KOE6G7aa1T9A6w0M8XVF8z": {
       "status": "valid",
-      "time": 1793263730988,
+      "time": 1793337394031,
       "id": "120363314240973309@g.us",
       "name": "الخلیج پراپرٹی ایڈوائزر (فتح جنگ)",
-      "size": 39,
+      "size": 40,
       "approval": false,
       "announce": false
     },
     "KZkxZa5qrmPD0xBambtvbV": {
-      "status": "valid",
-      "time": 1793263733694,
+      "status": "expired",
+      "time": 1793337397852,
       "id": "120363413710620006@g.us",
       "name": "👑𝙈𝙐𝘽𝙀𝙀𝙉 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 👑 𝙈𝘼𝙍𝙆𝙀𝙏𝙄𝙉𝙂",
       "size": 238,
@@ -6399,7 +6400,7 @@
     },
     "Hg3G4CYSPlgFjhj7n278WS": {
       "status": "valid",
-      "time": 1793263739102,
+      "time": 1793337400936,
       "id": "120363303615026115@g.us",
       "name": "Daraz 11.11 Sale",
       "size": 344,
@@ -6416,13 +6417,14 @@
       "announce": false
     },
     "Cnt3zeYDUPM9xwwKg1O9DI": {
-      "status": "valid",
-      "time": 1793263747934,
+      "status": "error",
+      "time": 1793337403247,
       "id": "120363415807977288@g.us",
       "name": "Content creator&Vloging kits all in Accesories hub",
       "size": 93,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GtXXlPGsaOS863JvfB19kq": {
       "status": "expired",
@@ -6434,37 +6436,37 @@
     },
     "G0s4MyFY7gg9Z8ZJsRzdOT": {
       "status": "valid",
-      "time": 1793263762308,
+      "time": 1793337406991,
       "id": "120363319332234003@g.us",
       "name": "BUY SELL TRUSTED GROUP",
-      "size": 840,
+      "size": 838,
       "approval": true,
       "announce": false
     },
     "CGE8DUU1g4P4RPB0iO9cJM": {
       "status": "valid",
-      "time": 1793263766418,
+      "time": 1793337410403,
       "id": "120363431209572482@g.us",
       "name": "اسماعیل الیکٹرانک سٹور",
-      "size": 126,
+      "size": 127,
       "approval": false,
       "announce": false
     },
     "FQ8f2SjpHJZDQncJlztWsB": {
       "status": "valid",
-      "time": 1793263772628,
+      "time": 1793337413593,
       "id": "120363375813560592@g.us",
       "name": "(Mohabbat)(gv)(TN)(TF)(SL)(TT)(All)(sell)& (Bye)",
-      "size": 471,
+      "size": 470,
       "approval": true,
       "announce": false
     },
     "FXTD3D4ZKE62BkJ5qtbaN6": {
       "status": "valid",
-      "time": 1793263775591,
+      "time": 1793337417005,
       "id": "120363411311964326@g.us",
       "name": "Faizan used Gmails buy sell",
-      "size": 94,
+      "size": 93,
       "approval": true,
       "announce": false
     },
