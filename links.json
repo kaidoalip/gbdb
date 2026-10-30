@@ -4156,13 +4156,14 @@
       "time": 1792741728030
     },
     "BKJ6WXC8wkf5TfbrWdn1gt": {
-      "status": "valid",
-      "time": 1793336717163,
+      "status": "error",
+      "time": 1793338836099,
       "id": "120363430992524513@g.us",
       "name": "BM BAY & SELL marketing",
       "size": 99,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "LJHtiUJVQT3KOAv0tsjwWN": {
       "status": "valid",
