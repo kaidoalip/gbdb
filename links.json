@@ -3649,13 +3649,13 @@
       "announce": false
     },
     "JAB6FwCofmgAf4kDyKGLEC": {
-      "status": "valid",
-      "time": 1793262464984,
+      "status": "error",
+      "time": 1793329580172,
       "id": "120363429995370877@g.us",
       "name": "INTERNATIONAL BUYER'S 🤝",
       "size": 596,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "Fq6PyPldPAfCU5a4yIc2ys": {
