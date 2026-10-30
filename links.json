@@ -4839,10 +4839,10 @@
     },
     "LesHYXDyXzyALYIkD5rdKW": {
       "status": "valid",
-      "time": 1793262960878,
+      "time": 1793336887775,
       "id": "120363401152956981@g.us",
       "name": "10 شرعی مسائل کا حل",
-      "size": 714,
+      "size": 718,
       "approval": false,
       "announce": false
     },
@@ -4854,10 +4854,10 @@
     },
     "KRr0D4iWd5vGMWkcjtOHTy": {
       "status": "valid",
-      "time": 1793262965247,
+      "time": 1793336891910,
       "id": "120363161096486561@g.us",
       "name": "SRS Mobile Software New Gulfam🖥️",
-      "size": 596,
+      "size": 597,
       "approval": false,
       "announce": false
     },
@@ -4871,13 +4871,14 @@
       "announce": false
     },
     "J2z9Yheog6vLPZUQlublpu": {
-      "status": "valid",
-      "time": 1793262980760,
+      "status": "error",
+      "time": 1793336894377,
       "id": "120363410167866817@g.us",
       "name": "KYC SELALU DIHATI",
       "size": 599,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "FaEQ7N3ruxn3kdxq7RFiAA": {
       "status": "komunitas",
@@ -4887,10 +4888,10 @@
     },
     "EVwsIBF3hazF1Ylm04xfd2": {
       "status": "valid",
-      "time": 1793262984672,
+      "time": 1793336898328,
       "id": "120363422208001830@g.us",
       "name": "Dara Brand Aram's delivery all Pakistan",
-      "size": 573,
+      "size": 574,
       "approval": false,
       "announce": false
     },
@@ -4908,52 +4909,52 @@
     },
     "KBDlhrQ08wI2gaAj7f9xaJ": {
       "status": "valid",
-      "time": 1793262990758,
+      "time": 1793336901938,
       "id": "120363426103871971@g.us",
       "name": "Zee Cloth Resell 🥼👚👔",
-      "size": 144,
+      "size": 142,
       "approval": false,
       "announce": false
     },
     "IaOSXPsN8NQJMe6H7fcdro": {
       "status": "valid",
-      "time": 1793262993858,
+      "time": 1793336905888,
       "id": "120363408446622048@g.us",
       "name": "🌹 ایثار السیفی فی الطریقہ الحنفی 🌹",
-      "size": 805,
+      "size": 808,
       "approval": false,
       "announce": false
     },
     "GR9pMjnqAYUAHQj40n7HT8": {
       "status": "valid",
-      "time": 1793262997067,
+      "time": 1793336909242,
       "id": "120363421595034037@g.us",
       "name": "Carohmcomputers Group",
-      "size": 121,
+      "size": 124,
       "approval": false,
       "announce": false
     },
     "EOh1WvMeirtEmloGD1lhAv": {
       "status": "valid",
-      "time": 1793262999827,
+      "time": 1793336913186,
       "id": "917033861301-1521908622@g.us",
       "name": "TRUST MILLION BINARY FX",
-      "size": 169,
+      "size": 231,
       "approval": false,
       "announce": false
     },
     "Cvwlblk6Q5i6wNPhy1jVCS": {
       "status": "valid",
-      "time": 1793263007785,
+      "time": 1793336916166,
       "id": "120363324074443704@g.us",
       "name": "PRIME ASSET MANAGEMENT",
-      "size": 153,
+      "size": 146,
       "approval": true,
       "announce": false
     },
     "LWWNM2EBt8p82nIolWmtvC": {
       "status": "valid",
-      "time": 1793263015356,
+      "time": 1793336920029,
       "id": "120363162773646334@g.us",
       "name": "CHAMAN",
       "size": 106,
