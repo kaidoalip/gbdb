@@ -3629,13 +3629,13 @@
       "announce": false
     },
     "DncOWLEgmxi57qgOwHqcXJ": {
-      "status": "valid",
-      "time": 1793262457616,
+      "status": "error",
+      "time": 1793329565453,
       "id": "120363412979444303@g.us",
       "name": "World best SALER'S & BUYER'S 🤝",
       "size": 576,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "Dt2k3HakL0IABadgavXxA2": {
