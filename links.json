@@ -9570,44 +9570,90 @@
       "announce": false
     },
     "Kp1MEaX5AGKEeuRJUVbNPM": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327048532,
+      "id": "120363413679323691@g.us",
+      "name": "Wholesaler Group",
+      "size": 86,
+      "approval": false,
+      "announce": false
     },
     "Cvf37AG9RFx5FBewENlrgJ": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327052643,
+      "id": "120363427690088625@g.us",
+      "name": "𝙈𝘼𝙍𝙆𝙀𝙏 𝙍𝙊𝘽𝙇𝙊𝙓 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 𝘽𝙔 𝙆𝘼𝙔𝙋𝙐𝙉𝙆𝙆𝙆",
+      "size": 10,
+      "approval": true,
+      "announce": false
     },
     "ESuQqKzv3FfCGDLfgylYs3": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327056051,
+      "id": "120363413593088355@g.us",
+      "name": "𓆩 𝐍𝐎𝐗𝐓𝐑𝐀𝐋 𝐕𝐕𝐈𝐏 𓆪",
+      "size": 5,
+      "approval": true,
+      "announce": false
     },
     "DpjZPYyBHJsH51ykiGtxEi": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327060226,
+      "id": "120363411617205080@g.us",
+      "name": "[TOP UP] KINO STORE GAME || DIGITAL",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "Ht6sSBjzX5O50hRQSXWCGi": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "error",
+      "time": 1793327062468,
+      "err": "bad-request"
     },
     "FZy2av1gf3f4fJeSqgq8nS": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327064997,
+      "id": "120363430248253477@g.us",
+      "name": "JB ALL GAME || ZALL STORE ✨",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "CzGHIeN39hiJwQS3322mOp": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327068246,
+      "id": "120363410668844433@g.us",
+      "name": "𝙎𝙩𝙤𝙠 𝙧𝙚𝙘𝙚𝙝 𝙕𝙖𝙣𝙕𝙯",
+      "size": 68,
+      "approval": true,
+      "announce": false
     },
     "JzKrKjFq3k8JmuFGn7RNAr": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327071708,
+      "id": "120363431164107919@g.us",
+      "name": "Gorengan|gumoo👑",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "DbQPfncWX1818sEa2IvG2C": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327076094,
+      "id": "120363423729651548@g.us",
+      "name": "MARKET || ☆ KENZ STORE V3 ☆",
+      "size": 70,
+      "approval": true,
+      "announce": false
     },
     "Bgk4uxjxudJ2YbNtGqJZdd": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327079343,
+      "id": "120363414621225406@g.us",
+      "name": "GB OPTES REALTIM #1",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "LyIfsQ32raiGy9rvBS0cNx": {
       "status": "new",
