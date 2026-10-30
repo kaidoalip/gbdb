@@ -4154,13 +4154,14 @@
       "announce": false
     },
     "JSqv4fevgFQH9TpLIkPLA8": {
-      "status": "valid",
-      "time": 1793262625886,
+      "status": "error",
+      "time": 1793329988933,
       "id": "120363326381885303@g.us",
       "name": "Gv_Tn_Tf_Sl_Index LinkedIn buy/ sell group",
       "size": 378,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "GDXaLvrFAonIaCpjESCLGO": {
       "status": "expired",
