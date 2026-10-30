@@ -3426,13 +3426,14 @@
       "announce": false
     },
     "L7wLuBdf0ktEJg7vBpvPfF": {
-      "status": "valid",
-      "time": 1793262389508,
+      "status": "error",
+      "time": 1793327961214,
       "id": "120363411828642320@g.us",
       "name": "ZAHIR REMOTASK GROUP",
       "size": 47,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "IJR4mUeIAxz2okepV1JyEU": {
       "status": "valid",
