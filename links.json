@@ -2458,12 +2458,13 @@
     },
     "LbGj9ozXHq0LKje1GhpRki": {
       "status": "valid",
-      "time": 1793347576748,
+      "time": 1793350070402,
       "id": "120363432056037304@g.us",
       "name": "RS Tech Hub | Seller Community",
       "size": 9,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "HGO0CXm9Z0JHHJihEofqgc": {
       "status": "expired",
