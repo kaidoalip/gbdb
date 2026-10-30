@@ -297,21 +297,21 @@
       "approval": false
     },
     "GerWJtXfvV9CC6tXIS4G4U": {
-      "status": "error",
-      "time": 1793367431358,
+      "status": "valid",
+      "time": 1793403036065,
       "id": "120363410524040409@g.us",
       "name": "Zeeshan",
-      "size": 235,
+      "size": 234,
       "approval": false,
       "announce": false,
       "err": "Connection Closed"
     },
     "FeIr7I8cgjcKmwj4NNvRUV": {
-      "status": "error",
-      "time": 1793367435235,
+      "status": "valid",
+      "time": 1793403039582,
       "id": "120363427612714902@g.us",
       "name": "TikTok Trade Hub\nBuy • Sell • Trade\nTrusted Deals | Professional Service",
-      "size": 33,
+      "size": 35,
       "approval": false,
       "announce": false,
       "err": "Connection Closed"
@@ -333,11 +333,11 @@
       "approval": false
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "error",
-      "time": 1793367437679,
+      "status": "valid",
+      "time": 1793403043859,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
-      "size": 363,
+      "size": 367,
       "approval": false,
       "announce": false,
       "err": "Connection Closed"
@@ -416,11 +416,11 @@
       "approval": true
     },
     "CdTV1IPzExwFYFfRftXAOj": {
-      "status": "error",
-      "time": 1793367439891,
+      "status": "valid",
+      "time": 1793403046525,
       "id": "120363433601127296@g.us",
       "name": "All Type Social Buy Sell",
-      "size": 24,
+      "size": 25,
       "approval": false,
       "announce": false,
       "err": "Connection Closed"
@@ -8676,7 +8676,7 @@
     },
     "GfI4mGHINOm3b1RVTmZ5Iv": {
       "status": "error",
-      "time": 1793369349069,
+      "time": 1793403049503,
       "err": "bad-request"
     },
     "Flm7zHJVpUNL3BSizYhJJ2": {
@@ -8840,24 +8840,36 @@
       "approval": false
     },
     "Jz152wF0OetC2lVSUBVgsk": {
-      "status": "new",
-      "time": 1793367411047
+      "status": "valid",
+      "time": 1793403052368,
+      "id": "120363430699776304@g.us",
+      "name": "Official Gift Card Store",
+      "size": 1,
+      "approval": false
     },
     "HWTiVLimnVcHmPGaNukWXM": {
-      "status": "new",
-      "time": 1793367769698
+      "status": "expired",
+      "time": 1793403055764
     },
     "DjgDIQ9iEskFAHx2NFwmM7": {
-      "status": "new",
-      "time": 1793368729708
+      "status": "blocked",
+      "time": 1793403060213
     },
     "Bvxn58K2ZDs1HdhVACqNmi": {
-      "status": "new",
-      "time": 1793368729708
+      "status": "valid",
+      "time": 1793403064428,
+      "id": "120363425709608083@g.us",
+      "name": "Chinese exchange🇨🇳🇨🇳🇨🇳",
+      "size": 238,
+      "approval": true
     },
     "D1vndJ1NdpbA3tl0F0DKp3": {
-      "status": "new",
-      "time": 1793368969287
+      "status": "valid",
+      "time": 1793403067227,
+      "id": "120363422944010937@g.us",
+      "name": "STOCK WITH ALAMDAR (USA)",
+      "size": 424,
+      "approval": true
     },
     "KYN30jJBQtu5VIR16EbDjN": {
       "status": "new",
