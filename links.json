@@ -41,20 +41,20 @@
       "approval": true
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "joined",
-      "time": 1793244577156,
+      "status": "valid",
+      "time": 1793367319813,
       "id": "120363419140015193@g.us",
       "name": "SK Travels",
-      "size": 840,
+      "size": 837,
       "approval": false,
       "announce": false
     },
     "H8d2AEt7jr5IImgBxnZUaS": {
-      "status": "joined",
-      "time": 1793244591179,
+      "status": "valid",
+      "time": 1793367323083,
       "id": "120363430557841016@g.us",
       "name": "🥳🥳Esha cloud sell,buy market🤩🤩",
-      "size": 12,
+      "size": 13,
       "approval": false,
       "announce": false
     },
@@ -63,40 +63,42 @@
       "time": 1792305394681
     },
     "BSeevwOtTUbGuwnma3W0mO": {
-      "status": "joined",
-      "time": 1793244607363,
+      "status": "valid",
+      "time": 1793367326504,
       "id": "120363422902846331@g.us",
       "name": "~Khan Cloud buy and sell~",
-      "size": 263,
+      "size": 312,
       "approval": false,
       "announce": false
     },
     "CtkjH6cY4st9dmCCmIsWzH": {
-      "status": "joined",
-      "time": 1793244624210,
+      "status": "valid",
+      "time": 1793367328988,
       "id": "120363430784014701@g.us",
       "name": "FB~BM~GV~TN Buy& Sell",
-      "size": 290,
+      "size": 292,
       "approval": false,
       "announce": false
     },
     "CFhst8886FZ2reEI4nuFFg": {
-      "status": "joined",
-      "time": 1793244641452,
+      "status": "error",
+      "time": 1793367392239,
       "id": "120363401221286650@g.us",
       "name": "Only. group. admins. are. allowed...",
       "size": 560,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Timed Out"
     },
     "CAWp1XRin7y4kuZK3PXWL5": {
-      "status": "joined",
-      "time": 1793244658059,
+      "status": "error",
+      "time": 1793367395928,
       "id": "120363404021425400@g.us",
       "name": "TRUSTED TN TF GV BUY GTOUP(SIYAM ISLAM)",
       "size": 210,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "KwU70urDF7zBQKmvgS3zYn": {
       "status": "expired",
@@ -131,13 +133,14 @@
       "approval": false
     },
     "C5VmJHdpsP7Gn9L7wGemja": {
-      "status": "joined",
-      "time": 1793338155610,
+      "status": "error",
+      "time": 1793367398590,
       "id": "120363403726613720@g.us",
       "name": "Buy and Sell Cloud Mart",
       "size": 321,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "JMrvSqpLzP57Yk6WQw75jj": {
       "status": "komunitas",
@@ -148,13 +151,14 @@
       "approval": false
     },
     "D1FbWjcBz5iHgAKvsoESJg": {
-      "status": "joined",
-      "time": 1793244692791,
+      "status": "error",
+      "time": 1793367401175,
       "id": "120363432505884894@g.us",
       "name": "​⚡ Mail & TextNow Shop 🚀",
       "size": 250,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "JAT1ep2HEYJ2rrJ3Vq4g8K": {
       "status": "komunitas",
@@ -165,13 +169,14 @@
       "approval": false
     },
     "FdLGinLMh4lI90sIToO3Er": {
-      "status": "joined",
-      "time": 1793244710035,
+      "status": "error",
+      "time": 1793367404829,
       "id": "120363412052464198@g.us",
       "name": "𝐌𝐢𝐜𝐤𝐲 𝐂𝐥𝐨𝐮𝐝 𝐇𝐮𝐛",
       "size": 487,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "HOHvjJWEScGFaxH6YoKk08": {
       "status": "komunitas",
@@ -198,13 +203,14 @@
       "approval": false
     },
     "D0uqD21NrwbABP9c9ByPDb": {
-      "status": "joined",
-      "time": 1793338174316,
+      "status": "error",
+      "time": 1793367406866,
       "id": "120363421248171716@g.us",
       "name": "🐯 🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁☯𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐯",
       "size": 571,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
       "status": "valid",
