@@ -3404,8 +3404,8 @@
       "approval": true
     },
     "K0hcRUGVb2G23IUGasgfrk": {
-      "status": "joined",
-      "time": 1793329404482,
+      "status": "valid",
+      "time": 1793347777709,
       "id": "120363411667881476@g.us",
       "name": "Shahzaib trusted dealer 💯",
       "size": 105,
@@ -3421,8 +3421,8 @@
       "approval": true
     },
     "KjpdUZZi8GDFszdD21zkG2": {
-      "status": "error",
-      "time": 1793346927601,
+      "status": "valid",
+      "time": 1793347781312,
       "id": "120363428564141868@g.us",
       "name": "👽Golden era 😝",
       "size": 29,
@@ -3439,38 +3439,38 @@
       "approval": true
     },
     "E1n26UD692GEVgzzw7wkyt": {
-      "status": "joined",
-      "time": 1793329434895,
+      "status": "valid",
+      "time": 1793347784740,
       "id": "120363412595249966@g.us",
       "name": "eCom Trade Hub | Accounts • Processing • Dollars",
-      "size": 177,
+      "size": 178,
       "approval": false,
       "announce": false
     },
     "DnpEOLLQ3B0CG1vMzBWkfL": {
-      "status": "joined",
-      "time": 1793329455141,
+      "status": "valid",
+      "time": 1793347787422,
       "id": "120363412792630604@g.us",
       "name": "Ajmal multani broadcast",
-      "size": 214,
+      "size": 215,
       "approval": false,
       "announce": false
     },
     "GfonZaiug89HXP6JNwckoa": {
-      "status": "joined",
-      "time": 1793329470562,
+      "status": "valid",
+      "time": 1793347790516,
       "id": "120363429532681534@g.us",
       "name": "📡جیو آفیشل نیوز گروپ🇵🇰",
-      "size": 324,
+      "size": 342,
       "approval": false,
       "announce": false
     },
     "JNLhywWDDd98FhZnAGxJYx": {
-      "status": "joined",
-      "time": 1793329486122,
+      "status": "valid",
+      "time": 1793347794438,
       "id": "120363430135751809@g.us",
       "name": "Yt market place",
-      "size": 84,
+      "size": 95,
       "approval": false,
       "announce": false
     },
@@ -3491,12 +3491,13 @@
       "approval": true
     },
     "DsjUlgLGKUW0kaf3TRUiVu": {
-      "status": "joined",
-      "time": 1792722442838,
+      "status": "error",
+      "time": 1793347798599,
       "id": "120363413756684811@g.us",
       "name": "Tahaa Online Trusted Store",
       "size": 100,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "BA9eCY97iSl7VrM6AnU1hn": {
       "status": "pending",
@@ -3508,30 +3509,30 @@
     },
     "IXPrKlc2g28FtDMCsSHxET": {
       "status": "valid",
-      "time": 1793346205197,
+      "time": 1793347801292,
       "id": "120363429889115116@g.us",
       "name": "Best SALER'S VS BUYER'S 🤝",
-      "size": 931,
+      "size": 1007,
       "approval": true,
       "err": "sock is not defined",
       "announce": false
     },
     "CDdvL0bGThy4mtDRYX5C8f": {
       "status": "valid",
-      "time": 1793346211374,
+      "time": 1793347804166,
       "id": "120363411679707453@g.us",
       "name": "MASTER SALER'S & BUYER'S 🤝",
-      "size": 797,
+      "size": 864,
       "approval": true,
       "err": "sock is not defined",
       "announce": false
     },
     "Dx60oL9yJjc8lYOZQLOOkt": {
       "status": "valid",
-      "time": 1793346215197,
+      "time": 1793347806949,
       "id": "120363432064294167@g.us",
       "name": "PRO SALER'S & BUYERS 🤝👑",
-      "size": 744,
+      "size": 807,
       "approval": true,
       "err": "sock is not defined",
       "announce": false
