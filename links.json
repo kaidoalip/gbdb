@@ -2584,12 +2584,13 @@
     },
     "HPWoeUq1DSo2yY3fxAvrmK": {
       "status": "valid",
-      "time": 1793347609911,
+      "time": 1793355074291,
       "id": "120363431792219627@g.us",
       "name": "World war 3",
       "size": 8,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "KwjVm9F29anBGgssn9rfxr": {
       "status": "valid",
