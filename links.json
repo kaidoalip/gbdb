@@ -8574,36 +8574,67 @@
       "time": 1793354947822
     },
     "C99pNdJvKdA034dVsC0Tsb": {
-      "status": "new",
-      "time": 1793350670126
+      "status": "error",
+      "time": 1793354952527,
+      "err": "bad-request"
     },
     "J0OCaxtYwB44K7PtqlD2T5": {
-      "status": "new",
-      "time": 1793350670126
+      "status": "valid",
+      "time": 1793354955875,
+      "id": "120363431430430505@g.us",
+      "name": "GLOBAL ONLINE MARKET 🌐",
+      "size": 150,
+      "approval": false,
+      "announce": false
     },
     "CXwmxiJ0gfkBufUCfymj38": {
-      "status": "new",
-      "time": 1793351511125
+      "status": "expired",
+      "time": 1793354959800
     },
     "JwQHlWGMPJECOURYWU7CmD": {
-      "status": "new",
-      "time": 1793352831533
+      "status": "valid",
+      "time": 1793354964177,
+      "id": "120363431007337429@g.us",
+      "name": "KNOWLEGE HUB",
+      "size": 261,
+      "approval": false,
+      "announce": false
     },
     "DajEz0Ntr0fAF0kqgoYRE7": {
-      "status": "new",
-      "time": 1793352951119
+      "status": "valid",
+      "time": 1793354966907,
+      "id": "120363410355656872@g.us",
+      "name": "Danish MD",
+      "size": 77,
+      "approval": false,
+      "announce": false
     },
     "CuX5hnTIEOW70pHqDA7cjv": {
-      "status": "new",
-      "time": 1793353791200
+      "status": "valid",
+      "time": 1793354971337,
+      "id": "120363427158952993@g.us",
+      "name": "Account buy & sell",
+      "size": 167,
+      "approval": true,
+      "announce": false
     },
     "DEHwD9R3qQQH3kRtbWwQq8": {
-      "status": "new",
-      "time": 1793354631566
+      "status": "valid",
+      "time": 1793354973908,
+      "id": "120363431260956107@g.us",
+      "name": "Xxx sexy videos",
+      "size": 8,
+      "approval": false,
+      "announce": false
     },
     "HU0JHisQ2H8Ag1BKp9n13K": {
-      "status": "new",
-      "time": 1793354751124
+      "status": "valid",
+      "time": 1793354977558,
+      "id": "120363434370917594@g.us",
+      "name": "OPEN CHAT GROUP",
+      "size": 38,
+      "approval": false,
+      "announce": false
     }
   },
   "total": 1023,
