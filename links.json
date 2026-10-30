@@ -7802,17 +7802,18 @@
       "announce": false
     },
     "FZy2av1gf3f4fJeSqgq8nS": {
-      "status": "valid",
-      "time": 1793327064997,
+      "status": "error",
+      "time": 1793337827708,
       "id": "120363430248253477@g.us",
       "name": "JB ALL GAME || ZALL STORE ✨",
       "size": 2,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CzGHIeN39hiJwQS3322mOp": {
       "status": "valid",
-      "time": 1793327068246,
+      "time": 1793337831225,
       "id": "120363410668844433@g.us",
       "name": "𝙎𝙩𝙤𝙠 𝙧𝙚𝙘𝙚𝙝 𝙕𝙖𝙣𝙕𝙯",
       "size": 68,
@@ -7821,7 +7822,7 @@
     },
     "JzKrKjFq3k8JmuFGn7RNAr": {
       "status": "valid",
-      "time": 1793327071708,
+      "time": 1793337833701,
       "id": "120363431164107919@g.us",
       "name": "Gorengan|gumoo👑",
       "size": 3,
@@ -7830,7 +7831,7 @@
     },
     "DbQPfncWX1818sEa2IvG2C": {
       "status": "valid",
-      "time": 1793327076094,
+      "time": 1793337837569,
       "id": "120363423729651548@g.us",
       "name": "MARKET || ☆ KENZ STORE V3 ☆",
       "size": 70,
@@ -7839,7 +7840,7 @@
     },
     "Bgk4uxjxudJ2YbNtGqJZdd": {
       "status": "valid",
-      "time": 1793327079343,
+      "time": 1793337841379,
       "id": "120363414621225406@g.us",
       "name": "GB OPTES REALTIM #1",
       "size": 3,
@@ -7848,7 +7849,7 @@
     },
     "LyIfsQ32raiGy9rvBS0cNx": {
       "status": "valid",
-      "time": 1793327084278,
+      "time": 1793337844967,
       "id": "120363431440327094@g.us",
       "name": "JB¹ | ZARRD STORE",
       "size": 30,
@@ -7857,7 +7858,7 @@
     },
     "L6fzQr0hRlhDRTcibQADj3": {
       "status": "valid",
-      "time": 1793327088348,
+      "time": 1793337848372,
       "id": "120363426036221147@g.us",
       "name": "𝐃𝐄𝐕𝐎𝐔𝐑𝐄𝐑 𝐃𝐈𝐃𝐈𝐊𝐀𝐍 𝐂𝐈𝐒𝐔𝐍",
       "size": 22,
@@ -7865,17 +7866,18 @@
       "announce": false
     },
     "BjULynmtLI11Q1V4vnA7Fj": {
-      "status": "valid",
-      "time": 1793327091646,
+      "status": "error",
+      "time": 1793337851020,
       "id": "120363430658299202@g.us",
       "name": "𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝙐𝙏𝘼𝙈𝘼 𝙑𝙄𝙉𝙏 ( 𝙉𝙀𝙒 )",
       "size": 16,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CAAWZffbDnYEJS68uLeGru": {
       "status": "valid",
-      "time": 1793327095284,
+      "time": 1793337853220,
       "id": "120363430971204361@g.us",
       "name": "GB JB Ozaa[PROSES FMS]",
       "size": 3,
@@ -7884,7 +7886,7 @@
     },
     "Fi0BCJ20ZXS0I2JRRQpm27": {
       "status": "valid",
-      "time": 1793327099520,
+      "time": 1793337857236,
       "id": "120363412190188401@g.us",
       "name": "𝐹𝑇 𝐶𝑆 𝐾𝐼𝐸𝐿𝐿",
       "size": 2,
