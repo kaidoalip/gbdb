@@ -2299,67 +2299,74 @@
       "announce": false
     },
     "DiWa4jM6YpMJ9UQjw1SACz": {
-      "status": "joined",
-      "time": 1792631647209,
+      "status": "error",
+      "time": 1793347024517,
       "id": "120363411457824790@g.us",
       "name": "JB ALLGAME 167",
       "size": 25,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "JBTShnMmBKG6uPXER2WeWA": {
-      "status": "joined",
-      "time": 1792631662952,
+      "status": "error",
+      "time": 1793347026856,
       "id": "120363429306911192@g.us",
       "name": "JB ALLGAME 170",
       "size": 13,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "FmvWNZLMclPEFsUnUJMSxn": {
-      "status": "joined",
-      "time": 1792631679061,
+      "status": "error",
+      "time": 1793347030674,
       "id": "120363412637133380@g.us",
       "name": "JB ALLGAME 169",
       "size": 16,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "BzBaLnPmRPDLlYHcZjxmUN": {
-      "status": "joined",
-      "time": 1792631694749,
+      "status": "error",
+      "time": 1793347033235,
       "id": "120363430335871231@g.us",
       "name": "JB ALLGAME 172",
       "size": 11,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "CJnwKV84YDADAuAgXyf2OG": {
-      "status": "joined",
-      "time": 1792631708810,
+      "status": "error",
+      "time": 1793347036492,
       "id": "120363412649325550@g.us",
       "name": "JB ALLGAME 161",
       "size": 11,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "IrasMcSmvNdJlfT4EOf1JG": {
-      "status": "joined",
-      "time": 1792631723166,
+      "status": "valid",
+      "time": 1793347040701,
       "id": "120363431958702607@g.us",
-      "name": "JB ALLGAME 175",
-      "size": 11,
-      "approval": true
+      "name": "𝐒𝐓𝐎𝐊 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐙𝐄𝐒𝐀𝐀 𝐉𝐄𝐁𝐄𝐇 𝟎.3",
+      "size": 111,
+      "approval": true,
+      "announce": false
     },
     "Gl23DlgsVSe6pu7DoJmFa7": {
-      "status": "joined",
-      "time": 1792631749823,
+      "status": "valid",
+      "time": 1793347044048,
       "id": "120363431218400199@g.us",
-      "name": "JB ALLGAME 173",
-      "size": 9,
-      "approval": true
+      "name": "JB ALL Game || SAMORA #2",
+      "size": 155,
+      "approval": true,
+      "announce": false
     },
     "LY9w2QMYyz3Iw8cDwul3Wk": {
-      "status": "joined",
-      "time": 1793262046447,
+      "status": "valid",
+      "time": 1793347047178,
       "id": "120363429735603357@g.us",
       "name": "UK Driving Test Date",
-      "size": 113,
+      "size": 112,
       "approval": false,
       "announce": false
     },
@@ -2372,12 +2379,13 @@
       "approval": false
     },
     "KKsEuWBmQ3HIK6inUAxoUr": {
-      "status": "joined",
-      "time": 1792631781160,
+      "status": "valid",
+      "time": 1793347051301,
       "id": "120363400526886378@g.us",
       "name": "Cloud's Market \"Buy And Sell\" 🌨️",
-      "size": 516,
-      "approval": true
+      "size": 512,
+      "approval": true,
+      "announce": false
     },
     "LDcKwXiYufcATXpfopwgnP": {
       "status": "komunitas",
@@ -2386,8 +2394,8 @@
       "name": "GPC By Sehar Hayat"
     },
     "LoXGoHERJbsBTIXfC5Y7zF": {
-      "status": "joined",
-      "time": 1793262052394,
+      "status": "valid",
+      "time": 1793347054147,
       "id": "120363430931090913@g.us",
       "name": "Next Digital Enterprise",
       "size": 66,
