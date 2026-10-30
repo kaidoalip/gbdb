@@ -3639,13 +3639,13 @@
       "announce": false
     },
     "Dt2k3HakL0IABadgavXxA2": {
-      "status": "valid",
-      "time": 1793262460714,
+      "status": "error",
+      "time": 1793329572810,
       "id": "120363430740591174@g.us",
       "name": "BUY AND SALE experts 🤝",
       "size": 357,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "JAB6FwCofmgAf4kDyKGLEC": {
