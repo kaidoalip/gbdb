@@ -2737,12 +2737,13 @@
     },
     "HGeNAXhwQas9rC9T726u8W": {
       "status": "valid",
-      "time": 1793347655413,
+      "time": 1793355159838,
       "id": "120363411007334848@g.us",
       "name": "Alhani TikTok Services.",
       "size": 515,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "C14BQDS8hpi9RkPTN2klsO": {
       "status": "komunitas",
