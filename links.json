@@ -4187,13 +4187,14 @@
       "name": "COMPUTER HUB"
     },
     "HCpW4S4hLNU0Gh0NkAOlFB": {
-      "status": "valid",
-      "time": 1793262642152,
+      "status": "error",
+      "time": 1793330026030,
       "id": "120363407322032187@g.us",
       "name": "*_`ᴄʀɪᴄᴋᴇᴛ ᴛᴏᴅᴀʏ`_*",
       "size": 471,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "BYv0n2wBt3SKKmYyC2Dwux": {
       "status": "valid",
