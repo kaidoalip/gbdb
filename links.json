@@ -3298,14 +3298,14 @@
       "approval": false
     },
     "Jcfq748tac3B5fxpZ8Lebt": {
-      "status": "valid",
-      "time": 1793346193216,
+      "status": "error",
+      "time": 1793346725449,
       "id": "120363428922364137@g.us",
       "name": "ZAHIR KYC 24/7",
       "size": 66,
       "approval": true,
       "announce": false,
-      "err": "sock is not defined"
+      "err": "Timed Out"
     },
     "IxcHuLKGhXP05XTsPp6Ar5": {
       "status": "joined",
