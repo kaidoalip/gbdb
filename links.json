@@ -7356,8 +7356,8 @@
       "announce": false
     },
     "LvHhxS21XCM0f23Sah5QfO": {
-      "status": "valid",
-      "time": 1793349165565,
+      "status": "expired",
+      "time": 1793362073922,
       "id": "120363411165124782@g.us",
       "name": "GB MARKET ALL GAME | XRC V1",
       "size": 3,
@@ -7365,8 +7365,8 @@
       "announce": false
     },
     "B99wfy2vfcBJdB2KKVTyB4": {
-      "status": "valid",
-      "time": 1793349168639,
+      "status": "expired",
+      "time": 1793362079176,
       "id": "120363432847932649@g.us",
       "name": "JB² VINZSTR || REGION JATIM",
       "size": 41,
@@ -7375,7 +7375,7 @@
     },
     "JZGYFccZ4Bp631VHNTXCfr": {
       "status": "valid",
-      "time": 1793349172389,
+      "time": 1793362083090,
       "id": "120363430611178249@g.us",
       "name": "𝐌𝐀𝐑𝐆𝐀 𝐒𝐈𝐒",
       "size": 18,
@@ -7383,8 +7383,8 @@
       "announce": false
     },
     "BuwsHVwaJMN2jdRayKeZED": {
-      "status": "valid",
-      "time": 1793349177873,
+      "status": "expired",
+      "time": 1793362087173,
       "id": "120363428829608094@g.us",
       "name": "JB || ALL GAME IASS STORE [BLK]",
       "size": 42,
@@ -7393,25 +7393,25 @@
     },
     "Cro3dYi5qRgCO7fx2wX3zq": {
       "status": "valid",
-      "time": 1793349184404,
+      "time": 1793362092438,
       "id": "120363398142536874@g.us",
       "name": "𝐆𝐁 𝐈𝐍𝐅𝐎 𝐅𝐓 𝐂𝐒 𝟓𝟎𝟎 - 𝟓𝐊 𝐊𝐀𝐙𝐄𝐎 #𝟏",
-      "size": 332,
+      "size": 330,
       "approval": true,
       "announce": false
     },
     "IQmFppEf5y441hp9kfBCE4": {
       "status": "valid",
-      "time": 1793349187294,
+      "time": 1793362098260,
       "id": "120363424156720977@g.us",
       "name": "GB OPTES PLAYHARD GPX",
-      "size": 228,
+      "size": 226,
       "approval": true,
       "announce": false
     },
     "Ldvk2KkqyX77cipmIdb5hY": {
-      "status": "valid",
-      "time": 1793349192391,
+      "status": "expired",
+      "time": 1793362101484,
       "id": "120363411019226480@g.us",
       "name": "MARKET KARLZ POINT",
       "size": 274,
@@ -7420,7 +7420,7 @@
     },
     "D5o9hdgbSHm7TH6lhSrauI": {
       "status": "valid",
-      "time": 1793349196876,
+      "time": 1793362104800,
       "id": "120363414313373036@g.us",
       "name": "JB UNDUL",
       "size": 2,
@@ -7429,7 +7429,7 @@
     },
     "G2lstCfE3KB9enaxu09pOO": {
       "status": "valid",
-      "time": 1793349200271,
+      "time": 1793362107501,
       "id": "120363412784819001@g.us",
       "name": "FT CS || MaxxLL X OWN¹",
       "size": 3,
@@ -7438,10 +7438,10 @@
     },
     "HfpIn5OWtIN3Pi7c7s4ocn": {
       "status": "valid",
-      "time": 1793349203484,
+      "time": 1793362111559,
       "id": "120363430087103422@g.us",
       "name": "JB sandyz",
-      "size": 60,
+      "size": 61,
       "approval": true,
       "announce": false
     },
