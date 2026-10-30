@@ -2641,12 +2641,13 @@
     },
     "EbrFp8LvtUt7w2A3bX1HNM": {
       "status": "valid",
-      "time": 1793347624315,
+      "time": 1793355108490,
       "id": "120363414890346339@g.us",
       "name": "Youtube skills",
       "size": 181,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "EZS4dwxayBFLDPGYJpTV6i": {
       "status": "valid",
