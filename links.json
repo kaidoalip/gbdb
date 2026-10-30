@@ -213,14 +213,14 @@
       "err": "Connection Closed"
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
-      "status": "valid",
-      "time": 1793367412127,
+      "status": "joined",
+      "time": 1793369439513,
       "id": "120363412226638074@g.us",
       "name": "🐼🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁❁𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐼",
       "size": 88,
       "approval": true,
       "announce": false,
-      "err": "Connection Closed"
+      "err": "already-exists"
     },
     "FKUbsly6ZdQ8DWlBK0N3is": {
       "status": "error",
