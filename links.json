@@ -2679,12 +2679,13 @@
     },
     "IxroMyntGmN6vwOO8Xvhuw": {
       "status": "valid",
-      "time": 1793347639314,
+      "time": 1793355134485,
       "id": "120363432050265418@g.us",
       "name": "Pakistan Buy and Sell group",
       "size": 111,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "FaGJRJoJ82l13qsjcjK2pm": {
       "status": "pending",
