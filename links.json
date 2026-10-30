@@ -2550,12 +2550,13 @@
     },
     "GVfsPCkhLgiFb3VR1WLnIl": {
       "status": "valid",
-      "time": 1793347604338,
+      "time": 1793355057463,
       "id": "120363423247779072@g.us",
       "name": "True kyc group 💵💵✅✅",
       "size": 185,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "IAvIvFZ2yOFEIh4ZjxwmgL": {
       "status": "komunitas",
