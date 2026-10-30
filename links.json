@@ -8522,7 +8522,7 @@
     },
     "I4EKHt0E2wQApdqhUTaJZS": {
       "status": "error",
-      "time": 1793281482936,
+      "time": 1793326797799,
       "err": "bad-request"
     },
     "BaOEzURbNhwFKj2IHEjT1z": {
@@ -8554,7 +8554,7 @@
     },
     "D5RqPNFbmfxF4DmwoGLhIj": {
       "status": "error",
-      "time": 1793281486192,
+      "time": 1793326800682,
       "err": "bad-request"
     },
     "KyxzvEx2EktF1d9a2rSBPV": {
@@ -8592,7 +8592,7 @@
     },
     "JxRjz1Ec1sVEdSr8mkXffT": {
       "status": "error",
-      "time": 1793281489040,
+      "time": 1793326804727,
       "err": "bad-request"
     },
     "Fmi3KQWOaMuJ1cFLS2Qq5X": {
@@ -8606,7 +8606,7 @@
     },
     "KMtyJpx4WqLGMD32qluI6g": {
       "status": "error",
-      "time": 1793281492830,
+      "time": 1793326807679,
       "err": "bad-request"
     },
     "ClSJXKRx99Z7lUc8LRaTMQ": {
@@ -8651,7 +8651,7 @@
     },
     "J6gljJYDXMvBgXnHlZJfXR": {
       "status": "error",
-      "time": 1793281495956,
+      "time": 1793326811224,
       "err": "bad-request"
     },
     "CRSdwyIFcNl4X7qI4IxhIK": {
@@ -8665,7 +8665,7 @@
     },
     "Flj3QFg8SzuFLkCQ6CqIKU": {
       "status": "error",
-      "time": 1793281500985,
+      "time": 1793326814837,
       "err": "bad-request"
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
@@ -8738,8 +8738,8 @@
       "announce": false
     },
     "IKapwfUIDrLB48VnWcDoeF": {
-      "status": "error",
-      "time": 1793281504182,
+      "status": "blocked",
+      "time": 1793326818503,
       "err": "growth-locked"
     },
     "FrXsSKDHKva4wfZNS1MrFV": {
@@ -9057,16 +9057,31 @@
       "announce": false
     },
     "CHkaz5txKyD1W0k1EpV3HW": {
-      "status": "new",
-      "time": 1793280778733
+      "status": "valid",
+      "time": 1793326821331,
+      "id": "120363416009261647@g.us",
+      "name": "FB MONETIZATION EXPERTS ✅",
+      "size": 401,
+      "approval": true,
+      "announce": false
     },
     "EWIQKYYa8MRCheMa4mTD1J": {
-      "status": "new",
-      "time": 1793280897561
+      "status": "valid",
+      "time": 1793326824031,
+      "id": "120363431392616750@g.us",
+      "name": "Safe GC Deals Hub",
+      "size": 56,
+      "approval": false,
+      "announce": false
     },
     "JyuwJezf2jlAe6MuEFlpwp": {
-      "status": "new",
-      "time": 1793280897561
+      "status": "valid",
+      "time": 1793326828195,
+      "id": "120363412687228917@g.us",
+      "name": "Technical Exchange",
+      "size": 79,
+      "approval": false,
+      "announce": false
     },
     "LE13nZvf5PW7szcPpmkOCd": {
       "status": "new",
