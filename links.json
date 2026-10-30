@@ -2502,12 +2502,13 @@
     },
     "G2LFhZJ2zVQ0fW6edAykVo": {
       "status": "valid",
-      "time": 1793347594269,
+      "time": 1793350105969,
       "id": "120363426979644452@g.us",
       "name": "Account buy and sell",
       "size": 463,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "HnnGVYOuRKGGuxqBafMsF0": {
       "status": "komunitas",
