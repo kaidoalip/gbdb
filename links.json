@@ -3328,13 +3328,14 @@
       "announce": false
     },
     "GfonZaiug89HXP6JNwckoa": {
-      "status": "valid",
-      "time": 1793367607868,
+      "status": "error",
+      "time": 1793403529600,
       "id": "120363429532681534@g.us",
       "name": "📡جیو آفیشل نیوز گروپ🇵🇰",
       "size": 349,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "JNLhywWDDd98FhZnAGxJYx": {
       "status": "valid",
