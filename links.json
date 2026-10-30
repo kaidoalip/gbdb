@@ -8496,11 +8496,6 @@
       "approval": false,
       "announce": false
     },
-    "GfI4mGHINOm3b1RVTmZ5Iv": {
-      "status": "error",
-      "time": 1793354904007,
-      "err": "bad-request"
-    },
     "CJ9JdfDTVtOASqz3nmtB6J": {
       "status": "valid",
       "time": 1793354908210,
@@ -8525,16 +8520,6 @@
       "id": "120363411258862649@g.us",
       "name": "HADI WORK HUB"
     },
-    "Eo1vwnQFD6XLBCc7zPvdkk": {
-      "status": "error",
-      "time": 1793354921282,
-      "err": "bad-request"
-    },
-    "JzfxbhbP8jIF0hoX3bKmP1": {
-      "status": "error",
-      "time": 1793354923836,
-      "err": "bad-request"
-    },
     "LkYB5yP9vj0JlJ8x5RRWwT": {
       "status": "valid",
       "time": 1793354928309,
@@ -8544,40 +8529,6 @@
       "approval": true,
       "announce": false
     },
-    "FI013RsZq4sGKtXHSsV5TL": {
-      "status": "error",
-      "time": 1793354930644,
-      "err": "bad-request"
-    },
-    "C6oBSWrJG8KL8OCwFntI1I": {
-      "status": "error",
-      "time": 1793354934364,
-      "err": "bad-request"
-    },
-    "DgNgybLwqStBJLJ3Vuhx4y": {
-      "status": "error",
-      "time": 1793354936957,
-      "err": "bad-request"
-    },
-    "JG1xvnoSOWwHCqnlqc9uXO": {
-      "status": "error",
-      "time": 1793354940430,
-      "err": "bad-request"
-    },
-    "C0L6NFswSNFEVUZlWFGLmV": {
-      "status": "error",
-      "time": 1793354943483,
-      "err": "bad-request"
-    },
-    "CHkaz5txKyD1W0k1EpV3HW": {
-      "status": "expired",
-      "time": 1793354947822
-    },
-    "C99pNdJvKdA034dVsC0Tsb": {
-      "status": "error",
-      "time": 1793354952527,
-      "err": "bad-request"
-    },
     "J0OCaxtYwB44K7PtqlD2T5": {
       "status": "valid",
       "time": 1793354955875,
@@ -8586,10 +8537,6 @@
       "size": 150,
       "approval": false,
       "announce": false
-    },
-    "CXwmxiJ0gfkBufUCfymj38": {
-      "status": "expired",
-      "time": 1793354959800
     },
     "JwQHlWGMPJECOURYWU7CmD": {
       "status": "valid",
@@ -8637,6 +8584,6 @@
       "announce": false
     }
   },
-  "total": 1023,
-  "updated": 1793349636273
+  "total": 1034,
+  "updated": 1793354983279
 }
