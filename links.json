@@ -2743,20 +2743,20 @@
       "announce": false
     },
     "EZS4dwxayBFLDPGYJpTV6i": {
-      "status": "joined",
-      "time": 1793262169519,
+      "status": "valid",
+      "time": 1793347132539,
       "id": "120363414974032311@g.us",
       "name": "Linkedin GV TN TF bay sell (MK SHUVO)",
-      "size": 170,
+      "size": 173,
       "approval": false,
       "announce": false
     },
     "FWNlUQR1xBK1WINtgNV56I": {
-      "status": "joined",
-      "time": 1793262176394,
+      "status": "valid",
+      "time": 1793347135858,
       "id": "120363409912936186@g.us",
       "name": "Castom room",
-      "size": 158,
+      "size": 159,
       "approval": false,
       "announce": false
     },
@@ -2769,17 +2769,18 @@
       "approval": false
     },
     "GXfnl25v0u87kwgDI4Izal": {
-      "status": "joined",
-      "time": 1793262180591,
+      "status": "error",
+      "time": 1793347138103,
       "id": "120363433517258240@g.us",
       "name": "꧁༺ 𝑨𝒍 𝑯𝒂𝒇𝒊𝒛 𝑷𝒆𝒓𝒇𝒖𝒎𝒆 ༻꧂",
       "size": 43,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IxroMyntGmN6vwOO8Xvhuw": {
-      "status": "joined",
-      "time": 1793262184921,
+      "status": "valid",
+      "time": 1793347140622,
       "id": "120363432050265418@g.us",
       "name": "Pakistan Buy and Sell group",
       "size": 111,
@@ -2809,12 +2810,13 @@
       "name": "Gmail Buyers And Sellers"
     },
     "Hus3jvUUc9u6IngCT2fXE8": {
-      "status": "joined",
-      "time": 1792633169249,
+      "status": "error",
+      "time": 1793347143283,
       "id": "120363414058514558@g.us",
       "name": "Aston Deposit & Claim services 🚨",
       "size": 96,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "CVd6xsODyFBLsTWUMjL4xn": {
       "status": "komunitas",
@@ -2823,28 +2825,29 @@
       "name": "LASER Seller DeliVerY All PakiStan AVailable. 🚚💸💸💸"
     },
     "CGIyqkcV8qw33vRX2s65Gy": {
-      "status": "joined",
-      "time": 1792633203694,
+      "status": "valid",
+      "time": 1793347145837,
       "id": "120363405645112788@g.us",
       "name": "big work",
-      "size": 342,
-      "approval": true
+      "size": 333,
+      "approval": true,
+      "announce": false
     },
     "DOoZaIQkemQIzUf8pd4bAi": {
-      "status": "joined",
-      "time": 1793262202194,
+      "status": "valid",
+      "time": 1793347148495,
       "id": "120363431562706599@g.us",
       "name": "Ali Hussnain TikTok Store ✅",
-      "size": 383,
+      "size": 398,
       "approval": false,
       "announce": false
     },
     "HGeNAXhwQas9rC9T726u8W": {
-      "status": "joined",
-      "time": 1793262205876,
+      "status": "valid",
+      "time": 1793347151346,
       "id": "120363411007334848@g.us",
       "name": "Alhani TikTok Services.",
-      "size": 516,
+      "size": 515,
       "approval": false,
       "announce": false
     },
@@ -2855,11 +2858,11 @@
       "name": "Al Noor Collection (3)"
     },
     "DAcLGcnm7bo1TN7tHxENs6": {
-      "status": "joined",
-      "time": 1793262209684,
+      "status": "valid",
+      "time": 1793347154178,
       "id": "120363427232453821@g.us",
       "name": "GMAIL BUYING GROUP 🌸",
-      "size": 149,
+      "size": 150,
       "approval": false,
       "announce": false
     },
@@ -2900,12 +2903,13 @@
       "approval": true
     },
     "DLkxGMKSM0YFW9CQqylhsQ": {
-      "status": "joined",
-      "time": 1792633394677,
+      "status": "error",
+      "time": 1793347156717,
       "id": "120363411261849446@g.us",
       "name": "PARDEEP TRUSTED SELLER",
       "size": 295,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "HRsuLA3GVTd67hmUaqt0AL": {
       "status": "joined",
