@@ -3679,13 +3679,13 @@
       "announce": false
     },
     "Eo1vwnQFD6XLBCc7zPvdkk": {
-      "status": "valid",
-      "time": 1793262475119,
+      "status": "error",
+      "time": 1793329598444,
       "id": "120363412177504594@g.us",
       "name": "YOUTUBE EXPERT'S 🤝",
       "size": 950,
       "approval": true,
-      "err": "already-exists",
+      "err": "bad-request",
       "announce": false
     },
     "Fk8w3pMvG0F3wCYP4j2UFh": {
