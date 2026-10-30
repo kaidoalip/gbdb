@@ -2608,12 +2608,13 @@
     },
     "LnWgaO0eHAO7r7KbO6O2qi": {
       "status": "valid",
-      "time": 1793347617189,
+      "time": 1793355091889,
       "id": "120363179705331083@g.us",
       "name": "👍Student's Business Hub👍",
       "size": 466,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "LL4JLsJoITr8IoOdINwNfG": {
       "status": "expired",
