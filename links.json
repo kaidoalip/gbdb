@@ -1939,8 +1939,8 @@
       "err": "bad-request"
     },
     "F3KEBSKUyAZFj2SrYNSYOD": {
-      "status": "error",
-      "time": 1793281545972,
+      "status": "valid",
+      "time": 1793326128907,
       "id": "120363411853172858@g.us",
       "name": "ZAHIR ACCOUNTS VERIFICATION",
       "size": 387,
@@ -1950,7 +1950,7 @@
     },
     "IzQWK67R67rJ6QiqqvpoTO": {
       "status": "error",
-      "time": 1793280843869,
+      "time": 1793326131309,
       "id": "120363410957830027@g.us",
       "name": "ZAHIR BACK UP GROUP",
       "size": 96,
@@ -1996,8 +1996,8 @@
       "time": 1792484079835
     },
     "CasTMOKaDfhGKMn7qacPXe": {
-      "status": "error",
-      "time": 1793281559371,
+      "status": "valid",
+      "time": 1793326133953,
       "id": "120363396600879289@g.us",
       "name": "GV, TN, TF, ID, SL buy & Sell Group",
       "size": 260,
@@ -2015,7 +2015,7 @@
     },
     "DGJSjXfUXSb7HyNXGDSCM1w": {
       "status": "error",
-      "time": 1793280849339,
+      "time": 1793326136838,
       "err": "bad-request"
     },
     "IVd0ycVXbis0WnsqYxs7Mz": {
@@ -2146,7 +2146,7 @@
     },
     "CsREWkk4LktByBpDnjuB90": {
       "status": "error",
-      "time": 1793280853032,
+      "time": 1793326140446,
       "err": "bad-request"
     },
     "GqVgYjCcWqmHmeByQKo4ip": {
@@ -2159,7 +2159,7 @@
     },
     "ELxyiWMGdXA4sZ5jAQVpfF": {
       "status": "error",
-      "time": 1793280856969,
+      "time": 1793326143629,
       "id": "120363425294160653@g.us",
       "name": "All account by sell 🇺🇸🇺🇸🇺🇸",
       "size": 666,
@@ -2225,7 +2225,7 @@
     },
     "GMejlqTSK54H57L2Sq1kAg": {
       "status": "error",
-      "time": 1793280859362,
+      "time": 1793326146701,
       "id": "120363428052383990@g.us",
       "name": "The Holy Trinity💰",
       "size": 227,
@@ -2284,7 +2284,7 @@
     },
     "LmrLnPxPLr4LGaRE2yAy2g": {
       "status": "error",
-      "time": 1793280862072,
+      "time": 1793326150468,
       "id": "120363412381386840@g.us",
       "name": "AR Free Automation Courses",
       "size": 442,
@@ -2398,7 +2398,7 @@
     },
     "EEeHXzmDUpeJEaqYyvIYcG": {
       "status": "error",
-      "time": 1793280865044,
+      "time": 1793326153379,
       "err": "bad-request"
     },
     "HPE2sAtYxQx95GEmVyEBZF": {
@@ -2523,11 +2523,11 @@
       "approval": true
     },
     "EV4Z3A5zOrB7DgOecbADF9": {
-      "status": "error",
-      "time": 1793281573249,
+      "status": "valid",
+      "time": 1793326157053,
       "id": "120363412451504468@g.us",
       "name": "CloudCart India ☁️🛍️",
-      "size": 343,
+      "size": 341,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
