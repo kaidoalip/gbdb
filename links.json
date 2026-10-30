@@ -213,23 +213,24 @@
       "err": "Connection Closed"
     },
     "GJjZOi13RRC8cFgcWn9QFU": {
-      "status": "valid",
-      "time": 1793362651889,
+      "status": "error",
+      "time": 1793367411578,
       "id": "120363412226638074@g.us",
       "name": "🐼🎀 𝐹𝓇𝑒𝓎𝒶 𝒸𝓁❁𝓊𝒹 𝓂𝒶𝓇𝓀𝑒𝓉 🎀 🐼",
       "size": 88,
       "approval": true,
       "announce": false,
-      "err": "rate-overlimit"
+      "err": "Connection Closed"
     },
     "FKUbsly6ZdQ8DWlBK0N3is": {
-      "status": "joined",
-      "time": 1793244756805,
+      "status": "error",
+      "time": 1793367414584,
       "id": "120363412564191619@g.us",
       "name": ".",
       "size": 34,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "B9LA4cCgg7BC8X95hOKm2S": {
       "status": "expired",
@@ -240,31 +241,34 @@
       "approval": false
     },
     "LDZT2ttQJ4OBU1UqyMVV6O": {
-      "status": "joined",
-      "time": 1793244771027,
+      "status": "error",
+      "time": 1793367418542,
       "id": "120363306982867484@g.us",
       "name": "MWS Clouds (AWS, AZURE, DIGITAL OCEAN, GCP, LINODE) HUB",
       "size": 137,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "BBX2EjEXiMFANqV9Lv1MGe": {
-      "status": "joined",
-      "time": 1793244788065,
+      "status": "error",
+      "time": 1793367421674,
       "id": "120363428308866376@g.us",
       "name": "𝗦𝗔𝗜𝗙 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗦𝗘𝗟𝗟𝗘𝗥𝗦 ✅🔥",
       "size": 224,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "FZb9NYcr8p71wt5kxAT1O5": {
-      "status": "joined",
-      "time": 1793244803496,
+      "status": "error",
+      "time": 1793367425269,
       "id": "120363413873783036@g.us",
       "name": "Hassan seller",
       "size": 83,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "Dd0KdP10Kxg8agKvpRNGsB": {
       "status": "pending",
@@ -275,14 +279,14 @@
       "approval": true
     },
     "DmAslaL8pGTIXQrsjItfyd": {
-      "status": "valid",
-      "time": 1793360528826,
+      "status": "error",
+      "time": 1793367428972,
       "id": "120363144939966875@g.us",
       "name": "Free online earning",
       "size": 467,
       "approval": true,
       "announce": false,
-      "err": "already-exists"
+      "err": "Connection Closed"
     },
     "KP4SZSzkSIkLcgsk3oNfSS": {
       "status": "komunitas",
@@ -293,22 +297,24 @@
       "approval": false
     },
     "GerWJtXfvV9CC6tXIS4G4U": {
-      "status": "joined",
-      "time": 1793244836390,
+      "status": "error",
+      "time": 1793367431358,
       "id": "120363410524040409@g.us",
       "name": "Zeeshan",
       "size": 235,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "FeIr7I8cgjcKmwj4NNvRUV": {
-      "status": "joined",
-      "time": 1793244852895,
+      "status": "error",
+      "time": 1793367435235,
       "id": "120363427612714902@g.us",
       "name": "TikTok Trade Hub\nBuy • Sell • Trade\nTrusted Deals | Professional Service",
       "size": 33,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "I45aAar18Bx5fCPc1wnCy7": {
       "status": "pending",
@@ -327,14 +333,14 @@
       "approval": false
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "joined",
-      "time": 1793338192723,
+      "status": "error",
+      "time": 1793367437679,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
       "size": 363,
       "approval": false,
       "announce": false,
-      "err": "rate-overlimit"
+      "err": "Connection Closed"
     },
     "Joq33mLOtm1HoQCmSjU5XK": {
       "status": "komunitas",
@@ -410,13 +416,14 @@
       "approval": true
     },
     "CdTV1IPzExwFYFfRftXAOj": {
-      "status": "joined",
-      "time": 1793338211861,
+      "status": "error",
+      "time": 1793367439891,
       "id": "120363433601127296@g.us",
       "name": "All Type Social Buy Sell",
       "size": 24,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "HZOn9z6XW9OI4TUPrh55E1": {
       "status": "expired",
