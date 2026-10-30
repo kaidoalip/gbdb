@@ -2717,12 +2717,13 @@
     },
     "CGIyqkcV8qw33vRX2s65Gy": {
       "status": "valid",
-      "time": 1793347646459,
+      "time": 1793355142596,
       "id": "120363405645112788@g.us",
       "name": "big work",
       "size": 333,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "DOoZaIQkemQIzUf8pd4bAi": {
       "status": "valid",
