@@ -1554,8 +1554,8 @@
       "approval": false
     },
     "FQQD7tJj39I24oWeyDKMmD": {
-      "status": "error",
-      "time": 1793327374481,
+      "status": "valid",
+      "time": 1793329195248,
       "id": "120363427705995122@g.us",
       "name": "𝙏𝙍𝙐𝙎𝙏 𝙕𝙊𝙉𝙀 𝘽𝙔 𝘼𝙕𝘼𝙉 ✌︎㋡",
       "size": 468,
@@ -2690,11 +2690,11 @@
       "name": "Adeel Gmail Buyer"
     },
     "IX97yndVID46R7aRpJ9lzZ": {
-      "status": "error",
-      "time": 1793327582285,
+      "status": "valid",
+      "time": 1793329199625,
       "id": "120363430633110691@g.us",
       "name": "𝑩𝒍𝒂𝒔𝒕𝒊𝒏𝒈 𝑫𝒂𝒕𝒂 𝒂𝒏𝒅 𝑮𝒎𝒂𝒊𝒍 𝑮𝒓𝒐𝒖𝒑 𝒐𝒇 𝑺𝒉𝒂𝒉𝒛𝒂𝒊𝒏 📈",
-      "size": 330,
+      "size": 340,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
@@ -3190,8 +3190,8 @@
       "time": 1792639755991
     },
     "HPafAVqAHUBLr7j6YkxV2l": {
-      "status": "error",
-      "time": 1793327763938,
+      "status": "valid",
+      "time": 1793329203216,
       "id": "120363244751425104@g.us",
       "name": "🔥ALL PREMIUM DATA HERE 💯",
       "size": 360,
@@ -3306,11 +3306,11 @@
       "approval": true
     },
     "HOVfzD6cBsjJB8U8kUvddd": {
-      "status": "error",
-      "time": 1793327848576,
+      "status": "valid",
+      "time": 1793329207051,
       "id": "120363430465675966@g.us",
       "name": "𝐀𝛆̽𝐬፝ʈͱ𐇲ᴇ᪳͢ʈɪ֟͡ᴄ̬𝆭  𝐬ʈaʈūs",
-      "size": 541,
+      "size": 533,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
@@ -3354,11 +3354,11 @@
       "approval": true
     },
     "CUTulfSMCteLP2E9cIUYp2": {
-      "status": "error",
-      "time": 1793327893428,
+      "status": "valid",
+      "time": 1793329210789,
       "id": "120363421534482134@g.us",
       "name": "⚜️🖥️ 🇼‌𝐡𝐚𝐭𝐬𝐀𝐩𝐩 🪀𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧🖥️⚜️",
-      "size": 269,
+      "size": 263,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
@@ -3407,8 +3407,8 @@
       "approval": false
     },
     "Jcfq748tac3B5fxpZ8Lebt": {
-      "status": "error",
-      "time": 1793327928199,
+      "status": "valid",
+      "time": 1793329214699,
       "id": "120363428922364137@g.us",
       "name": "ZAHIR KYC 24/7",
       "size": 67,
@@ -3426,8 +3426,8 @@
       "announce": false
     },
     "L7wLuBdf0ktEJg7vBpvPfF": {
-      "status": "error",
-      "time": 1793327961214,
+      "status": "valid",
+      "time": 1793329218407,
       "id": "120363411828642320@g.us",
       "name": "ZAHIR REMOTASK GROUP",
       "size": 47,
@@ -8462,16 +8462,31 @@
       "announce": false
     },
     "JJXKbtibKkd7BXrDP1G7yj": {
-      "status": "new",
-      "time": 1793326918772
+      "status": "valid",
+      "time": 1793329221208,
+      "id": "120363434032632601@g.us",
+      "name": "Market place Pakistan",
+      "size": 29,
+      "approval": false,
+      "announce": false
     },
     "Di3ZnQzBp9pA0hkQ9icsJK": {
-      "status": "new",
-      "time": 1793327278660
+      "status": "valid",
+      "time": 1793329225122,
+      "id": "120363414380560438@g.us",
+      "name": "GB ALGAME PIKI",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "Dr3e5vlF59NLcUk6LzMIYK": {
-      "status": "new",
-      "time": 1793327278660
+      "status": "valid",
+      "time": 1793329228846,
+      "id": "120363413724230193@g.us",
+      "name": "WARUNG JB HILZ KEBUKA",
+      "size": 77,
+      "approval": true,
+      "announce": false
     },
     "FJ7JOYF1IVOLBIsNYZQUeD": {
       "status": "new",
