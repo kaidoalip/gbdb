@@ -3659,13 +3659,14 @@
       "announce": false
     },
     "Fq6PyPldPAfCU5a4yIc2ys": {
-      "status": "valid",
-      "time": 1793262468608,
+      "status": "error",
+      "time": 1793329587515,
       "id": "120363429691130566@g.us",
       "name": "PRO YOUTUBER'S 👑",
       "size": 441,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "GVglPZ0YdJ6AJtqL60KvfD": {
       "status": "valid",
