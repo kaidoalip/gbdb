@@ -682,32 +682,55 @@
       "announce": false
     },
     "FzUvOsoKHpT6FjURZ2OShO": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "valid",
+      "time": 1793331434382,
+      "id": "120363429035799033@g.us",
+      "name": "ZAHiR PEOPLE 💯",
+      "size": 119,
+      "approval": false,
+      "announce": false
     },
     "HKSLCnXlpXWKohalx3EMGj": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "error",
+      "time": 1793331436818,
+      "err": "bad-request"
     },
     "C7MHtWkRTSIHVWTdllYToR": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "valid",
+      "time": 1793331440179,
+      "id": "120363400647236469@g.us",
+      "name": "ZAHIR SHARP BITGETERS",
+      "size": 38,
+      "approval": false,
+      "announce": false
     },
     "CPtYkURZVCOKrjxLiClWla": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "valid",
+      "time": 1793331443106,
+      "id": "120363294911055624@g.us",
+      "name": "All update information 🇵🇰",
+      "size": 738,
+      "approval": true,
+      "announce": false
     },
     "CxkGTvimlrsI9zObPSow1N": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "valid",
+      "time": 1793331445991,
+      "id": "120363431436916421@g.us",
+      "name": "Only 3D loaders",
+      "size": 46,
+      "approval": false,
+      "announce": false
     },
     "LRCQOXCUAZR6oNT9ugjLpb": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "komunitas",
+      "time": 1793331449853,
+      "id": "120363430983344049@g.us",
+      "name": "Trust on Allah 🇮🇹"
     },
     "DjgDIQ9iEskFAHx2NFwmM7": {
-      "status": "new",
-      "time": 1793331153770
+      "status": "blocked",
+      "time": 1793331453519
     },
     "C5V7kI5n43YFtzbno1Fptj": {
       "status": "new",
