@@ -3359,14 +3359,14 @@
       "announce": false
     },
     "CUaEM3E8WSd6WbYW0GxHJm": {
-      "status": "valid",
-      "time": 1793346198495,
+      "status": "error",
+      "time": 1793346860369,
       "id": "120363426229287520@g.us",
       "name": "TECHMARTKE",
       "size": 319,
       "approval": true,
       "announce": false,
-      "err": "sock is not defined"
+      "err": "Timed Out"
     },
     "GwuJta6zCBZ6lUN1LObVmH": {
       "status": "pending",
