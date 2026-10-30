@@ -5724,16 +5724,16 @@
     },
     "DutamNsM9ng36ydpvfXShT": {
       "status": "valid",
-      "time": 1793263441882,
+      "time": 1793337173260,
       "id": "120363414094961079@g.us",
       "name": "BLASTING SOFTWARE FOR SMPT📬 AND CALLS USERS☎️",
-      "size": 109,
+      "size": 112,
       "approval": false,
       "announce": false
     },
     "Bj7vhRlSEliEqHp5LAaYoZ": {
-      "status": "valid",
-      "time": 1793263444922,
+      "status": "expired",
+      "time": 1793337177042,
       "id": "120363412671626679@g.us",
       "name": "🌹کچھری🌹 م🎤 سنا ماٹھوا چي  ويا🇵🇰",
       "size": 7,
@@ -5742,7 +5742,7 @@
     },
     "EiMLA5gy5iTEQIb4vhXomt": {
       "status": "valid",
-      "time": 1793263448322,
+      "time": 1793337179539,
       "id": "120363414347376802@g.us",
       "name": "Gujarat pigeon shok",
       "size": 25,
@@ -5755,16 +5755,16 @@
     },
     "BJmt83L3RsgK1HbgbGwStB": {
       "status": "valid",
-      "time": 1793263451445,
+      "time": 1793337183626,
       "id": "120363043786897230@g.us",
       "name": "🕊️فیصل🦅 اباد گروپ229 🕊️",
-      "size": 349,
+      "size": 350,
       "approval": false,
       "announce": false
     },
     "JFSKCYiQLcLFxC0WicWjya": {
       "status": "valid",
-      "time": 1793263454069,
+      "time": 1793337186247,
       "id": "120363431166679724@g.us",
       "name": "Sabir Ali 😍",
       "size": 11,
@@ -5773,37 +5773,38 @@
     },
     "J2YTPRcZpQq9OIywIqk0uZ": {
       "status": "valid",
-      "time": 1793263456802,
+      "time": 1793337189659,
       "id": "120363433448918391@g.us",
       "name": "طلحہ جٹ کبوتر کلب بورے والا",
-      "size": 215,
+      "size": 241,
       "approval": false,
       "announce": false
     },
     "HBLhQgZ8t5oEO3IcM99JeJ": {
-      "status": "valid",
-      "time": 1793263460580,
+      "status": "error",
+      "time": 1793337192071,
       "id": "120363411262421395@g.us",
       "name": "🅝ɪ̲̅ͨɢ̲̅ͪʜ̲̅ͥᴛ̲̅ᷞ 🅛ᴏ̲̅ᷡᴠ̲̅ͦᴇ̲̅ᷱʀ̲̅s̲̅ 🅟ᴏ̲̅ͬ͟͞s̲̅ᷧᴛ̲̅ᷯɪ̲̅ᷮɴ̲̅ͦ͟͞ɢ̲̅ͭ",
       "size": 42,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LCH4ysgCwOc3cWaFrIZmrN": {
       "status": "valid",
-      "time": 1793263465121,
+      "time": 1793337194705,
       "id": "120363412397584761@g.us",
       "name": "Noman Monetization Network",
-      "size": 64,
+      "size": 74,
       "approval": false,
       "announce": false
     },
     "HpL1wa3gaOe6nl1A2AwdiO": {
       "status": "valid",
-      "time": 1793263469180,
+      "time": 1793337197729,
       "id": "120363418241130209@g.us",
       "name": "Gmail Buy & sell Group 🤝",
-      "size": 433,
+      "size": 443,
       "approval": false,
       "announce": false
     },
@@ -5818,10 +5819,10 @@
     },
     "JoFj3fnwFvZ2gfyIWSItPZ": {
       "status": "valid",
-      "time": 1793263476479,
+      "time": 1793337201744,
       "id": "120363361867730627@g.us",
       "name": "Raja Sajid pigeon Rawalpindi",
-      "size": 661,
+      "size": 669,
       "approval": true,
       "announce": false
     },
