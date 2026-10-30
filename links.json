@@ -2622,12 +2622,13 @@
     },
     "EPgyftZdwgyCcrNHhaAr7a": {
       "status": "valid",
-      "time": 1793347621024,
+      "time": 1793355100275,
       "id": "120363431798446107@g.us",
       "name": "Afridi Arms Dealer 💯",
       "size": 280,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "HjhrnQn6YT0Fjj4qjeqL8L": {
       "status": "expired",
