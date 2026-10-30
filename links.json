@@ -2056,8 +2056,8 @@
       "approval": true
     },
     "EV4Z3A5zOrB7DgOecbADF9": {
-      "status": "joined",
-      "time": 1793326157053,
+      "status": "valid",
+      "time": 1793346989708,
       "id": "120363412451504468@g.us",
       "name": "CloudCart India ☁️🛍️",
       "size": 341,
@@ -2066,11 +2066,11 @@
       "err": "sock is not defined"
     },
     "EcfBS5oZ3F62LPmcOUrxnB": {
-      "status": "joined",
-      "time": 1793326162928,
+      "status": "valid",
+      "time": 1793346993193,
       "id": "120363428317228977@g.us",
       "name": "SAM✨Cloud Buy / Sell 🛍️",
-      "size": 243,
+      "size": 241,
       "approval": true,
       "announce": false,
       "err": "sock is not defined"
@@ -2125,11 +2125,11 @@
       "announce": false
     },
     "ENFTFKJoJ7FJptJnGZWcKD": {
-      "status": "joined",
-      "time": 1793327395496,
+      "status": "valid",
+      "time": 1793346997669,
       "id": "120363426476935780@g.us",
       "name": "Model unlock",
-      "size": 506,
+      "size": 547,
       "approval": false,
       "announce": false
     },
@@ -2164,11 +2164,11 @@
       "approval": true
     },
     "KV9t5nrCJrpGArybKY630v": {
-      "status": "joined",
-      "time": 1793327413927,
+      "status": "valid",
+      "time": 1793347000960,
       "id": "120363425992482795@g.us",
-      "name": "MS Teams World 🌍",
-      "size": 134,
+      "name": "Rdps provide",
+      "size": 136,
       "approval": false,
       "announce": false
     },
@@ -2221,12 +2221,13 @@
       "approval": true
     },
     "Kuoc8NtiAjGDJ4yk2pK2N8": {
-      "status": "joined",
-      "time": 1792631537947,
+      "status": "valid",
+      "time": 1793347004187,
       "id": "120363405409657545@g.us",
       "name": "MARKET ALL GAME || ian setur v1",
-      "size": 16,
-      "approval": true
+      "size": 295,
+      "approval": true,
+      "announce": false
     },
     "LrzGohVCq27CgG2TUJPhKo": {
       "status": "expired",
@@ -2237,12 +2238,13 @@
       "approval": true
     },
     "KXaDZXqsHez13GEqivJGFr": {
-      "status": "joined",
-      "time": 1792631555199,
+      "status": "error",
+      "time": 1793347006636,
       "id": "120363407513299275@g.us",
       "name": "𝙐𝙏𝘼𝙈𝘼 𝙑𝟮 𝙕𝘼𝘼",
       "size": 3,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "GCg9QWOj7AJ8hlEV8BRCYY": {
       "status": "expired",
@@ -2253,12 +2255,13 @@
       "approval": false
     },
     "G2r4jBigsaW9huixZ5JLqq": {
-      "status": "joined",
-      "time": 1792631571533,
+      "status": "error",
+      "time": 1793347008989,
       "id": "120363431429904426@g.us",
       "name": "JB ALLGAME 158",
       "size": 64,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "Ef7iPieGug99pfSu3NOXdV": {
       "status": "pending",
@@ -2269,28 +2272,31 @@
       "approval": true
     },
     "G3aIA8UMTIBBlQzmRXzZwK": {
-      "status": "joined",
-      "time": 1792631603192,
+      "status": "error",
+      "time": 1793347011632,
       "id": "120363414303194348@g.us",
       "name": "JB ALLGAME 161",
       "size": 83,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "LbtP72s3SlYLYFwiDrJisM": {
-      "status": "joined",
-      "time": 1792631617300,
+      "status": "error",
+      "time": 1793347014166,
       "id": "120363430927728796@g.us",
       "name": "JB ALLGAME 166",
       "size": 30,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "L0xI60YiqCg9BCtNTSp38q": {
-      "status": "joined",
-      "time": 1792631631103,
+      "status": "valid",
+      "time": 1793347018610,
       "id": "120363429468285396@g.us",
-      "name": "JB ALLGAME 168",
-      "size": 25,
-      "approval": true
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗗𝗜𝗩𝗭 𝟮",
+      "size": 157,
+      "approval": true,
+      "announce": false
     },
     "DiWa4jM6YpMJ9UQjw1SACz": {
       "status": "joined",
