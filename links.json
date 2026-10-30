@@ -10196,44 +10196,90 @@
       "announce": false
     },
     "FCRps9S26MODueUHHzIU5D": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327314286,
+      "id": "120363414577208483@g.us",
+      "name": "JB ALLGAME 219",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "KWYDiHBBo2tC7PY6E5AWiA": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327317502,
+      "id": "120363411206962493@g.us",
+      "name": "JB ALLGAME 220",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "DLmDTXFh3MA3YAH6oBlXyV": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327320148,
+      "id": "120363429712554423@g.us",
+      "name": "JB ALLGAME BUYO",
+      "size": 1,
+      "approval": true,
+      "announce": false
     },
     "E81ywC47xZFB8NXHNI2A5i": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327323582,
+      "id": "120363412624501041@g.us",
+      "name": "JB ALLGAME OBITO",
+      "size": 1,
+      "approval": true,
+      "announce": false
     },
     "Cw9MGLbdiHZIzAK7k6ysq3": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327326542,
+      "id": "120363433867835649@g.us",
+      "name": "JB ALLGAME ALIM",
+      "size": 1,
+      "approval": true,
+      "announce": false
     },
     "HozWuVOS0VnKRTZjROUX1e": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327330019,
+      "id": "120363413961749023@g.us",
+      "name": "JB ALLGAME FLADO",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "BG9rmtneFj8D1f35FhIJ99": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327333575,
+      "id": "120363430133688299@g.us",
+      "name": "JB ALLGAME BANG GAR",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "EzqdPxub1ax9YaQqDvqCwC": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327336618,
+      "id": "120363300291215356@g.us",
+      "name": "PEOPLE ZAHIR",
+      "size": 907,
+      "approval": true,
+      "announce": false
     },
     "FzUvOsoKHpT6FjURZ2OShO": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "valid",
+      "time": 1793327340616,
+      "id": "120363429035799033@g.us",
+      "name": "ZAHiR PEOPLE 💯",
+      "size": 119,
+      "approval": false,
+      "announce": false
     },
     "HKSLCnXlpXWKohalx3EMGj": {
-      "status": "new",
-      "time": 1793325995686
+      "status": "error",
+      "time": 1793327344081,
+      "err": "bad-request"
     },
     "C7MHtWkRTSIHVWTdllYToR": {
       "status": "new",
