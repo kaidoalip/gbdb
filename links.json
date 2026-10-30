@@ -3245,14 +3245,14 @@
       "approval": true
     },
     "CUTulfSMCteLP2E9cIUYp2": {
-      "status": "valid",
-      "time": 1793346188849,
+      "status": "error",
+      "time": 1793346657073,
       "id": "120363421534482134@g.us",
       "name": "⚜️🖥️ 🇼‌𝐡𝐚𝐭𝐬𝐀𝐩𝐩 🪀𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧🖥️⚜️",
       "size": 262,
       "approval": true,
       "announce": false,
-      "err": "sock is not defined"
+      "err": "Timed Out"
     },
     "Lg4Dwsai8CREXi2qTIFtsp": {
       "status": "joined",
