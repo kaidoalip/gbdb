@@ -3197,14 +3197,14 @@
       "approval": true
     },
     "HOVfzD6cBsjJB8U8kUvddd": {
-      "status": "valid",
-      "time": 1793346184804,
+      "status": "error",
+      "time": 1793346585127,
       "id": "120363430465675966@g.us",
       "name": "𝐀𝛆̽𝐬፝ʈͱ𐇲ᴇ᪳͢ʈɪ֟͡ᴄ̬𝆭  𝐬ʈaʈūs",
       "size": 529,
       "approval": true,
       "announce": false,
-      "err": "sock is not defined"
+      "err": "Timed Out"
     },
     "DB3H8DME72RFHteDAZwiaE": {
       "status": "joined",
