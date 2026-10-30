@@ -9151,20 +9151,27 @@
       "approval": false
     },
     "DCFlCnxl2JAFEd624wjZiX": {
-      "status": "new",
-      "time": 1793392729889
+      "status": "komunitas",
+      "time": 1793403220588,
+      "id": "120363413344124997@g.us",
+      "name": "AYesha Rao TeaM❤️"
     },
     "JqQDotZPbHt81NeokLsuCU": {
-      "status": "new",
-      "time": 1793392729889
+      "status": "valid",
+      "time": 1793403224800,
+      "id": "120363408861756109@g.us",
+      "name": "Outlier Handshake Trades",
+      "size": 797,
+      "approval": true
     },
     "GXfnl25v0u87kwgDI4Izal": {
-      "status": "new",
-      "time": 1793396689706
+      "status": "error",
+      "time": 1793403228856,
+      "err": "bad-request"
     },
     "Cz7nzYr7s6cI4DUuUaEQO0": {
-      "status": "new",
-      "time": 1793399809604
+      "status": "expired",
+      "time": 1793403231886
     }
   },
   "total": 1034,
