@@ -2912,11 +2912,11 @@
       "err": "bad-request"
     },
     "HRsuLA3GVTd67hmUaqt0AL": {
-      "status": "joined",
-      "time": 1793262230896,
+      "status": "valid",
+      "time": 1793347667133,
       "id": "120363427976600013@g.us",
       "name": "Secure 🔐🔐 Deals",
-      "size": 290,
+      "size": 289,
       "approval": false,
       "announce": false
     },
@@ -2929,11 +2929,11 @@
       "approval": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
-      "status": "joined",
-      "time": 1793262237195,
+      "status": "valid",
+      "time": 1793347670265,
       "id": "120363421225872930@g.us",
       "name": "All Service Provider 💝",
-      "size": 839,
+      "size": 841,
       "approval": false,
       "announce": false
     },
@@ -2942,11 +2942,11 @@
       "time": 1792625513867
     },
     "JE0KVAV0JyU5IHrxzEnxmu": {
-      "status": "joined",
-      "time": 1793262239863,
+      "status": "valid",
+      "time": 1793347673067,
       "id": "120363427286803247@g.us",
       "name": "Indonesia🇮🇩 ~ᡕ ❍─➭⌗𝙎𝑚𝙩𝚙 𝚙𝙧σ𝐯𝓲ⓓ",
-      "size": 718,
+      "size": 743,
       "approval": false,
       "announce": false
     },
@@ -2957,30 +2957,31 @@
       "name": "WholSale Products"
     },
     "D47dPc3VXocKoLEWlobZQk": {
-      "status": "joined",
-      "time": 1793262246964,
+      "status": "valid",
+      "time": 1793347677020,
       "id": "120363429259513689@g.us",
       "name": "🚀 𝐃𝐚𝐢𝐦 𝐊𝐡𝐚𝐧 | 𝐄-𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞",
-      "size": 359,
+      "size": 357,
       "approval": false,
       "announce": false
     },
     "F8vM0mBLKTD3siT5NXQGVf": {
-      "status": "joined",
-      "time": 1793262251064,
+      "status": "valid",
+      "time": 1793347680378,
       "id": "120363024446267271@g.us",
       "name": "𝐅𝐀𝐈𝐒𝐀𝐋 𝐓𝐈𝐊𝐓𝐎𝐊 𝐒𝐇𝐎𝐏💯✅♥️💥",
-      "size": 226,
+      "size": 227,
       "approval": false,
       "announce": false
     },
     "HjQFJXER5lH2kWSkCN7H1s": {
-      "status": "joined",
-      "time": 1792633536232,
+      "status": "error",
+      "time": 1793347683724,
       "id": "120363414265756993@g.us",
       "name": "ETSY.EBAY.SHOPIFY.CHATGPT 🇪🇺🇺🇸🇬🇧",
       "size": 68,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "EiZyE2U8QB65KQ4idfyYpC": {
       "status": "komunitas",
@@ -2989,11 +2990,11 @@
       "name": "GMAIL HUB™ | Trusted Marketplace🤝"
     },
     "KDHNHiq0hutHbI88J9tTMW": {
-      "status": "joined",
-      "time": 1793262261840,
+      "status": "valid",
+      "time": 1793347688320,
       "id": "120363424925736972@g.us",
       "name": "Social media Store 2",
-      "size": 149,
+      "size": 152,
       "approval": false,
       "announce": false
     },
@@ -3004,12 +3005,13 @@
       "name": "Without Investment Work 📱📱💻🖥️"
     },
     "GYD791iyrt88LnxaTCwHT3": {
-      "status": "joined",
-      "time": 1792633590926,
+      "status": "error",
+      "time": 1793347692140,
       "id": "120363413177514633@g.us",
       "name": "ONLY USA RECEIVER AND LOADER",
       "size": 41,
-      "approval": true
+      "approval": true,
+      "err": "bad-request"
     },
     "GC21qZDNqcgDmtpXrHIYhr": {
       "status": "komunitas",
@@ -3018,8 +3020,8 @@
       "name": "⚡ 𝙎𝙃𝘼𝙃𝙕𝘼𝙄𝙉 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 𝙂𝙈𝘼𝙄𝙇 𝙃𝙐𝘽 ⚡』"
     },
     "G9m0GnnBegf4INOjjHuqnj": {
-      "status": "joined",
-      "time": 1793262264805,
+      "status": "valid",
+      "time": 1793347695246,
       "id": "120363430482834398@g.us",
       "name": "TT GV TN SL TF TP LinkedIn by and sell trusted group",
       "size": 28,
@@ -3041,11 +3043,11 @@
       "approval": false
     },
     "GHwlFBhd7SQ1oyIiPSdXWB": {
-      "status": "joined",
-      "time": 1793327722979,
+      "status": "valid",
+      "time": 1793347699112,
       "id": "120363428864735871@g.us",
       "name": "Amir trusted seller",
-      "size": 214,
+      "size": 215,
       "approval": false,
       "announce": false
     },
