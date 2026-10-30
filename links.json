@@ -2594,12 +2594,13 @@
     },
     "KwjVm9F29anBGgssn9rfxr": {
       "status": "valid",
-      "time": 1793347612849,
+      "time": 1793355083465,
       "id": "120363408683388776@g.us",
       "name": "💖 Students Business Point  💖",
       "size": 268,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "rate-overlimit"
     },
     "DxtdfcIXgu8DX189qOpNKq": {
       "status": "expired",
