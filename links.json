@@ -3503,13 +3503,14 @@
       "approval": true
     },
     "KjpdUZZi8GDFszdD21zkG2": {
-      "status": "valid",
-      "time": 1793262408978,
+      "status": "error",
+      "time": 1793329418938,
       "id": "120363428564141868@g.us",
       "name": "👽Golden era 😝",
       "size": 29,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "sock is not defined"
     },
     "FyiGbXSMTnCDhK0xyq256f": {
       "status": "pending",
