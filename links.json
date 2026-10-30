@@ -3689,13 +3689,13 @@
       "announce": false
     },
     "Fk8w3pMvG0F3wCYP4j2UFh": {
-      "status": "valid",
-      "time": 1793262479094,
+      "status": "error",
+      "time": 1793329602619,
       "id": "120363432019813423@g.us",
       "name": "Everything buy & sale 🤝",
       "size": 1010,
       "approval": true,
-      "err": "already-exists",
+      "err": "sock is not defined",
       "announce": false
     },
     "JzfxbhbP8jIF0hoX3bKmP1": {
