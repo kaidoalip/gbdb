@@ -326,8 +326,8 @@
       "announce": false
     },
     "EPLWS5prLoL5ZaqNlqDukk": {
-      "status": "valid",
-      "time": 1793455181893,
+      "status": "joined",
+      "time": 1793455674602,
       "id": "120363429394621071@g.us",
       "name": "𝐒𝐓𝐎𝐊 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐙𝐄𝐒𝐀𝐀 𝐗 𝐏𝐏 𝐙𝐀𝐋𝐋 𝐉𝐄𝐁𝐄𝐇 𝟎.8",
       "size": 3,
@@ -423,6 +423,6 @@
       "time": 1793455657409
     }
   },
-  "updated": 1793455659767,
+  "updated": 1793455674823,
   "total": 50
 }
