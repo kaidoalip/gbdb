@@ -786,8 +786,8 @@
       "approval": false
     },
     "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "valid",
-      "time": 1793448756859,
+      "status": "joined",
+      "time": 1793450319808,
       "id": "120363412768061441@g.us",
       "name": "Roshan Bhai Trusted seller ✅",
       "size": 65,
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450305892
+  "updated": 1793450320129
 }
