@@ -141,8 +141,8 @@
       "announce": false
     },
     "FxYQxNSLViqBw44AQRMEgU": {
-      "status": "valid",
-      "time": 1793455125724,
+      "status": "joined",
+      "time": 1793455389820,
       "id": "120363409943855591@g.us",
       "name": "طلباء و علمآء فیملی پیکج گروپ",
       "size": 138,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455386543,
+  "updated": 1793455390000,
   "total": 46
 }
