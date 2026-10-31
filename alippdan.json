@@ -132,8 +132,8 @@
       "announce": false
     },
     "K5JLeya3z3M3w6W2wkXCJx": {
-      "status": "valid",
-      "time": 1793455123471,
+      "status": "pending",
+      "time": 1793455334589,
       "id": "120363430450403529@g.us",
       "name": "All electronics prodect available best and cheap price",
       "size": 43,
@@ -397,6 +397,6 @@
       "time": 1793455297074
     }
   },
-  "updated": 1793455320218,
+  "updated": 1793455334911,
   "total": 46
 }
