@@ -9694,12 +9694,12 @@
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
       "status": "error",
-      "time": 1793448516630,
+      "time": 1793450224384,
       "err": "bad-request"
     },
     "FFN626LJ5eJ5bppqtkyOEn": {
       "status": "valid",
-      "time": 1793448519405,
+      "time": 1793450226622,
       "id": "120363415641028578@g.us",
       "name": "BANGLADESH CYBER ZONE",
       "size": 79,
@@ -9708,16 +9708,16 @@
     },
     "GqMQre9Ux5W0jV8vHYowLI": {
       "status": "valid",
-      "time": 1793448521520,
+      "time": 1793450228681,
       "id": "120363431748163529@g.us",
       "name": "Fuel Token update",
-      "size": 101,
+      "size": 117,
       "approval": true,
       "announce": false
     },
     "G14ytFGQSbE3q21kUkJ3Qn": {
       "status": "valid",
-      "time": 1793448524662,
+      "time": 1793450231988,
       "id": "120363411063322408@g.us",
       "name": "🔰Cricket News & Updates 🏏",
       "size": 189,
@@ -9726,7 +9726,7 @@
     },
     "L4hFrBlnX0tC6YscI5zEvy": {
       "status": "valid",
-      "time": 1793448527636,
+      "time": 1793450235088,
       "id": "120363402159823559@g.us",
       "name": "Digital Growth Hub",
       "size": 857,
@@ -9735,16 +9735,16 @@
     },
     "HmEiZAURgCSJYJku6PDPsv": {
       "status": "valid",
-      "time": 1793448531128,
+      "time": 1793450238090,
       "id": "120363409998548415@g.us",
       "name": "💌*Gmail Buy Sell*📬",
-      "size": 252,
+      "size": 253,
       "approval": false,
       "announce": false
     },
     "LjK0DwvWIJBGmUOhf0cfwV": {
       "status": "valid",
-      "time": 1793448533330,
+      "time": 1793450241210,
       "id": "120363431857161432@g.us",
       "name": "TikTok buying and selling NIGERIA 🇳🇬 AND PAKISTAN 🇵🇰",
       "size": 90,
@@ -9753,7 +9753,7 @@
     },
     "HxoVC3XCv9J8TImZ2SEvpc": {
       "status": "valid",
-      "time": 1793448536284,
+      "time": 1793450243041,
       "id": "120363431671979247@g.us",
       "name": "Free of the FERF",
       "size": 2,
@@ -9762,7 +9762,7 @@
     },
     "DsAd4bBiqGy0N97R69PZgQ": {
       "status": "valid",
-      "time": 1793448540128,
+      "time": 1793450246280,
       "id": "120363420021348142@g.us",
       "name": "FJB LANGZ ALLGAME | 1",
       "size": 140,
@@ -9771,7 +9771,7 @@
     },
     "EbU1rMMsneYHwJE7X5LFZF": {
       "status": "valid",
-      "time": 1793448542686,
+      "time": 1793450249119,
       "id": "120363425930205997@g.us",
       "name": "FJB LANGZ ALLGAME | 2",
       "size": 48,
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450219716
+  "updated": 1793450249386
 }
