@@ -150,8 +150,8 @@
       "announce": false
     },
     "HWnm5bcYOAb5OES5eeT9No": {
-      "status": "valid",
-      "time": 1793455128291,
+      "status": "joined",
+      "time": 1793455404574,
       "id": "120363412200534177@g.us",
       "name": "All account buy &sell Bd",
       "size": 17,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455390000,
+  "updated": 1793455404778,
   "total": 46
 }
