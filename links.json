@@ -8977,25 +8977,25 @@
     },
     "G30xsy9NH7TEhSvlGdq8bO": {
       "status": "valid",
-      "time": 1793414224777,
+      "time": 1793449992715,
       "id": "120363413786539319@g.us",
-      "name": "JB² /KIYZZ STUR [region jabar]",
-      "size": 24,
+      "name": "⚜️KIYZX STUR /JEBE SOLO ONLY",
+      "size": 70,
       "approval": true,
       "announce": false
     },
     "L8MxE5z3O0ZCVObbVcVajg": {
       "status": "valid",
-      "time": 1793414227727,
+      "time": 1793449995873,
       "id": "120363423118429996@g.us",
       "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗬𝗮𝗻𝘇𝗡𝗲𝘄𝗘𝗿𝗮𝗮 𝗩𝟭",
-      "size": 409,
+      "size": 504,
       "approval": true,
       "announce": false
     },
     "FaA3DTkjG009IUgDWiVfW3": {
       "status": "valid",
-      "time": 1793414230470,
+      "time": 1793449998719,
       "id": "120363413126536776@g.us",
       "name": "UTAMA DIVZ -NEW",
       "size": 3,
@@ -9004,7 +9004,7 @@
     },
     "Jl9ewsHOIeILBdaaoDwfSp": {
       "status": "valid",
-      "time": 1793448255122,
+      "time": 1793450000749,
       "id": "120363412988754688@g.us",
       "name": "JB ALLGAME FAIRUZ",
       "size": 18,
@@ -9013,7 +9013,7 @@
     },
     "LqbeCfz0tkz9XAO1nNvQB4": {
       "status": "valid",
-      "time": 1793448257616,
+      "time": 1793450003762,
       "id": "120363414283289104@g.us",
       "name": "JB ALLGAME ANDIKA",
       "size": 8,
@@ -9022,7 +9022,7 @@
     },
     "HY8MXr4g0DLGMgnsFFbF6g": {
       "status": "valid",
-      "time": 1793448260890,
+      "time": 1793450005871,
       "id": "120363430866927595@g.us",
       "name": "JB ALLGAME RAFLI",
       "size": 12,
@@ -9031,7 +9031,7 @@
     },
     "DN2oqCpYnvSLL4n2iIGGcN": {
       "status": "valid",
-      "time": 1793448263781,
+      "time": 1793450008374,
       "id": "120363430322740193@g.us",
       "name": "JB ALLGAME RAJA",
       "size": 11,
@@ -9040,16 +9040,16 @@
     },
     "DQvs9uuJEnTEdHyHm5HadZ": {
       "status": "valid",
-      "time": 1793448266220,
+      "time": 1793450010826,
       "id": "120363431826973523@g.us",
       "name": "خریداری گروپ",
-      "size": 429,
+      "size": 431,
       "approval": false,
       "announce": false
     },
     "CDs4wpaxCUe0EiFsxlOZ5g": {
       "status": "valid",
-      "time": 1793448271693,
+      "time": 1793450012578,
       "id": "120363403214280259@g.us",
       "name": "MARKET || ☆ KENZ STORE V5 ☆",
       "size": 2,
@@ -9058,7 +9058,7 @@
     },
     "BNUcbDGFg53EDRYqzAhblT": {
       "status": "error",
-      "time": 1793448273753,
+      "time": 1793450014320,
       "err": "bad-request"
     },
     "IGPjd0oevoUHzhJiqm2Gax": {
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793449989359
+  "updated": 1793450014574
 }
