@@ -7138,10 +7138,10 @@
     },
     "LXCSVDI80Xh1t5ro0inGbL": {
       "status": "valid",
-      "time": 1793413553406,
+      "time": 1793449485466,
       "id": "120363409308045841@g.us",
       "name": "Ecom deals & Ali express",
-      "size": 377,
+      "size": 376,
       "approval": true,
       "announce": false
     },
@@ -7174,19 +7174,19 @@
     },
     "DpjZPYyBHJsH51ykiGtxEi": {
       "status": "valid",
-      "time": 1793413556481,
+      "time": 1793449488489,
       "id": "120363411617205080@g.us",
       "name": "[TOP UP] KINO STORE GAME || DIGITAL",
-      "size": 3,
+      "size": 88,
       "approval": true,
       "announce": false
     },
     "CzGHIeN39hiJwQS3322mOp": {
       "status": "valid",
-      "time": 1793413559194,
+      "time": 1793449491557,
       "id": "120363410668844433@g.us",
       "name": "𝙎𝙩𝙤𝙠 𝙧𝙚𝙘𝙚𝙝 𝙕𝙖𝙣𝙕𝙯",
-      "size": 214,
+      "size": 206,
       "approval": true,
       "announce": false
     },
@@ -7201,10 +7201,10 @@
     },
     "L6fzQr0hRlhDRTcibQADj3": {
       "status": "valid",
-      "time": 1793413565213,
+      "time": 1793449494366,
       "id": "120363426036221147@g.us",
       "name": "𝐃𝐄𝐕𝐎𝐔𝐑𝐄𝐑 𝐃𝐈𝐃𝐈𝐊𝐀𝐍 𝐂𝐈𝐒𝐔𝐍",
-      "size": 49,
+      "size": 47,
       "approval": true,
       "announce": false
     },
@@ -7244,15 +7244,6 @@
       "approval": true,
       "announce": false
     },
-    "JZGYFccZ4Bp631VHNTXCfr": {
-      "status": "valid",
-      "time": 1793413568968,
-      "id": "120363430611178249@g.us",
-      "name": "𝐌𝐀𝐑𝐆𝐀 𝐒𝐈𝐒",
-      "size": 18,
-      "approval": true,
-      "announce": false
-    },
     "BuwsHVwaJMN2jdRayKeZED": {
       "status": "expired",
       "time": 1793362087173,
@@ -7273,10 +7264,10 @@
     },
     "IQmFppEf5y441hp9kfBCE4": {
       "status": "valid",
-      "time": 1793413573236,
+      "time": 1793449500560,
       "id": "120363424156720977@g.us",
       "name": "GB OPTES PLAYHARD GPX",
-      "size": 411,
+      "size": 392,
       "approval": true,
       "announce": false
     },
@@ -7289,36 +7280,18 @@
       "approval": true,
       "announce": false
     },
-    "D5o9hdgbSHm7TH6lhSrauI": {
-      "status": "valid",
-      "time": 1793413576746,
-      "id": "120363414313373036@g.us",
-      "name": "JB UNDUL",
-      "size": 2,
-      "approval": true,
-      "announce": false
-    },
-    "G2lstCfE3KB9enaxu09pOO": {
-      "status": "valid",
-      "time": 1793413580908,
-      "id": "120363412784819001@g.us",
-      "name": "FT CS || MaxxLL X OWN¹",
-      "size": 3,
-      "approval": true,
-      "announce": false
-    },
     "HfpIn5OWtIN3Pi7c7s4ocn": {
       "status": "valid",
-      "time": 1793413585213,
+      "time": 1793449508954,
       "id": "120363430087103422@g.us",
       "name": "JB sandyz",
-      "size": 62,
+      "size": 70,
       "approval": true,
       "announce": false
     },
     "EgGD8vHBTCg5LjzXFKPXgP": {
       "status": "valid",
-      "time": 1793413589037,
+      "time": 1793449511437,
       "id": "120363429139064120@g.us",
       "name": "gorengan|Fxynz👑 v3",
       "size": 2,
@@ -10034,6 +10007,6 @@
       "announce": false
     }
   },
-  "total": 1204,
-  "updated": 1793449481323
+  "total": 1201,
+  "updated": 1793449512087
 }
