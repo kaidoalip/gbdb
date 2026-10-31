@@ -213,8 +213,8 @@
       "announce": false
     },
     "JyuwJezf2jlAe6MuEFlpwp": {
-      "status": "valid",
-      "time": 1793455148280,
+      "status": "joined",
+      "time": 1793455511054,
       "id": "120363412687228917@g.us",
       "name": "Technical Exchange",
       "size": 98,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455497459,
+  "updated": 1793455513203,
   "total": 46
 }
