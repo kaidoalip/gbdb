@@ -9243,7 +9243,7 @@
     },
     "HVQE4VztM524YWx9TbujEy": {
       "status": "error",
-      "time": 1793450098910,
+      "time": 1793451818671,
       "err": "growth-locked"
     },
     "FweYfWN7whiFYxi4T7OyZv": {
@@ -9430,7 +9430,7 @@
     },
     "JeLYyezTsBtBNRvPlYt8bz": {
       "status": "error",
-      "time": 1793450156205,
+      "time": 1793451821214,
       "err": "bad-request"
     },
     "I9H4mlGLbUQIiAZ5N8B6SE": {
@@ -9621,7 +9621,7 @@
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
       "status": "error",
-      "time": 1793450224384,
+      "time": 1793451823001,
       "err": "bad-request"
     },
     "FFN626LJ5eJ5bppqtkyOEn": {
@@ -9778,30 +9778,53 @@
       "announce": false
     },
     "GI4LYxEQV1KLT8kZqKPT2K": {
-      "status": "new",
-      "time": 1793449536885
+      "status": "valid",
+      "time": 1793451826250,
+      "id": "120363411448165175@g.us",
+      "name": "Google Voice Trusted Service",
+      "size": 161,
+      "approval": true,
+      "announce": false
     },
     "CBkwGIvHjOOAw3KCyxrRDo": {
-      "status": "new",
-      "time": 1793449536885
+      "status": "valid",
+      "time": 1793451828514,
+      "id": "120363413547404804@g.us",
+      "name": "𝗚𝗖 𝗣𝗨𝗦𝗛𝗞𝗢𝗡 𝗥𝗜𝗜 𝗨𝗧𝗔𝗠𝗔🕊",
+      "size": 71,
+      "approval": false,
+      "announce": false
     },
     "KcQf4UozqOA2MXn5rANFoJ": {
-      "status": "new",
-      "time": 1793449776844
+      "status": "joined",
+      "time": 1793451830548,
+      "id": "120363431705344093@g.us",
+      "name": "🌐 All-in-One Email Marketplace | Hotmail & Outlook | Buy, Sell, Exchange & Email Services | Everythi",
+      "size": 92,
+      "approval": false,
+      "announce": false
     },
     "IbBrapju6uR0nuRuTlOks9": {
-      "status": "new",
-      "time": 1793450377030
+      "status": "error",
+      "time": 1793451832835,
+      "err": "bad-request"
     },
     "JIehHGewTKUGprqZfz1Mix": {
-      "status": "new",
-      "time": 1793450617221
+      "status": "komunitas",
+      "time": 1793451836129,
+      "id": "120363420575868223@g.us",
+      "name": "M.AFAQ TRUSTED SELLER"
     },
     "ITHqu3brcIa4lI0rlZ7VI6": {
-      "status": "new",
-      "time": 1793451097242
+      "status": "valid",
+      "time": 1793451839406,
+      "id": "120363410389973976@g.us",
+      "name": "Used Gamil Buy & sell 📬",
+      "size": 170,
+      "approval": false,
+      "announce": false
     }
   },
   "total": 1181,
-  "updated": 1793451816983
+  "updated": 1793451839850
 }
