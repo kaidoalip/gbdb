@@ -9977,44 +9977,76 @@
       "announce": false
     },
     "DsAd4bBiqGy0N97R69PZgQ": {
-      "status": "new",
-      "time": 1793446201723
+      "status": "valid",
+      "time": 1793448540128,
+      "id": "120363420021348142@g.us",
+      "name": "FJB LANGZ ALLGAME | 1",
+      "size": 140,
+      "approval": true,
+      "announce": false
     },
     "EbU1rMMsneYHwJE7X5LFZF": {
-      "status": "new",
-      "time": 1793446201723
+      "status": "valid",
+      "time": 1793448542686,
+      "id": "120363425930205997@g.us",
+      "name": "FJB LANGZ ALLGAME | 2",
+      "size": 48,
+      "approval": true,
+      "announce": false
     },
     "BjJHCu4ZTUO4ApAgjaVQPS": {
-      "status": "new",
-      "time": 1793446201723
-    },
-    "JR4KwmjKhWD8s4EPO3q1eL": {
-      "status": "new",
-      "time": 1793446201723
+      "status": "valid",
+      "time": 1793448545368,
+      "id": "120363426291041818@g.us",
+      "name": "FJB LANGZ ALLGAME | 3",
+      "size": 42,
+      "approval": true,
+      "announce": false
     },
     "FnZhjrDWHLj5z0ztWffTJl": {
-      "status": "new",
-      "time": 1793446321510
+      "status": "valid",
+      "time": 1793448549641,
+      "id": "120363413121445765@g.us",
+      "name": "Easypasy jazz cash account",
+      "size": 26,
+      "approval": false,
+      "announce": false
     },
     "GQzuFXQyV3eGvvAnvmsQPI": {
-      "status": "new",
-      "time": 1793446321510
-    },
-    "EiEwypmy6yWHdbeqXtMGsy": {
-      "status": "new",
-      "time": 1793446441581
+      "status": "valid",
+      "time": 1793448551727,
+      "id": "120363419311142384@g.us",
+      "name": "Adnan Digital Hub",
+      "size": 64,
+      "approval": false,
+      "announce": false
     },
     "LtWE5GDFUyF3zM3yCb1kCP": {
-      "status": "new",
-      "time": 1793446681591
+      "status": "valid",
+      "time": 1793448556087,
+      "id": "120363410877305364@g.us",
+      "name": "Youtube Channel Buy Sell Global",
+      "size": 121,
+      "approval": true,
+      "announce": false
     },
     "FFK5tlwvrMh9uOfLXJed7M": {
-      "status": "new",
-      "time": 1793447255591
+      "status": "valid",
+      "time": 1793448559330,
+      "id": "120363415446546755@g.us",
+      "name": "𝗜𝗡𝗙𝗢 𝗘𝗖𝗘𝗥/𝗦𝗧𝗢𝗞 -𝗟𝗮𝗺𝘇𝘁𝘇𝘆𝗲",
+      "size": 112,
+      "approval": false,
+      "announce": false
     },
     "LEUSzJ5vvYABHaCY6AZ3fP": {
-      "status": "new",
-      "time": 1793447495498
+      "status": "valid",
+      "time": 1793448561480,
+      "id": "120363427097810401@g.us",
+      "name": "Buy • Sell • Exchange tench Rawalpindi Pakistan",
+      "size": 358,
+      "approval": false,
+      "announce": false
     },
     "Ep8743vyBZMKYq9JU3Zzri": {
       "status": "new",
@@ -10025,6 +10057,6 @@
       "time": 1793448216872
     }
   },
-  "total": 1210,
-  "updated": 1793448536653
+  "total": 1208,
+  "updated": 1793448561976
 }
