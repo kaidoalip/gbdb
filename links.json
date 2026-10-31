@@ -9278,44 +9278,85 @@
       "err": "bad-request"
     },
     "IGPjd0oevoUHzhJiqm2Gax": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448282582,
+      "id": "120363413714270658@g.us",
+      "name": "GC UTAMA B4DSTURR 🗿",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "D6e5PXqdwArGWb3lbQYrNQ": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448285288,
+      "id": "120363422166659460@g.us",
+      "name": "GB MARKET ALL GAME | XRC V2",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "HV6ay6THdEEKfoPmxfpn0U": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448287946,
+      "id": "120363431405380005@g.us",
+      "name": "GB FT CS 500P-5K || DITZ #1",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "IK3yqXiLMdo5tDBut1i7Sd": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448290147,
+      "id": "120363413082166853@g.us",
+      "name": "𝐉𝐁 𝐀𝐋𝐋𝐆𝐀𝐌𝐄 𝐑𝐄𝐘𝐄𝐒𝐙 𝐒𝐓𝐀𝐑𝐑[𝟎𝟐]",
+      "size": 4,
+      "approval": true,
+      "announce": false
     },
     "CwgqO20h5bUHi536a4lRKT": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448292421,
+      "id": "120363429524952224@g.us",
+      "name": "𝑆𝑡𝑒𝑙𝑙𝑎 𝑆𝑡𝑜𝑟𝑒 || Apk Prem || Kebsos || Hacking || Nokos || Dan Masih Banyak Yang Lain Nya🫆",
+      "size": 58,
+      "approval": true,
+      "announce": false
     },
     "EdhXjhmjPkjKn4hkVGwskt": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448295508,
+      "id": "120363433049039530@g.us",
+      "name": "GB OPTES ANTIBAN V28",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "Hv93gKHpuLbLP54DQuTHt0": {
-      "status": "new",
-      "time": 1793412955707
-    },
-    "FYI1fyyl45y0smUt5gPj6B": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448297547,
+      "id": "120363415153993258@g.us",
+      "name": "GB FT¹ CS BY PUTR X YOO X BES X KLAZ",
+      "size": 5,
+      "approval": true,
+      "announce": false
     },
     "GgzWmFaYV6N9h3SIQ9Bjkz": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448302692,
+      "id": "120363429639976739@g.us",
+      "name": "GB DRONGZ STUR",
+      "size": 28,
+      "approval": true,
+      "announce": false
     },
     "KTxX9sSKU4a8Ed0AXIN0JI": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448305314,
+      "id": "120363433244448905@g.us",
+      "name": "BAGAS STORE ALL GAME#1",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "Ktiu1KF76iR5EJdyDxRDLO": {
       "status": "new",
@@ -9686,6 +9727,6 @@
       "time": 1793448216872
     }
   },
-  "total": 1219,
-  "updated": 1793448278870
+  "total": 1218,
+  "updated": 1793448305847
 }
