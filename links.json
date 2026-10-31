@@ -41,11 +41,11 @@
       "approval": true
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "joined",
-      "time": 1793367319813,
+      "status": "valid",
+      "time": 1793448751757,
       "id": "120363419140015193@g.us",
       "name": "SK Travels",
-      "size": 837,
+      "size": 836,
       "approval": false,
       "announce": false
     },
@@ -333,8 +333,8 @@
       "approval": false
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "joined",
-      "time": 1793403043859,
+      "status": "valid",
+      "time": 1793448754002,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
       "size": 367,
@@ -786,8 +786,8 @@
       "approval": false
     },
     "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "joined",
-      "time": 1793250435895,
+      "status": "valid",
+      "time": 1793448756859,
       "id": "120363412768061441@g.us",
       "name": "Roshan Bhai Trusted seller ✅",
       "size": 65,
@@ -1161,11 +1161,11 @@
       "announce": false
     },
     "GZDbt1RwPR72hJiPuB5cw5": {
-      "status": "joined",
-      "time": 1793250714274,
+      "status": "valid",
+      "time": 1793448759565,
       "id": "120363349734283576@g.us",
       "name": "This group is for posting details about scammers, so please do not post anything related to your own",
-      "size": 776,
+      "size": 790,
       "approval": true,
       "announce": false
     },
@@ -1642,8 +1642,8 @@
       "name": "KHAN 👑 TRUSTED 💯 MARKETING HUB 🚀"
     },
     "IQbUyZHR5UAG30wS0WamOT": {
-      "status": "joined",
-      "time": 1793338348424,
+      "status": "valid",
+      "time": 1793448762251,
       "id": "120363429996618054@g.us",
       "name": "(•ᴗ•) ʙʟᴀꜱᴛɪɴɢ ᴛᴇᴀᴍ ᴀᴅᴍɪɴ (•ᴗ•)",
       "size": 62,
@@ -2398,11 +2398,11 @@
       "announce": false
     },
     "HbifHxqM213BZogdtNzijP": {
-      "status": "joined",
-      "time": 1793350028721,
+      "status": "valid",
+      "time": 1793448764379,
       "id": "120363415081162660@g.us",
       "name": "💖 Islamic Group 💖",
-      "size": 122,
+      "size": 119,
       "approval": false,
       "announce": false
     },
@@ -2587,14 +2587,14 @@
       "announce": false
     },
     "EbrFp8LvtUt7w2A3bX1HNM": {
-      "status": "joined",
-      "time": 1793369697015,
+      "status": "blocked",
+      "time": 1793448767232,
       "id": "120363414890346339@g.us",
       "name": "Youtube skills",
       "size": 181,
       "approval": false,
       "announce": false,
-      "err": "rate-overlimit"
+      "err": "not-authorized"
     },
     "EZS4dwxayBFLDPGYJpTV6i": {
       "status": "joined",
@@ -2625,11 +2625,11 @@
       "approval": false
     },
     "IxroMyntGmN6vwOO8Xvhuw": {
-      "status": "joined",
-      "time": 1793369750655,
+      "status": "valid",
+      "time": 1793448769654,
       "id": "120363432050265418@g.us",
       "name": "Pakistan Buy and Sell group",
-      "size": 112,
+      "size": 108,
       "approval": false,
       "announce": false,
       "err": "rate-overlimit"
@@ -2761,11 +2761,11 @@
       "approval": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
-      "status": "joined",
-      "time": 1793369850474,
+      "status": "valid",
+      "time": 1793448772906,
       "id": "120363421225872930@g.us",
       "name": "All Service Provider 💝",
-      "size": 841,
+      "size": 837,
       "approval": false,
       "announce": false
     },
@@ -2857,13 +2857,14 @@
       "approval": false
     },
     "GHwlFBhd7SQ1oyIiPSdXWB": {
-      "status": "joined",
-      "time": 1793369961992,
+      "status": "blocked",
+      "time": 1793448775597,
       "id": "120363428864735871@g.us",
       "name": "Amir trusted seller",
       "size": 214,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "not-authorized"
     },
     "IO1srKs865X8UrTmoSz6uJ": {
       "status": "joined",
@@ -10068,5 +10069,5 @@
     }
   },
   "total": 1208,
-  "updated": 1793448749078
+  "updated": 1793448775868
 }
