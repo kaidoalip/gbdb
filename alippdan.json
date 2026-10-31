@@ -168,8 +168,8 @@
       "announce": false
     },
     "H4IsIrHIxYMKiEUCkaDajd": {
-      "status": "valid",
-      "time": 1793455134106,
+      "status": "pending",
+      "time": 1793455433217,
       "id": "120363293028679776@g.us",
       "name": "Allama Iqbal Open Univ 6",
       "size": 831,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455418208,
+  "updated": 1793455433563,
   "total": 46
 }
