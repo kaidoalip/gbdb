@@ -8723,84 +8723,79 @@
     },
     "LLkX37b82zSIHxeqM4Lfsu": {
       "status": "valid",
-      "time": 1793406388477,
+      "time": 1793414027166,
       "id": "120363430104474195@g.us",
       "name": "Ali Hussnain/Imtiaz/ARK/pardeep Saler ✅ open chat ☺️",
-      "size": 38,
-      "approval": false
+      "size": 37,
+      "approval": false,
+      "announce": false
     },
     "K1wPIQ0DPfp30EBdquffcq": {
       "status": "valid",
-      "time": 1793406392158,
+      "time": 1793414030122,
       "id": "120363431548614913@g.us",
       "name": "PRINCE TRUSTED SELLER 💯",
       "size": 19,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "CZ4MmkyG2C7IdGvGkdJr8x": {
       "status": "valid",
-      "time": 1793406397246,
+      "time": 1793414032844,
       "id": "120363428844875472@g.us",
       "name": "Outlook or Hotmail available",
       "size": 23,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "IzWr6JezifC81b7cD4UWd8": {
       "status": "valid",
-      "time": 1793406400216,
+      "time": 1793414036311,
       "id": "120363430426755203@g.us",
       "name": "TT Tn TF Gv Gmail available",
-      "size": 212,
-      "approval": false
+      "size": 215,
+      "approval": false,
+      "announce": false
     },
     "G43RD4YO1ZY3P0hN47Z1K6": {
       "status": "valid",
-      "time": 1793406404379,
+      "time": 1793414039296,
       "id": "120363306051812825@g.us",
       "name": "GV SL TN TF TT TP buy",
       "size": 309,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "E0uE9SnIOGLHePBRDibrOm": {
       "status": "valid",
-      "time": 1793406408172,
+      "time": 1793414042166,
       "id": "120363418423110148@g.us",
       "name": "Online work for AS TR ✅📳♾️🚾",
       "size": 204,
-      "approval": true
-    },
-    "JPDgOt1KJqEHZ6ak9AUZ5k": {
-      "status": "error",
-      "time": 1793406411147,
-      "id": "120363431391373198@g.us",
-      "name": "Deal group",
-      "size": 444,
-      "approval": false,
-      "err": "growth-locked"
+      "approval": true,
+      "announce": false
     },
     "BB6VtlnVa6cIreDX0qc0dM": {
       "status": "valid",
-      "time": 1793406414405,
+      "time": 1793414048714,
       "id": "120363431515414905@g.us",
       "name": "🚀 Prime YouTube Deals",
       "size": 301,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "Jz152wF0OetC2lVSUBVgsk": {
       "status": "valid",
-      "time": 1793406418156,
+      "time": 1793414051710,
       "id": "120363430699776304@g.us",
       "name": "Official Gift Card Store",
       "size": 1,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "HWTiVLimnVcHmPGaNukWXM": {
       "status": "expired",
       "time": 1793403055764
-    },
-    "DjgDIQ9iEskFAHx2NFwmM7": {
-      "status": "blocked",
-      "time": 1793406420868
     },
     "Bvxn58K2ZDs1HdhVACqNmi": {
       "status": "valid",
@@ -9349,6 +9344,6 @@
       "time": 1793414042275
     }
   },
-  "total": 1159,
-  "updated": 1793414023168
+  "total": 1158,
+  "updated": 1793414054595
 }
