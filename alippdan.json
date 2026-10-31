@@ -42,8 +42,8 @@
       "announce": false
     },
     "HKfm4MPbRoVLYgqo4Hhr5C": {
-      "status": "valid",
-      "time": 1793455095245,
+      "status": "joined",
+      "time": 1793455230034,
       "id": "120363428217219408@g.us",
       "name": "KPK BUY & SELL",
       "size": 185,
@@ -393,6 +393,6 @@
       "time": 1793455177065
     }
   },
-  "updated": 1793455217563,
+  "updated": 1793455230246,
   "total": 45
 }
