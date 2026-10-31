@@ -371,8 +371,8 @@
       "announce": false
     },
     "GI4LYxEQV1KLT8kZqKPT2K": {
-      "status": "valid",
-      "time": 1793455195967,
+      "status": "pending",
+      "time": 1793455720328,
       "id": "120363411448165175@g.us",
       "name": "Google Voice Trusted Service",
       "size": 162,
@@ -423,6 +423,6 @@
       "time": 1793455657409
     }
   },
-  "updated": 1793455704506,
+  "updated": 1793455720547,
   "total": 50
 }
