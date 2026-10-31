@@ -2539,16 +2539,6 @@
       "size": 172,
       "approval": true
     },
-    "HPWoeUq1DSo2yY3fxAvrmK": {
-      "status": "joined",
-      "time": 1793369626398,
-      "id": "120363431792219627@g.us",
-      "name": "World war 3",
-      "size": 8,
-      "approval": false,
-      "announce": false,
-      "err": "rate-overlimit"
-    },
     "KwjVm9F29anBGgssn9rfxr": {
       "status": "joined",
       "time": 1793369643960,
@@ -9661,6 +9651,6 @@
       "time": 1793446681591
     }
   },
-  "total": 1219,
-  "updated": 1793447122965
+  "total": 1218,
+  "updated": 1793447124472
 }
