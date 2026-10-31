@@ -9445,44 +9445,81 @@
       "announce": false
     },
     "CrEFFfzO75z1Hrmz0Mhrc7": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448338007,
+      "id": "120363428480332876@g.us",
+      "name": "GB FT CEES || ROOMONEY 500P | 5K #1",
+      "size": 12,
+      "approval": true,
+      "announce": false
     },
     "Jprc7Jop6LYADfvJRv81kR": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448340481,
+      "id": "120363419181863856@g.us",
+      "name": "PROJECT BY CAYY",
+      "size": 72,
+      "approval": true,
+      "announce": false
     },
     "FCQ9Cl9jlLjKv6dB206Le8": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448342543,
+      "id": "120363431544484430@g.us",
+      "name": "GB JB ALLGAME VINN #1 (100MEM DAGET)",
+      "size": 54,
+      "approval": true,
+      "announce": false
     },
     "GsRMd6IHrRqKjyyqlXrSNH": {
-      "status": "new",
-      "time": 1793412959899
+      "status": "valid",
+      "time": 1793448345923,
+      "id": "120363407602057515@g.us",
+      "name": "حنا خان گروپ نمبر 6 کال سروسز",
+      "size": 834,
+      "approval": true,
+      "announce": false
     },
     "BE35h1kRqoD6HRuQhmRyw0": {
-      "status": "new",
-      "time": 1793413315736
-    },
-    "Ib65hXMTYZ3D4zlcQ3p97o": {
-      "status": "new",
-      "time": 1793413682085
+      "status": "blocked",
+      "time": 1793448347778,
+      "err": "not-authorized"
     },
     "C5XQYiOYwC5J4MARG1he1K": {
-      "status": "new",
-      "time": 1793414042275
+      "status": "valid",
+      "time": 1793448352052,
+      "id": "120363410287569606@g.us",
+      "name": "دینہ، جہلم میں سب کچھ ملتا ہے۔✨",
+      "size": 202,
+      "approval": false,
+      "announce": false
     },
     "FAxQeqG3ut872EyiBt9a78": {
-      "status": "new",
-      "time": 1793414162270
+      "status": "valid",
+      "time": 1793448354858,
+      "id": "120363350451145714@g.us",
+      "name": "اسلحہ اور لائسنس پاکستان",
+      "size": 681,
+      "approval": false,
+      "announce": false
     },
     "Gr4LKPN0h676qeLmxRAR64": {
-      "status": "new",
-      "time": 1793414275595
+      "status": "valid",
+      "time": 1793448358219,
+      "id": "120363431386567241@g.us",
+      "name": "Wahab truested saler",
+      "size": 163,
+      "approval": false,
+      "announce": false
     },
     "Jf26OuDPTPVAK3h57thv8r": {
-      "status": "new",
-      "time": 1793414395301
+      "status": "valid",
+      "time": 1793448361461,
+      "id": "120363429276572320@g.us",
+      "name": "~Fayaz trusted seller~✅",
+      "size": 165,
+      "approval": false,
+      "announce": false
     },
     "KAIAI8jbzX4DY0R5vFOch8": {
       "status": "new",
@@ -9773,6 +9810,6 @@
       "time": 1793448216872
     }
   },
-  "total": 1218,
-  "updated": 1793448337135
+  "total": 1217,
+  "updated": 1793448361805
 }
