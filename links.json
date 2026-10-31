@@ -9641,44 +9641,81 @@
       "announce": false
     },
     "EUf4mmgRxuq0cF5A2mjSX3": {
-      "status": "new",
-      "time": 1793419981624
+      "status": "valid",
+      "time": 1793448424950,
+      "id": "120363412804430700@g.us",
+      "name": "پاسداری",
+      "size": 52,
+      "approval": false,
+      "announce": false
     },
     "JQjpkKVs4sN04ZdYmtFsfg": {
-      "status": "new",
-      "time": 1793420701542
+      "status": "valid",
+      "time": 1793448427312,
+      "id": "120363409454475561@g.us",
+      "name": "تلاوت قرآن کریم ❤️‍🩹❤️‍🩹",
+      "size": 240,
+      "approval": false,
+      "announce": false
     },
     "J3wo8kbtHo49BbLDTiWnx6": {
-      "status": "new",
-      "time": 1793420701542
+      "status": "valid",
+      "time": 1793448430481,
+      "id": "120363160262690317@g.us",
+      "name": "꧁اسلامی گروپ꧂",
+      "size": 817,
+      "approval": false,
+      "announce": false
     },
     "FI3NFgLuuOB7RDBOS1GMp5": {
-      "status": "new",
-      "time": 1793420701542
-    },
-    "HGwSUCCXH0F4SU2kohFiJO": {
-      "status": "new",
-      "time": 1793420821806
+      "status": "valid",
+      "time": 1793448433006,
+      "id": "120363051261541504@g.us",
+      "name": "SM Trusted Seller",
+      "size": 317,
+      "approval": false,
+      "announce": false
     },
     "GOzUnoHi4AlBl5Ba8YY2gq": {
-      "status": "new",
-      "time": 1793420821806
+      "status": "valid",
+      "time": 1793448437039,
+      "id": "120363408226718352@g.us",
+      "name": "Professor writing services",
+      "size": 66,
+      "approval": false,
+      "announce": false
     },
     "FBvvYOZdc6U8pv8VGdEyQU": {
-      "status": "new",
-      "time": 1793421061442
+      "status": "valid",
+      "time": 1793448439636,
+      "id": "120363409521996216@g.us",
+      "name": "World of English",
+      "size": 110,
+      "approval": false,
+      "announce": false
     },
     "IDISre7TMDEI8aJXj6Zmw0": {
-      "status": "new",
-      "time": 1793421421754
+      "status": "valid",
+      "time": 1793448442318,
+      "id": "120363159910399573@g.us",
+      "name": "🦅ustad Afzal dholla pegion club jhang  🦅",
+      "size": 118,
+      "approval": false,
+      "announce": false
     },
     "DX27E7f2L3dE7k4i1mXKJr": {
-      "status": "new",
-      "time": 1793421661824
+      "status": "blocked",
+      "time": 1793448444147,
+      "err": "not-authorized"
     },
     "GcRwjSaN6jM2onqxQKNaKE": {
-      "status": "new",
-      "time": 1793421901531
+      "status": "valid",
+      "time": 1793448446449,
+      "id": "120363412521267883@g.us",
+      "name": "All bank account maujud ♥️",
+      "size": 35,
+      "approval": false,
+      "announce": false
     },
     "JeLYyezTsBtBNRvPlYt8bz": {
       "status": "new",
@@ -9849,6 +9886,6 @@
       "time": 1793448216872
     }
   },
-  "total": 1211,
-  "updated": 1793448420827
+  "total": 1210,
+  "updated": 1793448446730
 }
