@@ -204,8 +204,8 @@
       "announce": false
     },
     "ENxQAMG3Au7EGgAgZIFymf": {
-      "status": "valid",
-      "time": 1793455145370,
+      "status": "joined",
+      "time": 1793455497258,
       "id": "120363426620824584@g.us",
       "name": "Abbas trusted family ♥️",
       "size": 305,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455483398,
+  "updated": 1793455497459,
   "total": 46
 }
