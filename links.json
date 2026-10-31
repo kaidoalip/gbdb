@@ -2625,8 +2625,8 @@
       "approval": false
     },
     "IxroMyntGmN6vwOO8Xvhuw": {
-      "status": "valid",
-      "time": 1793448769654,
+      "status": "joined",
+      "time": 1793450391054,
       "id": "120363432050265418@g.us",
       "name": "Pakistan Buy and Sell group",
       "size": 108,
@@ -9868,5 +9868,5 @@
     }
   },
   "total": 1187,
-  "updated": 1793450377030
+  "updated": 1793450391694
 }
