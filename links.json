@@ -7472,7 +7472,7 @@
     },
     "Hyx9gAcUQe80A56ecqeXK3": {
       "status": "valid",
-      "time": 1793413668529,
+      "time": 1793449570450,
       "id": "120363410520620241@g.us",
       "name": "JB ALLGAME 204",
       "size": 58,
@@ -7481,25 +7481,25 @@
     },
     "FnCdpVmbKRNDEzxmsK7kG1": {
       "status": "valid",
-      "time": 1793413673917,
+      "time": 1793449574170,
       "id": "120363430049858791@g.us",
-      "name": "JB ALLGAME 205",
-      "size": 32,
+      "name": "STOK || ZASS NEW ERA¹⁴",
+      "size": 101,
       "approval": true,
       "announce": false
     },
     "DdOdTsYji1W7AWqO8ogrEG": {
       "status": "valid",
-      "time": 1793413677177,
+      "time": 1793449576673,
       "id": "120363414178295904@g.us",
       "name": "JB ALLGAME Yaya",
-      "size": 48,
+      "size": 86,
       "approval": true,
       "announce": false
     },
     "DbgLkRHXjgC7xamAsko18t": {
       "status": "valid",
-      "time": 1793413681091,
+      "time": 1793449579876,
       "id": "120363432594764240@g.us",
       "name": "JB ALLGAME XENO STORE",
       "size": 21,
@@ -7508,7 +7508,7 @@
     },
     "KbAR8X207WjDJXmKGAwY88": {
       "status": "valid",
-      "time": 1793413685198,
+      "time": 1793449582493,
       "id": "120363415817636095@g.us",
       "name": "JB ALLGAME BAWAHAN",
       "size": 56,
@@ -7517,16 +7517,16 @@
     },
     "K21u1axIuBRAXkZC84revc": {
       "status": "valid",
-      "time": 1793413689005,
+      "time": 1793449584517,
       "id": "120363431462861003@g.us",
       "name": "JB ALLGAME 209",
-      "size": 52,
+      "size": 51,
       "approval": true,
       "announce": false
     },
     "CrCQg2aUhw1I4OT7O4oDBc": {
       "status": "valid",
-      "time": 1793413691711,
+      "time": 1793449586714,
       "id": "120363431258535222@g.us",
       "name": "JB ALLGAME RANZ STOK",
       "size": 53,
@@ -7535,28 +7535,28 @@
     },
     "JPdWXl1ZwgPLmQz30CaueL": {
       "status": "valid",
-      "time": 1793413695859,
+      "time": 1793449589013,
       "id": "120363410554267682@g.us",
       "name": "JB ALLGAME 211",
-      "size": 4,
+      "size": 87,
       "approval": true,
       "announce": false
     },
     "G2tIO01T1Wu1b2xQKQtSrG": {
       "status": "valid",
-      "time": 1793413698606,
+      "time": 1793449591820,
       "id": "120363429962154296@g.us",
       "name": "JB ALLGAME ROCK KI",
-      "size": 54,
+      "size": 53,
       "approval": true,
       "announce": false
     },
     "BhFvLOWleKIDVdlZbgdUdx": {
       "status": "valid",
-      "time": 1793413701273,
+      "time": 1793449593830,
       "id": "120363413963160290@g.us",
       "name": "JB ALLGAME PP BOMEL",
-      "size": 28,
+      "size": 72,
       "approval": true,
       "announce": false
     },
@@ -9990,5 +9990,5 @@
     }
   },
   "total": 1200,
-  "updated": 1793449567281
+  "updated": 1793449594216
 }
