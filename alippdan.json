@@ -20,44 +20,89 @@
     },
     "EiZyE2U8QB65KQ4idfyYpC": {
       "status": "error",
-      "time": 1793452175989,
+      "time": 1793455087143,
       "err": "bad-request"
     },
     "JgmxWGl3sBeFk2OeGIAPCv": {
-      "status": "new",
-      "time": 1793452296941
+      "status": "valid",
+      "time": 1793455089535,
+      "id": "120363157930495500@g.us",
+      "name": "MOBILE DEPO 🍇 CLAIM 🍇 PROCESSING 🌀 DATA ",
+      "size": 932,
+      "approval": true,
+      "announce": false
     },
     "CPtYkURZVCOKrjxLiClWla": {
-      "status": "new",
-      "time": 1793452296941
+      "status": "valid",
+      "time": 1793455092138,
+      "id": "120363294911055624@g.us",
+      "name": "All update information 🇵🇰",
+      "size": 762,
+      "approval": true,
+      "announce": false
     },
     "HKfm4MPbRoVLYgqo4Hhr5C": {
-      "status": "new",
-      "time": 1793452296941
+      "status": "valid",
+      "time": 1793455095245,
+      "id": "120363428217219408@g.us",
+      "name": "KPK BUY & SELL",
+      "size": 185,
+      "approval": false,
+      "announce": false
     },
     "H6sD596KNxBGTMBnefJpLQ": {
-      "status": "new",
-      "time": 1793452537062
+      "status": "valid",
+      "time": 1793455098142,
+      "id": "120363431260956107@g.us",
+      "name": "Boom 💥 Crash",
+      "size": 13,
+      "approval": true,
+      "announce": false
     },
     "EzKZSdD8cBZ9j6bXOFS6sk": {
-      "status": "new",
-      "time": 1793452537062
+      "status": "joined",
+      "time": 1793455100818,
+      "id": "120363415129532642@g.us",
+      "name": "🍁TN🍁GV🍁TT🍁TF🍁BEY🍁SEEL🍁",
+      "size": 309,
+      "approval": false,
+      "announce": false
     },
     "GpWBShYa6QWL2tNbjmkZWD": {
-      "status": "new",
-      "time": 1793452537062
+      "status": "joined",
+      "time": 1793455103377,
+      "id": "120363429975554516@g.us",
+      "name": "🍁BANAINCE🎙️EVENT🍁 GRUP🎙️",
+      "size": 215,
+      "approval": false,
+      "announce": false
     },
     "H2s9Gm6TBUU9Yql5VoJAPK": {
-      "status": "new",
-      "time": 1793452657032
+      "status": "valid",
+      "time": 1793455105843,
+      "id": "120363430277413727@g.us",
+      "name": "AWS cloud rdp selling",
+      "size": 157,
+      "approval": false,
+      "announce": false
     },
     "KDxoFEFRUuhJnkRamyIkIG": {
-      "status": "new",
-      "time": 1793452777047
+      "status": "joined",
+      "time": 1793455107632,
+      "id": "120363432662174464@g.us",
+      "name": "Global Gift Card Network🇺🇸",
+      "size": 154,
+      "approval": true,
+      "announce": false
     },
     "EGeNdBjxXb64pxnMkP5mf3": {
-      "status": "new",
-      "time": 1793452897047
+      "status": "valid",
+      "time": 1793455110080,
+      "id": "120363433242629798@g.us",
+      "name": "Kotmomin city buying & selling group",
+      "size": 7,
+      "approval": false,
+      "announce": false
     },
     "HWDOvyFvxmNJ0kFyZHByU8": {
       "status": "new",
@@ -192,6 +237,6 @@
       "time": 1793455082206
     }
   },
-  "updated": 1793455082206,
+  "updated": 1793455110263,
   "total": 45
 }
