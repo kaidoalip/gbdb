@@ -1161,8 +1161,8 @@
       "announce": false
     },
     "GZDbt1RwPR72hJiPuB5cw5": {
-      "status": "valid",
-      "time": 1793448759565,
+      "status": "pending",
+      "time": 1793450336577,
       "id": "120363349734283576@g.us",
       "name": "This group is for posting details about scammers, so please do not post anything related to your own",
       "size": 790,
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450320129
+  "updated": 1793450336900
 }
