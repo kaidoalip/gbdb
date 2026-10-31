@@ -7651,7 +7651,7 @@
     },
     "FnCdpVmbKRNDEzxmsK7kG1": {
       "status": "valid",
-      "time": 1793405983277,
+      "time": 1793413673917,
       "id": "120363430049858791@g.us",
       "name": "JB ALLGAME 205",
       "size": 32,
@@ -7660,7 +7660,7 @@
     },
     "DdOdTsYji1W7AWqO8ogrEG": {
       "status": "valid",
-      "time": 1793405986157,
+      "time": 1793413677177,
       "id": "120363414178295904@g.us",
       "name": "JB ALLGAME Yaya",
       "size": 48,
@@ -7669,7 +7669,7 @@
     },
     "DbgLkRHXjgC7xamAsko18t": {
       "status": "valid",
-      "time": 1793405989614,
+      "time": 1793413681091,
       "id": "120363432594764240@g.us",
       "name": "JB ALLGAME XENO STORE",
       "size": 21,
@@ -7678,16 +7678,16 @@
     },
     "KbAR8X207WjDJXmKGAwY88": {
       "status": "valid",
-      "time": 1793405995146,
+      "time": 1793413685198,
       "id": "120363415817636095@g.us",
       "name": "JB ALLGAME BAWAHAN",
-      "size": 57,
+      "size": 56,
       "approval": true,
       "announce": false
     },
     "K21u1axIuBRAXkZC84revc": {
       "status": "valid",
-      "time": 1793405997958,
+      "time": 1793413689005,
       "id": "120363431462861003@g.us",
       "name": "JB ALLGAME 209",
       "size": 52,
@@ -7696,7 +7696,7 @@
     },
     "CrCQg2aUhw1I4OT7O4oDBc": {
       "status": "valid",
-      "time": 1793406001589,
+      "time": 1793413691711,
       "id": "120363431258535222@g.us",
       "name": "JB ALLGAME RANZ STOK",
       "size": 53,
@@ -7705,7 +7705,7 @@
     },
     "JPdWXl1ZwgPLmQz30CaueL": {
       "status": "valid",
-      "time": 1793406004173,
+      "time": 1793413695859,
       "id": "120363410554267682@g.us",
       "name": "JB ALLGAME 211",
       "size": 4,
@@ -7714,7 +7714,7 @@
     },
     "G2tIO01T1Wu1b2xQKQtSrG": {
       "status": "valid",
-      "time": 1793406008255,
+      "time": 1793413698606,
       "id": "120363429962154296@g.us",
       "name": "JB ALLGAME ROCK KI",
       "size": 54,
@@ -7723,7 +7723,7 @@
     },
     "BhFvLOWleKIDVdlZbgdUdx": {
       "status": "valid",
-      "time": 1793406012432,
+      "time": 1793413701273,
       "id": "120363413963160290@g.us",
       "name": "JB ALLGAME PP BOMEL",
       "size": 28,
@@ -7732,7 +7732,7 @@
     },
     "Bwb0Mxrk2IgERZWjykSZ5N": {
       "status": "valid",
-      "time": 1793406014923,
+      "time": 1793413704301,
       "id": "120363411611249841@g.us",
       "name": "JB ALLGAME 214",
       "size": 9,
@@ -9356,6 +9356,6 @@
       "time": 1793413682085
     }
   },
-  "total": 1162,
-  "updated": 1793413668759
+  "total": 1163,
+  "updated": 1793413704529
 }
