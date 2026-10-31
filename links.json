@@ -7408,91 +7408,65 @@
     },
     "BaKeEUdHvgdHEDgZeI7n0n": {
       "status": "valid",
-      "time": 1793413627795,
+      "time": 1793449542891,
       "id": "120363431399584372@g.us",
       "name": "STOK ZALL JEBEH × BOMEL #8",
-      "size": 96,
-      "approval": true,
-      "announce": false
-    },
-    "E5yBvF9Kc8X7XwcldjFzNR": {
-      "status": "valid",
-      "time": 1793413630487,
-      "id": "120363432076286289@g.us",
-      "name": "JB TERBUKA MARKET SATRIA",
-      "size": 116,
-      "approval": true,
-      "announce": false
-    },
-    "CjtUowqKqAv69npUkFrQd5": {
-      "status": "valid",
-      "time": 1793413632937,
-      "id": "120363431754902123@g.us",
-      "name": "JB ALLGAME 195",
-      "size": 107,
+      "size": 95,
       "approval": true,
       "announce": false
     },
     "GNlt4MuPueE3pLZKH6rNSA": {
       "status": "valid",
-      "time": 1793413640342,
+      "time": 1793449550793,
       "id": "120363414513113784@g.us",
-      "name": "JB ALLGAME PP BOMEL",
-      "size": 113,
+      "name": "STOK || ZASS NEW ERA¹²",
+      "size": 120,
       "approval": true,
       "announce": false
     },
     "GgV6TjQUr0h4RwEiQWrzxR": {
       "status": "valid",
-      "time": 1793413643514,
+      "time": 1793449552643,
       "id": "120363432333615974@g.us",
-      "name": "JB ALLGAME JUNZ STORE",
-      "size": 112,
+      "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗥𝗜𝗜🕊",
+      "size": 133,
       "approval": true,
       "announce": false
     },
     "Kot0HvHzABNGXpYxWPXzRB": {
-      "status": "valid",
-      "time": 1793413646372,
+      "status": "error",
+      "time": 1793449555764,
       "id": "120363433204721271@g.us",
       "name": "JB ALLGAME 198",
       "size": 119,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JDydgxAwFR9GLzIOSPvFDp": {
       "status": "valid",
-      "time": 1793413650159,
+      "time": 1793449558186,
       "id": "120363417155097497@g.us",
-      "name": "JB ALLGAME RANZ STARBOY",
-      "size": 109,
+      "name": "GB STOK/TESTI 26cozz store real",
+      "size": 125,
       "approval": true,
       "announce": false
     },
     "K60QTlIuWOH4VJIaP2ssFM": {
       "status": "valid",
-      "time": 1793413657992,
+      "time": 1793449560263,
       "id": "120363431571726790@g.us",
-      "name": "JB ALLGAME 201",
-      "size": 56,
-      "approval": true,
-      "announce": false
-    },
-    "HnyvQmQZBtl92Nt6c4qQDk": {
-      "status": "valid",
-      "time": 1793413662427,
-      "id": "120363433683275929@g.us",
-      "name": "JB ALLGAME 202",
-      "size": 72,
+      "name": "𝙅𝘽 1 || 𝙈𝘼𝙉𝙕 𝙎𝙏𝙊𝙍𝙀",
+      "size": 112,
       "approval": true,
       "announce": false
     },
     "ErtvM5NLUfG3Obdp9QInek": {
       "status": "valid",
-      "time": 1793413665142,
+      "time": 1793449566640,
       "id": "120363414219275927@g.us",
-      "name": "JB ALLGAME TEGARGDZ",
-      "size": 84,
+      "name": "GC || RANZY STORE",
+      "size": 114,
       "approval": true,
       "announce": false
     },
@@ -10015,6 +9989,6 @@
       "time": 1793449536885
     }
   },
-  "total": 1203,
-  "updated": 1793449538407
+  "total": 1200,
+  "updated": 1793449567281
 }
