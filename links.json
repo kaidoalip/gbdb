@@ -2397,15 +2397,6 @@
       "approval": true,
       "announce": false
     },
-    "HbifHxqM213BZogdtNzijP": {
-      "status": "joined",
-      "time": 1793450371825,
-      "id": "120363415081162660@g.us",
-      "name": "💖 Islamic Group 💖",
-      "size": 119,
-      "approval": false,
-      "announce": false
-    },
     "DlKxex5IhjqB4apfTyWhr0": {
       "status": "joined",
       "time": 1793350049168,
@@ -3474,15 +3465,6 @@
       "status": "expired",
       "time": 1792719757279
     },
-    "BpOC78GLC778IvhlWkouec": {
-      "status": "joined",
-      "time": 1793406585857,
-      "id": "120363431094191023@g.us",
-      "name": "🚀 *BM Bazar BD - Trusted Hub*",
-      "size": 35,
-      "approval": false,
-      "announce": false
-    },
     "I1DaXtSV3oM5m89pFNgzfZ": {
       "status": "joined",
       "time": 1793406601094,
@@ -3755,15 +3737,6 @@
       "name": "𓆩🌹𓆪 ── 𝐋ᴏᴠᴇ 𝐑ᴏᴍᴀɴᴄᴇ 𝐖ᴏʀʟᴅ ── 𓆩🫀𓆪 💋🦋\n\n⤓⤿𓂃‎◎⧠🐣\n\n⤓⤿𓂃‎◎⧠💋\n\n⤓⤿𓂃‎◎⧠🫀\n\n⤓⤿𓂃‎◎⧠💍\n\n⤓⤿𓂃‎◎⧠🌹\n\n𓆩❤️𓆪 𝐋ᴏᴠᴇ 𝐅ᴏʀᴇᴠᴇʀ 𓆩",
       "size": 2,
       "approval": true,
-      "announce": false
-    },
-    "HcCOQMrikYfEg5s6ga9Nvu": {
-      "status": "joined",
-      "time": 1793406779054,
-      "id": "120363319058405075@g.us",
-      "name": "Ali express🤝temu or daraz deal 👈",
-      "size": 389,
-      "approval": false,
       "announce": false
     },
     "F5mxOmUOqiDCYWnKiA5QtE": {
@@ -9871,6 +9844,6 @@
       "time": 1793450617221
     }
   },
-  "total": 1188,
-  "updated": 1793450617221
+  "total": 1185,
+  "updated": 1793450813512
 }
