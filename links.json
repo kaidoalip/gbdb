@@ -2761,8 +2761,8 @@
       "approval": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
-      "status": "valid",
-      "time": 1793448772906,
+      "status": "joined",
+      "time": 1793450407961,
       "id": "120363421225872930@g.us",
       "name": "All Service Provider 💝",
       "size": 837,
@@ -9868,5 +9868,5 @@
     }
   },
   "total": 1187,
-  "updated": 1793450391694
+  "updated": 1793450408619
 }
