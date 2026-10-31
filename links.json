@@ -9014,19 +9014,21 @@
     },
     "IuYzYBKUe3a6PRWTt44dY6": {
       "status": "valid",
-      "time": 1793406496926,
+      "time": 1793414128827,
       "id": "120363409828725046@g.us",
       "name": "*✤⃛͜⃟🩵🇫ᴀ͟͞ᴍ͟͞ɪ͟͞ʟ͟͞ʏ☆🇭 ᴏ͟͞ᴍ͟͞ᴇ͟͞🏠*",
-      "size": 536,
-      "approval": true
+      "size": 535,
+      "approval": true,
+      "announce": false
     },
     "FyKYE90VjbQ6CoChquzBFB": {
       "status": "valid",
-      "time": 1793406499577,
+      "time": 1793414131489,
       "id": "120363428404313879@g.us",
       "name": "꧁𝐥𝐨𝐜𝐤 & 𝐤𝐞𝐲 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞™꧂",
-      "size": 130,
-      "approval": false
+      "size": 137,
+      "approval": false,
+      "announce": false
     },
     "BwglwnJcx3hHGqfCCG7kcD": {
       "status": "expired",
@@ -9034,19 +9036,21 @@
     },
     "GK9dxGEyoSz3ID8GkDFeKh": {
       "status": "valid",
-      "time": 1793406505103,
+      "time": 1793414135400,
       "id": "120363429372414106@g.us",
       "name": "►💠اَلـــفاظِ𓃮 مُـحـبّــــت💠◄",
-      "size": 373,
-      "approval": true
+      "size": 374,
+      "approval": true,
+      "announce": false
     },
     "FezYYozUJIGBHSwlkhOmPG": {
       "status": "valid",
-      "time": 1793406509028,
+      "time": 1793414138091,
       "id": "120363430372294415@g.us",
       "name": "Métodos y vueltas gratis | By SmithChase",
       "size": 329,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "HCnB5NiZKkD9LvkVGNrqq9": {
       "status": "komunitas",
@@ -9062,35 +9066,39 @@
     },
     "KSo78SSV5cWFUGn3Le418A": {
       "status": "valid",
-      "time": 1793406511966,
+      "time": 1793414140627,
       "id": "120363412022054419@g.us",
       "name": "Ai Tool Sellers group",
-      "size": 55,
-      "approval": false
+      "size": 58,
+      "approval": false,
+      "announce": false
     },
     "Bujl9VLL2S8D7G54IB3OP1": {
       "status": "valid",
-      "time": 1793406516319,
+      "time": 1793414144043,
       "id": "120363427463800959@g.us",
       "name": "Successful deal 🪵",
-      "size": 84,
-      "approval": false
+      "size": 85,
+      "approval": false,
+      "announce": false
     },
     "LPsFm05ERtI8GAqXHLOnpI": {
       "status": "valid",
-      "time": 1793406520806,
+      "time": 1793414146642,
       "id": "120363407881004205@g.us",
       "name": "🌟🏦Cash picked up - wire - gift card - global transfer🌟🏦",
       "size": 411,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "KsJytUVDPqHJ2EaB2nA4BN": {
       "status": "valid",
-      "time": 1793406524823,
+      "time": 1793414150625,
       "id": "120363429168393184@g.us",
       "name": "*⎯꯭᪳𝆺꯭𝆭⃟🍒𝑵𝒐𝒐𝒓 𝑲𝒆 𝑯𝒆𝒘𝒂𝒍𝒊⎯꯭᪳𝆺꯭𝆭⃞ ⃟🎀🥂*\n*⎯꯭̽𓄰⃞🌹*\n\n*⎯꯭̽ 𓄰⃞🌈*\n\n*⎯꯭̽𓄰⃞ 🍒*\n\n*⎯꯭̽𓄰⃞ 💍*\n\n*⎯꯭̽𓄰⃞ 🫐*\n\n\n\n*",
       "size": 63,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "JStr7JxGexgGfQMXu2Nwig": {
       "status": "komunitas",
@@ -9100,11 +9108,12 @@
     },
     "GiquFJHaMVo9c9p3AaM0Ce": {
       "status": "valid",
-      "time": 1793406527821,
+      "time": 1793414154015,
       "id": "120363313467940572@g.us",
       "name": "Money💰Heist ",
       "size": 283,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "DCFlCnxl2JAFEd624wjZiX": {
       "status": "komunitas",
@@ -9114,11 +9123,12 @@
     },
     "JqQDotZPbHt81NeokLsuCU": {
       "status": "valid",
-      "time": 1793406532111,
+      "time": 1793414157634,
       "id": "120363408861756109@g.us",
       "name": "Outlier Handshake Trades",
       "size": 796,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "GXfnl25v0u87kwgDI4Izal": {
       "status": "error",
@@ -9359,5 +9369,5 @@
     }
   },
   "total": 1157,
-  "updated": 1793414123725
+  "updated": 1793414157945
 }
