@@ -389,8 +389,8 @@
       "announce": false
     },
     "EZkNxFpVH1r0bUr5QWrimd": {
-      "status": "valid",
-      "time": 1793455384493,
+      "status": "pending",
+      "time": 1793455736045,
       "id": "120363408970875910@g.us",
       "name": "International wire transfer, parcel mailing, credit/debit card payment, gift card purchase, etc., al",
       "size": 267,
@@ -423,6 +423,6 @@
       "time": 1793455657409
     }
   },
-  "updated": 1793455720547,
+  "updated": 1793455736280,
   "total": 50
 }
