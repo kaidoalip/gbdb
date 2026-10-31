@@ -9153,21 +9153,21 @@
     },
     "GnAhhY3Y1wZI0QZhD64jAn": {
       "status": "valid",
-      "time": 1793448311634,
+      "time": 1793450045180,
       "id": "120363431469047603@g.us",
       "name": "𝐂𝐀𝐒𝐒𝐈𝐀𝐍 𝟏𝟏𝟎 || 𝐌𝐒𝐔𝐊 𝐇𝐁𝐈𝐒 𝐊𝐄 𝐁𝐀𝐍",
-      "size": 17,
+      "size": 16,
       "approval": true,
       "announce": false
     },
     "FH7gbcQpLJnKuskac3z3ft": {
       "status": "error",
-      "time": 1793448314767,
+      "time": 1793450047959,
       "err": "bad-request"
     },
     "I0XNxjn7TadH2bNJzde5Oe": {
       "status": "valid",
-      "time": 1793448318045,
+      "time": 1793450050638,
       "id": "120363428527743892@g.us",
       "name": "TITIK KUMPUL KANG JB👑",
       "size": 24,
@@ -9176,34 +9176,34 @@
     },
     "GOYyx4CBxOFBa0rXdF4D03": {
       "status": "valid",
-      "time": 1793448320691,
+      "time": 1793450053194,
       "id": "120363431073139462@g.us",
       "name": "MARKET ALL GAME SOFTY4N STORE",
-      "size": 51,
+      "size": 133,
       "approval": true,
       "announce": false
     },
     "BfKfgADzSk37wZGVoQgJWg": {
       "status": "valid",
-      "time": 1793448323828,
+      "time": 1793450055542,
       "id": "120363178908140505@g.us",
       "name": "GB FT CS 500-5K|| BY AAN116",
-      "size": 46,
+      "size": 44,
       "approval": true,
       "announce": false
     },
     "J5Ok4rDPtPIGe8aezKQ6tb": {
       "status": "valid",
-      "time": 1793448326986,
+      "time": 1793450057667,
       "id": "120363412580616065@g.us",
       "name": "MARGA 75 PRIDE 545 TW FEMESS CUYY",
-      "size": 278,
+      "size": 277,
       "approval": false,
       "announce": false
     },
     "LjkaxVxQeEW77djntonHPv": {
       "status": "valid",
-      "time": 1793448329016,
+      "time": 1793450060779,
       "id": "120363412704264568@g.us",
       "name": "𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝙐𝙏𝘼𝙈𝘼 𝙑𝙄𝙉𝙏 ( 𝙉𝙀𝙒 )",
       "size": 3,
@@ -9212,7 +9212,7 @@
     },
     "HTK53APJ9aq4WY6YMtmSfg": {
       "status": "valid",
-      "time": 1793448331249,
+      "time": 1793450062688,
       "id": "120363425143799916@g.us",
       "name": "𝙉𝙀𝙓𝙑𝙊𝙍𝙀 𝙎𝘾𝘼𝙍𝙔",
       "size": 32,
@@ -9221,16 +9221,16 @@
     },
     "BZnD4LOj9pw9XM3A7i0zuk": {
       "status": "valid",
-      "time": 1793448333898,
+      "time": 1793450065918,
       "id": "120363412190188401@g.us",
       "name": "𝐹𝑇 𝐶𝑆 𝐾𝐼𝐸𝐿𝐿 𝑥 𝑂𝑊𝑁",
-      "size": 78,
+      "size": 77,
       "approval": true,
       "announce": false
     },
     "CrEFFfzO75z1Hrmz0Mhrc7": {
       "status": "valid",
-      "time": 1793448338007,
+      "time": 1793450068211,
       "id": "120363428480332876@g.us",
       "name": "GB FT CEES || ROOMONEY 500P | 5K #1",
       "size": 12,
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450040696
+  "updated": 1793450068647
 }
