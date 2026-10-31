@@ -6513,7 +6513,7 @@
     },
     "D266QlerTp6JVPPUDmtvWp": {
       "status": "valid",
-      "time": 1793413380606,
+      "time": 1793449344187,
       "id": "120363412379948895@g.us",
       "name": "CALLS CENTER 📞 BLASTING INDIAN & BANGLADESH 🖥️",
       "size": 125,
@@ -6522,10 +6522,10 @@
     },
     "BYFH5frgwQ67i8mnyMgJOg": {
       "status": "valid",
-      "time": 1793413383362,
+      "time": 1793449346924,
       "id": "120363296843082389@g.us",
       "name": "LEADS THE WAY!❇️",
-      "size": 448,
+      "size": 447,
       "approval": false,
       "announce": false
     },
@@ -6540,7 +6540,7 @@
     },
     "Ge6taW1gXvGDS73qiUPNOl": {
       "status": "valid",
-      "time": 1793413389329,
+      "time": 1793449350096,
       "id": "120363410521929051@g.us",
       "name": "ALL GMAIL BUY GROUP",
       "size": 32,
@@ -6555,19 +6555,19 @@
     },
     "I2gefaGYU8wLnn3jz1O5KT": {
       "status": "valid",
-      "time": 1793413393391,
+      "time": 1793449352381,
       "id": "120363432618399627@g.us",
       "name": "Gmail Escrow Group",
-      "size": 224,
+      "size": 225,
       "approval": false,
       "announce": false
     },
     "Ceq0OgHuyuLFOTUxxsSim3": {
       "status": "valid",
-      "time": 1793413396772,
+      "time": 1793449355477,
       "id": "120363408408419688@g.us",
       "name": "GSM WORLD",
-      "size": 67,
+      "size": 93,
       "approval": false,
       "announce": false
     },
@@ -6582,7 +6582,7 @@
     },
     "IkDtLPyeS9EJyjo7ShQVfI": {
       "status": "valid",
-      "time": 1793413400245,
+      "time": 1793449358707,
       "id": "120363398880509994@g.us",
       "name": "𝔾𝕍●丅ᑎ ● 丅丅 ● 𝐓𝐅 ...𝔹𝕌𝕐 𝕊𝔼𝕃𝕃...𝙶𝚄𝚁𝚄𝙿  ♡",
       "size": 424,
@@ -6591,28 +6591,28 @@
     },
     "FasLpLNx0rx1lBP4TwSYiR": {
       "status": "valid",
-      "time": 1793413402867,
+      "time": 1793449361617,
       "id": "120363429114294898@g.us",
       "name": "Pak Flow Group",
-      "size": 421,
+      "size": 422,
       "approval": false,
       "announce": false
     },
     "JdaKanLnZDa6o4Xuz8Mlko": {
       "status": "valid",
-      "time": 1793413405591,
+      "time": 1793449363495,
       "id": "120363319978595854@g.us",
       "name": "Gmail, Gv,TN, trusted zone 💵💲",
-      "size": 33,
+      "size": 34,
       "approval": true,
       "announce": false
     },
     "DcrR0xZQvxLCBRgcEClnD4": {
       "status": "valid",
-      "time": 1793413408364,
+      "time": 1793449366787,
       "id": "120363428189291177@g.us",
       "name": "BUY SELL EXPERT ZONE",
-      "size": 295,
+      "size": 293,
       "approval": false,
       "announce": false
     },
@@ -6623,13 +6623,14 @@
       "name": "Trust on Allah 🇮🇹"
     },
     "CxkGTvimlrsI9zObPSow1N": {
-      "status": "valid",
-      "time": 1793413411324,
+      "status": "error",
+      "time": 1793449369156,
       "id": "120363431436916421@g.us",
       "name": "Only 3D loaders",
       "size": 61,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LIe9qGOl4VpI0Tyu8i2ZsR": {
       "status": "valid",
@@ -10043,5 +10044,5 @@
     }
   },
   "total": 1205,
-  "updated": 1793449340838
+  "updated": 1793449369815
 }
