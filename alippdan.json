@@ -254,8 +254,8 @@
       "err": "not-authorized"
     },
     "L4unp7vB9fN08JldsJ3Djn": {
-      "status": "valid",
-      "time": 1793455161428,
+      "status": "pending",
+      "time": 1793455566678,
       "id": "120363428365014558@g.us",
       "name": "Gift Card Trading (Global)",
       "size": 309,
@@ -411,6 +411,6 @@
       "time": 1793455537060
     }
   },
-  "updated": 1793455551744,
+  "updated": 1793455567029,
   "total": 47
 }
