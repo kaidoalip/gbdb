@@ -231,8 +231,8 @@
       "announce": false
     },
     "DxLmZy5KYdW5i89DSE0Rex": {
-      "status": "valid",
-      "time": 1793455154239,
+      "status": "joined",
+      "time": 1793455539580,
       "id": "120363430418913191@g.us",
       "name": "All countries connect🇫🇴🇬🇪🇩🇪🇱🇷🇳🇴🇵🇷🇸🇮🇸🇹🇸🇲🇿🇦🇸🇭🇬🇸",
       "size": 306,
@@ -411,6 +411,6 @@
       "time": 1793455537060
     }
   },
-  "updated": 1793455537060,
+  "updated": 1793455539756,
   "total": 47
 }
