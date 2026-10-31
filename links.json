@@ -4148,13 +4148,14 @@
       "announce": false
     },
     "F5VYXPpyjHHFyk8meX5nid": {
-      "status": "valid",
-      "time": 1793404765746,
+      "status": "error",
+      "time": 1793407151874,
       "id": "120363430762112203@g.us",
       "name": "🫶دهیلمندي هو کندهاري 🫦يارانو شخصي کورف 🫂",
       "size": 117,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "resource-limit"
     },
     "LTh3eYu6UsU4p7NZMa5dSA": {
       "status": "valid",
