@@ -195,44 +195,90 @@
       "announce": false
     },
     "C1hm95xN6LQ3WkDmoVeCE1": {
-      "status": "new",
-      "time": 1793454097046
+      "status": "valid",
+      "time": 1793455142949,
+      "id": "120363428885718080@g.us",
+      "name": "🇨🇳𝑳𝒖𝒊𝒔| Technical treatment plan",
+      "size": 243,
+      "approval": true,
+      "announce": false
     },
     "ENxQAMG3Au7EGgAgZIFymf": {
-      "status": "new",
-      "time": 1793454097046
+      "status": "valid",
+      "time": 1793455145370,
+      "id": "120363426620824584@g.us",
+      "name": "Abbas trusted family ♥️",
+      "size": 305,
+      "approval": false,
+      "announce": false
     },
     "JyuwJezf2jlAe6MuEFlpwp": {
-      "status": "new",
-      "time": 1793454217046
+      "status": "valid",
+      "time": 1793455148280,
+      "id": "120363412687228917@g.us",
+      "name": "Technical Exchange",
+      "size": 98,
+      "approval": false,
+      "announce": false
     },
     "LLkX37b82zSIHxeqM4Lfsu": {
-      "status": "new",
-      "time": 1793454337063
+      "status": "valid",
+      "time": 1793455151101,
+      "id": "120363430104474195@g.us",
+      "name": "Ali Hussnain/Imtiaz/ARK/pardeep Saler ✅ open chat ☺️",
+      "size": 54,
+      "approval": false,
+      "announce": false
     },
     "DxLmZy5KYdW5i89DSE0Rex": {
-      "status": "new",
-      "time": 1793454457036
+      "status": "valid",
+      "time": 1793455154239,
+      "id": "120363430418913191@g.us",
+      "name": "All countries connect🇫🇴🇬🇪🇩🇪🇱🇷🇳🇴🇵🇷🇸🇮🇸🇹🇸🇲🇿🇦🇸🇭🇬🇸",
+      "size": 306,
+      "approval": false,
+      "announce": false
     },
     "G64PcYcPoBHD37liVomhkq": {
-      "status": "new",
-      "time": 1793454697059
+      "status": "valid",
+      "time": 1793455157315,
+      "id": "120363432318797379@g.us",
+      "name": "TN-TF-SL-TT-GV-GMAIL BUY ONLY ADMIN 💯",
+      "size": 104,
+      "approval": false,
+      "announce": false
     },
     "FkBR2Y3tJZyDqczo6mRgHe": {
-      "status": "new",
-      "time": 1793454937091
+      "status": "blocked",
+      "time": 1793455159460,
+      "err": "not-authorized"
     },
     "L4unp7vB9fN08JldsJ3Djn": {
-      "status": "new",
-      "time": 1793455057036
+      "status": "valid",
+      "time": 1793455161428,
+      "id": "120363428365014558@g.us",
+      "name": "Gift Card Trading (Global)",
+      "size": 309,
+      "approval": true,
+      "announce": false
     },
     "J77DVElbAAc8WQKs6MXmIb": {
-      "status": "new",
-      "time": 1793455082206
+      "status": "valid",
+      "time": 1793455163698,
+      "id": "120363427989589271@g.us",
+      "name": "𝐒𝐓𝐎𝐊 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐙𝐄𝐒𝐀𝐀 𝐉𝐄𝐁𝐄𝐇 𝟎.𝟏",
+      "size": 183,
+      "approval": false,
+      "announce": false
     },
     "HKTRAsxUpsSCTBGe6f39Ji": {
-      "status": "new",
-      "time": 1793455082206
+      "status": "valid",
+      "time": 1793455166331,
+      "id": "120363412001932535@g.us",
+      "name": "𝐒𝐓𝐎𝐊 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐙𝐄𝐒𝐀𝐀 𝐉𝐄𝐁𝐄𝐇 𝟎.𝟐",
+      "size": 151,
+      "approval": true,
+      "announce": false
     },
     "IrasMcSmvNdJlfT4EOf1JG": {
       "status": "new",
@@ -287,6 +333,6 @@
       "time": 1793455082206
     }
   },
-  "updated": 1793455140014,
+  "updated": 1793455166540,
   "total": 45
 }
