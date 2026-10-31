@@ -8800,28 +8800,28 @@
     },
     "Bujl9VLL2S8D7G54IB3OP1": {
       "status": "valid",
-      "time": 1793414144043,
+      "time": 1793449937969,
       "id": "120363427463800959@g.us",
       "name": "Successful deal 🪵",
-      "size": 85,
+      "size": 89,
       "approval": false,
       "announce": false
     },
     "LPsFm05ERtI8GAqXHLOnpI": {
       "status": "valid",
-      "time": 1793414146642,
+      "time": 1793449940259,
       "id": "120363407881004205@g.us",
       "name": "🌟🏦Cash picked up - wire - gift card - global transfer🌟🏦",
-      "size": 411,
+      "size": 410,
       "approval": false,
       "announce": false
     },
     "KsJytUVDPqHJ2EaB2nA4BN": {
       "status": "valid",
-      "time": 1793414150625,
+      "time": 1793449943262,
       "id": "120363429168393184@g.us",
       "name": "*⎯꯭᪳𝆺꯭𝆭⃟🍒𝑵𝒐𝒐𝒓 𝑲𝒆 𝑯𝒆𝒘𝒂𝒍𝒊⎯꯭᪳𝆺꯭𝆭⃞ ⃟🎀🥂*\n*⎯꯭̽𓄰⃞🌹*\n\n*⎯꯭̽ 𓄰⃞🌈*\n\n*⎯꯭̽𓄰⃞ 🍒*\n\n*⎯꯭̽𓄰⃞ 💍*\n\n*⎯꯭̽𓄰⃞ 🫐*\n\n\n\n*",
-      "size": 63,
+      "size": 60,
       "approval": true,
       "announce": false
     },
@@ -8833,10 +8833,10 @@
     },
     "GiquFJHaMVo9c9p3AaM0Ce": {
       "status": "valid",
-      "time": 1793414154015,
+      "time": 1793449946459,
       "id": "120363313467940572@g.us",
       "name": "Money💰Heist ",
-      "size": 283,
+      "size": 287,
       "approval": false,
       "announce": false
     },
@@ -8848,10 +8848,10 @@
     },
     "JqQDotZPbHt81NeokLsuCU": {
       "status": "valid",
-      "time": 1793414157634,
+      "time": 1793449949713,
       "id": "120363408861756109@g.us",
       "name": "Outlier Handshake Trades",
-      "size": 796,
+      "size": 818,
       "approval": true,
       "announce": false
     },
@@ -8861,46 +8861,38 @@
     },
     "DalzMgMsBFU10a4d5TtDm7": {
       "status": "valid",
-      "time": 1793414167113,
+      "time": 1793449951620,
       "id": "120363430363307727@g.us",
       "name": "Blogging With Pinterest ✅",
-      "size": 6,
+      "size": 10,
       "approval": false,
       "announce": false
     },
     "I2o8XJ7thUF2718TeCx7Te": {
       "status": "valid",
-      "time": 1793414170183,
+      "time": 1793449953993,
       "id": "120363431622493821@g.us",
       "name": "Facebook Montization zone",
-      "size": 52,
+      "size": 60,
       "approval": false,
       "announce": false
     },
     "JauOrpZ6u65AZRzgZEBZfK": {
-      "status": "valid",
-      "time": 1793414174426,
+      "status": "error",
+      "time": 1793449956778,
       "id": "120363412095176321@g.us",
       "name": "Payment Security & Trust Assurance",
       "size": 122,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HcLVAzExopeBG8c1nIE4SY": {
       "status": "valid",
-      "time": 1793414178901,
+      "time": 1793449958697,
       "id": "120363422757746460@g.us",
-      "name": "WARUNG JPM LILIY 24JAM",
-      "size": 102,
-      "approval": true,
-      "announce": false
-    },
-    "H8Q46rNTXDv3gVLJWesqZn": {
-      "status": "valid",
-      "time": 1793414183063,
-      "id": "120363410890858614@g.us",
-      "name": "JB ALL Game || SAMORA #1",
-      "size": 296,
+      "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 𝗩𝗜𝗘𝗟𝗭¹",
+      "size": 210,
       "approval": true,
       "announce": false
     },
@@ -9888,6 +9880,6 @@
       "time": 1793449776844
     }
   },
-  "total": 1189,
-  "updated": 1793449933287
+  "total": 1188,
+  "updated": 1793449962374
 }
