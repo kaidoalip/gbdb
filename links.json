@@ -7761,16 +7761,16 @@
     },
     "LgnPrHeiDmJK5MYOZOEPu9": {
       "status": "valid",
-      "time": 1793413774540,
+      "time": 1793449655133,
       "id": "120363430354289543@g.us",
       "name": "GMAIL__GV__TN__TT__ LINKEDIN __ TRUSTED GMAIL GURUP (LNLY ADMIN)✅✅",
-      "size": 17,
+      "size": 31,
       "approval": false,
       "announce": false
     },
     "HcwBIcjsafv2RmwauTRmaj": {
       "status": "valid",
-      "time": 1793413778693,
+      "time": 1793449658390,
       "id": "120363411052360361@g.us",
       "name": "Buy and sell",
       "size": 133,
@@ -7778,13 +7778,14 @@
       "announce": false
     },
     "LqjezTj0NbJ3GRtfCEUhTh": {
-      "status": "valid",
-      "time": 1793413781483,
+      "status": "error",
+      "time": 1793449660123,
       "id": "120363412262441963@g.us",
       "name": "Sell Post Sell Post \n\nChime.2k limit And \n5k limit available \n\nChasapp.4k limlt And \n20k limit avail",
       "size": 94,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GKPcOQq2kOX4EwGcDK1TLl": {
       "status": "expired",
@@ -7795,21 +7796,12 @@
       "approval": true,
       "announce": false
     },
-    "JUPDLlcoHCUIyGXV7LR6h1": {
-      "status": "valid",
-      "time": 1793413788110,
-      "id": "120363430475395575@g.us",
-      "name": "Gc war keretek",
-      "size": 38,
-      "approval": true,
-      "announce": false
-    },
     "JFrQq2FixPJB6taWwWFq9u": {
       "status": "valid",
-      "time": 1793413790746,
+      "time": 1793449664941,
       "id": "120363415597997942@g.us",
       "name": "TIKTOK BUY SELL",
-      "size": 33,
+      "size": 42,
       "approval": false,
       "announce": false
     },
@@ -7830,10 +7822,10 @@
     },
     "CFRgwHKvUAPErr9naImUtp": {
       "status": "valid",
-      "time": 1793413794245,
+      "time": 1793449667755,
       "id": "120363411910498376@g.us",
       "name": "𝗛𝗔𝗝𝗜 𝗞𝗔𝗟𝗘𝗘𝗠 𝗔𝗕𝗨𝗦𝗜𝗡𝗚 𝗦𝗤𝗢𝗨𝗗⁰⁴³",
-      "size": 4,
+      "size": 194,
       "approval": true,
       "announce": false
     },
@@ -7848,10 +7840,10 @@
     },
     "JgSICuyFalL2ZAJr1cw4Mc": {
       "status": "valid",
-      "time": 1793413797816,
+      "time": 1793449670855,
       "id": "85297774329-1323391262@g.us",
       "name": "᭄𝐑𝐀𝐍𝐀 𝐒𝐇𝐀𝐍 𝐎𝐋𝐃 𝐃𝐄𝐀𝐋𝐈𝐍𝐆 𝐆𝐑𝐎𝐔𝐏᭄",
-      "size": 395,
+      "size": 400,
       "approval": true,
       "announce": false
     },
@@ -7866,28 +7858,28 @@
     },
     "Ffwlrr2xpkiBoq8p8cn4Kc": {
       "status": "valid",
-      "time": 1793413801983,
+      "time": 1793449672853,
       "id": "923117213222-1595384421@g.us",
       "name": "مسلم ہے لہو لہو مگر کیوں؟",
-      "size": 349,
+      "size": 352,
       "approval": false,
       "announce": false
     },
     "Bn43AEttFy9K2yuzY446UA": {
       "status": "valid",
-      "time": 1793413805801,
+      "time": 1793449675753,
       "id": "120363413280284947@g.us",
       "name": "BUY and SELL",
-      "size": 96,
+      "size": 95,
       "approval": false,
       "announce": false
     },
     "LS0RgQNd7ay4j3m9iVkMCA": {
       "status": "valid",
-      "time": 1793413808402,
+      "time": 1793449677660,
       "id": "120363416749956749@g.us",
       "name": "Project Funding",
-      "size": 101,
+      "size": 119,
       "approval": true,
       "announce": false
     },
@@ -9981,6 +9973,6 @@
       "time": 1793449536885
     }
   },
-  "total": 1199,
-  "updated": 1793449656956
+  "total": 1198,
+  "updated": 1793449677920
 }
