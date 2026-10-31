@@ -20,7 +20,7 @@
     },
     "EiZyE2U8QB65KQ4idfyYpC": {
       "status": "error",
-      "time": 1793455381458,
+      "time": 1793455816387,
       "err": "bad-request"
     },
     "JgmxWGl3sBeFk2OeGIAPCv": {
@@ -398,30 +398,56 @@
       "announce": false
     },
     "I3vBSXMbB9YHhC4R3VWRa7": {
-      "status": "new",
-      "time": 1793455537060
+      "status": "valid",
+      "time": 1793455818208,
+      "id": "120363412711065658@g.us",
+      "name": "General",
+      "size": 203,
+      "approval": false,
+      "announce": false
     },
     "FKArktvbYmTB9bEB5pqgAU": {
-      "status": "new",
-      "time": 1793455657409
+      "status": "valid",
+      "time": 1793455821498,
+      "id": "120363428886502442@g.us",
+      "name": "GV/TN/TT/TF/SL/GMAIL/ANY TYPE OF EDU AND OUTLOOK",
+      "size": 863,
+      "approval": false,
+      "announce": false
     },
     "LxPXdgA36mwEV8bU3lEHYm": {
-      "status": "new",
-      "time": 1793455657409
+      "status": "error",
+      "time": 1793455823279,
+      "err": "growth-locked"
     },
     "JggaUQ5M8DqClmJO7JXXuK": {
-      "status": "new",
-      "time": 1793455657409
+      "status": "valid",
+      "time": 1793455826248,
+      "id": "120363430534638699@g.us",
+      "name": "𝑹𝑺 𝑫𝑰𝑮𝑰𝑻𝑨𝑳 𝑯𝑼𝑩 🚀",
+      "size": 289,
+      "approval": false,
+      "announce": false
     },
     "DFM8yDv2ZWG1HALRutiZtJ": {
-      "status": "new",
-      "time": 1793455777045
+      "status": "valid",
+      "time": 1793455828220,
+      "id": "120363430083625536@g.us",
+      "name": "PRIME ASSET MANAGEMENT",
+      "size": 183,
+      "approval": true,
+      "announce": false
     },
     "Hfss5DoasNQ141UmYbfKEX": {
-      "status": "new",
-      "time": 1793455813808
+      "status": "valid",
+      "time": 1793455831234,
+      "id": "120363331158870475@g.us",
+      "name": "👑 𝑻𝒊𝒌𝑻𝒐𝒌 𝑨𝒈𝒆𝒏𝒄𝒚 👑",
+      "size": 203,
+      "approval": true,
+      "announce": false
     }
   },
-  "updated": 1793455815014,
+  "updated": 1793455831492,
   "total": 51
 }
