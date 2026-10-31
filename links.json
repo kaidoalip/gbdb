@@ -9891,44 +9891,90 @@
       "announce": false
     },
     "F0dEWO9PXerGEeA60AWgVo": {
-      "status": "new",
-      "time": 1793442961449
+      "status": "valid",
+      "time": 1793448511869,
+      "id": "120363410355656872@g.us",
+      "name": "FLUX SMS",
+      "size": 136,
+      "approval": false,
+      "announce": false
     },
     "E6V2SOlUJYl8ky0SJgCEW7": {
-      "status": "new",
-      "time": 1793443321540
+      "status": "valid",
+      "time": 1793448514071,
+      "id": "120363418765861814@g.us",
+      "name": "Free adx approval",
+      "size": 9,
+      "approval": false,
+      "announce": false
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
-      "status": "new",
-      "time": 1793443441639
+      "status": "error",
+      "time": 1793448516630,
+      "err": "bad-request"
     },
     "FFN626LJ5eJ5bppqtkyOEn": {
-      "status": "new",
-      "time": 1793443561555
+      "status": "valid",
+      "time": 1793448519405,
+      "id": "120363415641028578@g.us",
+      "name": "BANGLADESH CYBER ZONE",
+      "size": 79,
+      "approval": false,
+      "announce": false
     },
     "GqMQre9Ux5W0jV8vHYowLI": {
-      "status": "new",
-      "time": 1793443681562
+      "status": "valid",
+      "time": 1793448521520,
+      "id": "120363431748163529@g.us",
+      "name": "Fuel Token update",
+      "size": 101,
+      "approval": true,
+      "announce": false
     },
     "G14ytFGQSbE3q21kUkJ3Qn": {
-      "status": "new",
-      "time": 1793443681562
+      "status": "valid",
+      "time": 1793448524662,
+      "id": "120363411063322408@g.us",
+      "name": "🔰Cricket News & Updates 🏏",
+      "size": 189,
+      "approval": false,
+      "announce": false
     },
     "L4hFrBlnX0tC6YscI5zEvy": {
-      "status": "new",
-      "time": 1793444761485
+      "status": "valid",
+      "time": 1793448527636,
+      "id": "120363402159823559@g.us",
+      "name": "Digital Growth Hub",
+      "size": 857,
+      "approval": true,
+      "announce": false
     },
     "HmEiZAURgCSJYJku6PDPsv": {
-      "status": "new",
-      "time": 1793445601885
+      "status": "valid",
+      "time": 1793448531128,
+      "id": "120363409998548415@g.us",
+      "name": "💌*Gmail Buy Sell*📬",
+      "size": 252,
+      "approval": false,
+      "announce": false
     },
     "LjK0DwvWIJBGmUOhf0cfwV": {
-      "status": "new",
-      "time": 1793445841497
+      "status": "valid",
+      "time": 1793448533330,
+      "id": "120363431857161432@g.us",
+      "name": "TikTok buying and selling NIGERIA 🇳🇬 AND PAKISTAN 🇵🇰",
+      "size": 90,
+      "approval": true,
+      "announce": false
     },
     "HxoVC3XCv9J8TImZ2SEvpc": {
-      "status": "new",
-      "time": 1793446081825
+      "status": "valid",
+      "time": 1793448536284,
+      "id": "120363431671979247@g.us",
+      "name": "Free of the FERF",
+      "size": 2,
+      "approval": false,
+      "announce": false
     },
     "DsAd4bBiqGy0N97R69PZgQ": {
       "status": "new",
@@ -9980,5 +10026,5 @@
     }
   },
   "total": 1210,
-  "updated": 1793448508858
+  "updated": 1793448536653
 }
