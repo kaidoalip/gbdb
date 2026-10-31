@@ -8524,10 +8524,10 @@
     },
     "CuX5hnTIEOW70pHqDA7cjv": {
       "status": "valid",
-      "time": 1793406309571,
+      "time": 1793413957137,
       "id": "120363427158952993@g.us",
       "name": "Account buy & sell",
-      "size": 244,
+      "size": 245,
       "approval": false,
       "announce": false
     },
@@ -8542,36 +8542,39 @@
     },
     "HU0JHisQ2H8Ag1BKp9n13K": {
       "status": "valid",
-      "time": 1793406313635,
+      "time": 1793413959983,
       "id": "120363434370917594@g.us",
       "name": "OPEN CHAT GROUP",
-      "size": 53,
+      "size": 52,
       "approval": false,
       "announce": false
     },
     "DM5oU26LkIAKaHlIBdqK6W": {
       "status": "valid",
-      "time": 1793406316474,
+      "time": 1793413963907,
       "id": "120363421693273613@g.us",
       "name": "FAIZAN YT BUY | SELL",
-      "size": 334,
-      "approval": false
+      "size": 333,
+      "approval": false,
+      "announce": false
     },
     "GxrWJqqGkJ1EC5vxp4Xl35": {
       "status": "valid",
-      "time": 1793406319138,
+      "time": 1793413967072,
       "id": "120363415851260375@g.us",
       "name": "GUEST POSTING SERVICES",
       "size": 212,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "ET9AeuXt1fu0RK4eFrXhVZ": {
       "status": "valid",
-      "time": 1793406324225,
+      "time": 1793413970047,
       "id": "120363399312818440@g.us",
       "name": "LinkedIn USA email login Guruo54",
-      "size": 392,
-      "approval": false
+      "size": 393,
+      "approval": false,
+      "announce": false
     },
     "FcU6ku65ir6FttmD2YO9u2": {
       "status": "expired",
@@ -8583,27 +8586,30 @@
     },
     "EkM6VgD4XED6cDgKhQ5j6D": {
       "status": "valid",
-      "time": 1793406331669,
+      "time": 1793413972511,
       "id": "120363428744632578@g.us",
       "name": "Tiktok Shop Market OPEN 🛒💰",
-      "size": 21,
-      "approval": false
+      "size": 23,
+      "approval": false,
+      "announce": false
     },
     "CDFVv44WLO1DdDYh43dS6S": {
       "status": "valid",
-      "time": 1793406335777,
+      "time": 1793413975517,
       "id": "120363430339609447@g.us",
       "name": "Backline Service",
-      "size": 170,
-      "approval": false
+      "size": 172,
+      "approval": false,
+      "announce": false
     },
     "Jdv1muRVVu51n00USxux30": {
       "status": "valid",
-      "time": 1793406339700,
+      "time": 1793413977930,
       "id": "120363413953998983@g.us",
       "name": "HASNAIN GUEST POSTING SERVICE",
       "size": 130,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "BQwtcwnsgtn2InSp33tmUu": {
       "status": "expired",
@@ -8613,18 +8619,14 @@
       "size": 83,
       "approval": false
     },
-    "GfI4mGHINOm3b1RVTmZ5Iv": {
-      "status": "error",
-      "time": 1793406343821,
-      "err": "bad-request"
-    },
     "Flm7zHJVpUNL3BSizYhJJ2": {
       "status": "valid",
-      "time": 1793406347832,
+      "time": 1793413985233,
       "id": "120363426714482164@g.us",
       "name": "Video Remove Buy & Sell",
       "size": 63,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "Gw49LIoThuRKLVMuxA3f6C": {
       "status": "valid",
@@ -9338,6 +9340,6 @@
       "time": 1793413682085
     }
   },
-  "total": 1161,
-  "updated": 1793413951441
+  "total": 1160,
+  "updated": 1793413985912
 }
