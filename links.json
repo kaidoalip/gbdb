@@ -4001,8 +4001,8 @@
       "announce": false
     },
     "C6UTZp6Prtc0GahEWx246Z": {
-      "status": "valid",
-      "time": 1793412649872,
+      "status": "joined",
+      "time": 1793448673795,
       "id": "120363405200753558@g.us",
       "name": "Shahbaz Yt Broadcast",
       "size": 796,
@@ -10068,5 +10068,5 @@
     }
   },
   "total": 1208,
-  "updated": 1793448656099
+  "updated": 1793448674143
 }
