@@ -10049,14 +10049,24 @@
       "announce": false
     },
     "Ep8743vyBZMKYq9JU3Zzri": {
-      "status": "new",
-      "time": 1793448216872
+      "status": "valid",
+      "time": 1793448565234,
+      "id": "120363401287018413@g.us",
+      "name": "ALL NETWORK PACKAGE",
+      "size": 336,
+      "approval": false,
+      "announce": false
     },
     "CjQUYwzzGBlIuLsdqFgtAT": {
-      "status": "new",
-      "time": 1793448216872
+      "status": "valid",
+      "time": 1793448567847,
+      "id": "120363427925442374@g.us",
+      "name": "GV TN Buy sell Trusted group",
+      "size": 481,
+      "approval": false,
+      "announce": false
     }
   },
   "total": 1208,
-  "updated": 1793448561976
+  "updated": 1793448568294
 }
