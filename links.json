@@ -8897,29 +8897,30 @@
       "announce": false
     },
     "Ll3ueMt7kc9FZ4Lp4QwDBO": {
-      "status": "valid",
-      "time": 1793414186726,
+      "status": "error",
+      "time": 1793449966409,
       "id": "120363431260956107@g.us",
       "name": "Boom 💥 Crash",
       "size": 12,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "EM8QTniVqua9A7pEyqiYQt": {
       "status": "valid",
-      "time": 1793414190227,
+      "time": 1793449969521,
       "id": "120363429326492494@g.us",
       "name": "𝗝𝗕¹ 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 𝗔𝗟𝗔𝗠 𝗠𝗔𝗥𝗞𝗘𝗧",
-      "size": 58,
+      "size": 54,
       "approval": true,
       "announce": false
     },
     "KiV8qJh6dZTGig4Xs4EZVq": {
       "status": "valid",
-      "time": 1793414193971,
+      "time": 1793449971718,
       "id": "120363410404160188@g.us",
       "name": "🥷፝֟፝֟ 🫅 𝐆𝐕 𝐓𝐍 𝐓𝐓 𝐓𝐅 𝐒𝐋 𝐁𝐮𝐲 𝐚𝐧𝐝 𝐒𝐞𝐥𝐥 ᯓ፝֟፝֟➤🄳🄴🅅❀࿐",
-      "size": 29,
+      "size": 41,
       "approval": false,
       "announce": false
     },
@@ -8931,64 +8932,46 @@
     },
     "G8njIZ9g56TCUfUOBDccfT": {
       "status": "valid",
-      "time": 1793414203180,
+      "time": 1793449973709,
       "id": "120363430850579482@g.us",
       "name": "𝙳𝙸𝚃𝚉𝚉 𝚂𝚃𝙾𝚁𝙴💫",
-      "size": 145,
+      "size": 143,
       "approval": true,
-      "announce": false
-    },
-    "ElWWgtxpQDg65PfiaiLIJb": {
-      "status": "valid",
-      "time": 1793414206623,
-      "id": "120363429053551467@g.us",
-      "name": "JB.  ||.   Valzz Store [PROSES]",
-      "size": 7,
-      "approval": false,
       "announce": false
     },
     "DmUlKA0phB610rVaByOvy2": {
       "status": "valid",
-      "time": 1793414209167,
+      "time": 1793449979154,
       "id": "120363430694259799@g.us",
-      "name": "starlight seven",
-      "size": 2,
+      "name": "LAPAK JUBEL CH/GRUP || CHELLA🐱🌴",
+      "size": 60,
       "approval": true,
       "announce": false
     },
     "DeEsWWYFB3K4aSx9aiShZR": {
       "status": "valid",
-      "time": 1793414212141,
+      "time": 1793449981299,
       "id": "120363422558685644@g.us",
-      "name": "𝙨𝙩𝙤𝙠 𝙤𝙬𝙣/𝙥𝙩 𝙯𝙖𝙨𝙨𝙣𝙚𝙬𝙚𝙧𝙖¹",
-      "size": 2,
+      "name": "𝙟𝙗 || 𝙯𝙖𝙨𝙨𝙣𝙚𝙬𝙚𝙧𝙖 𝙩𝙚𝙧𝙗𝙖𝙧𝙪¹",
+      "size": 22,
       "approval": true,
       "announce": false
     },
     "GfHHphBRYAJFIRDWQ9fwNM": {
       "status": "valid",
-      "time": 1793414215355,
+      "time": 1793449984248,
       "id": "120363410750754634@g.us",
       "name": "JB || Azzk44 5tore #1 💫💰",
-      "size": 21,
+      "size": 45,
       "approval": true,
       "announce": false
     },
     "HBX6Ix8pfspHjQEUZBvlXo": {
       "status": "valid",
-      "time": 1793414217802,
+      "time": 1793449986582,
       "id": "120363411660068223@g.us",
       "name": "𝗝𝗕 𝗕𝗥𝗘𝗔𝗞 𝗦𝗧𝗘𝗔𝗟 𝗔𝗡 𝗘𝗚𝗚 𝗥𝗜𝗙𝗤𝗜×𝗩𝗜𝗡𝗩𝗜𝗡𝗦𝗘𝗡¹",
-      "size": 50,
-      "approval": true,
-      "announce": false
-    },
-    "KVRTXxFTg4t65Xw5xhGLmQ": {
-      "status": "valid",
-      "time": 1793414221678,
-      "id": "120363411883015071@g.us",
-      "name": "𝗚𝗕 𝗙𝗧 𝗖𝗦 𝗕𝗬 𝗡𝗔𝗭𝗭",
-      "size": 3,
+      "size": 95,
       "approval": true,
       "announce": false
     },
@@ -9880,6 +9863,6 @@
       "time": 1793449776844
     }
   },
-  "total": 1188,
-  "updated": 1793449962374
+  "total": 1186,
+  "updated": 1793449989359
 }
