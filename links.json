@@ -41,8 +41,8 @@
       "approval": true
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "valid",
-      "time": 1793448751757,
+      "status": "joined",
+      "time": 1793450289493,
       "id": "120363419140015193@g.us",
       "name": "SK Travels",
       "size": 836,
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450284851
+  "updated": 1793450289799
 }
