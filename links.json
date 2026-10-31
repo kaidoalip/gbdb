@@ -2398,8 +2398,8 @@
       "announce": false
     },
     "HbifHxqM213BZogdtNzijP": {
-      "status": "valid",
-      "time": 1793448764379,
+      "status": "joined",
+      "time": 1793450371825,
       "id": "120363415081162660@g.us",
       "name": "💖 Islamic Group 💖",
       "size": 119,
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450356382
+  "updated": 1793450374406
 }
