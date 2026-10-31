@@ -186,8 +186,8 @@
       "announce": false
     },
     "Gr4LKPN0h676qeLmxRAR64": {
-      "status": "valid",
-      "time": 1793455139810,
+      "status": "joined",
+      "time": 1793455468125,
       "id": "120363431386567241@g.us",
       "name": "Wahab truested saler",
       "size": 191,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455450503,
+  "updated": 1793455470264,
   "total": 46
 }
