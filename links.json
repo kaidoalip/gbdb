@@ -5131,10 +5131,10 @@
     },
     "K9IsNqtoNWhJxEe1zY3zvr": {
       "status": "valid",
-      "time": 1793412909364,
+      "time": 1793448981291,
       "id": "120363426347713505@g.us",
       "name": "E-commerce A&Z Naveed jutt",
-      "size": 501,
+      "size": 503,
       "approval": true,
       "announce": false
     },
@@ -5146,19 +5146,19 @@
     },
     "JTUO84LE6xN03V8aNT1dhK": {
       "status": "valid",
-      "time": 1793412913835,
+      "time": 1793448983837,
       "id": "120363411262050745@g.us",
       "name": "Buy And Sell Zone",
-      "size": 314,
+      "size": 313,
       "approval": false,
       "announce": false
     },
     "FxwiIL48tn9KcBBsAXx7Mu": {
       "status": "valid",
-      "time": 1793412917498,
+      "time": 1793448985862,
       "id": "120363422076271574@g.us",
       "name": "ELITE  MINDS 🧠",
-      "size": 731,
+      "size": 728,
       "approval": true,
       "announce": false
     },
@@ -5170,28 +5170,29 @@
     },
     "LH4ZyV6Oibo2Cbl3AS32iY": {
       "status": "valid",
-      "time": 1793412920087,
+      "time": 1793448987893,
       "id": "120363418047595882@g.us",
       "name": "LinkedIn Technologies 😎",
-      "size": 254,
+      "size": 255,
       "approval": false,
       "announce": false
     },
     "DBCquUJI0Ko2AOwEz3FDLr": {
-      "status": "valid",
-      "time": 1793412923847,
+      "status": "error",
+      "time": 1793448990503,
       "id": "120363431791306640@g.us",
       "name": "Ziyaraat ground pacges AGZ",
       "size": 305,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KaGxbwbFs6CKGyMakXQugs": {
       "status": "valid",
-      "time": 1793412926877,
+      "time": 1793448993868,
       "id": "120363411388021517@g.us",
       "name": "🌐📲 𝐋𝐈𝐍𝐊𝐒 𝐅𝐎𝐑 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 📲🌐",
-      "size": 293,
+      "size": 299,
       "approval": true,
       "announce": false
     },
@@ -5209,7 +5210,7 @@
     },
     "JgYuYJGKL3Y4as2n1uUlDo": {
       "status": "valid",
-      "time": 1793412931082,
+      "time": 1793448996540,
       "id": "120363401290402659@g.us",
       "name": "𝘼𝙯𝙖𝙙𝙖𝙧 Fb pages, IDs,Tiktok Center",
       "size": 153,
@@ -5218,7 +5219,7 @@
     },
     "F8DrcPoxwlU7uRSYV3n6Pd": {
       "status": "valid",
-      "time": 1793412934788,
+      "time": 1793448998817,
       "id": "120363359846675127@g.us",
       "name": "FAKE WHATSAPP NUMBER GROUP",
       "size": 119,
@@ -5227,7 +5228,7 @@
     },
     "K1ehKiHQaQdAYAxBmV3nSt": {
       "status": "valid",
-      "time": 1793412939128,
+      "time": 1793449000779,
       "id": "120363407630233229@g.us",
       "name": "TRUSTED SELLER",
       "size": 81,
@@ -5236,7 +5237,7 @@
     },
     "KYygz2J3NXa8d56v7gpCzw": {
       "status": "valid",
-      "time": 1793412943061,
+      "time": 1793449003950,
       "id": "120363432736274189@g.us",
       "name": "🖥️ Cloud Server Marketplace",
       "size": 48,
@@ -10060,5 +10061,5 @@
     }
   },
   "total": 1207,
-  "updated": 1793448977273
+  "updated": 1793449004523
 }
