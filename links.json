@@ -7831,16 +7831,16 @@
     },
     "HozWuVOS0VnKRTZjROUX1e": {
       "status": "valid",
-      "time": 1793406055126,
+      "time": 1793413742917,
       "id": "120363413961749023@g.us",
       "name": "JB ALLGAME FLADO",
-      "size": 16,
+      "size": 15,
       "approval": true,
       "announce": false
     },
     "BG9rmtneFj8D1f35FhIJ99": {
       "status": "valid",
-      "time": 1793406058768,
+      "time": 1793413746841,
       "id": "120363430133688299@g.us",
       "name": "JB ALLGAME BANG GAR",
       "size": 10,
@@ -7858,7 +7858,7 @@
     },
     "FzUvOsoKHpT6FjURZ2OShO": {
       "status": "valid",
-      "time": 1793406067683,
+      "time": 1793413751268,
       "id": "120363429035799033@g.us",
       "name": "ZAHiR PEOPLE 💯",
       "size": 119,
@@ -7867,7 +7867,7 @@
     },
     "C7MHtWkRTSIHVWTdllYToR": {
       "status": "valid",
-      "time": 1793406071527,
+      "time": 1793413755172,
       "id": "120363400647236469@g.us",
       "name": "ZAHIR SHARP BITGETERS",
       "size": 38,
@@ -7885,28 +7885,19 @@
     },
     "Dr3e5vlF59NLcUk6LzMIYK": {
       "status": "valid",
-      "time": 1793406078937,
+      "time": 1793413759100,
       "id": "120363413724230193@g.us",
       "name": "WARUNG JB HILZ KEBUKA",
-      "size": 195,
+      "size": 188,
       "approval": false,
       "announce": false
     },
     "KnmHOF6bALYLHuWw3aYCMr": {
       "status": "valid",
-      "time": 1793406083057,
+      "time": 1793413762052,
       "id": "120363432081657666@g.us",
       "name": "FT RECEH BAY GRIZZY",
       "size": 4,
-      "approval": true,
-      "announce": false
-    },
-    "ITZKIA9OEXZFDBe9q4Enzp": {
-      "status": "valid",
-      "time": 1793406086527,
-      "id": "120363413207770013@g.us",
-      "name": "JB BAILA X GRIZZY STR",
-      "size": 81,
       "approval": true,
       "announce": false
     },
@@ -7930,25 +7921,25 @@
     },
     "LfG72NmzlOPHYzKqX0GtT3": {
       "status": "valid",
-      "time": 1793406097514,
+      "time": 1793413767966,
       "id": "120363410528983253@g.us",
       "name": "JB DANZ X STORE // MENJUAL SEGALA JENIS GAME",
-      "size": 177,
+      "size": 175,
       "approval": true,
       "announce": false
     },
     "GxTkMJYxUOsD9sHlL0QFHy": {
       "status": "valid",
-      "time": 1793406100561,
+      "time": 1793413772094,
       "id": "120363413266298260@g.us",
       "name": "Power of ai tools",
-      "size": 39,
+      "size": 38,
       "approval": false,
       "announce": false
     },
     "LgnPrHeiDmJK5MYOZOEPu9": {
       "status": "valid",
-      "time": 1793406105524,
+      "time": 1793413774540,
       "id": "120363430354289543@g.us",
       "name": "GMAIL__GV__TN__TT__ LINKEDIN __ TRUSTED GMAIL GURUP (LNLY ADMIN)✅✅",
       "size": 17,
@@ -9356,6 +9347,6 @@
       "time": 1793413682085
     }
   },
-  "total": 1163,
-  "updated": 1793413738662
+  "total": 1162,
+  "updated": 1793413774768
 }
