@@ -195,8 +195,8 @@
       "announce": false
     },
     "C1hm95xN6LQ3WkDmoVeCE1": {
-      "status": "valid",
-      "time": 1793455142949,
+      "status": "pending",
+      "time": 1793455483189,
       "id": "120363428885718080@g.us",
       "name": "🇨🇳𝑳𝒖𝒊𝒔| Technical treatment plan",
       "size": 243,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455470264,
+  "updated": 1793455483398,
   "total": 46
 }
