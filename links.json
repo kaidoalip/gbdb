@@ -350,15 +350,6 @@
       "size": 0,
       "approval": false
     },
-    "Ck9IFZIZyWb3orJ5vRPFba": {
-      "status": "pending",
-      "time": 1793349676432,
-      "id": "120363430274978486@g.us",
-      "name": "𓆩𝐇ᴋ 𝐋ᴇɢᴇɴᴅ 𝐒ᴇʟʟᴇʀ𓆪",
-      "size": 812,
-      "approval": true,
-      "announce": false
-    },
     "JhJQJokoqBADAFeKOJFNO3": {
       "status": "komunitas",
       "time": 1792567152939,
@@ -538,15 +529,6 @@
       "name": "Ryk BroadCast Yt",
       "size": 126,
       "approval": true
-    },
-    "BlzraQOYngiALDNxQdrvDc": {
-      "status": "joined",
-      "time": 1793349694347,
-      "id": "120363298751876863@g.us",
-      "name": "BM verified FB buy sell",
-      "size": 929,
-      "approval": true,
-      "announce": false
     },
     "HRtjDmorU15JLrnzp0tmd6": {
       "status": "joined",
@@ -1375,16 +1357,6 @@
       "announce": false,
       "err": "account_reachout_restricted"
     },
-    "BklXNdPvGCDHDELLeW4Zm2": {
-      "status": "joined",
-      "time": 1793278586340,
-      "id": "120363422472656309@g.us",
-      "name": "𝐔𝐒𝐄𝐃 𝐆𝐌𝐀𝐈𝐋 𝐁𝐔𝐘//𝐒𝐄𝐋𝐋🇧🇩🇵🇰🇮🇳🇺🇸🇮🇷🇮🇹🤝",
-      "size": 974,
-      "approval": false,
-      "announce": false,
-      "err": "account_reachout_restricted"
-    },
     "FJL0LMt1gZfJXw9vO1bc28": {
       "status": "komunitas",
       "time": 1792567312751,
@@ -1408,24 +1380,6 @@
       "name": "꧁༒☬ 𝑺𝑰𝑵𝑮𝑳𝑬𝑺 𝑪𝑳𝑼𝑩 ☬༒꧂ 💋🥀\n\n»⎯꯭̽🍒⤸\n\n»⎯꯭̽🖤⤸\n\n»⎯꯭̽🎀⤸\n\n»⎯꯭̽🥂⤸\n\n»⎯꯭̽👑⤸\n\n➺❥⃟💋🍒𓆃",
       "size": 7,
       "approval": true
-    },
-    "JO0pBXMy9t05Guwbm7WRCR": {
-      "status": "expired",
-      "time": 1792581932047,
-      "id": "120363420647446819@g.us",
-      "name": "Gv Tn TF SL only admin buy group✅",
-      "size": 980,
-      "approval": false
-    },
-    "I5s4Y3O51I4F0dTNZ4cfUw": {
-      "status": "joined",
-      "time": 1793278605443,
-      "id": "120363412881169825@g.us",
-      "name": "Gv sl buy",
-      "size": 1019,
-      "approval": false,
-      "err": "resource-limit",
-      "announce": false
     },
     "Jr4rbju7ul6FFn238meOeq": {
       "status": "joined",
@@ -2551,16 +2505,6 @@
       "id": "120363419464253639@g.us",
       "name": "𝐼𝓃𝒹𝑒𝓅𝑒𝓃𝒹𝑒𝓃𝒸𝑒 𝒮𝑜𝓊𝓁𝓈"
     },
-    "GzKlXIWp5yqH4M7oCSFy0E": {
-      "status": "pending",
-      "time": 1793369579695,
-      "id": "120363422078023655@g.us",
-      "name": "🤖پشاور بزنس پوائنٹ🤖",
-      "size": 1019,
-      "approval": true,
-      "announce": false,
-      "err": "rate-overlimit"
-    },
     "GVfsPCkhLgiFb3VR1WLnIl": {
       "status": "joined",
       "time": 1793369593797,
@@ -3452,15 +3396,6 @@
       "err": "sock is not defined",
       "announce": false
     },
-    "LVeHf5SUHs4L9AXmtwFh1z": {
-      "status": "pending",
-      "time": 1793403694834,
-      "id": "120363429817848801@g.us",
-      "name": "SALER'S and BUYER'S 🤝",
-      "size": 1007,
-      "approval": true,
-      "announce": false
-    },
     "L0PGUXJVb1B96XoKKDydc4": {
       "status": "joined",
       "time": 1793403711666,
@@ -3906,15 +3841,6 @@
     "CwJ5VEYEvtSDfwUXLn1fEq": {
       "status": "expired",
       "time": 1792741651998
-    },
-    "J3cetbgpRfGBBRMXo1bY6N": {
-      "status": "joined",
-      "time": 1793406846107,
-      "id": "120363409071437198@g.us",
-      "name": "HOME OF COMPUTERS",
-      "size": 875,
-      "approval": false,
-      "announce": false
     },
     "EffvEVHNN0r5B0u5MqfM4A": {
       "status": "komunitas",
@@ -9735,6 +9661,6 @@
       "time": 1793446681591
     }
   },
-  "total": 1227,
-  "updated": 1793446681591
+  "total": 1219,
+  "updated": 1793447122965
 }
