@@ -3217,8 +3217,8 @@
       "approval": true
     },
     "KjpdUZZi8GDFszdD21zkG2": {
-      "status": "valid",
-      "time": 1793412633956,
+      "status": "pending",
+      "time": 1793448619861,
       "id": "120363428564141868@g.us",
       "name": "👽Golden era 😝",
       "size": 30,
@@ -10068,5 +10068,5 @@
     }
   },
   "total": 1208,
-  "updated": 1793448602603
+  "updated": 1793448620311
 }
