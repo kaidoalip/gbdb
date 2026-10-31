@@ -159,8 +159,8 @@
       "announce": false
     },
     "DvXy58DgHP6FAfeKzqz6pk": {
-      "status": "valid",
-      "time": 1793455131453,
+      "status": "pending",
+      "time": 1793455417494,
       "id": "120363411452900068@g.us",
       "name": "Information Point G10",
       "size": 591,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455417071,
+  "updated": 1793455418208,
   "total": 46
 }
