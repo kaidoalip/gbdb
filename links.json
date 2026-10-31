@@ -3947,8 +3947,8 @@
       "err": "sock is not defined"
     },
     "LJHtiUJVQT3KOAv0tsjwWN": {
-      "status": "valid",
-      "time": 1793412644132,
+      "status": "joined",
+      "time": 1793448637850,
       "id": "120363428265748084@g.us",
       "name": "TN_TT_GV_SL_TP_TF_LinkedIn",
       "size": 172,
@@ -10068,5 +10068,5 @@
     }
   },
   "total": 1208,
-  "updated": 1793448620311
+  "updated": 1793448640657
 }
