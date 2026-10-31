@@ -33,8 +33,8 @@
       "announce": false
     },
     "CPtYkURZVCOKrjxLiClWla": {
-      "status": "pending",
-      "time": 1793455217357,
+      "status": "joined",
+      "time": 1793455379919,
       "id": "120363294911055624@g.us",
       "name": "All update information 🇵🇰",
       "size": 762,
@@ -397,6 +397,6 @@
       "time": 1793455297074
     }
   },
-  "updated": 1793455374479,
+  "updated": 1793455380218,
   "total": 46
 }
