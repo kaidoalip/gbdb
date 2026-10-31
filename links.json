@@ -8630,51 +8630,57 @@
     },
     "Gw49LIoThuRKLVMuxA3f6C": {
       "status": "valid",
-      "time": 1793406350629,
+      "time": 1793413991147,
       "id": "120363428784112445@g.us",
       "name": "Z/K TikTok Uk & Usa Account Buy and Sale Trusted Zone",
       "size": 9,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "GFb3JrKQzU73K0NXb9cVE3": {
       "status": "valid",
-      "time": 1793406354057,
+      "time": 1793413994394,
       "id": "120363427320103012@g.us",
       "name": "TikTok Account Buy And Sale Trusted Zone",
       "size": 458,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "KSp7yF9Jyrg2g1uMsFkPky": {
       "status": "valid",
-      "time": 1793406357966,
+      "time": 1793413997580,
       "id": "120363413182343452@g.us",
       "name": "Trusted Buyers and Sellers",
-      "size": 38,
-      "approval": false
+      "size": 42,
+      "approval": false,
+      "announce": false
     },
     "IJt9l8FWV7E5NeRHzpYGGR": {
       "status": "valid",
-      "time": 1793406363305,
+      "time": 1793414001543,
       "id": "120363432326507416@g.us",
       "name": "GSM ALL TOOL RENT",
-      "size": 125,
-      "approval": false
+      "size": 126,
+      "approval": false,
+      "announce": false
     },
     "HWnm5bcYOAb5OES5eeT9No": {
       "status": "valid",
-      "time": 1793406365984,
+      "time": 1793414005746,
       "id": "120363412200534177@g.us",
       "name": "All account buy &sell Bd",
-      "size": 12,
-      "approval": false
+      "size": 13,
+      "approval": false,
+      "announce": false
     },
     "FYqG6DllxKf2pnSZwFG5Mf": {
       "status": "valid",
-      "time": 1793406371211,
+      "time": 1793414008699,
       "id": "120363412390276625@g.us",
       "name": "♻️Umar Id buyer and saller 🫂🤕",
-      "size": 489,
-      "approval": false
+      "size": 490,
+      "approval": false,
+      "announce": false
     },
     "GHHWfs6q9haGOi3yJlNcKC": {
       "status": "expired",
@@ -8682,19 +8688,21 @@
     },
     "ETUvYoOjuiyHHdMmJFxfYd": {
       "status": "valid",
-      "time": 1793406373928,
+      "time": 1793414012731,
       "id": "120363411984457192@g.us",
       "name": "MARKET _BEST QUALITY DATA_",
       "size": 47,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "LMdSWKsozQRHlRb7O2IGdD": {
       "status": "valid",
-      "time": 1793406376595,
+      "time": 1793414016194,
       "id": "120363422692717279@g.us",
       "name": "GSM SHAHZAD 🟢",
       "size": 252,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "BmUaUPE7YVx0YAAT032Xvx": {
       "status": "expired",
@@ -8704,17 +8712,14 @@
       "size": 646,
       "approval": true
     },
-    "EHQEwDg7jbm4RoaIyAbR5q": {
-      "status": "blocked",
-      "time": 1793406381954
-    },
     "G5axtACwAk480BsIle4HLr": {
       "status": "valid",
-      "time": 1793406384717,
+      "time": 1793414022845,
       "id": "120363430424370609@g.us",
       "name": "*R1_BM2_MS365*\nQUALITY DATA  group 1",
       "size": 126,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "LLkX37b82zSIHxeqM4Lfsu": {
       "status": "valid",
@@ -9340,6 +9345,6 @@
       "time": 1793413682085
     }
   },
-  "total": 1160,
-  "updated": 1793413985912
+  "total": 1159,
+  "updated": 1793414023168
 }
