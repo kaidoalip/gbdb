@@ -9359,44 +9359,90 @@
       "announce": false
     },
     "Ktiu1KF76iR5EJdyDxRDLO": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448309761,
+      "id": "120363412010528552@g.us",
+      "name": "GB FT CS BAY VALL#1",
+      "size": 46,
+      "approval": true,
+      "announce": false
     },
     "GnAhhY3Y1wZI0QZhD64jAn": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448311634,
+      "id": "120363431469047603@g.us",
+      "name": "𝐂𝐀𝐒𝐒𝐈𝐀𝐍 𝟏𝟏𝟎 || 𝐌𝐒𝐔𝐊 𝐇𝐁𝐈𝐒 𝐊𝐄 𝐁𝐀𝐍",
+      "size": 17,
+      "approval": true,
+      "announce": false
     },
     "FH7gbcQpLJnKuskac3z3ft": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "error",
+      "time": 1793448314767,
+      "err": "bad-request"
     },
     "I0XNxjn7TadH2bNJzde5Oe": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448318045,
+      "id": "120363428527743892@g.us",
+      "name": "TITIK KUMPUL KANG JB👑",
+      "size": 24,
+      "approval": true,
+      "announce": false
     },
     "GOYyx4CBxOFBa0rXdF4D03": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448320691,
+      "id": "120363431073139462@g.us",
+      "name": "MARKET ALL GAME SOFTY4N STORE",
+      "size": 51,
+      "approval": true,
+      "announce": false
     },
     "BfKfgADzSk37wZGVoQgJWg": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448323828,
+      "id": "120363178908140505@g.us",
+      "name": "GB FT CS 500-5K|| BY AAN116",
+      "size": 46,
+      "approval": true,
+      "announce": false
     },
     "J5Ok4rDPtPIGe8aezKQ6tb": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448326986,
+      "id": "120363412580616065@g.us",
+      "name": "MARGA 75 PRIDE 545 TW FEMESS CUYY",
+      "size": 278,
+      "approval": false,
+      "announce": false
     },
     "LjkaxVxQeEW77djntonHPv": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448329016,
+      "id": "120363412704264568@g.us",
+      "name": "𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝙐𝙏𝘼𝙈𝘼 𝙑𝙄𝙉𝙏 ( 𝙉𝙀𝙒 )",
+      "size": 3,
+      "approval": true,
+      "announce": false
     },
     "HTK53APJ9aq4WY6YMtmSfg": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448331249,
+      "id": "120363425143799916@g.us",
+      "name": "𝙉𝙀𝙓𝙑𝙊𝙍𝙀 𝙎𝘾𝘼𝙍𝙔",
+      "size": 32,
+      "approval": true,
+      "announce": false
     },
     "BZnD4LOj9pw9XM3A7i0zuk": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448333898,
+      "id": "120363412190188401@g.us",
+      "name": "𝐹𝑇 𝐶𝑆 𝐾𝐼𝐸𝐿𝐿 𝑥 𝑂𝑊𝑁",
+      "size": 78,
+      "approval": true,
+      "announce": false
     },
     "CrEFFfzO75z1Hrmz0Mhrc7": {
       "status": "new",
@@ -9728,5 +9774,5 @@
     }
   },
   "total": 1218,
-  "updated": 1793448305847
+  "updated": 1793448334219
 }
