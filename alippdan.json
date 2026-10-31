@@ -114,8 +114,8 @@
       "announce": false
     },
     "Hirn13Hxjv7D3NljILmHC3": {
-      "status": "valid",
-      "time": 1793455116724,
+      "status": "joined",
+      "time": 1793455305217,
       "id": "923328616060-1576093430@g.us",
       "name": "OPEN MARKET PAKISTAN",
       "size": 556,
@@ -397,6 +397,6 @@
       "time": 1793455297074
     }
   },
-  "updated": 1793455297074,
+  "updated": 1793455305433,
   "total": 46
 }
