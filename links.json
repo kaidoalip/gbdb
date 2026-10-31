@@ -9522,44 +9522,60 @@
       "announce": false
     },
     "KAIAI8jbzX4DY0R5vFOch8": {
-      "status": "new",
-      "time": 1793414995707
-    },
-    "LPNzMDpzGzfH3eQXoUqSsb": {
-      "status": "new",
-      "time": 1793415002191
+      "status": "valid",
+      "time": 1793448365887,
+      "id": "120363430273585101@g.us",
+      "name": "Uk sim.otp,live,All Account",
+      "size": 99,
+      "approval": false,
+      "announce": false
     },
     "HVQE4VztM524YWx9TbujEy": {
-      "status": "new",
-      "time": 1793415002191
+      "status": "error",
+      "time": 1793448371755,
+      "err": "growth-locked"
     },
     "FweYfWN7whiFYxi4T7OyZv": {
-      "status": "new",
-      "time": 1793415452565
+      "status": "valid",
+      "time": 1793448374124,
+      "id": "120363429184107598@g.us",
+      "name": "Google cloud account buy sell",
+      "size": 9,
+      "approval": false,
+      "announce": false
     },
     "KYSLqtBYxqbH4KgKkqwuDf": {
-      "status": "new",
-      "time": 1793415452565
-    },
-    "HBs4DnZh1A1G61M2Bnaz0H": {
-      "status": "new",
-      "time": 1793415572794
+      "status": "valid",
+      "time": 1793448376719,
+      "id": "120363414830070578@g.us",
+      "name": "Content creater tool gear",
+      "size": 128,
+      "approval": false,
+      "announce": false
     },
     "HwgCLD60W0w1yLo5fWSubL": {
-      "status": "new",
-      "time": 1793415812507
+      "status": "komunitas",
+      "time": 1793448382596,
+      "id": "120363410403828962@g.us",
+      "name": "Rahman!XTrusted💯Zone!"
     },
     "Idx5xijR2r1LN7IIsijVQg": {
-      "status": "new",
-      "time": 1793416315429
+      "status": "valid",
+      "time": 1793448384981,
+      "id": "120363429656739459@g.us",
+      "name": "✔ 𝙏𝙉 ✔ 𝙂𝙑 ✔ 𝙎𝙇 ✔ 𝙏𝙏 ✔ 𝙏𝙁 ✔ 𝙏𝙋 ✔ 𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣 𝘼𝙡𝙡 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝘽𝙪𝙮 𝙖𝙣𝙙 𝙎𝙚𝙡𝙡 ✔ 𝙏𝙧𝙪𝙨𝙩𝙚𝙙 𝙂𝙧𝙤𝙪𝙥 🩵🫂 𝘽𝘿 🇧🇩🇧🇩✔ 𝙎𝙖𝙢𝙞 𝙑𝙖𝙞",
+      "size": 205,
+      "approval": false,
+      "announce": false
     },
     "Cl58vQPCPdM9mqabxje60O": {
-      "status": "new",
-      "time": 1793416532497
-    },
-    "DaCxKMyQnelJ1fleSu4bmT": {
-      "status": "new",
-      "time": 1793416772495
+      "status": "valid",
+      "time": 1793448387189,
+      "id": "120363413661730167@g.us",
+      "name": "👈❤️اٹھ کا گروپ ہے شولی🌹💪🤝 کا گروپ ہے پل🎤🔓",
+      "size": 369,
+      "approval": false,
+      "announce": false
     },
     "Luz2wCUDQxtCc8mU4CmED9": {
       "status": "new",
@@ -9810,6 +9826,6 @@
       "time": 1793448216872
     }
   },
-  "total": 1217,
-  "updated": 1793448361805
+  "total": 1214,
+  "updated": 1793448389428
 }
