@@ -9219,44 +9219,63 @@
       "announce": false
     },
     "Jl9ewsHOIeILBdaaoDwfSp": {
-      "status": "new",
-      "time": 1793412024025
+      "status": "valid",
+      "time": 1793448255122,
+      "id": "120363412988754688@g.us",
+      "name": "JB ALLGAME FAIRUZ",
+      "size": 18,
+      "approval": true,
+      "announce": false
     },
     "LqbeCfz0tkz9XAO1nNvQB4": {
-      "status": "new",
-      "time": 1793412024025
+      "status": "valid",
+      "time": 1793448257616,
+      "id": "120363414283289104@g.us",
+      "name": "JB ALLGAME ANDIKA",
+      "size": 8,
+      "approval": true,
+      "announce": false
     },
     "HY8MXr4g0DLGMgnsFFbF6g": {
-      "status": "new",
-      "time": 1793412024025
+      "status": "valid",
+      "time": 1793448260890,
+      "id": "120363430866927595@g.us",
+      "name": "JB ALLGAME RAFLI",
+      "size": 12,
+      "approval": true,
+      "announce": false
     },
     "DN2oqCpYnvSLL4n2iIGGcN": {
-      "status": "new",
-      "time": 1793412024025
+      "status": "valid",
+      "time": 1793448263781,
+      "id": "120363430322740193@g.us",
+      "name": "JB ALLGAME RAJA",
+      "size": 11,
+      "approval": true,
+      "announce": false
     },
     "DQvs9uuJEnTEdHyHm5HadZ": {
-      "status": "new",
-      "time": 1793412836044
-    },
-    "FZbbnPQ7swH7Q6XZ6se32q": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448266220,
+      "id": "120363431826973523@g.us",
+      "name": "خریداری گروپ",
+      "size": 429,
+      "approval": false,
+      "announce": false
     },
     "CDs4wpaxCUe0EiFsxlOZ5g": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "valid",
+      "time": 1793448271693,
+      "id": "120363403214280259@g.us",
+      "name": "MARKET || ☆ KENZ STORE V5 ☆",
+      "size": 2,
+      "approval": true,
+      "announce": false
     },
     "BNUcbDGFg53EDRYqzAhblT": {
-      "status": "new",
-      "time": 1793412955707
-    },
-    "HCWbvmNhsYJH6tMrW5UTxG": {
-      "status": "new",
-      "time": 1793412955707
-    },
-    "FfXitrwwRQw5ya5xOZm3Oj": {
-      "status": "new",
-      "time": 1793412955707
+      "status": "error",
+      "time": 1793448273753,
+      "err": "bad-request"
     },
     "IGPjd0oevoUHzhJiqm2Gax": {
       "status": "new",
@@ -9667,6 +9686,6 @@
       "time": 1793448216872
     }
   },
-  "total": 1222,
-  "updated": 1793448253224
+  "total": 1219,
+  "updated": 1793448278870
 }
