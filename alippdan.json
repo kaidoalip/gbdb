@@ -123,8 +123,8 @@
       "announce": false
     },
     "JwQHlWGMPJECOURYWU7CmD": {
-      "status": "valid",
-      "time": 1793455118624,
+      "status": "joined",
+      "time": 1793455320023,
       "id": "120363431007337429@g.us",
       "name": "KNOWLEGE HUB",
       "size": 267,
@@ -397,6 +397,6 @@
       "time": 1793455297074
     }
   },
-  "updated": 1793455305433,
+  "updated": 1793455320218,
   "total": 46
 }
