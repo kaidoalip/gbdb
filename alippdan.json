@@ -177,8 +177,8 @@
       "announce": false
     },
     "JdNXH5e9MRVF7CrpqNndtz": {
-      "status": "valid",
-      "time": 1793455137012,
+      "status": "joined",
+      "time": 1793455448312,
       "id": "120363430112571518@g.us",
       "name": "Seling group ❤️",
       "size": 63,
@@ -407,6 +407,6 @@
       "announce": false
     }
   },
-  "updated": 1793455433563,
+  "updated": 1793455450503,
   "total": 46
 }
