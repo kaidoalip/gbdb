@@ -9718,44 +9718,87 @@
       "announce": false
     },
     "JeLYyezTsBtBNRvPlYt8bz": {
-      "status": "new",
-      "time": 1793422021478
+      "status": "error",
+      "time": 1793448450644,
+      "err": "bad-request"
     },
     "I9H4mlGLbUQIiAZ5N8B6SE": {
-      "status": "new",
-      "time": 1793422021478
+      "status": "valid",
+      "time": 1793448453763,
+      "id": "120363430827819365@g.us",
+      "name": "🌹Rdps And Gv Seller🌹",
+      "size": 62,
+      "approval": false,
+      "announce": false
     },
     "KLFZ2RJckixHykXjQZ8SSG": {
-      "status": "new",
-      "time": 1793422501558
+      "status": "valid",
+      "time": 1793448455894,
+      "id": "120363411940271644@g.us",
+      "name": "TikTok Small Accounts Buy and Sale",
+      "size": 35,
+      "approval": false,
+      "announce": false
     },
     "GhgwjeuPCNvAx5SNTIC58A": {
-      "status": "new",
-      "time": 1793423341690
+      "status": "komunitas",
+      "time": 1793448457777,
+      "id": "120363410785787244@g.us",
+      "name": "Laser Cash All Pakistan Delivery Available Jisne Leni Hai WhatsApp Inbox Mein Raabta Kar Sakta Hai"
     },
     "DHTeGEl2ahL80M3vJb0QUx": {
-      "status": "new",
-      "time": 1793423941689
+      "status": "valid",
+      "time": 1793448460786,
+      "id": "120363415737251843@g.us",
+      "name": "Deal zone",
+      "size": 33,
+      "approval": false,
+      "announce": false
     },
     "Bj6B5Dly3HBEyZLglD9897": {
-      "status": "new",
-      "time": 1793424061902
+      "status": "valid",
+      "time": 1793448464059,
+      "id": "120363389164190853@g.us",
+      "name": "مستند اور قابل بھروسہ 1",
+      "size": 1025,
+      "approval": false,
+      "announce": false
     },
     "KJhN0IPp9xi22xpzaWKqy6": {
-      "status": "new",
-      "time": 1793424061902
+      "status": "valid",
+      "time": 1793448467220,
+      "id": "120363429364686570@g.us",
+      "name": "❤ BM Market Hub | Buy & Sell 💼❤️",
+      "size": 229,
+      "approval": false,
+      "announce": false
     },
     "Bfh3W238TUwJ0nng1y9CWb": {
-      "status": "new",
-      "time": 1793424421516
+      "status": "valid",
+      "time": 1793448470804,
+      "id": "120363412378676100@g.us",
+      "name": "💢TRUSTED ZONE💥🔥",
+      "size": 20,
+      "approval": false,
+      "announce": false
     },
     "DNgtm5Rp15437tpfTpSENC": {
-      "status": "new",
-      "time": 1793424541606
+      "status": "valid",
+      "time": 1793448474590,
+      "id": "120363360695126779@g.us",
+      "name": "A-JOSH Dispatch Services🛵🚚🛳️✈️",
+      "size": 107,
+      "approval": true,
+      "announce": false
     },
     "DHD9hTUnZ1P9KLzvPPNpdN": {
-      "status": "new",
-      "time": 1793424661502
+      "status": "valid",
+      "time": 1793448477937,
+      "id": "120363432462039394@g.us",
+      "name": "BBC News Pashto",
+      "size": 179,
+      "approval": false,
+      "announce": false
     },
     "I34PqrUdT2S2zwfF8bmkqO": {
       "status": "new",
@@ -9887,5 +9930,5 @@
     }
   },
   "total": 1210,
-  "updated": 1793448457473
+  "updated": 1793448478472
 }
