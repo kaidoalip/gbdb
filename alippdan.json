@@ -51,8 +51,8 @@
       "announce": false
     },
     "H6sD596KNxBGTMBnefJpLQ": {
-      "status": "valid",
-      "time": 1793455098142,
+      "status": "pending",
+      "time": 1793455246876,
       "id": "120363431260956107@g.us",
       "name": "Boom 💥 Crash",
       "size": 13,
@@ -393,6 +393,6 @@
       "time": 1793455177065
     }
   },
-  "updated": 1793455230246,
+  "updated": 1793455247077,
   "total": 45
 }
