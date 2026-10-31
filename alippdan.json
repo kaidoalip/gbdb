@@ -78,8 +78,8 @@
       "announce": false
     },
     "H2s9Gm6TBUU9Yql5VoJAPK": {
-      "status": "valid",
-      "time": 1793455105843,
+      "status": "joined",
+      "time": 1793455262632,
       "id": "120363430277413727@g.us",
       "name": "AWS cloud rdp selling",
       "size": 157,
@@ -393,6 +393,6 @@
       "time": 1793455177065
     }
   },
-  "updated": 1793455247077,
+  "updated": 1793455264910,
   "total": 45
 }
