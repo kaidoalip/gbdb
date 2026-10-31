@@ -8220,8 +8220,8 @@
       "announce": false
     },
     "DajEz0Ntr0fAF0kqgoYRE7": {
-      "status": "expired",
-      "time": 1793362589204,
+      "status": "joined",
+      "time": 1793451893366,
       "id": "120363410355656872@g.us",
       "name": "Danish MD",
       "size": 77,
@@ -9602,8 +9602,8 @@
       "announce": false
     },
     "F0dEWO9PXerGEeA60AWgVo": {
-      "status": "valid",
-      "time": 1793450216086,
+      "status": "joined",
+      "time": 1793451893366,
       "id": "120363410355656872@g.us",
       "name": "FLUX SMS",
       "size": 138,
@@ -9826,5 +9826,5 @@
     }
   },
   "total": 1181,
-  "updated": 1793451891651
+  "updated": 1793451893669
 }
