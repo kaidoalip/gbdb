@@ -105,8 +105,8 @@
       "announce": false
     },
     "HWDOvyFvxmNJ0kFyZHByU8": {
-      "status": "valid",
-      "time": 1793455113789,
+      "status": "pending",
+      "time": 1793455290682,
       "id": "120363411182855288@g.us",
       "name": "| Cybersecurity Specialist | Buy sell Group 🤝",
       "size": 596,
@@ -393,6 +393,6 @@
       "time": 1793455177065
     }
   },
-  "updated": 1793455277116,
+  "updated": 1793455290882,
   "total": 45
 }
