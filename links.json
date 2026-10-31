@@ -8799,43 +8799,48 @@
     },
     "Bvxn58K2ZDs1HdhVACqNmi": {
       "status": "valid",
-      "time": 1793406425306,
+      "time": 1793414058852,
       "id": "120363425709608083@g.us",
       "name": "Chinese exchange🇨🇳🇨🇳🇨🇳",
       "size": 238,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "D1vndJ1NdpbA3tl0F0DKp3": {
       "status": "valid",
-      "time": 1793406429282,
+      "time": 1793414061946,
       "id": "120363422944010937@g.us",
       "name": "STOCK WITH ALAMDAR (USA)",
       "size": 424,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "KYN30jJBQtu5VIR16EbDjN": {
       "status": "valid",
-      "time": 1793406435018,
+      "time": 1793414064542,
       "id": "120363413165006480@g.us",
       "name": "USA Account Buy Sell Zone",
       "size": 22,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "CbbP595kTXEHvflYeGuDQm": {
       "status": "valid",
-      "time": 1793406439330,
+      "time": 1793414068756,
       "id": "120363333959399161@g.us",
       "name": "🔥💯Amazon seller's 💸 💌💯",
       "size": 758,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "ICQ8Xvr0tny78Eg7NtkVsM": {
       "status": "valid",
-      "time": 1793406441971,
+      "time": 1793414072998,
       "id": "120363319452889616@g.us",
       "name": "💰WORKS WID BRIDEN ZAYIT 💰",
       "size": 243,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "HJCKFvR4NIQ0Q1yFglw3nG": {
       "status": "expired",
@@ -8847,11 +8852,12 @@
     },
     "IB5N9HwTdFM1G63MajGlgj": {
       "status": "valid",
-      "time": 1793406445976,
+      "time": 1793414076331,
       "id": "120363431347063055@g.us",
       "name": "​🇱🇷TN🇱🇷TF🇱🇷TT🇱🇷TP🇱🇷FB 🇱🇷USA ALL TEXTING & CALLING SOFTWARE BUY SELL GROUP🇱🇷🇱🇷",
-      "size": 196,
-      "approval": false
+      "size": 199,
+      "approval": false,
+      "announce": false
     },
     "KetBj3BoLEn3zVaIVz73Es": {
       "status": "komunitas",
@@ -8865,35 +8871,39 @@
     },
     "DRoPTimE65KAeJKajQ4amT": {
       "status": "valid",
-      "time": 1793406449309,
+      "time": 1793414079049,
       "id": "120363413038772524@g.us",
       "name": "MS SAHIL YT AUTOMATION",
-      "size": 214,
-      "approval": false
+      "size": 215,
+      "approval": false,
+      "announce": false
     },
     "H5J1W6Tke0q99IwiCo1hKH": {
       "status": "valid",
-      "time": 1793406451984,
+      "time": 1793414082680,
       "id": "120363426664276783@g.us",
       "name": "Abdul Rafay digital store",
       "size": 73,
-      "approval": true
+      "approval": true,
+      "announce": false
     },
     "J8rWAz7ZcB260n4cqb2KHN": {
       "status": "valid",
-      "time": 1793406455194,
+      "time": 1793414086830,
       "id": "120363407114722226@g.us",
       "name": "Call centre Bd & Indian//⚒️🖥️",
       "size": 431,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "KqNMn27YBFXCeWmwD78Xnj": {
       "status": "valid",
-      "time": 1793406458561,
+      "time": 1793414089273,
       "id": "120363411341128926@g.us",
       "name": "Mike's PHONE Unlocking,Lipa mdogo mdogo",
       "size": 179,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "En5whKt8qc46SU9E0yT24V": {
       "status": "komunitas",
@@ -9345,5 +9355,5 @@
     }
   },
   "total": 1158,
-  "updated": 1793414054595
+  "updated": 1793414089595
 }
