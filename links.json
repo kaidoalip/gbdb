@@ -9239,7 +9239,7 @@
     },
     "Jprc7Jop6LYADfvJRv81kR": {
       "status": "valid",
-      "time": 1793448340481,
+      "time": 1793450072338,
       "id": "120363419181863856@g.us",
       "name": "PROJECT BY CAYY",
       "size": 72,
@@ -9248,16 +9248,16 @@
     },
     "FCQ9Cl9jlLjKv6dB206Le8": {
       "status": "valid",
-      "time": 1793448342543,
+      "time": 1793450075326,
       "id": "120363431544484430@g.us",
       "name": "GB JB ALLGAME VINN #1 (100MEM DAGET)",
-      "size": 54,
+      "size": 58,
       "approval": true,
       "announce": false
     },
     "GsRMd6IHrRqKjyyqlXrSNH": {
       "status": "valid",
-      "time": 1793448345923,
+      "time": 1793450078468,
       "id": "120363407602057515@g.us",
       "name": "حنا خان گروپ نمبر 6 کال سروسز",
       "size": 834,
@@ -9266,12 +9266,12 @@
     },
     "BE35h1kRqoD6HRuQhmRyw0": {
       "status": "blocked",
-      "time": 1793448347778,
+      "time": 1793450081280,
       "err": "not-authorized"
     },
     "C5XQYiOYwC5J4MARG1he1K": {
       "status": "valid",
-      "time": 1793448352052,
+      "time": 1793450083780,
       "id": "120363410287569606@g.us",
       "name": "دینہ، جہلم میں سب کچھ ملتا ہے۔✨",
       "size": 202,
@@ -9280,7 +9280,7 @@
     },
     "FAxQeqG3ut872EyiBt9a78": {
       "status": "valid",
-      "time": 1793448354858,
+      "time": 1793450086432,
       "id": "120363350451145714@g.us",
       "name": "اسلحہ اور لائسنس پاکستان",
       "size": 681,
@@ -9289,16 +9289,16 @@
     },
     "Gr4LKPN0h676qeLmxRAR64": {
       "status": "valid",
-      "time": 1793448358219,
+      "time": 1793450089349,
       "id": "120363431386567241@g.us",
       "name": "Wahab truested saler",
-      "size": 163,
+      "size": 165,
       "approval": false,
       "announce": false
     },
     "Jf26OuDPTPVAK3h57thv8r": {
       "status": "valid",
-      "time": 1793448361461,
+      "time": 1793450092471,
       "id": "120363429276572320@g.us",
       "name": "~Fayaz trusted seller~✅",
       "size": 165,
@@ -9307,7 +9307,7 @@
     },
     "KAIAI8jbzX4DY0R5vFOch8": {
       "status": "valid",
-      "time": 1793448365887,
+      "time": 1793450095527,
       "id": "120363430273585101@g.us",
       "name": "Uk sim.otp,live,All Account",
       "size": 99,
@@ -9316,7 +9316,7 @@
     },
     "HVQE4VztM524YWx9TbujEy": {
       "status": "error",
-      "time": 1793448371755,
+      "time": 1793450098910,
       "err": "growth-locked"
     },
     "FweYfWN7whiFYxi4T7OyZv": {
@@ -9864,5 +9864,5 @@
     }
   },
   "total": 1186,
-  "updated": 1793450068647
+  "updated": 1793450099596
 }
