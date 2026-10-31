@@ -7741,7 +7741,7 @@
     },
     "Ekq8g5BUM0iI91XUYvcyc7": {
       "status": "valid",
-      "time": 1793406018560,
+      "time": 1793413709874,
       "id": "120363415458109702@g.us",
       "name": "JB ALLGAME 215",
       "size": 15,
@@ -7750,16 +7750,16 @@
     },
     "Lgfvx2rj1v0Cn9CM8N94es": {
       "status": "valid",
-      "time": 1793406021030,
+      "time": 1793413713225,
       "id": "120363413458120457@g.us",
       "name": "JB ALLGAME 216",
-      "size": 23,
+      "size": 22,
       "approval": true,
       "announce": false
     },
     "GLkkb0U6H7g2gnSn055lPr": {
       "status": "valid",
-      "time": 1793406025634,
+      "time": 1793413717120,
       "id": "120363431500905910@g.us",
       "name": "JB ALLGAME 218",
       "size": 11,
@@ -7768,7 +7768,7 @@
     },
     "IDh9Io8cQFPCzRRqI67KSl": {
       "status": "valid",
-      "time": 1793406030145,
+      "time": 1793413719888,
       "id": "120363433386346786@g.us",
       "name": "JB ALLGAME ROW",
       "size": 13,
@@ -7777,16 +7777,16 @@
     },
     "IF2xfw6ddnJEtK2ZXskhFw": {
       "status": "valid",
-      "time": 1793406032769,
+      "time": 1793413722896,
       "id": "120363412799939689@g.us",
       "name": "JB ALLGAME  RANZ GANZ",
-      "size": 26,
+      "size": 25,
       "approval": true,
       "announce": false
     },
     "FCRps9S26MODueUHHzIU5D": {
       "status": "valid",
-      "time": 1793406036374,
+      "time": 1793413726317,
       "id": "120363414577208483@g.us",
       "name": "JB ALLGAME 219",
       "size": 7,
@@ -7795,7 +7795,7 @@
     },
     "KWYDiHBBo2tC7PY6E5AWiA": {
       "status": "valid",
-      "time": 1793406040883,
+      "time": 1793413730240,
       "id": "120363411206962493@g.us",
       "name": "JB ALLGAME 220",
       "size": 7,
@@ -7804,25 +7804,25 @@
     },
     "DLmDTXFh3MA3YAH6oBlXyV": {
       "status": "valid",
-      "time": 1793406043740,
+      "time": 1793413732759,
       "id": "120363429712554423@g.us",
       "name": "JB ALLGAME BUYO",
-      "size": 16,
+      "size": 15,
       "approval": true,
       "announce": false
     },
     "E81ywC47xZFB8NXHNI2A5i": {
       "status": "valid",
-      "time": 1793406047924,
+      "time": 1793413735812,
       "id": "120363412624501041@g.us",
       "name": "JB ALLGAME OBITO",
-      "size": 15,
+      "size": 14,
       "approval": true,
       "announce": false
     },
     "Cw9MGLbdiHZIzAK7k6ysq3": {
       "status": "valid",
-      "time": 1793406051926,
+      "time": 1793413738414,
       "id": "120363433867835649@g.us",
       "name": "JB ALLGAME ALIM",
       "size": 7,
@@ -9357,5 +9357,5 @@
     }
   },
   "total": 1163,
-  "updated": 1793413704529
+  "updated": 1793413738662
 }
