@@ -4638,11 +4638,11 @@
       "announce": false
     },
     "EOh1WvMeirtEmloGD1lhAv": {
-      "status": "joined",
-      "time": 1793407917035,
+      "status": "valid",
+      "time": 1793412767179,
       "id": "917033861301-1521908622@g.us",
       "name": "TRUST MILLION BINARY FX",
-      "size": 286,
+      "size": 288,
       "approval": false,
       "announce": false
     },
@@ -4665,20 +4665,20 @@
       "announce": false
     },
     "ERGJ3gSFkCA7PPkY26GGk2": {
-      "status": "joined",
-      "time": 1793407970244,
+      "status": "valid",
+      "time": 1793412770872,
       "id": "120363431050484531@g.us",
       "name": "SOCIAL  Medio services  VisionHive",
-      "size": 13,
+      "size": 14,
       "approval": false,
       "announce": false
     },
     "Jt53vZ2pXiDApo69xRZzUn": {
-      "status": "joined",
-      "time": 1793407989357,
+      "status": "valid",
+      "time": 1793412773591,
       "id": "254728871588-1569231135@g.us",
       "name": "PC2GO Computers",
-      "size": 455,
+      "size": 456,
       "approval": false,
       "announce": false
     },
@@ -4692,20 +4692,20 @@
       "announce": false
     },
     "HnKoqb6GOJRA3AF0MOPN3e": {
-      "status": "joined",
-      "time": 1793408024489,
+      "status": "valid",
+      "time": 1793412776255,
       "id": "120363431223459045@g.us",
       "name": "Sharp deals.",
-      "size": 404,
+      "size": 405,
       "approval": false,
       "announce": false
     },
     "KyWjJhH9DJw8KYucZaywks": {
-      "status": "joined",
-      "time": 1793408041702,
+      "status": "valid",
+      "time": 1793412780601,
       "id": "120363430991879566@g.us",
       "name": "World Marketplace Connect – Multi-Platform Sellers & Buyers",
-      "size": 112,
+      "size": 113,
       "approval": false,
       "announce": false
     },
@@ -4785,11 +4785,11 @@
       "announce": false
     },
     "GOWptq6SboE3r8DPGN6HAL": {
-      "status": "joined",
-      "time": 1793408127654,
+      "status": "valid",
+      "time": 1793412783134,
       "id": "120363431222878004@g.us",
       "name": "Gmail ❣️TT TF TN GV SL INDEX Buy group ❣️❣️(ONLY ADMIN)❣️❣️",
-      "size": 270,
+      "size": 271,
       "approval": false,
       "announce": false
     },
@@ -4848,11 +4848,11 @@
       "announce": false
     },
     "EFUtPSmqOMX2wCzC7HORDa": {
-      "status": "joined",
-      "time": 1793408243546,
+      "status": "valid",
+      "time": 1793412785822,
       "id": "120363431784030570@g.us",
       "name": "LINKED IN RENTAL PLACE 💲💲✅💯(*sweet rates*)",
-      "size": 75,
+      "size": 76,
       "approval": false,
       "announce": false
     },
@@ -4875,26 +4875,26 @@
       "name": "𝔸𝕒𝕞𝕞𝔼𝕖_ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟🛍"
     },
     "Ho5pTDUCYqL3iZk5ItPpNw": {
-      "status": "joined",
-      "time": 1793408259798,
+      "status": "valid",
+      "time": 1793412789145,
       "id": "120363431533508447@g.us",
       "name": "For Buying and selling",
-      "size": 45,
+      "size": 46,
       "approval": false,
       "announce": false
     },
     "FDn63OL8YapDnAFLJOOaWg": {
       "status": "valid",
-      "time": 1793405016528,
+      "time": 1793412793286,
       "id": "120363414170819089@g.us",
       "name": "AZELL PROJECT",
-      "size": 244,
+      "size": 252,
       "approval": true,
       "announce": false
     },
     "CYrxlmoiXCiBeJ5EOQjxCi": {
       "status": "valid",
-      "time": 1793405019562,
+      "time": 1793412797617,
       "id": "120363420205485717@g.us",
       "name": "Data vendor",
       "size": 1011,
@@ -9247,5 +9247,5 @@
     }
   },
   "total": 1133,
-  "updated": 1793412761636
+  "updated": 1793412797954
 }
