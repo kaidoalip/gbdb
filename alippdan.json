@@ -96,8 +96,8 @@
       "announce": false
     },
     "EGeNdBjxXb64pxnMkP5mf3": {
-      "status": "valid",
-      "time": 1793455110080,
+      "status": "joined",
+      "time": 1793455276892,
       "id": "120363433242629798@g.us",
       "name": "Kotmomin city buying & selling group",
       "size": 7,
@@ -393,6 +393,6 @@
       "time": 1793455177065
     }
   },
-  "updated": 1793455264910,
+  "updated": 1793455277116,
   "total": 45
 }
