@@ -317,8 +317,8 @@
       "announce": false
     },
     "Fn16PeWK4llH4kobVqJQZ8": {
-      "status": "valid",
-      "time": 1793455179337,
+      "status": "pending",
+      "time": 1793455659472,
       "id": "120363427938935249@g.us",
       "name": "𝐒𝐓𝐎𝐊 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐙𝐄𝐒𝐀𝐀 𝐉𝐄𝐁𝐄𝐇 𝟎.7",
       "size": 24,
@@ -423,6 +423,6 @@
       "time": 1793455657409
     }
   },
-  "updated": 1793455657409,
+  "updated": 1793455659767,
   "total": 50
 }
