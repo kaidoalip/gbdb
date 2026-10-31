@@ -20,7 +20,7 @@
     },
     "EiZyE2U8QB65KQ4idfyYpC": {
       "status": "error",
-      "time": 1793455087143,
+      "time": 1793455381458,
       "err": "bad-request"
     },
     "JgmxWGl3sBeFk2OeGIAPCv": {
@@ -389,14 +389,24 @@
       "announce": false
     },
     "EZkNxFpVH1r0bUr5QWrimd": {
-      "status": "new",
-      "time": 1793455177065
+      "status": "valid",
+      "time": 1793455384493,
+      "id": "120363408970875910@g.us",
+      "name": "International wire transfer, parcel mailing, credit/debit card payment, gift card purchase, etc., al",
+      "size": 267,
+      "approval": true,
+      "announce": false
     },
     "BM7wWCyDReZ3vTTm2I93X1": {
-      "status": "new",
-      "time": 1793455297074
+      "status": "joined",
+      "time": 1793455386329,
+      "id": "120363427918476896@g.us",
+      "name": "🔥Blasting Data & Leads 🌏",
+      "size": 320,
+      "approval": true,
+      "announce": false
     }
   },
-  "updated": 1793455380218,
+  "updated": 1793455386543,
   "total": 46
 }
