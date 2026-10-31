@@ -9130,54 +9130,87 @@
       "approval": true,
       "announce": false
     },
-    "GXfnl25v0u87kwgDI4Izal": {
-      "status": "error",
-      "time": 1793406535174,
-      "err": "bad-request"
-    },
     "Cz7nzYr7s6cI4DUuUaEQO0": {
       "status": "expired",
       "time": 1793403231886
     },
     "DalzMgMsBFU10a4d5TtDm7": {
       "status": "valid",
-      "time": 1793406539101,
+      "time": 1793414167113,
       "id": "120363430363307727@g.us",
       "name": "Blogging With Pinterest ✅",
       "size": 6,
-      "approval": false
+      "approval": false,
+      "announce": false
     },
     "I2o8XJ7thUF2718TeCx7Te": {
-      "status": "new",
-      "time": 1793406289887
+      "status": "valid",
+      "time": 1793414170183,
+      "id": "120363431622493821@g.us",
+      "name": "Facebook Montization zone",
+      "size": 52,
+      "approval": false,
+      "announce": false
     },
     "JauOrpZ6u65AZRzgZEBZfK": {
-      "status": "new",
-      "time": 1793406409578
+      "status": "valid",
+      "time": 1793414174426,
+      "id": "120363412095176321@g.us",
+      "name": "Payment Security & Trust Assurance",
+      "size": 122,
+      "approval": true,
+      "announce": false
     },
     "HcLVAzExopeBG8c1nIE4SY": {
-      "status": "new",
-      "time": 1793407451271
+      "status": "valid",
+      "time": 1793414178901,
+      "id": "120363422757746460@g.us",
+      "name": "WARUNG JPM LILIY 24JAM",
+      "size": 102,
+      "approval": true,
+      "announce": false
     },
     "H8Q46rNTXDv3gVLJWesqZn": {
-      "status": "new",
-      "time": 1793409250670
+      "status": "valid",
+      "time": 1793414183063,
+      "id": "120363410890858614@g.us",
+      "name": "JB ALL Game || SAMORA #1",
+      "size": 296,
+      "approval": true,
+      "announce": false
     },
     "Ll3ueMt7kc9FZ4Lp4QwDBO": {
-      "status": "new",
-      "time": 1793409529817
+      "status": "valid",
+      "time": 1793414186726,
+      "id": "120363431260956107@g.us",
+      "name": "Boom 💥 Crash",
+      "size": 12,
+      "approval": false,
+      "announce": false
     },
     "EM8QTniVqua9A7pEyqiYQt": {
-      "status": "new",
-      "time": 1793409730941
+      "status": "valid",
+      "time": 1793414190227,
+      "id": "120363429326492494@g.us",
+      "name": "𝗝𝗕¹ 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 𝗔𝗟𝗔𝗠 𝗠𝗔𝗥𝗞𝗘𝗧",
+      "size": 58,
+      "approval": true,
+      "announce": false
     },
     "KiV8qJh6dZTGig4Xs4EZVq": {
-      "status": "new",
-      "time": 1793411193088
+      "status": "valid",
+      "time": 1793414193971,
+      "id": "120363410404160188@g.us",
+      "name": "🥷፝֟፝֟ 🫅 𝐆𝐕 𝐓𝐍 𝐓𝐓 𝐓𝐅 𝐒𝐋 𝐁𝐮𝐲 𝐚𝐧𝐝 𝐒𝐞𝐥𝐥 ᯓ፝֟፝֟➤🄳🄴🅅❀࿐",
+      "size": 29,
+      "approval": false,
+      "announce": false
     },
     "Fvtiaf0GUMXC4PMIjeEdOi": {
-      "status": "new",
-      "time": 1793411450013
+      "status": "komunitas",
+      "time": 1793414197111,
+      "id": "120363421649761934@g.us",
+      "name": "🕊️⃝🌸GPC By Rᴀʙɪᴀ🧸🕊️⃝🌸"
     },
     "G8njIZ9g56TCUfUOBDccfT": {
       "status": "new",
@@ -9373,5 +9406,5 @@
     }
   },
   "total": 1157,
-  "updated": 1793414157945
+  "updated": 1793414197719
 }
