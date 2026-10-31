@@ -8794,15 +8794,15 @@
     },
     "CZ4MmkyG2C7IdGvGkdJr8x": {
       "status": "valid",
-      "time": 1793369404812,
+      "time": 1793406397246,
       "id": "120363428844875472@g.us",
       "name": "Outlook or Hotmail available",
-      "size": 20,
+      "size": 23,
       "approval": true
     },
     "IzWr6JezifC81b7cD4UWd8": {
       "status": "valid",
-      "time": 1793369407209,
+      "time": 1793406400216,
       "id": "120363430426755203@g.us",
       "name": "TT Tn TF Gv Gmail available",
       "size": 212,
@@ -8810,7 +8810,7 @@
     },
     "G43RD4YO1ZY3P0hN47Z1K6": {
       "status": "valid",
-      "time": 1793369410650,
+      "time": 1793406404379,
       "id": "120363306051812825@g.us",
       "name": "GV SL TN TF TT TP buy",
       "size": 309,
@@ -8818,31 +8818,32 @@
     },
     "E0uE9SnIOGLHePBRDibrOm": {
       "status": "valid",
-      "time": 1793369413911,
+      "time": 1793406408172,
       "id": "120363418423110148@g.us",
       "name": "Online work for AS TR ✅📳♾️🚾",
       "size": 204,
       "approval": true
     },
     "JPDgOt1KJqEHZ6ak9AUZ5k": {
-      "status": "valid",
-      "time": 1793369417066,
+      "status": "error",
+      "time": 1793406411147,
       "id": "120363431391373198@g.us",
       "name": "Deal group",
       "size": 444,
-      "approval": false
+      "approval": false,
+      "err": "growth-locked"
     },
     "BB6VtlnVa6cIreDX0qc0dM": {
       "status": "valid",
-      "time": 1793369421553,
+      "time": 1793406414405,
       "id": "120363431515414905@g.us",
       "name": "🚀 Prime YouTube Deals",
-      "size": 300,
+      "size": 301,
       "approval": false
     },
     "Jz152wF0OetC2lVSUBVgsk": {
       "status": "valid",
-      "time": 1793403052368,
+      "time": 1793406418156,
       "id": "120363430699776304@g.us",
       "name": "Official Gift Card Store",
       "size": 1,
@@ -8854,11 +8855,11 @@
     },
     "DjgDIQ9iEskFAHx2NFwmM7": {
       "status": "blocked",
-      "time": 1793403060213
+      "time": 1793406420868
     },
     "Bvxn58K2ZDs1HdhVACqNmi": {
       "status": "valid",
-      "time": 1793403064428,
+      "time": 1793406425306,
       "id": "120363425709608083@g.us",
       "name": "Chinese exchange🇨🇳🇨🇳🇨🇳",
       "size": 238,
@@ -8866,7 +8867,7 @@
     },
     "D1vndJ1NdpbA3tl0F0DKp3": {
       "status": "valid",
-      "time": 1793403067227,
+      "time": 1793406429282,
       "id": "120363422944010937@g.us",
       "name": "STOCK WITH ALAMDAR (USA)",
       "size": 424,
