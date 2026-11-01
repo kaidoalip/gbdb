@@ -8978,7 +8978,7 @@
     },
     "L8MT1PcTRcz3JJkdFMvdg5": {
       "status": "valid",
-      "time": 1793450118377,
+      "time": 1793506905641,
       "id": "120363410116545709@g.us",
       "name": "Digital📈 Earning📉 Brothers📊",
       "size": 726,
@@ -8987,25 +8987,26 @@
     },
     "F2TsmijovpM8h8Z5v3OBGX": {
       "status": "valid",
-      "time": 1793450120816,
+      "time": 1793506908954,
       "id": "120363429872401976@g.us",
       "name": "Buyers and Sellers",
-      "size": 60,
+      "size": 87,
       "approval": false,
       "announce": false
     },
     "KH10XcPSze4E7WXxE5hyFo": {
-      "status": "valid",
-      "time": 1793450124108,
+      "status": "error",
+      "time": 1793506911443,
       "id": "120363428652615153@g.us",
       "name": "Facebook Groups Buy & Sell",
       "size": 103,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "Connection Closed"
     },
     "CiXe4CzWzO14qb3gAbiFFS": {
       "status": "valid",
-      "time": 1793450126701,
+      "time": 1793506914725,
       "id": "120363425294160653@g.us",
       "name": "All account by sell 🇺🇸🇺🇸🇺🇸",
       "size": 652,
@@ -9014,10 +9015,10 @@
     },
     "FlzTHXwdOEYD1TIs7fDr1w": {
       "status": "valid",
-      "time": 1793450128694,
+      "time": 1793506918018,
       "id": "120363042633980225@g.us",
       "name": "(10)الیکشن وعُہدےکےاُمیدواران(PTS)",
-      "size": 64,
+      "size": 74,
       "approval": false,
       "announce": false
     },
@@ -9032,34 +9033,34 @@
     },
     "EUf4mmgRxuq0cF5A2mjSX3": {
       "status": "valid",
-      "time": 1793450133231,
+      "time": 1793506920312,
       "id": "120363412804430700@g.us",
       "name": "پاسداری",
-      "size": 54,
+      "size": 92,
       "approval": false,
       "announce": false
     },
     "JQjpkKVs4sN04ZdYmtFsfg": {
       "status": "valid",
-      "time": 1793450136215,
+      "time": 1793506922457,
       "id": "120363409454475561@g.us",
       "name": "تلاوت قرآن کریم ❤️‍🩹❤️‍🩹",
-      "size": 240,
+      "size": 241,
       "approval": false,
       "announce": false
     },
     "J3wo8kbtHo49BbLDTiWnx6": {
       "status": "valid",
-      "time": 1793450139004,
+      "time": 1793506925479,
       "id": "120363160262690317@g.us",
       "name": "꧁اسلامی گروپ꧂",
-      "size": 817,
+      "size": 823,
       "approval": false,
       "announce": false
     },
     "FI3NFgLuuOB7RDBOS1GMp5": {
       "status": "valid",
-      "time": 1793450142007,
+      "time": 1793506927662,
       "id": "120363051261541504@g.us",
       "name": "SM Trusted Seller",
       "size": 317,
@@ -9068,10 +9069,10 @@
     },
     "GOzUnoHi4AlBl5Ba8YY2gq": {
       "status": "valid",
-      "time": 1793450144016,
+      "time": 1793506930784,
       "id": "120363408226718352@g.us",
       "name": "Professor writing services",
-      "size": 66,
+      "size": 67,
       "approval": false,
       "announce": false
     },
@@ -9843,5 +9844,5 @@
     }
   },
   "total": 1189,
-  "updated": 1793506901121
+  "updated": 1793506931215
 }
