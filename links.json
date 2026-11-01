@@ -297,16 +297,6 @@
       "announce": false,
       "err": "Connection Closed"
     },
-    "FeIr7I8cgjcKmwj4NNvRUV": {
-      "status": "joined",
-      "time": 1793403039582,
-      "id": "120363427612714902@g.us",
-      "name": "TikTok Trade Hub\nBuy • Sell • Trade\nTrusted Deals | Professional Service",
-      "size": 35,
-      "approval": false,
-      "announce": false,
-      "err": "Connection Closed"
-    },
     "I45aAar18Bx5fCPc1wnCy7": {
       "status": "pending",
       "time": 1792582773856,
@@ -9709,6 +9699,6 @@
       "announce": false
     }
   },
-  "total": 1168,
-  "updated": 1793492386547
+  "total": 1167,
+  "updated": 1793492388281
 }
