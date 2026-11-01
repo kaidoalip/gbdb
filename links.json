@@ -2374,16 +2374,6 @@
       "id": "120363407249385662@g.us",
       "name": "Adeel Gmail Buyer"
     },
-    "IX97yndVID46R7aRpJ9lzZ": {
-      "status": "joined",
-      "time": 1793492586193,
-      "id": "120363430633110691@g.us",
-      "name": "𝑩𝒍𝒂𝒔𝒕𝒊𝒏𝒈 𝑫𝒂𝒕𝒂 𝒂𝒏𝒅 𝑮𝒎𝒂𝒊𝒍 𝑮𝒓𝒐𝒖𝒑 𝒐𝒇 𝑺𝒉𝒂𝒉𝒛𝒂𝒊𝒏 📈",
-      "size": 340,
-      "approval": true,
-      "announce": false,
-      "err": "rate-overlimit"
-    },
     "BeQYxDm6NCv9FtvCiwHuPA": {
       "status": "komunitas",
       "time": 1792586201783,
@@ -5062,15 +5052,6 @@
       "name": "꧁𒆜تعویذات گروپ𒆜꧂",
       "size": 456,
       "approval": false,
-      "announce": false
-    },
-    "HWDOvyFvxmNJ0kFyZHByU8": {
-      "status": "joined",
-      "time": 1793492586193,
-      "id": "120363411182855288@g.us",
-      "name": "| Cybersecurity Specialist | Buy sell Group 🤝",
-      "size": 595,
-      "approval": true,
       "announce": false
     },
     "LviLz3AGjwjE48oJcPFCp7": {
@@ -10275,6 +10256,6 @@
       "time": 1793521796196
     }
   },
-  "total": 1292,
-  "updated": 1793521796196
+  "total": 1290,
+  "updated": 1793521901745
 }
