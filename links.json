@@ -7396,16 +7396,16 @@
     },
     "FzUvOsoKHpT6FjURZ2OShO": {
       "status": "valid",
-      "time": 1793449637151,
+      "time": 1793506480650,
       "id": "120363429035799033@g.us",
       "name": "ZAHiR PEOPLE 💯",
-      "size": 118,
+      "size": 117,
       "approval": false,
       "announce": false
     },
     "C7MHtWkRTSIHVWTdllYToR": {
       "status": "valid",
-      "time": 1793449640485,
+      "time": 1793506483652,
       "id": "120363400647236469@g.us",
       "name": "ZAHIR SHARP BITGETERS",
       "size": 39,
@@ -7423,7 +7423,7 @@
     },
     "Dr3e5vlF59NLcUk6LzMIYK": {
       "status": "error",
-      "time": 1793505510240,
+      "time": 1793506486382,
       "id": "120363413724230193@g.us",
       "name": "WARUNG JB HILZ KEBUKA",
       "size": 188,
@@ -7433,7 +7433,7 @@
     },
     "KnmHOF6bALYLHuWw3aYCMr": {
       "status": "valid",
-      "time": 1793449646548,
+      "time": 1793506488256,
       "id": "120363432081657666@g.us",
       "name": "FT RECEH BAY GRIZZY",
       "size": 4,
@@ -7459,35 +7459,36 @@
       "announce": false
     },
     "GxTkMJYxUOsD9sHlL0QFHy": {
-      "status": "valid",
-      "time": 1793449651563,
+      "status": "error",
+      "time": 1793506490536,
       "id": "120363413266298260@g.us",
       "name": "Power of ai tools",
       "size": 54,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LgnPrHeiDmJK5MYOZOEPu9": {
       "status": "valid",
-      "time": 1793449655133,
+      "time": 1793506492885,
       "id": "120363430354289543@g.us",
       "name": "GMAIL__GV__TN__TT__ LINKEDIN __ TRUSTED GMAIL GURUP (LNLY ADMIN)✅✅",
-      "size": 31,
+      "size": 32,
       "approval": false,
       "announce": false
     },
     "HcwBIcjsafv2RmwauTRmaj": {
       "status": "valid",
-      "time": 1793449658390,
+      "time": 1793506496144,
       "id": "120363411052360361@g.us",
       "name": "Buy and sell",
-      "size": 133,
+      "size": 134,
       "approval": false,
       "announce": false
     },
     "LqjezTj0NbJ3GRtfCEUhTh": {
       "status": "error",
-      "time": 1793505512369,
+      "time": 1793506498916,
       "id": "120363412262441963@g.us",
       "name": "Sell Post Sell Post \n\nChime.2k limit And \n5k limit available \n\nChasapp.4k limlt And \n20k limit avail",
       "size": 94,
@@ -7506,10 +7507,10 @@
     },
     "JFrQq2FixPJB6taWwWFq9u": {
       "status": "valid",
-      "time": 1793449664941,
+      "time": 1793506502165,
       "id": "120363415597997942@g.us",
       "name": "TIKTOK BUY SELL",
-      "size": 42,
+      "size": 57,
       "approval": false,
       "announce": false
     },
@@ -7530,11 +7531,11 @@
     },
     "CFRgwHKvUAPErr9naImUtp": {
       "status": "valid",
-      "time": 1793449667755,
+      "time": 1793506504350,
       "id": "120363411910498376@g.us",
       "name": "𝗛𝗔𝗝𝗜 𝗞𝗔𝗟𝗘𝗘𝗠 𝗔𝗕𝗨𝗦𝗜𝗡𝗚 𝗦𝗤𝗢𝗨𝗗⁰⁴³",
-      "size": 194,
-      "approval": true,
+      "size": 261,
+      "approval": false,
       "announce": false
     },
     "DAPQhmPm1J3HTie4EQvrOa": {
@@ -9929,5 +9930,5 @@
     }
   },
   "total": 1197,
-  "updated": 1793506496860
+  "updated": 1793506504793
 }
