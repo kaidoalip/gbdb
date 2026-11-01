@@ -8493,25 +8493,25 @@
     },
     "Bujl9VLL2S8D7G54IB3OP1": {
       "status": "valid",
-      "time": 1793449937969,
+      "time": 1793506735678,
       "id": "120363427463800959@g.us",
       "name": "Successful deal 🪵",
-      "size": 89,
+      "size": 91,
       "approval": false,
       "announce": false
     },
     "LPsFm05ERtI8GAqXHLOnpI": {
       "status": "valid",
-      "time": 1793449940259,
+      "time": 1793506739080,
       "id": "120363407881004205@g.us",
       "name": "🌟🏦Cash picked up - wire - gift card - global transfer🌟🏦",
-      "size": 410,
+      "size": 412,
       "approval": false,
       "announce": false
     },
     "KsJytUVDPqHJ2EaB2nA4BN": {
       "status": "valid",
-      "time": 1793449943262,
+      "time": 1793506741989,
       "id": "120363429168393184@g.us",
       "name": "*⎯꯭᪳𝆺꯭𝆭⃟🍒𝑵𝒐𝒐𝒓 𝑲𝒆 𝑯𝒆𝒘𝒂𝒍𝒊⎯꯭᪳𝆺꯭𝆭⃞ ⃟🎀🥂*\n*⎯꯭̽𓄰⃞🌹*\n\n*⎯꯭̽ 𓄰⃞🌈*\n\n*⎯꯭̽𓄰⃞ 🍒*\n\n*⎯꯭̽𓄰⃞ 💍*\n\n*⎯꯭̽𓄰⃞ 🫐*\n\n\n\n*",
       "size": 60,
@@ -8526,10 +8526,10 @@
     },
     "GiquFJHaMVo9c9p3AaM0Ce": {
       "status": "valid",
-      "time": 1793449946459,
+      "time": 1793506745270,
       "id": "120363313467940572@g.us",
       "name": "Money💰Heist ",
-      "size": 287,
+      "size": 288,
       "approval": false,
       "announce": false
     },
@@ -8541,10 +8541,10 @@
     },
     "JqQDotZPbHt81NeokLsuCU": {
       "status": "valid",
-      "time": 1793449949713,
+      "time": 1793506747379,
       "id": "120363408861756109@g.us",
       "name": "Outlier Handshake Trades",
-      "size": 818,
+      "size": 826,
       "approval": true,
       "announce": false
     },
@@ -8554,40 +8554,31 @@
     },
     "DalzMgMsBFU10a4d5TtDm7": {
       "status": "valid",
-      "time": 1793449951620,
+      "time": 1793506749443,
       "id": "120363430363307727@g.us",
       "name": "Blogging With Pinterest ✅",
-      "size": 10,
+      "size": 13,
       "approval": false,
       "announce": false
     },
     "I2o8XJ7thUF2718TeCx7Te": {
       "status": "valid",
-      "time": 1793449953993,
+      "time": 1793506752408,
       "id": "120363431622493821@g.us",
       "name": "Facebook Montization zone",
-      "size": 60,
+      "size": 65,
       "approval": false,
       "announce": false
     },
     "JauOrpZ6u65AZRzgZEBZfK": {
       "status": "error",
-      "time": 1793505516269,
+      "time": 1793506755222,
       "id": "120363412095176321@g.us",
       "name": "Payment Security & Trust Assurance",
       "size": 122,
       "approval": true,
       "announce": false,
       "err": "bad-request"
-    },
-    "HcLVAzExopeBG8c1nIE4SY": {
-      "status": "valid",
-      "time": 1793449958697,
-      "id": "120363422757746460@g.us",
-      "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 𝗩𝗜𝗘𝗟𝗭¹",
-      "size": 210,
-      "approval": true,
-      "announce": false
     },
     "Ll3ueMt7kc9FZ4Lp4QwDBO": {
       "status": "joined",
@@ -8601,10 +8592,10 @@
     },
     "EM8QTniVqua9A7pEyqiYQt": {
       "status": "valid",
-      "time": 1793449969521,
+      "time": 1793506760829,
       "id": "120363429326492494@g.us",
       "name": "𝗝𝗕¹ 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 𝗔𝗟𝗔𝗠 𝗠𝗔𝗥𝗞𝗘𝗧",
-      "size": 54,
+      "size": 55,
       "approval": true,
       "announce": false
     },
@@ -9925,6 +9916,6 @@
       "time": 1793506737106
     }
   },
-  "total": 1198,
-  "updated": 1793506737106
+  "total": 1197,
+  "updated": 1793506761339
 }
