@@ -9756,16 +9756,16 @@
     },
     "GzJk8li8yvjHh0wrrcZvej": {
       "status": "valid",
-      "time": 1793505620893,
+      "time": 1793507149152,
       "id": "120363417883557098@g.us",
       "name": "Trusted 💯 Busy and sell",
-      "size": 221,
+      "size": 226,
       "approval": false,
       "announce": false
     },
     "JLMK45W9WwDDcQMs4SdNxs": {
       "status": "valid",
-      "time": 1793505623184,
+      "time": 1793507151982,
       "id": "120363432742323394@g.us",
       "name": "STOK TERBUKA CEO 01",
       "size": 40,
@@ -9774,7 +9774,7 @@
     },
     "FOHnFPfdyOJG8Py3qhK3kL": {
       "status": "valid",
-      "time": 1793505626411,
+      "time": 1793507155270,
       "id": "120363429056905193@g.us",
       "name": "𝙁𝙖𝙧𝙧𝙪𝙠𝙝 Cloud Digital 💗🎀",
       "size": 201,
@@ -9789,7 +9789,7 @@
     },
     "EDYdSgTzBjiHlvdl5l21dQ": {
       "status": "valid",
-      "time": 1793505632015,
+      "time": 1793507158216,
       "id": "120363431507930850@g.us",
       "name": "𝐆𝐂 𝐔𝐓𝐀𝐌𝐀 𝐑𝐔𝐋𝐙-𝟐𝟑",
       "size": 333,
@@ -9797,8 +9797,10 @@
       "announce": false
     },
     "Gf3DHaePVh4CpM2VYaZVaG": {
-      "status": "new",
-      "time": 1793505656981
+      "status": "komunitas",
+      "time": 1793507161321,
+      "id": "120363408920134722@g.us",
+      "name": "👑GPC by Maha Khan Mehrab Khan & Dua fatima* 👑"
     },
     "GergEFBF6sw4GCdUlz0B8L": {
       "status": "new",
@@ -9842,5 +9844,5 @@
     }
   },
   "total": 1189,
-  "updated": 1793507145639
+  "updated": 1793507161569
 }
