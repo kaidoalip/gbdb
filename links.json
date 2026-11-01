@@ -9809,44 +9809,78 @@
       "announce": false
     },
     "Bpeo3q4pxX2I1xsny8jQAc": {
-      "status": "new",
-      "time": 1793506376675
+      "status": "komunitas",
+      "time": 1793512993050,
+      "id": "120363431293408858@g.us",
+      "name": "Hadi Work Hub"
     },
     "E0mlIyOkh0V7b9QCsBszYF": {
-      "status": "new",
-      "time": 1793506376675
+      "status": "joined",
+      "time": 1793512996159,
+      "id": "120363414265756993@g.us",
+      "name": "ETSY.EBAY.SHOPIFY.CHATGPT 🇪🇺🇺🇸🇬🇧",
+      "size": 374,
+      "approval": true,
+      "announce": false
     },
     "HqSVZMzVyxh6kKKsfevRRW": {
-      "status": "new",
-      "time": 1793506616975
+      "status": "valid",
+      "time": 1793512998823,
+      "id": "120363406375241652@g.us",
+      "name": "Gmail , Facebook , instagram twitter all account available",
+      "size": 833,
+      "approval": false,
+      "announce": false
     },
     "LG8d8MMMcmN1hhKUuQ0ENV": {
-      "status": "new",
-      "time": 1793506737106
+      "status": "komunitas",
+      "time": 1793513001097,
+      "id": "120363430631485614@g.us",
+      "name": "💖 Trusted Place 💖"
     },
     "Kc15k54I6OXLXnMjXXEMpl": {
-      "status": "new",
-      "time": 1793506737106
+      "status": "valid",
+      "time": 1793513003583,
+      "id": "120363431581442745@g.us",
+      "name": "Karachi buy and sell",
+      "size": 26,
+      "approval": false,
+      "announce": false
     },
     "GmqOa3lE5rlFIxyTxff72H": {
-      "status": "new",
-      "time": 1793506856856
+      "status": "komunitas",
+      "time": 1793513006904,
+      "id": "120363424036259154@g.us",
+      "name": "Cartoon 🤓"
     },
     "EsM1dpSMdYnCThslsNKcCW": {
-      "status": "new",
-      "time": 1793507097000
+      "status": "blocked",
+      "time": 1793513010184,
+      "err": "not-authorized"
     },
     "F406Kd3T7FS3PRpZejW5ob": {
-      "status": "new",
-      "time": 1793507937122
+      "status": "komunitas",
+      "time": 1793513012286,
+      "id": "120363407176558761@g.us",
+      "name": "GPC Ayra Malik 🌸"
     },
     "KySV6mnhCkaCqHtlOXvdbJ": {
-      "status": "new",
-      "time": 1793508056828
+      "status": "valid",
+      "time": 1793513014707,
+      "id": "120363412654194417@g.us",
+      "name": "𝙎𝙃𝘼𝙃𝙕𝘼𝘿 𝙏𝙄𝙆𝙏𝙊𝙆 𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝙎𝘼𝙇𝙀𝙍 ♛",
+      "size": 266,
+      "approval": false,
+      "announce": false
     },
     "ISS3gHnodr76sHyocyVKdc": {
-      "status": "new",
-      "time": 1793508416971
+      "status": "valid",
+      "time": 1793513017550,
+      "id": "120363406921712469@g.us",
+      "name": "✌🏻پشاور ملٹی سروسز✌🏻",
+      "size": 201,
+      "approval": false,
+      "announce": false
     },
     "IRvXQfaSoJQFzj69skjA7P": {
       "status": "new",
@@ -10038,5 +10072,5 @@
     }
   },
   "total": 1237,
-  "updated": 1793512988461
+  "updated": 1793513017837
 }
