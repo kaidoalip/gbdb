@@ -9304,7 +9304,7 @@
     },
     "JeLYyezTsBtBNRvPlYt8bz": {
       "status": "error",
-      "time": 1793492615225,
+      "time": 1793492688368,
       "err": "bad-request"
     },
     "I9H4mlGLbUQIiAZ5N8B6SE": {
@@ -9495,7 +9495,7 @@
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
       "status": "error",
-      "time": 1793492617511,
+      "time": 1793492691424,
       "err": "bad-request"
     },
     "FFN626LJ5eJ5bppqtkyOEn": {
@@ -9680,7 +9680,7 @@
     },
     "IbBrapju6uR0nuRuTlOks9": {
       "status": "error",
-      "time": 1793492619613,
+      "time": 1793492693978,
       "err": "bad-request"
     },
     "JIehHGewTKUGprqZfz1Mix": {
@@ -9699,10 +9699,15 @@
       "announce": false
     },
     "FFaa9LHXQPkI8WSgQk6VIy": {
-      "status": "new",
-      "time": 1793492658330
+      "status": "valid",
+      "time": 1793492696209,
+      "id": "120363411980266808@g.us",
+      "name": "JB || RAJA STORE 0.1",
+      "size": 2,
+      "approval": false,
+      "announce": false
     }
   },
   "total": 1168,
-  "updated": 1793492684211
+  "updated": 1793492696655
 }
