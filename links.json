@@ -511,15 +511,6 @@
       "size": 126,
       "approval": true
     },
-    "HRtjDmorU15JLrnzp0tmd6": {
-      "status": "joined",
-      "time": 1793253111669,
-      "id": "120363430059262558@g.us",
-      "name": "Mix Domain Data & leads",
-      "size": 163,
-      "approval": true,
-      "err": "bad-request"
-    },
     "DSkppZpgl6x1ynQI1XeaHR": {
       "status": "joined",
       "time": 1793512909596,
@@ -1153,15 +1144,6 @@
       "name": "TN, TP, SL, TF & Gmail BD Premium Accounts Hub",
       "size": 132,
       "approval": false,
-      "announce": false
-    },
-    "BW4RxfI8IXILcTsPleiPpp": {
-      "status": "joined",
-      "time": 1793250759914,
-      "id": "120363430059262558@g.us",
-      "name": "Mix Domain Data & leads",
-      "size": 205,
-      "approval": true,
       "announce": false
     },
     "CjhffGccurc3fQbD0F8l3e": {
@@ -10155,6 +10137,6 @@
       "time": 1793516396190
     }
   },
-  "total": 1258,
-  "updated": 1793516876387
+  "total": 1256,
+  "updated": 1793516930814
 }
