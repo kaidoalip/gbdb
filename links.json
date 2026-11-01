@@ -9444,25 +9444,25 @@
     },
     "Ep8743vyBZMKYq9JU3Zzri": {
       "status": "valid",
-      "time": 1793450269923,
+      "time": 1793507058208,
       "id": "120363401287018413@g.us",
       "name": "ALL NETWORK PACKAGE",
-      "size": 343,
+      "size": 357,
       "approval": false,
       "announce": false
     },
     "CjQUYwzzGBlIuLsdqFgtAT": {
       "status": "valid",
-      "time": 1793450272718,
+      "time": 1793507061117,
       "id": "120363427925442374@g.us",
       "name": "GV TN Buy sell Trusted group",
-      "size": 482,
+      "size": 492,
       "approval": false,
       "announce": false
     },
     "GI4LYxEQV1KLT8kZqKPT2K": {
       "status": "valid",
-      "time": 1793451826250,
+      "time": 1793507064845,
       "id": "120363411448165175@g.us",
       "name": "Google Voice Trusted Service",
       "size": 161,
@@ -9471,10 +9471,10 @@
     },
     "CBkwGIvHjOOAw3KCyxrRDo": {
       "status": "valid",
-      "time": 1793451828514,
+      "time": 1793507067708,
       "id": "120363413547404804@g.us",
       "name": "𝗚𝗖 𝗣𝗨𝗦𝗛𝗞𝗢𝗡 𝗥𝗜𝗜 𝗨𝗧𝗔𝗠𝗔🕊",
-      "size": 71,
+      "size": 70,
       "approval": false,
       "announce": false
     },
@@ -9489,7 +9489,7 @@
     },
     "IbBrapju6uR0nuRuTlOks9": {
       "status": "error",
-      "time": 1793505532070,
+      "time": 1793507070467,
       "err": "bad-request"
     },
     "JIehHGewTKUGprqZfz1Mix": {
@@ -9500,25 +9500,25 @@
     },
     "ITHqu3brcIa4lI0rlZ7VI6": {
       "status": "valid",
-      "time": 1793451839406,
+      "time": 1793507073292,
       "id": "120363410389973976@g.us",
       "name": "Used Gamil Buy & sell 📬",
-      "size": 170,
+      "size": 172,
       "approval": false,
       "announce": false
     },
     "FFaa9LHXQPkI8WSgQk6VIy": {
       "status": "valid",
-      "time": 1793492696209,
+      "time": 1793507076757,
       "id": "120363411980266808@g.us",
       "name": "JB || RAJA STORE 0.1",
-      "size": 2,
+      "size": 7,
       "approval": false,
       "announce": false
     },
     "FumhwvzKCbp5XgcGBBGwgI": {
       "status": "valid",
-      "time": 1793505535048,
+      "time": 1793507079156,
       "id": "120363412470734849@g.us",
       "name": "GB UTAMA HAN CRUEL PART 2",
       "size": 416,
@@ -9527,7 +9527,7 @@
     },
     "KdDckvFaA7dILFQgkOFS8R": {
       "status": "valid",
-      "time": 1793505537832,
+      "time": 1793507081979,
       "id": "120363407934810141@g.us",
       "name": "GB HAN CRUEL V2",
       "size": 95,
@@ -9536,10 +9536,10 @@
     },
     "CTS3m7huqQa1zAkRgJtyB9": {
       "status": "valid",
-      "time": 1793505540553,
+      "time": 1793507085503,
       "id": "120363429950783126@g.us",
       "name": "All in One",
-      "size": 165,
+      "size": 168,
       "approval": true,
       "announce": false
     },
@@ -9847,5 +9847,5 @@
     }
   },
   "total": 1189,
-  "updated": 1793507054096
+  "updated": 1793507085731
 }
