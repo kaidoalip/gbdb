@@ -3384,15 +3384,6 @@
       "approval": true,
       "announce": false
     },
-    "DrYhV7unqFXGcWEgTW4HQQ": {
-      "status": "joined",
-      "time": 1793406635200,
-      "id": "120363413327395484@g.us",
-      "name": "Call by & Sell",
-      "size": 62,
-      "approval": false,
-      "announce": false
-    },
     "L1bzbgBz4fg054M2jfxmwR": {
       "status": "pending",
       "time": 1792722883223,
@@ -9843,6 +9834,6 @@
       "time": 1793507097000
     }
   },
-  "total": 1189,
-  "updated": 1793507696842
+  "total": 1188,
+  "updated": 1793507700686
 }
