@@ -896,16 +896,6 @@
       "err": "Connection Closed",
       "announce": false
     },
-    "CDHbCR6j8Jp78In3WmyFjn": {
-      "status": "joined",
-      "time": 1793250566371,
-      "id": "120363425216339393@g.us",
-      "name": "Linkdin BuY & Sell Group",
-      "size": 317,
-      "approval": false,
-      "err": "Connection Closed",
-      "announce": false
-    },
     "FKcWEr7ZIKkEiecliU2Try": {
       "status": "expired",
       "time": 1792471552047,
@@ -10189,6 +10179,6 @@
       "time": 1793518196421
     }
   },
-  "total": 1269,
-  "updated": 1793518316193
+  "total": 1268,
+  "updated": 1793518330854
 }
