@@ -9101,7 +9101,7 @@
     },
     "JeLYyezTsBtBNRvPlYt8bz": {
       "status": "error",
-      "time": 1793506946200,
+      "time": 1793512964015,
       "err": "bad-request"
     },
     "I9H4mlGLbUQIiAZ5N8B6SE": {
@@ -9292,7 +9292,7 @@
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
       "status": "error",
-      "time": 1793507009926,
+      "time": 1793512966434,
       "err": "bad-request"
     },
     "FFN626LJ5eJ5bppqtkyOEn": {
@@ -9342,7 +9342,7 @@
     },
     "LjK0DwvWIJBGmUOhf0cfwV": {
       "status": "error",
-      "time": 1793507027554,
+      "time": 1793512969451,
       "id": "120363431857161432@g.us",
       "name": "TikTok buying and selling NIGERIA 🇳🇬 AND PAKISTAN 🇵🇰",
       "size": 90,
@@ -9388,7 +9388,7 @@
     },
     "FnZhjrDWHLj5z0ztWffTJl": {
       "status": "error",
-      "time": 1793507041178,
+      "time": 1793512971837,
       "id": "120363413121445765@g.us",
       "name": "Easypasy jazz cash account",
       "size": 33,
@@ -9425,7 +9425,7 @@
     },
     "LEUSzJ5vvYABHaCY6AZ3fP": {
       "status": "error",
-      "time": 1793507053642,
+      "time": 1793512973757,
       "id": "120363427097810401@g.us",
       "name": "Buy • Sell • Exchange tench Rawalpindi Pakistan",
       "size": 360,
@@ -9480,7 +9480,7 @@
     },
     "IbBrapju6uR0nuRuTlOks9": {
       "status": "error",
-      "time": 1793507070467,
+      "time": 1793512976981,
       "err": "bad-request"
     },
     "JIehHGewTKUGprqZfz1Mix": {
@@ -9563,7 +9563,7 @@
     },
     "EbxTKrkTYmd3DBGnxwyRfF": {
       "status": "error",
-      "time": 1793507098680,
+      "time": 1793512979974,
       "err": "bad-request"
     },
     "FYiGEB0xQE2KKqOAaXOP3d": {
@@ -9794,16 +9794,19 @@
       "name": "👑GPC by Maha Khan Mehrab Khan & Dua fatima* 👑"
     },
     "GergEFBF6sw4GCdUlz0B8L": {
-      "status": "new",
-      "time": 1793506257588
-    },
-    "BzGUYBouHXY7gPSxCmTLD4": {
-      "status": "new",
-      "time": 1793506257588
+      "status": "komunitas",
+      "time": 1793512982998,
+      "id": "120363415104723750@g.us",
+      "name": "🇮🇩 INDOMAIL ELITE HUB 👑"
     },
     "HxUzbUjtDWLBSxKB7AMLpJ": {
-      "status": "new",
-      "time": 1793506257588
+      "status": "valid",
+      "time": 1793512988229,
+      "id": "120363429896683867@g.us",
+      "name": "Non Custome Products 70% Discount DILEVRY ALL PAKISTAN AVAILABLE 🚛🚛🚛",
+      "size": 45,
+      "approval": false,
+      "announce": false
     },
     "Bpeo3q4pxX2I1xsny8jQAc": {
       "status": "new",
@@ -10034,6 +10037,6 @@
       "time": 1793512976938
     }
   },
-  "total": 1238,
-  "updated": 1793512976938
+  "total": 1237,
+  "updated": 1793512988461
 }
