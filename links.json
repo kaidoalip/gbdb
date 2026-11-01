@@ -6879,10 +6879,10 @@
     },
     "FYHiliNV1f2DQFkKZqk66d": {
       "status": "valid",
-      "time": 1793449481069,
+      "time": 1793506343257,
       "id": "120363409975649099@g.us",
       "name": "حنا خان کال سروسز گروپ نمبر 5",
-      "size": 986,
+      "size": 969,
       "approval": true,
       "announce": false
     },
@@ -6896,20 +6896,21 @@
       "announce": false
     },
     "DjNjkxWpi755seun96pqgf": {
-      "status": "joined",
-      "time": 1793405845692,
+      "status": "blocked",
+      "time": 1793506345816,
       "id": "120363429976599841@g.us",
       "name": "Arslan Seller",
       "size": 135,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "not-authorized"
     },
     "LXCSVDI80Xh1t5ro0inGbL": {
       "status": "valid",
-      "time": 1793449485466,
+      "time": 1793506348501,
       "id": "120363409308045841@g.us",
       "name": "Ecom deals & Ali express",
-      "size": 376,
+      "size": 383,
       "approval": true,
       "announce": false
     },
@@ -6932,20 +6933,21 @@
       "announce": false
     },
     "DpjZPYyBHJsH51ykiGtxEi": {
-      "status": "valid",
-      "time": 1793449488489,
+      "status": "error",
+      "time": 1793506351222,
       "id": "120363411617205080@g.us",
       "name": "[TOP UP] KINO STORE GAME || DIGITAL",
       "size": 88,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CzGHIeN39hiJwQS3322mOp": {
       "status": "valid",
-      "time": 1793449491557,
+      "time": 1793506353187,
       "id": "120363410668844433@g.us",
       "name": "𝙎𝙩𝙤𝙠 𝙧𝙚𝙘𝙚𝙝 𝙕𝙖𝙣𝙕𝙯",
-      "size": 206,
+      "size": 204,
       "approval": true,
       "announce": false
     },
@@ -6960,10 +6962,10 @@
     },
     "L6fzQr0hRlhDRTcibQADj3": {
       "status": "valid",
-      "time": 1793449494366,
+      "time": 1793506355266,
       "id": "120363426036221147@g.us",
       "name": "𝐃𝐄𝐕𝐎𝐔𝐑𝐄𝐑 𝐃𝐈𝐃𝐈𝐊𝐀𝐍 𝐂𝐈𝐒𝐔𝐍",
-      "size": 47,
+      "size": 45,
       "approval": true,
       "announce": false
     },
@@ -7023,10 +7025,10 @@
     },
     "IQmFppEf5y441hp9kfBCE4": {
       "status": "valid",
-      "time": 1793449500560,
+      "time": 1793506358254,
       "id": "120363424156720977@g.us",
       "name": "GB OPTES PLAYHARD GPX",
-      "size": 392,
+      "size": 400,
       "approval": true,
       "announce": false
     },
@@ -7041,16 +7043,16 @@
     },
     "HfpIn5OWtIN3Pi7c7s4ocn": {
       "status": "valid",
-      "time": 1793449508954,
+      "time": 1793506360630,
       "id": "120363430087103422@g.us",
       "name": "JB sandyz",
-      "size": 70,
+      "size": 74,
       "approval": true,
       "announce": false
     },
     "EgGD8vHBTCg5LjzXFKPXgP": {
       "status": "valid",
-      "time": 1793449511437,
+      "time": 1793506363764,
       "id": "120363429139064120@g.us",
       "name": "gorengan|Fxynz👑 v3",
       "size": 2,
@@ -7059,10 +7061,10 @@
     },
     "FpdIqEOqAhWCSOyDG8qdFP": {
       "status": "valid",
-      "time": 1793449515286,
+      "time": 1793506365621,
       "id": "120363424439029159@g.us",
       "name": "JB¹ GANZ STORE [KLATEN]",
-      "size": 103,
+      "size": 110,
       "approval": true,
       "announce": false
     },
@@ -9972,5 +9974,5 @@
     }
   },
   "total": 1201,
-  "updated": 1793506338799
+  "updated": 1793506366056
 }
