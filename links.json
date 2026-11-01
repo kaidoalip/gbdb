@@ -9731,44 +9731,85 @@
       "err": "bad-request"
     },
     "FYiGEB0xQE2KKqOAaXOP3d": {
-      "status": "new",
-      "time": 1793496537007
+      "status": "valid",
+      "time": 1793505556226,
+      "id": "120363432513958456@g.us",
+      "name": "M.R.I. International KYC Hub",
+      "size": 195,
+      "approval": true,
+      "announce": false
     },
     "H6sD596KNxBGTMBnefJpLQ": {
-      "status": "new",
-      "time": 1793496657014
+      "status": "joined",
+      "time": 1793505559098,
+      "id": "120363431260956107@g.us",
+      "name": "Boom 💥 Crash",
+      "size": 41,
+      "approval": true,
+      "announce": false
     },
     "IxrPQugEOkZ3Kz3u2hitja": {
-      "status": "new",
-      "time": 1793496777033
+      "status": "joined",
+      "time": 1793505561933,
+      "id": "120363407283479673@g.us",
+      "name": "🌨️ 𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗖𝗟𝗢𝗨𝗗 | 𝗧𝗢𝗡𝗭 𝗦𝗧𝗢𝗥𝗘 🛒",
+      "size": 231,
+      "approval": false,
+      "announce": false
     },
     "H2s9Gm6TBUU9Yql5VoJAPK": {
-      "status": "new",
-      "time": 1793497496737
+      "status": "joined",
+      "time": 1793505565071,
+      "id": "120363430277413727@g.us",
+      "name": "AWS cloud rdp selling",
+      "size": 187,
+      "approval": false,
+      "announce": false
     },
     "CcCjuyQu1LlJg4Jae2PjhR": {
-      "status": "new",
-      "time": 1793497616642
+      "status": "valid",
+      "time": 1793505567919,
+      "id": "120363414397352118@g.us",
+      "name": "✨ 𝑯𝒂𝒇𝒊𝒛 𝑭𝒓𝒆𝒆 𝑺𝒌𝒊𝒍𝒍𝒔 𝑯𝒖𝒃 ✨",
+      "size": 55,
+      "approval": false,
+      "announce": false
     },
     "Fv9C4713R5P7OpvENZsSYV": {
-      "status": "new",
-      "time": 1793497856812
+      "status": "valid",
+      "time": 1793505570163,
+      "id": "120363432417275463@g.us",
+      "name": "Trusted group 🤝🤝",
+      "size": 32,
+      "approval": false,
+      "announce": false
     },
     "LuouQtrlrYxJW7cw5t5KjE": {
-      "status": "new",
-      "time": 1793498816843
+      "status": "valid",
+      "time": 1793505572378,
+      "id": "120363426012495402@g.us",
+      "name": "دټولی افغانستان دی تاریکو گورف2027",
+      "size": 735,
+      "approval": false,
+      "announce": false
     },
     "HGODnY9mHlbEqRE4bKLAUr": {
-      "status": "new",
-      "time": 1793498816843
-    },
-    "Dznyrl7F98O7iZKCNDQkOk": {
-      "status": "new",
-      "time": 1793498816843
+      "status": "valid",
+      "time": 1793505575014,
+      "id": "120363429348195813@g.us",
+      "name": "<WARJOK SAMDETRI X AZHAR>",
+      "size": 15,
+      "approval": false,
+      "announce": false
     },
     "FkTHMOjuWFh6LVh2eJkwBE": {
-      "status": "new",
-      "time": 1793498816843
+      "status": "valid",
+      "time": 1793505580123,
+      "id": "120363431436916421@g.us",
+      "name": "Only 2D 3D loaders & Risevar",
+      "size": 67,
+      "approval": false,
+      "announce": false
     },
     "JLJekDMdWmU8yPMQkaaotT": {
       "status": "new",
@@ -9847,6 +9888,6 @@
       "time": 1793505496589
     }
   },
-  "total": 1200,
-  "updated": 1793505552676
+  "total": 1199,
+  "updated": 1793505580462
 }
