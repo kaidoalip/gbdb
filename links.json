@@ -314,11 +314,11 @@
       "approval": false
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "joined",
-      "time": 1793450305664,
+      "status": "valid",
+      "time": 1793505666870,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
-      "size": 367,
+      "size": 366,
       "approval": false,
       "announce": false,
       "err": "Connection Closed"
@@ -767,11 +767,11 @@
       "approval": false
     },
     "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "joined",
-      "time": 1793450319808,
+      "status": "valid",
+      "time": 1793505668805,
       "id": "120363412768061441@g.us",
       "name": "Roshan Bhai Trusted seller ✅",
-      "size": 65,
+      "size": 64,
       "approval": false,
       "err": "Connection Closed",
       "announce": false
@@ -2507,7 +2507,7 @@
     },
     "EbrFp8LvtUt7w2A3bX1HNM": {
       "status": "blocked",
-      "time": 1793448767232,
+      "time": 1793505670921,
       "id": "120363414890346339@g.us",
       "name": "Youtube skills",
       "size": 181,
@@ -2749,7 +2749,7 @@
     },
     "GHwlFBhd7SQ1oyIiPSdXWB": {
       "status": "blocked",
-      "time": 1793448775597,
+      "time": 1793505673350,
       "id": "120363428864735871@g.us",
       "name": "Amir trusted seller",
       "size": 214,
@@ -3083,13 +3083,14 @@
       "approval": true
     },
     "K0hcRUGVb2G23IUGasgfrk": {
-      "status": "joined",
-      "time": 1793403458920,
+      "status": "blocked",
+      "time": 1793505675584,
       "id": "120363411667881476@g.us",
       "name": "Shahzaib trusted dealer 💯",
       "size": 105,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "not-authorized"
     },
     "EmzURml1yNJAdFeygupLJf": {
       "status": "expired",
@@ -3426,13 +3427,14 @@
       "announce": false
     },
     "F1dyRx8ElMM5npOH2Jrlzs": {
-      "status": "joined",
-      "time": 1793406672987,
+      "status": "blocked",
+      "time": 1793505678077,
       "id": "120363411638925833@g.us",
       "name": "Fresh and old Gmail trusted",
       "size": 106,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "not-authorized"
     },
     "L3o1omRfKUa7dDmP9AAB5b": {
       "status": "pending",
@@ -3867,7 +3869,7 @@
     },
     "F5VYXPpyjHHFyk8meX5nid": {
       "status": "valid",
-      "time": 1793448782814,
+      "time": 1793505681336,
       "id": "120363430762112203@g.us",
       "name": "🫶دهیلمندي هو کندهاري 🫦يارانو شخصي کورف 🫂",
       "size": 116,
@@ -3892,16 +3894,16 @@
     },
     "Cty8lXReFSHKQFF2Wz2GDp": {
       "status": "valid",
-      "time": 1793448785651,
+      "time": 1793505684384,
       "id": "120363409444400235@g.us",
       "name": "Online Jobs.",
-      "size": 292,
+      "size": 289,
       "approval": false,
       "announce": false
     },
     "JtFrwg5vCxs7KPhU8Cjkah": {
       "status": "valid",
-      "time": 1793448788748,
+      "time": 1793505687586,
       "id": "120363414190149814@g.us",
       "name": "DAKAIT ON TOP 😍😍😍",
       "size": 41,
@@ -3910,7 +3912,7 @@
     },
     "KaOtO3DyvZFEZnLPAQphMO": {
       "status": "valid",
-      "time": 1793448791498,
+      "time": 1793505690164,
       "id": "120363428975826995@g.us",
       "name": "AWS Clouds Buy and Sell",
       "size": 32,
@@ -9966,5 +9968,5 @@
     }
   },
   "total": 1199,
-  "updated": 1793505656982
+  "updated": 1793505690471
 }
