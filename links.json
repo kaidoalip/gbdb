@@ -7070,38 +7070,38 @@
     },
     "HTjoXPNYrML8bCj93XyCdF": {
       "status": "valid",
-      "time": 1793449517981,
+      "time": 1793506370593,
       "id": "120363429563497079@g.us",
       "name": "stok own/pt zassnewera¹",
-      "size": 803,
+      "size": 798,
       "approval": true,
       "announce": false
     },
     "FheSdLYsoc5GVS9SR0oYQy": {
       "status": "valid",
-      "time": 1793449520745,
+      "time": 1793506373800,
       "id": "120363429262307045@g.us",
       "name": "𝐈𝐍𝐅𝐎 𝐉𝐀𝐒𝐇𝐄𝐑||𝐁𝐘 𝐓𝐇𝐈𝐑𝐙𝐙×𝐎𝐖𝐍",
-      "size": 27,
+      "size": 28,
       "approval": true,
       "announce": false
     },
     "EhINFrjCNloLTqcuXVgRxe": {
       "status": "valid",
-      "time": 1793449522709,
+      "time": 1793506376197,
       "id": "120363428898723011@g.us",
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗗𝗜𝗩𝗭 𝗩𝟮",
-      "size": 196,
+      "size": 224,
       "approval": true,
       "announce": false
     },
     "D7sGDc4geSYJK9J8h1oC42": {
       "status": "valid",
-      "time": 1793449525918,
+      "time": 1793506379114,
       "id": "120363414621219749@g.us",
       "name": "𝙂𝘽 𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝘼𝙍𝙅𝙐𝙉 𝟮",
-      "size": 244,
-      "approval": false,
+      "size": 316,
+      "approval": true,
       "announce": false
     },
     "EuPCRwxOYxF9is7g7he6pl": {
@@ -7115,10 +7115,10 @@
     },
     "Iaf8vIxUV7tIkvGI1qYdTF": {
       "status": "valid",
-      "time": 1793449528217,
+      "time": 1793506381806,
       "id": "120363410826210979@g.us",
       "name": "FT CS TOKE #1👑🔥",
-      "size": 305,
+      "size": 314,
       "approval": false,
       "announce": false
     },
@@ -7133,16 +7133,16 @@
     },
     "GoLvo8wMiMD5KMLM5K8Pnb": {
       "status": "valid",
-      "time": 1793449530072,
+      "time": 1793506383941,
       "id": "120363432452526501@g.us",
       "name": "GB¹ ROBLOX ALL GAME BY IKALL",
-      "size": 161,
+      "size": 175,
       "approval": false,
       "announce": false
     },
     "CW1Y3JQAZPk8J6rDYb9WAZ": {
       "status": "valid",
-      "time": 1793449532617,
+      "time": 1793506386101,
       "id": "120363428967054427@g.us",
       "name": "STOK ZALL JEBEH × BOMEL #7",
       "size": 105,
@@ -7151,7 +7151,7 @@
     },
     "IIje0dZJn7BB2KCsUnKoS8": {
       "status": "valid",
-      "time": 1793449535050,
+      "time": 1793506388601,
       "id": "120363430658047610@g.us",
       "name": "STOK ZALL JEBEH × BOMEL #6",
       "size": 102,
@@ -7160,19 +7160,19 @@
     },
     "LGhxn9alz6PCSRPWEor5oP": {
       "status": "valid",
-      "time": 1793449537005,
+      "time": 1793506391815,
       "id": "120363411720052545@g.us",
       "name": "STOK ZALL JEBEH × BOMEL #5",
-      "size": 108,
-      "approval": true,
+      "size": 129,
+      "approval": false,
       "announce": false
     },
     "BaKeEUdHvgdHEDgZeI7n0n": {
       "status": "valid",
-      "time": 1793449542891,
+      "time": 1793506394902,
       "id": "120363431399584372@g.us",
       "name": "STOK ZALL JEBEH × BOMEL #8",
-      "size": 95,
+      "size": 96,
       "approval": true,
       "announce": false
     },
@@ -9982,5 +9982,5 @@
     }
   },
   "total": 1203,
-  "updated": 1793506376675
+  "updated": 1793506395250
 }
