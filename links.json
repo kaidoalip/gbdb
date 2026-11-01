@@ -9545,7 +9545,7 @@
     },
     "K7mP1E84DHc8ufwiR7uoh7": {
       "status": "valid",
-      "time": 1793505543496,
+      "time": 1793507090095,
       "id": "120363373666684253@g.us",
       "name": "حساب استخارہ روحانی علاج",
       "size": 822,
@@ -9554,7 +9554,7 @@
     },
     "EehQghNJeq83o3T9EZ4YxS": {
       "status": "valid",
-      "time": 1793505546502,
+      "time": 1793507093051,
       "id": "120363424663114548@g.us",
       "name": "STOK RESS LANGZ🌺",
       "size": 143,
@@ -9563,7 +9563,7 @@
     },
     "JOwC0NE7wLmKb8PBX1q89O": {
       "status": "valid",
-      "time": 1793505549384,
+      "time": 1793507096299,
       "id": "120363428524049463@g.us",
       "name": "Online Bazar Pakistan",
       "size": 593,
@@ -9572,15 +9572,15 @@
     },
     "EbxTKrkTYmd3DBGnxwyRfF": {
       "status": "error",
-      "time": 1793505552446,
+      "time": 1793507098680,
       "err": "bad-request"
     },
     "FYiGEB0xQE2KKqOAaXOP3d": {
       "status": "valid",
-      "time": 1793505556226,
+      "time": 1793507101799,
       "id": "120363432513958456@g.us",
       "name": "M.R.I. International KYC Hub",
-      "size": 195,
+      "size": 197,
       "approval": true,
       "announce": false
     },
@@ -9613,16 +9613,16 @@
     },
     "CcCjuyQu1LlJg4Jae2PjhR": {
       "status": "valid",
-      "time": 1793505567919,
+      "time": 1793507103974,
       "id": "120363414397352118@g.us",
       "name": "✨ 𝑯𝒂𝒇𝒊𝒛 𝑭𝒓𝒆𝒆 𝑺𝒌𝒊𝒍𝒍𝒔 𝑯𝒖𝒃 ✨",
-      "size": 55,
+      "size": 57,
       "approval": false,
       "announce": false
     },
     "Fv9C4713R5P7OpvENZsSYV": {
       "status": "valid",
-      "time": 1793505570163,
+      "time": 1793507106323,
       "id": "120363432417275463@g.us",
       "name": "Trusted group 🤝🤝",
       "size": 32,
@@ -9631,25 +9631,25 @@
     },
     "LuouQtrlrYxJW7cw5t5KjE": {
       "status": "valid",
-      "time": 1793505572378,
+      "time": 1793507109819,
       "id": "120363426012495402@g.us",
       "name": "دټولی افغانستان دی تاریکو گورف2027",
-      "size": 735,
+      "size": 734,
       "approval": false,
       "announce": false
     },
     "HGODnY9mHlbEqRE4bKLAUr": {
       "status": "valid",
-      "time": 1793505575014,
+      "time": 1793507113140,
       "id": "120363429348195813@g.us",
       "name": "<WARJOK SAMDETRI X AZHAR>",
-      "size": 15,
+      "size": 23,
       "approval": false,
       "announce": false
     },
     "FkTHMOjuWFh6LVh2eJkwBE": {
       "status": "valid",
-      "time": 1793505580123,
+      "time": 1793507116295,
       "id": "120363431436916421@g.us",
       "name": "Only 2D 3D loaders & Risevar",
       "size": 67,
@@ -9851,5 +9851,5 @@
     }
   },
   "total": 1190,
-  "updated": 1793507097000
+  "updated": 1793507116570
 }
