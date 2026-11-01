@@ -8679,7 +8679,7 @@
     },
     "LqbeCfz0tkz9XAO1nNvQB4": {
       "status": "valid",
-      "time": 1793450003762,
+      "time": 1793506792073,
       "id": "120363414283289104@g.us",
       "name": "JB ALLGAME ANDIKA",
       "size": 8,
@@ -8688,7 +8688,7 @@
     },
     "HY8MXr4g0DLGMgnsFFbF6g": {
       "status": "valid",
-      "time": 1793450005871,
+      "time": 1793506795256,
       "id": "120363430866927595@g.us",
       "name": "JB ALLGAME RAFLI",
       "size": 12,
@@ -8697,7 +8697,7 @@
     },
     "DN2oqCpYnvSLL4n2iIGGcN": {
       "status": "valid",
-      "time": 1793450008374,
+      "time": 1793506797674,
       "id": "120363430322740193@g.us",
       "name": "JB ALLGAME RAJA",
       "size": 11,
@@ -8706,62 +8706,36 @@
     },
     "DQvs9uuJEnTEdHyHm5HadZ": {
       "status": "valid",
-      "time": 1793450010826,
+      "time": 1793506800065,
       "id": "120363431826973523@g.us",
       "name": "خریداری گروپ",
-      "size": 431,
+      "size": 434,
       "approval": false,
-      "announce": false
-    },
-    "CDs4wpaxCUe0EiFsxlOZ5g": {
-      "status": "valid",
-      "time": 1793450012578,
-      "id": "120363403214280259@g.us",
-      "name": "MARKET || ☆ KENZ STORE V5 ☆",
-      "size": 2,
-      "approval": true,
       "announce": false
     },
     "BNUcbDGFg53EDRYqzAhblT": {
       "status": "error",
-      "time": 1793505518167,
+      "time": 1793506804911,
       "err": "bad-request"
     },
     "IGPjd0oevoUHzhJiqm2Gax": {
       "status": "valid",
-      "time": 1793450017749,
+      "time": 1793506807529,
       "id": "120363413714270658@g.us",
       "name": "GC UTAMA B4DSTURR 🗿",
-      "size": 2,
-      "approval": true,
-      "announce": false
-    },
-    "D6e5PXqdwArGWb3lbQYrNQ": {
-      "status": "valid",
-      "time": 1793450019943,
-      "id": "120363422166659460@g.us",
-      "name": "GB MARKET ALL GAME | XRC V2",
-      "size": 2,
-      "approval": true,
-      "announce": false
-    },
-    "HV6ay6THdEEKfoPmxfpn0U": {
-      "status": "valid",
-      "time": 1793450022747,
-      "id": "120363431405380005@g.us",
-      "name": "GB FT CS 500P-5K || DITZ #1",
-      "size": 3,
+      "size": 108,
       "approval": true,
       "announce": false
     },
     "IK3yqXiLMdo5tDBut1i7Sd": {
-      "status": "valid",
-      "time": 1793450025601,
+      "status": "error",
+      "time": 1793506814830,
       "id": "120363413082166853@g.us",
       "name": "𝐉𝐁 𝐀𝐋𝐋𝐆𝐀𝐌𝐄 𝐑𝐄𝐘𝐄𝐒𝐙 𝐒𝐓𝐀𝐑𝐑[𝟎𝟐]",
       "size": 4,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CwgqO20h5bUHi536a4lRKT": {
       "status": "valid",
@@ -9898,6 +9872,6 @@
       "time": 1793506737106
     }
   },
-  "total": 1195,
-  "updated": 1793506787719
+  "total": 1192,
+  "updated": 1793506815087
 }
