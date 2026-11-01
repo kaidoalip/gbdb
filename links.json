@@ -9268,7 +9268,7 @@
     },
     "JeLYyezTsBtBNRvPlYt8bz": {
       "status": "error",
-      "time": 1793492688368,
+      "time": 1793505527672,
       "err": "bad-request"
     },
     "I9H4mlGLbUQIiAZ5N8B6SE": {
@@ -9459,7 +9459,7 @@
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
       "status": "error",
-      "time": 1793492691424,
+      "time": 1793505529677,
       "err": "bad-request"
     },
     "FFN626LJ5eJ5bppqtkyOEn": {
@@ -9644,7 +9644,7 @@
     },
     "IbBrapju6uR0nuRuTlOks9": {
       "status": "error",
-      "time": 1793492693978,
+      "time": 1793505532070,
       "err": "bad-request"
     },
     "JIehHGewTKUGprqZfz1Mix": {
@@ -9672,32 +9672,63 @@
       "announce": false
     },
     "FumhwvzKCbp5XgcGBBGwgI": {
-      "status": "new",
-      "time": 1793493656767
+      "status": "valid",
+      "time": 1793505535048,
+      "id": "120363412470734849@g.us",
+      "name": "GB UTAMA HAN CRUEL PART 2",
+      "size": 416,
+      "approval": false,
+      "announce": false
     },
     "KdDckvFaA7dILFQgkOFS8R": {
-      "status": "new",
-      "time": 1793493656767
+      "status": "valid",
+      "time": 1793505537832,
+      "id": "120363407934810141@g.us",
+      "name": "GB HAN CRUEL V2",
+      "size": 95,
+      "approval": false,
+      "announce": false
     },
     "CTS3m7huqQa1zAkRgJtyB9": {
-      "status": "new",
-      "time": 1793494496615
+      "status": "valid",
+      "time": 1793505540553,
+      "id": "120363429950783126@g.us",
+      "name": "All in One",
+      "size": 165,
+      "approval": true,
+      "announce": false
     },
     "K7mP1E84DHc8ufwiR7uoh7": {
-      "status": "new",
-      "time": 1793494496615
+      "status": "valid",
+      "time": 1793505543496,
+      "id": "120363373666684253@g.us",
+      "name": "حساب استخارہ روحانی علاج",
+      "size": 822,
+      "approval": false,
+      "announce": false
     },
     "EehQghNJeq83o3T9EZ4YxS": {
-      "status": "new",
-      "time": 1793494496615
+      "status": "valid",
+      "time": 1793505546502,
+      "id": "120363424663114548@g.us",
+      "name": "STOK RESS LANGZ🌺",
+      "size": 143,
+      "approval": true,
+      "announce": false
     },
     "JOwC0NE7wLmKb8PBX1q89O": {
-      "status": "new",
-      "time": 1793496296727
+      "status": "valid",
+      "time": 1793505549384,
+      "id": "120363428524049463@g.us",
+      "name": "Online Bazar Pakistan",
+      "size": 593,
+      "approval": true,
+      "announce": false
     },
     "EbxTKrkTYmd3DBGnxwyRfF": {
-      "status": "new",
-      "time": 1793496416636
+      "status": "error",
+      "time": 1793505552446,
+      "err": "bad-request"
     },
     "FYiGEB0xQE2KKqOAaXOP3d": {
       "status": "new",
@@ -9817,5 +9848,5 @@
     }
   },
   "total": 1200,
-  "updated": 1793505523333
+  "updated": 1793505552676
 }
