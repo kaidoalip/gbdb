@@ -521,8 +521,8 @@
       "err": "bad-request"
     },
     "DSkppZpgl6x1ynQI1XeaHR": {
-      "status": "komunitas",
-      "time": 1792567191293,
+      "status": "joined",
+      "time": 1793512909596,
       "id": "120363414384056563@g.us",
       "name": "GPC by Mahi Khan🦋 Abi Attari😎 Eman fatima😊",
       "size": 0,
@@ -5220,8 +5220,8 @@
       "announce": false
     },
     "HyptVlvvFWN6VVN1ZDlkEb": {
-      "status": "komunitas",
-      "time": 1793243929798,
+      "status": "joined",
+      "time": 1793512909596,
       "id": "120363414384056563@g.us",
       "name": "✨ *بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ✨*"
     },
@@ -6887,8 +6887,8 @@
       "announce": false
     },
     "DjNjkxWpi755seun96pqgf": {
-      "status": "blocked",
-      "time": 1793506345816,
+      "status": "joined",
+      "time": 1793512909596,
       "id": "120363429976599841@g.us",
       "name": "Arslan Seller",
       "size": 135,
@@ -10031,5 +10031,5 @@
     }
   },
   "total": 1237,
-  "updated": 1793512907967
+  "updated": 1793512909917
 }
