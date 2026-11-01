@@ -3856,24 +3856,6 @@
       "approval": false,
       "announce": false
     },
-    "J7d28vVxsZN0xsbgFp1qvS": {
-      "status": "joined",
-      "time": 1793407104124,
-      "id": "120363411749137781@g.us",
-      "name": "Learning plus buy and sell",
-      "size": 249,
-      "approval": false,
-      "announce": false
-    },
-    "EKkqHewjsCpGxg7IRinF6T": {
-      "status": "joined",
-      "time": 1793407120229,
-      "id": "120363431943178715@g.us",
-      "name": "bNexa",
-      "size": 155,
-      "approval": false,
-      "announce": false
-    },
     "K0U4GjPtnNw18lfij8Wdu4": {
       "status": "pending",
       "time": 1793407135826,
@@ -4590,15 +4572,6 @@
       "name": "ZAZA STORE",
       "size": 694,
       "approval": true,
-      "announce": false
-    },
-    "IJJgNyME5pzAeEuuGDlfMG": {
-      "status": "joined",
-      "time": 1793408228228,
-      "id": "120363430711912455@g.us",
-      "name": "Buying and selling group",
-      "size": 346,
-      "approval": false,
       "announce": false
     },
     "EFUtPSmqOMX2wCzC7HORDa": {
@@ -6944,15 +6917,6 @@
       "name": "Ecom deals & Ali express",
       "size": 376,
       "approval": true,
-      "announce": false
-    },
-    "I6fBAgbVhteLMDmTTxgXoj": {
-      "status": "joined",
-      "time": 1793405852638,
-      "id": "120363429955059666@g.us",
-      "name": "Smart Shopping Hub",
-      "size": 219,
-      "approval": false,
       "announce": false
     },
     "Kp1MEaX5AGKEeuRJUVbNPM": {
@@ -9776,6 +9740,6 @@
       "time": 1793498816843
     }
   },
-  "total": 1185,
-  "updated": 1793498816843
+  "total": 1181,
+  "updated": 1793499126228
 }
