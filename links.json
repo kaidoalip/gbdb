@@ -9350,35 +9350,36 @@
       "announce": false
     },
     "LjK0DwvWIJBGmUOhf0cfwV": {
-      "status": "valid",
-      "time": 1793450241210,
+      "status": "error",
+      "time": 1793507027554,
       "id": "120363431857161432@g.us",
       "name": "TikTok buying and selling NIGERIA 🇳🇬 AND PAKISTAN 🇵🇰",
       "size": 90,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HxoVC3XCv9J8TImZ2SEvpc": {
       "status": "valid",
-      "time": 1793450243041,
+      "time": 1793507030032,
       "id": "120363431671979247@g.us",
       "name": "Free of the FERF",
-      "size": 2,
+      "size": 3,
       "approval": false,
       "announce": false
     },
     "DsAd4bBiqGy0N97R69PZgQ": {
       "status": "valid",
-      "time": 1793450246280,
+      "time": 1793507032535,
       "id": "120363420021348142@g.us",
       "name": "FJB LANGZ ALLGAME | 1",
-      "size": 140,
+      "size": 139,
       "approval": true,
       "announce": false
     },
     "EbU1rMMsneYHwJE7X5LFZF": {
       "status": "valid",
-      "time": 1793450249119,
+      "time": 1793507035645,
       "id": "120363425930205997@g.us",
       "name": "FJB LANGZ ALLGAME | 2",
       "size": 48,
@@ -9387,7 +9388,7 @@
     },
     "BjJHCu4ZTUO4ApAgjaVQPS": {
       "status": "valid",
-      "time": 1793450253603,
+      "time": 1793507038357,
       "id": "120363426291041818@g.us",
       "name": "FJB LANGZ ALLGAME | 3",
       "size": 42,
@@ -9395,26 +9396,27 @@
       "announce": false
     },
     "FnZhjrDWHLj5z0ztWffTJl": {
-      "status": "valid",
-      "time": 1793450255997,
+      "status": "error",
+      "time": 1793507041178,
       "id": "120363413121445765@g.us",
       "name": "Easypasy jazz cash account",
       "size": 33,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GQzuFXQyV3eGvvAnvmsQPI": {
       "status": "valid",
-      "time": 1793450259664,
+      "time": 1793507044375,
       "id": "120363419311142384@g.us",
       "name": "Adnan Digital Hub",
-      "size": 68,
+      "size": 90,
       "approval": false,
       "announce": false
     },
     "LtWE5GDFUyF3zM3yCb1kCP": {
       "status": "valid",
-      "time": 1793450262797,
+      "time": 1793507047773,
       "id": "120363410877305364@g.us",
       "name": "Youtube Channel Buy Sell Global",
       "size": 121,
@@ -9423,21 +9425,22 @@
     },
     "FFK5tlwvrMh9uOfLXJed7M": {
       "status": "valid",
-      "time": 1793450265525,
+      "time": 1793507050412,
       "id": "120363415446546755@g.us",
       "name": "𝗜𝗡𝗙𝗢 𝗘𝗖𝗘𝗥/𝗦𝗧𝗢𝗞 -𝗟𝗮𝗺𝘇𝘁𝘇𝘆𝗲",
-      "size": 113,
+      "size": 111,
       "approval": false,
       "announce": false
     },
     "LEUSzJ5vvYABHaCY6AZ3fP": {
-      "status": "valid",
-      "time": 1793450267997,
+      "status": "error",
+      "time": 1793507053642,
       "id": "120363427097810401@g.us",
       "name": "Buy • Sell • Exchange tench Rawalpindi Pakistan",
       "size": 360,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "Ep8743vyBZMKYq9JU3Zzri": {
       "status": "valid",
@@ -9844,5 +9847,5 @@
     }
   },
   "total": 1189,
-  "updated": 1793507023889
+  "updated": 1793507054096
 }
