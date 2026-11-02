@@ -436,15 +436,6 @@
       "size": 0,
       "approval": false
     },
-    "BSJArujbGQWLWwCbaE6v9u": {
-      "status": "joined",
-      "time": 1793338229791,
-      "id": "120363428520967411@g.us",
-      "name": "YT Buy & Sell",
-      "size": 557,
-      "approval": false,
-      "announce": false
-    },
     "IFMDW6iSQGJ886cFDOZ7HL": {
       "status": "joined",
       "time": 1793249377869,
@@ -10777,6 +10768,6 @@
       "time": 1793612008696
     }
   },
-  "total": 1431,
-  "updated": 1793612008696
+  "total": 1430,
+  "updated": 1793612122003
 }
