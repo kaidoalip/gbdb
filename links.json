@@ -2662,16 +2662,6 @@
       "size": 268,
       "approval": false
     },
-    "GHwlFBhd7SQ1oyIiPSdXWB": {
-      "status": "blocked",
-      "time": 1793505673350,
-      "id": "120363428864735871@g.us",
-      "name": "Amir trusted seller",
-      "size": 214,
-      "approval": false,
-      "announce": false,
-      "err": "not-authorized"
-    },
     "IO1srKs865X8UrTmoSz6uJ": {
       "status": "joined",
       "time": 1793369978909,
@@ -3243,16 +3233,6 @@
       "size": 245,
       "approval": false,
       "announce": false
-    },
-    "F1dyRx8ElMM5npOH2Jrlzs": {
-      "status": "blocked",
-      "time": 1793505678077,
-      "id": "120363411638925833@g.us",
-      "name": "Fresh and old Gmail trusted",
-      "size": 106,
-      "approval": false,
-      "announce": false,
-      "err": "not-authorized"
     },
     "L3o1omRfKUa7dDmP9AAB5b": {
       "status": "pending",
@@ -3829,15 +3809,6 @@
       "time": 1792741898891,
       "id": "120363432374220516@g.us",
       "name": "𝚂𝙷𝙾𝙰𝙸𝙱 𝚃𝙴𝙲𝙷 𝚉𝙾𝙽𝙴"
-    },
-    "CjFQ2sZar82ByBbAzFJm9R": {
-      "status": "valid",
-      "time": 1793505703540,
-      "id": "120363412297352185@g.us",
-      "name": "api সেলার",
-      "size": 8,
-      "approval": false,
-      "announce": false
     },
     "F22GbQDgsZq9FunMJjmh2N": {
       "status": "komunitas",
@@ -10661,6 +10632,6 @@
       "time": 1793616214690
     }
   },
-  "total": 1421,
-  "updated": 1793616252023
+  "total": 1418,
+  "updated": 1793616254012
 }
