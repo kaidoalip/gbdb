@@ -3745,15 +3745,6 @@
       "id": "120363423619668647@g.us",
       "name": "GPC By Osama & Haseeb ✅"
     },
-    "D23Mh2OBNA7IIoLkF6Z5zG": {
-      "status": "joined",
-      "time": 1793448653651,
-      "id": "120363429736742846@g.us",
-      "name": "FARHAN X MAZHAR (TRUSTED)",
-      "size": 161,
-      "approval": false,
-      "announce": false
-    },
     "K0U4GjPtnNw18lfij8Wdu4": {
       "status": "pending",
       "time": 1793407135826,
@@ -10714,6 +10705,6 @@
       "time": 1793609128364
     }
   },
-  "total": 1414,
-  "updated": 1793609488103
+  "total": 1413,
+  "updated": 1793609550864
 }
