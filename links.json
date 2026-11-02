@@ -9375,15 +9375,6 @@
       "approval": false,
       "announce": false
     },
-    "KcQf4UozqOA2MXn5rANFoJ": {
-      "status": "joined",
-      "time": 1793451830548,
-      "id": "120363431705344093@g.us",
-      "name": "🌐 All-in-One Email Marketplace | Hotmail & Outlook | Buy, Sell, Exchange & Email Services | Everythi",
-      "size": 92,
-      "approval": false,
-      "announce": false
-    },
     "IbBrapju6uR0nuRuTlOks9": {
       "status": "error",
       "time": 1793512976981,
@@ -10629,6 +10620,6 @@
       "time": 1793601087901
     }
   },
-  "total": 1390,
-  "updated": 1793601687854
+  "total": 1389,
+  "updated": 1793601884522
 }
