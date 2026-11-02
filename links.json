@@ -9396,8 +9396,8 @@
       "announce": false
     },
     "GI4LYxEQV1KLT8kZqKPT2K": {
-      "status": "valid",
-      "time": 1793507064845,
+      "status": "joined",
+      "time": 1793593094421,
       "id": "120363411448165175@g.us",
       "name": "Google Voice Trusted Service",
       "size": 161,
@@ -10560,5 +10560,5 @@
     }
   },
   "total": 1367,
-  "updated": 1793540876368
+  "updated": 1793593095055
 }
