@@ -16,14 +16,6 @@
       "size": 350,
       "approval": false
     },
-    "FwRDTDwyLC63uccYhl2Ixw": {
-      "status": "joined",
-      "time": 1793448252984,
-      "id": "120363209884300532@g.us",
-      "name": "Group Free Share | Promotion",
-      "size": 291,
-      "approval": false
-    },
     "F7yUSAs8dSI041rCppkuQ1": {
       "status": "joined",
       "time": 1793448252984,
@@ -2327,36 +2319,6 @@
     "HGO0CXm9Z0JHHJihEofqgc": {
       "status": "expired",
       "time": 1792583799799
-    },
-    "FTS9t3rNygQ2UXT6dsgO72": {
-      "status": "joined",
-      "time": 1793369495821,
-      "id": "120363427704367793@g.us",
-      "name": "CLOUD",
-      "size": 80,
-      "approval": false,
-      "announce": false,
-      "err": "rate-overlimit"
-    },
-    "Fc4787PBUBfJsCHFmmXC9n": {
-      "status": "joined",
-      "time": 1793369513752,
-      "id": "120363209884300532@g.us",
-      "name": "Group Free Share | Promotion",
-      "size": 272,
-      "approval": false,
-      "announce": false,
-      "err": "rate-overlimit"
-    },
-    "DaLcBB0z9uv30WlppnnasE": {
-      "status": "joined",
-      "time": 1793369530159,
-      "id": "120363152896588615@g.us",
-      "name": "CLOUD, RDP, VPS, HTML, CSS & AI",
-      "size": 507,
-      "approval": false,
-      "announce": false,
-      "err": "rate-overlimit"
     },
     "G2LFhZJ2zVQ0fW6edAykVo": {
       "status": "joined",
@@ -10635,6 +10597,6 @@
       "time": 1793597727778
     }
   },
-  "total": 1386,
-  "updated": 1793597968193
+  "total": 1382,
+  "updated": 1793597970024
 }
