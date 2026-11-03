@@ -27,8 +27,10 @@
       "err": "bad-request"
     },
     "J1dltAKYQYcBx8dOq4eDwC": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "pending",
+      "time": 1793708242307,
+      "id": "120363403958552786@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗞𝗜𝗜 𝗩𝟭"
     },
     "BUx708nn5c3KFeGtMscajT": {
       "status": "new",
@@ -231,6 +233,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1793708234410,
+  "updated": 1793708242571,
   "total": 56
 }
