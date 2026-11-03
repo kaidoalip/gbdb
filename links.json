@@ -3288,15 +3288,6 @@
       "approval": true,
       "announce": false
     },
-    "D3yv1ph2NX38KomrzWluMe": {
-      "status": "joined",
-      "time": 1793406693464,
-      "id": "120363411099453630@g.us",
-      "name": "𝑴𝑨𝒁𝑯𝑨𝑹 𝑳𝑨𝑮𝑯𝑨𝑹𝑰 𝒀𝑻 𝑭𝑨𝑴𝑰𝑳𝒀  ❤️",
-      "size": 388,
-      "approval": false,
-      "announce": false
-    },
     "CCIc3O50uCWIMtB4Rg3mjS": {
       "status": "pending",
       "time": 1792723128833,
@@ -10945,6 +10936,6 @@
       "time": 1793680326416
     }
   },
-  "total": 1500,
-  "updated": 1793680806029
+  "total": 1499,
+  "updated": 1793680885812
 }
