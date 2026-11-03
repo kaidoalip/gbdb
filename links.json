@@ -7273,15 +7273,6 @@
       "approval": true,
       "announce": false
     },
-    "CjG23S4dNBO3l2ZaSMm0Ey": {
-      "status": "joined",
-      "time": 1793406136392,
-      "id": "120363432814894777@g.us",
-      "name": "خرید و فروخت پشاور 🌏",
-      "size": 181,
-      "approval": false,
-      "announce": false
-    },
     "Ffwlrr2xpkiBoq8p8cn4Kc": {
       "status": "valid",
       "time": 1793506511270,
@@ -10938,6 +10929,6 @@
       "time": 1793677206464
     }
   },
-  "total": 1497,
-  "updated": 1793677206464
+  "total": 1496,
+  "updated": 1793677319145
 }
