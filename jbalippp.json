@@ -7,8 +7,9 @@
       "name": "𝐌𝐀𝐑𝐊𝐄𝐓 𝐑𝐎𝐁𝐋𝐎𝐗 𝐒𝐇𝐀𝐆𝐀𝐙𝐎𝐄 📌"
     },
     "GUVPRPFBVZ4FHlpPOdHvzW": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "error",
+      "time": 1793708223719,
+      "err": "bad-request"
     },
     "Jr5zTKlV2awIKWhYc7Z8Tv": {
       "status": "new",
@@ -227,6 +228,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1793708222700,
+  "updated": 1793708223959,
   "total": 56
 }
