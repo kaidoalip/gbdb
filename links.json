@@ -2978,15 +2978,6 @@
       "announce": false,
       "err": "growth-locked"
     },
-    "JNLhywWDDd98FhZnAGxJYx": {
-      "status": "joined",
-      "time": 1793403536452,
-      "id": "120363430135751809@g.us",
-      "name": "Yt market place",
-      "size": 101,
-      "approval": false,
-      "announce": false
-    },
     "HQoOzu1AQNrEtPecqVoIdl": {
       "status": "expired",
       "time": 1792722402592,
@@ -11269,6 +11260,6 @@
       "time": 1793734568218
     }
   },
-  "total": 1591,
-  "updated": 1793736368112
+  "total": 1590,
+  "updated": 1793736431100
 }
