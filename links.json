@@ -1941,15 +1941,6 @@
       "approval": false,
       "announce": false
     },
-    "ENFTFKJoJ7FJptJnGZWcKD": {
-      "status": "joined",
-      "time": 1793349794260,
-      "id": "120363426476935780@g.us",
-      "name": "Model unlock",
-      "size": 548,
-      "approval": false,
-      "announce": false
-    },
     "HbK41WBo9xKBl6jKs5b1bT": {
       "status": "komunitas",
       "time": 1792568983088,
@@ -11201,6 +11192,6 @@
       "time": 1793720407918
     }
   },
-  "total": 1570,
-  "updated": 1793720407918
+  "total": 1569,
+  "updated": 1793720519474
 }
