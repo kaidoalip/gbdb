@@ -1,8 +1,10 @@
 {
   "links": {
     "If1cA2ncDjwBZrjcrkXSyz": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "joined",
+      "time": 1793708222477,
+      "id": "120363412649646523@g.us",
+      "name": "𝐌𝐀𝐑𝐊𝐄𝐓 𝐑𝐎𝐁𝐋𝐎𝐗 𝐒𝐇𝐀𝐆𝐀𝐙𝐎𝐄 📌"
     },
     "GUVPRPFBVZ4FHlpPOdHvzW": {
       "status": "new",
@@ -225,6 +227,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1793707656248,
+  "updated": 1793708222700,
   "total": 56
 }
