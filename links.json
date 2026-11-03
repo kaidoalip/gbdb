@@ -4398,15 +4398,6 @@
       "approval": false,
       "announce": false
     },
-    "JdNXH5e9MRVF7CrpqNndtz": {
-      "status": "joined",
-      "time": 1793492586193,
-      "id": "120363430112571518@g.us",
-      "name": "Seling group ❤️",
-      "size": 61,
-      "approval": false,
-      "announce": false
-    },
     "CaYdm7kxJF3BPXWEvPmjdn": {
       "status": "komunitas",
       "time": 1793243573618,
@@ -10940,6 +10931,6 @@
       "time": 1793681166120
     }
   },
-  "total": 1500,
-  "updated": 1793681286248
+  "total": 1499,
+  "updated": 1793681377335
 }
