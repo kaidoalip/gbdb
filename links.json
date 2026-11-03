@@ -1363,14 +1363,6 @@
       "announce": false,
       "err": "Timed Out"
     },
-    "JDzJe8s5X9cA0UR5weabFg": {
-      "status": "joined",
-      "time": 1793448252985,
-      "id": "120363430081321254@g.us",
-      "name": "Trusted dealer💝✅",
-      "size": 167,
-      "approval": false
-    },
     "JlOblMH0Jz4HHUEBdyX6JH": {
       "status": "expired",
       "time": 1792567338627,
@@ -9372,15 +9364,6 @@
       "approval": false,
       "announce": false
     },
-    "DxGDMXxCuDtDQsCsZvgUr4": {
-      "status": "joined",
-      "time": 1793505608871,
-      "id": "120363430081321254@g.us",
-      "name": "Trusted dealer💝✅",
-      "size": 150,
-      "approval": false,
-      "announce": false
-    },
     "GsZZgYBdTj9JbHM5Tds4Yo": {
       "status": "valid",
       "time": 1793507139477,
@@ -11086,6 +11069,6 @@
       "time": 1793701926399
     }
   },
-  "total": 1539,
-  "updated": 1793702526352
+  "total": 1537,
+  "updated": 1793702555140
 }
