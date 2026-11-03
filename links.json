@@ -7719,15 +7719,6 @@
       "approval": false,
       "announce": false
     },
-    "DajEz0Ntr0fAF0kqgoYRE7": {
-      "status": "joined",
-      "time": 1793451893366,
-      "id": "120363410355656872@g.us",
-      "name": "Danish MD",
-      "size": 77,
-      "approval": false,
-      "announce": false
-    },
     "CuX5hnTIEOW70pHqDA7cjv": {
       "status": "valid",
       "time": 1793506611576,
@@ -8996,15 +8987,6 @@
       "name": "JB² ||AL GAME Cioojkstore🔥",
       "size": 68,
       "approval": true,
-      "announce": false
-    },
-    "F0dEWO9PXerGEeA60AWgVo": {
-      "status": "joined",
-      "time": 1793451893366,
-      "id": "120363410355656872@g.us",
-      "name": "FLUX SMS",
-      "size": 138,
-      "approval": false,
       "announce": false
     },
     "E6V2SOlUJYl8ky0SJgCEW7": {
@@ -10932,6 +10914,6 @@
       "time": 1793671085998
     }
   },
-  "total": 1493,
-  "updated": 1793672766049
+  "total": 1491,
+  "updated": 1793672792481
 }
