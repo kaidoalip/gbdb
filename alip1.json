@@ -238,8 +238,10 @@
       "announce": true
     },
     "JdPXcTjDfvkBqNiAkjaiFP": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758652811,
+      "id": "120363410930007528@g.us",
+      "name": "GB HANZ STORE 💫"
     },
     "K2MlJRhUQ604TR3XtKiWHs": {
       "status": "new",
@@ -446,6 +448,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758642539,
+  "updated": 1793758653054,
   "total": 91
 }
