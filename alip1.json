@@ -651,8 +651,10 @@
       "name": "𝗚𝗕 𝗝𝗕 𝗠𝗔𝗥𝗥𝗦 𝗦𝗧𝗢𝗥𝗘 𝗨𝗧𝗔𝗠𝗔 𝗜𝗜"
     },
     "LWxrBeZybA5JfebonaQLVQ": {
-      "status": "new",
-      "time": 1793761754456
+      "status": "pending",
+      "time": 1793762739973,
+      "id": "120363411363367290@g.us",
+      "name": "𝗝𝗕 𝗠𝗔𝗥𝗥𝗦𝟮𝟳 𝗨𝗧𝗔𝗠𝗔 𝗜𝗜𝗜"
     },
     "KwgSUL5Cxj6C5j94yBcFAQ": {
       "status": "new",
@@ -671,6 +673,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762723670,
+  "updated": 1793762740226,
   "total": 112
 }
