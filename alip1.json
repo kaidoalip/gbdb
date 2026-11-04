@@ -219,8 +219,10 @@
       "name": "JB ALL GAME HANZ STR"
     },
     "DVAhRIKAqHI7GvjN7BdjFl": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758596088,
+      "id": "120363431290386079@g.us",
+      "name": "GB DERZSTORE REGION (BANTEN²)"
     },
     "GFV9vxCmE0aHsU4KMVtsVX": {
       "status": "new",
@@ -443,6 +445,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758587180,
+  "updated": 1793758596309,
   "total": 92
 }
