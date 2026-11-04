@@ -406,8 +406,10 @@
       "name": "INFO FT 3K BY YOO"
     },
     "FkIVfvbden84qE2kGB62fm": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759168903,
+      "id": "120363414251080140@g.us",
+      "name": "FT CS 750-3k BY ZAKI x OWN [PROSES]¹"
     },
     "EhYR6yyz2SF2JnKZpL18PK": {
       "status": "new",
@@ -514,6 +516,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759148783,
+  "updated": 1793759169123,
   "total": 94
 }
