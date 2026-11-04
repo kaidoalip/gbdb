@@ -568,8 +568,10 @@
       "name": "#$TOK GB/SL BY MIRZ01"
     },
     "LRJ5CbvXVplKUoPfhxiByq": {
-      "status": "new",
-      "time": 1793760314639
+      "status": "pending",
+      "time": 1793762531535,
+      "id": "120363413423622919@g.us",
+      "name": "𝐅𝐉𝐁 𝐀𝐋𝐋 𝐆𝐀𝐌𝐄"
     },
     "Bd941mfbii81wr7Zf84n9F": {
       "status": "new",
@@ -640,6 +642,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762512183,
+  "updated": 1793762531792,
   "total": 112
 }
