@@ -454,8 +454,10 @@
       "name": "NEXT LAGA #2"
     },
     "Di9VoyUisnZ9igLiJpcuyI": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759339684,
+      "id": "120363413519303591@g.us",
+      "name": "𝙅𝘽⁴  || 𝙄𝙆𝙃𝙔 𝙍𝙀𝙂 𝙇𝙐𝙒𝙐𝙆"
     },
     "LPE0svompKDL7pBHsAzHd2": {
       "status": "new",
@@ -530,6 +532,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759319211,
+  "updated": 1793759339908,
   "total": 94
 }
