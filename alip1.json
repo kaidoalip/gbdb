@@ -580,8 +580,11 @@
       "name": "[𝟏] 𝐌𝐀𝐑𝐊𝐄𝐓 | 𝐁𝐋𝐎𝐗 𝐅𝐑𝐔𝐈𝐓𝐒 𝐢𝐤𝐳 🍃"
     },
     "D5amWpr8tuNH8AZOV0gY9x": {
-      "status": "new",
-      "time": 1793760314639
+      "status": "tertutup",
+      "time": 1793762571437,
+      "id": "120363431615483371@g.us",
+      "name": "[1] 𝙅𝘽 𝙍𝙊𝘽𝙇𝙊𝙓 | 𝙆𝙕𝙔 👑",
+      "announce": true
     },
     "JJV168VjGvKAwzq5ODEUP4": {
       "status": "new",
@@ -644,6 +647,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762549654,
+  "updated": 1793762571633,
   "total": 112
 }
