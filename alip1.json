@@ -424,8 +424,10 @@
       "name": "PUSAT JUAL BELI ALLGAME | SANZZYSTR177 👑"
     },
     "CoBz1jCSAAB8lEPZ1VjVaI": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759230881,
+      "id": "120363424505989040@g.us",
+      "name": "JB  2  ||   GUZZSTORE"
     },
     "HeJwMhEQc37K4PhKAxg04k": {
       "status": "new",
@@ -520,6 +522,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759206987,
+  "updated": 1793759231131,
   "total": 94
 }
