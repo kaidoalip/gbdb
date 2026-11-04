@@ -657,8 +657,9 @@
       "name": "𝗝𝗕 𝗠𝗔𝗥𝗥𝗦𝟮𝟳 𝗨𝗧𝗔𝗠𝗔 𝗜𝗜𝗜"
     },
     "Dt9Kqtn4Gpo45Ksvp9QVzc": {
-      "status": "new",
-      "time": 1793761754456
+      "status": "error",
+      "time": 1793762758108,
+      "err": "bad-request"
     },
     "GHofQBMSkm5GIGLe3YUWdr": {
       "status": "new",
@@ -669,6 +670,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762754667,
+  "updated": 1793762758289,
   "total": 111
 }
