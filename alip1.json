@@ -225,8 +225,10 @@
       "name": "GB DERZSTORE REGION (BANTEN²)"
     },
     "GFV9vxCmE0aHsU4KMVtsVX": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758616742,
+      "id": "120363409646705341@g.us",
+      "name": "GB STOCK 01 PADZZ JB X OWN/PT"
     },
     "FLrblNp6CJ3BTDskIUBvV1": {
       "status": "new",
@@ -445,6 +447,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758596309,
+  "updated": 1793758616956,
   "total": 92
 }
