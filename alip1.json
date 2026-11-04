@@ -711,8 +711,10 @@
       "name": "GC UTAMA KAZU STR V2 🧢"
     },
     "FgmUdyLaPJtHgcAwK22nsP": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764287046,
+      "id": "120363413550686357@g.us",
+      "name": "KAZU MARKET STOK RECEH 🧢"
     },
     "JJNN6chTJg01iye4cnFnXN": {
       "status": "new",
@@ -731,6 +733,6 @@
       "time": 1793763674822
     }
   },
-  "updated": 1793764274544,
+  "updated": 1793764287263,
   "total": 122
 }
