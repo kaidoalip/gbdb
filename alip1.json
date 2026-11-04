@@ -244,8 +244,10 @@
       "name": "GB HANZ STORE 💫"
     },
     "K2MlJRhUQ604TR3XtKiWHs": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758672046,
+      "id": "120363413428841884@g.us",
+      "name": "𝙂𝘾 𝙍𝙄𝙎𝙎𝙪𝙩𝙖𝙢𝙖 𝙫1"
     },
     "KhbSRg7NqXv8XkxyJMHmKw": {
       "status": "new",
@@ -448,6 +450,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758653054,
+  "updated": 1793758672273,
   "total": 91
 }
