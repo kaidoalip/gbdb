@@ -633,8 +633,10 @@
       "announce": true
     },
     "EqirKzNbLat3zXov2vGEAz": {
-      "status": "new",
-      "time": 1793761274576
+      "status": "pending",
+      "time": 1793762686497,
+      "id": "120363432710420591@g.us",
+      "name": "GB UTAMA DAVID 911"
     },
     "EbR6qrQzaWkKDdZuIKZt6X": {
       "status": "new",
@@ -665,6 +667,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762675327,
+  "updated": 1793762686709,
   "total": 112
 }
