@@ -681,8 +681,10 @@
       "announce": true
     },
     "IKmwYtl56QdEkpufKEJC34": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764186666,
+      "id": "120363413963665766@g.us",
+      "name": "SI!R KAZU MARKET V1 🧢"
     },
     "ElEt485Y4DqL21KKI0HjiH": {
       "status": "new",
@@ -721,6 +723,6 @@
       "time": 1793763674822
     }
   },
-  "updated": 1793764176672,
+  "updated": 1793764186994,
   "total": 122
 }
