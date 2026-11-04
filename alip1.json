@@ -723,8 +723,10 @@
       "name": "JB KAZU STR REGION JEPARA 🧢"
     },
     "CN6anKK8sMDEBtw1AySjoj": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764326141,
+      "id": "120363429813491998@g.us",
+      "name": "PASAR PUSAT STOK FF/ML 🧢"
     },
     "D47OcEwIUw2JODnfCgxwG9": {
       "status": "new",
@@ -735,6 +737,6 @@
       "time": 1793763674822
     }
   },
-  "updated": 1793764307637,
+  "updated": 1793764326391,
   "total": 122
 }
