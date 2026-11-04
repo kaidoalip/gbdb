@@ -412,8 +412,10 @@
       "name": "FT CS 750-3k BY ZAKI x OWN [PROSES]¹"
     },
     "EhYR6yyz2SF2JnKZpL18PK": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759186886,
+      "id": "120363428430384684@g.us",
+      "name": "GB JB ALL GAME DHLSTR¹"
     },
     "JfKdtJvGp1O8ugk5UqZbhr": {
       "status": "new",
@@ -516,6 +518,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759169123,
+  "updated": 1793759187097,
   "total": 94
 }
