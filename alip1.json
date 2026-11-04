@@ -430,8 +430,10 @@
       "name": "JB  2  ||   GUZZSTORE"
     },
     "HeJwMhEQc37K4PhKAxg04k": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759250197,
+      "id": "120363428829608094@g.us",
+      "name": "JB || ALL GAME IASS STORE [BLK]"
     },
     "JhK21tGjORjK9NKYbdZYqx": {
       "status": "new",
@@ -522,6 +524,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759231131,
+  "updated": 1793759250434,
   "total": 94
 }
