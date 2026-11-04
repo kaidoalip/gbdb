@@ -662,14 +662,16 @@
       "err": "bad-request"
     },
     "GHofQBMSkm5GIGLe3YUWdr": {
-      "status": "new",
-      "time": 1793761754456
+      "status": "pending",
+      "time": 1793762766382,
+      "id": "120363426922882197@g.us",
+      "name": "JB || EDO STORE X MARRS27"
     },
     "GqTVHNcJuqG9HWVGUyWx6n": {
       "status": "new",
       "time": 1793762234446
     }
   },
-  "updated": 1793762758289,
+  "updated": 1793762766609,
   "total": 111
 }
