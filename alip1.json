@@ -231,8 +231,11 @@
       "name": "GB STOCK 01 PADZZ JB X OWN/PT"
     },
     "L8MxE5z3O0ZCVObbVcVajg": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "tertutup",
+      "time": 1793758642340,
+      "id": "120363423118429996@g.us",
+      "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗬𝗮𝗻𝘇𝗡𝗲𝘄𝗘𝗿𝗮𝗮 𝗩𝟭",
+      "announce": true
     },
     "JdPXcTjDfvkBqNiAkjaiFP": {
       "status": "new",
@@ -443,6 +446,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758631777,
+  "updated": 1793758642539,
   "total": 91
 }
