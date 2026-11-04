@@ -364,8 +364,10 @@
       "announce": true
     },
     "BUXBrSUtIdnGC01UxTDdMK": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759031433,
+      "id": "120363411019226480@g.us",
+      "name": "MARKET KARLZ POINT"
     },
     "LfprHgf4c05Im0ofwhauSs": {
       "status": "new",
@@ -488,6 +490,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793759021436,
+  "updated": 1793759031633,
   "total": 91
 }
