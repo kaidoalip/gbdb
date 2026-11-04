@@ -639,8 +639,10 @@
       "name": "GB UTAMA DAVID 911"
     },
     "EbR6qrQzaWkKDdZuIKZt6X": {
-      "status": "new",
-      "time": 1793761754456
+      "status": "pending",
+      "time": 1793762705065,
+      "id": "120363426736303363@g.us",
+      "name": "MARKET ALL GAME GITZYMEWA X MARRS27"
     },
     "DF0tmal9QN4Kef9RI19wkz": {
       "status": "new",
@@ -667,6 +669,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762686709,
+  "updated": 1793762705305,
   "total": 112
 }
