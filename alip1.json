@@ -188,8 +188,11 @@
       "name": "ZINC STORE"
     },
     "I1NLBd2rIsuEWpU0lZGeMT": {
-      "status": "new",
-      "time": 1793714801513
+      "status": "tertutup",
+      "time": 1793758497308,
+      "id": "120363414426786417@g.us",
+      "name": "ZYRO || KII STR¹",
+      "announce": true
     },
     "D891Yoejc5C2KLcpFRjr3I": {
       "status": "new",
@@ -440,6 +443,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758475193,
+  "updated": 1793758497518,
   "total": 94
 }
