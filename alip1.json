@@ -400,8 +400,10 @@
       "name": "JB² II NOXZ FAMES STORE"
     },
     "Ib32hatxZeXJznwBKxCvV2": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759148559,
+      "id": "120363412863689176@g.us",
+      "name": "INFO FT 3K BY YOO"
     },
     "FkIVfvbden84qE2kGB62fm": {
       "status": "new",
@@ -512,6 +514,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759127786,
+  "updated": 1793759148783,
   "total": 94
 }
