@@ -472,8 +472,10 @@
       "name": "𝑴𝑨𝑹𝑲𝑬𝑻 || 𝑨𝑳𝑳 𝑮𝑨𝑴𝑬 || 𝑱𝑯𝑶𝑵¹"
     },
     "GiCVEV0QA2G9pijoDUDwdr": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759403528,
+      "id": "120363412739867784@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗞𝗘𝗡𝗭"
     },
     "BvXdA5DaswCF71PIuUMkxb": {
       "status": "new",
@@ -536,6 +538,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759384421,
+  "updated": 1793759403756,
   "total": 94
 }
