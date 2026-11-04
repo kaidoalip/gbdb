@@ -587,8 +587,10 @@
       "announce": true
     },
     "JJV168VjGvKAwzq5ODEUP4": {
-      "status": "new",
-      "time": 1793760314639
+      "status": "pending",
+      "time": 1793762581235,
+      "id": "120363413207498446@g.us",
+      "name": "[2] 𝙅𝘽 𝙍𝙊𝘽𝙇𝙊𝙓 | 𝙆𝙕𝙔"
     },
     "BnqVZQpcer6FboJmmieuXz": {
       "status": "new",
@@ -647,6 +649,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762571633,
+  "updated": 1793762581440,
   "total": 112
 }
