@@ -256,8 +256,10 @@
       "name": "𝙂𝘾 𝙍𝙄𝙎𝙎𝙪𝙩𝙖𝙢𝙖 𝙫2"
     },
     "LY2gT5o4qd0GoJeZX09Nw4": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758708002,
+      "id": "120363405341765525@g.us",
+      "name": "WARUNG JPM TEGAR GZ V2"
     },
     "KKohbhqcxyKBMDJZI7zANL": {
       "status": "new",
@@ -452,6 +454,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758690203,
+  "updated": 1793758708215,
   "total": 91
 }
