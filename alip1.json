@@ -484,8 +484,10 @@
       "name": "𝐒𝐓𝐎𝐂𝐊 𝐏𝐑𝐈𝐁 𝐑𝐄𝐗𝐙𝐘 𝐉𝐁 𝐗 𝐎𝐖𝐍 (𝟏)𔒝"
     },
     "KnmHOF6bALYLHuWw3aYCMr": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759445055,
+      "id": "120363432081657666@g.us",
+      "name": "FT CS BAILA X GRIZZY"
     },
     "IbhvRERlYhxEvjD8Qr7dda": {
       "status": "new",
@@ -540,6 +542,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759424465,
+  "updated": 1793759445277,
   "total": 94
 }
