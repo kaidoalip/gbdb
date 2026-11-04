@@ -717,8 +717,10 @@
       "name": "KAZU MARKET STOK RECEH 🧢"
     },
     "JJNN6chTJg01iye4cnFnXN": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764307424,
+      "id": "120363406538115312@g.us",
+      "name": "JB KAZU STR REGION JEPARA 🧢"
     },
     "CN6anKK8sMDEBtw1AySjoj": {
       "status": "new",
@@ -733,6 +735,6 @@
       "time": 1793763674822
     }
   },
-  "updated": 1793764287263,
+  "updated": 1793764307637,
   "total": 122
 }
