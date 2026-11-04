@@ -201,8 +201,10 @@
       "name": "Market All game Vyer || Nokos V1"
     },
     "CRiLVvIWgZyFasGzi0AZTj": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758528230,
+      "id": "120363411734477248@g.us",
+      "name": "KHUSUS STOCK RAYHAAN STORE"
     },
     "KikGsXmiLXP9aXQf1QFUUy": {
       "status": "new",
@@ -445,6 +447,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758508158,
+  "updated": 1793758528445,
   "total": 94
 }
