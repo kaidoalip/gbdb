@@ -687,8 +687,10 @@
       "name": "SI!R KAZU MARKET V1 🧢"
     },
     "ElEt485Y4DqL21KKI0HjiH": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764208068,
+      "id": "120363413784429601@g.us",
+      "name": "DUNIA CUAN KAZU STUR V1 🧢"
     },
     "D7nTcR5kOQr0M5THHmGiuK": {
       "status": "new",
@@ -723,6 +725,6 @@
       "time": 1793763674822
     }
   },
-  "updated": 1793764186994,
+  "updated": 1793764208312,
   "total": 122
 }
