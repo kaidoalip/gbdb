@@ -605,8 +605,11 @@
       "name": "𝙅𝘽¹|| 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 𝙕𝘼𝙔"
     },
     "B6sJ0y6VpXK0iH7Y4ehhKw": {
-      "status": "new",
-      "time": 1793760314639
+      "status": "tertutup",
+      "time": 1793762637195,
+      "id": "120363412868214439@g.us",
+      "name": "𝐏𝐀𝐒𝐀𝐑 𝐀𝐋𝐋 𝐆𝐀𝐌𝐄 [𝟮𝟭]☕",
+      "announce": true
     },
     "JmM5iU3Ymte2TfDh9B5S1t": {
       "status": "new",
@@ -653,6 +656,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762617943,
+  "updated": 1793762637399,
   "total": 112
 }
