@@ -213,8 +213,10 @@
       "name": "STOK 6 YANZz"
     },
     "F0tqjmguul3ACROuQGOpj7": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758566247,
+      "id": "120363429944763323@g.us",
+      "name": "JB ALL GAME HANZ STR"
     },
     "BtNouODl7HY29cX6s5spCc": {
       "status": "new",
@@ -449,6 +451,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758546195,
+  "updated": 1793758566755,
   "total": 94
 }
