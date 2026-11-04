@@ -550,8 +550,10 @@
       "name": "GB FT CS LANA 500P TO 5K"
     },
     "KNO2IXBpJ2J9EV9q2AHuxd": {
-      "status": "new",
-      "time": 1793759114438
+      "status": "pending",
+      "time": 1793760045237,
+      "id": "120363431724266228@g.us",
+      "name": "market allgame || Kink Vinn"
     },
     "L9lsFPJ9TcY0qC6takKdjg": {
       "status": "new",
@@ -566,6 +568,6 @@
       "time": 1793759594433
     }
   },
-  "updated": 1793760028826,
+  "updated": 1793760045457,
   "total": 95
 }
