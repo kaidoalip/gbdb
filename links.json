@@ -2617,15 +2617,6 @@
       "size": 268,
       "approval": false
     },
-    "IO1srKs865X8UrTmoSz6uJ": {
-      "status": "joined",
-      "time": 1793369978909,
-      "id": "120363411379871535@g.us",
-      "name": "📡🅳𝒓𝒂𝒎𝒂➳♥Ⓜ️𝒐𝒗𝒊𝒆𝒔𝒆🚔",
-      "size": 440,
-      "approval": false,
-      "announce": false
-    },
     "IXO6VYSY58FGdOResMlyGQ": {
       "status": "joined",
       "time": 1793369995783,
@@ -11280,6 +11271,6 @@
       "time": 1793746449838
     }
   },
-  "total": 1595,
-  "updated": 1793753290052
+  "total": 1594,
+  "updated": 1793753368249
 }
