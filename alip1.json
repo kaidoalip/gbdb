@@ -699,8 +699,10 @@
       "name": "OBRAL STOK MURAH V1 🧢"
     },
     "I7dyGZT0B8ZGQfaT47hjp4": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764245585,
+      "id": "120363423920075316@g.us",
+      "name": "GC UTAMA KAZU STR V1 🧢"
     },
     "E0CYCd6Grwc1P1Fpfdc4wy": {
       "status": "new",
@@ -727,6 +729,6 @@
       "time": 1793763674822
     }
   },
-  "updated": 1793764227600,
+  "updated": 1793764245915,
   "total": 122
 }
