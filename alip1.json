@@ -496,8 +496,10 @@
       "name": "𝐉𝐁 / 𝐏𝐓 𝐒𝐌𝐔𝐑𝐅 𝐃𝐀𝐘𝐘 𝐒𝐓𝐎𝐑𝐄 𝐕𝟏"
     },
     "Cn8qRixb1AfI2I2abKLoZ0": {
-      "status": "new",
-      "time": 1793758444099
+      "status": "pending",
+      "time": 1793759489739,
+      "id": "120363221449469776@g.us",
+      "name": "𝐉𝐁 / 𝐏𝐓 𝐒𝐌𝐔𝐑𝐅 𝐃𝐀𝐘𝐘 𝐒𝐓𝐎𝐑𝐄 𝐕𝟐"
     },
     "BBxrDShGDSrH4VFdortwvg": {
       "status": "new",
@@ -540,6 +542,6 @@
       "time": 1793759114438
     }
   },
-  "updated": 1793759474466,
+  "updated": 1793759489951,
   "total": 93
 }
