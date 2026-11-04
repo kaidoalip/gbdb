@@ -729,14 +729,16 @@
       "name": "PASAR PUSAT STOK FF/ML 🧢"
     },
     "D47OcEwIUw2JODnfCgxwG9": {
-      "status": "new",
-      "time": 1793763554456
+      "status": "pending",
+      "time": 1793764344637,
+      "id": "120363423829868940@g.us",
+      "name": "GAK STOK GAK CUAN V1 🧢"
     },
     "CusHD0MOpNW3aslmV7vOnC": {
       "status": "new",
       "time": 1793763674822
     }
   },
-  "updated": 1793764326391,
+  "updated": 1793764344936,
   "total": 122
 }
