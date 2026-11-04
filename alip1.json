@@ -626,8 +626,11 @@
       "announce": true
     },
     "DPjnjECvGlZF4bXsRLJEsk": {
-      "status": "new",
-      "time": 1793760314639
+      "status": "tertutup",
+      "time": 1793762675021,
+      "id": "120363433045592042@g.us",
+      "name": "𝐏𝐀𝐒𝐀𝐑 𝐀𝐋𝐋 𝐆𝐀𝐌𝐄 [𝟮𝟰]☕",
+      "announce": true
     },
     "EqirKzNbLat3zXov2vGEAz": {
       "status": "new",
@@ -662,6 +665,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762662831,
+  "updated": 1793762675327,
   "total": 112
 }
