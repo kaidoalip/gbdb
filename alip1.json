@@ -593,8 +593,10 @@
       "name": "[2] 𝙅𝘽 𝙍𝙊𝘽𝙇𝙊𝙓 | 𝙆𝙕𝙔"
     },
     "BnqVZQpcer6FboJmmieuXz": {
-      "status": "new",
-      "time": 1793760314639
+      "status": "pending",
+      "time": 1793762600508,
+      "id": "120363393825008526@g.us",
+      "name": "[𝟑] 𝐌𝐀𝐑𝐊𝐄𝐓 | 𝐒𝐓𝐄𝐀𝐋 𝐀𝐍 𝐄𝐆𝐆 𝐢𝐤𝐳 🍃"
     },
     "CJGkndgcHS3A4hPvDTMIOP": {
       "status": "new",
@@ -649,6 +651,6 @@
       "time": 1793762234446
     }
   },
-  "updated": 1793762581440,
+  "updated": 1793762600712,
   "total": 112
 }
