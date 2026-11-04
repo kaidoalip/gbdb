@@ -250,8 +250,10 @@
       "name": "𝙂𝘾 𝙍𝙄𝙎𝙎𝙪𝙩𝙖𝙢𝙖 𝙫1"
     },
     "KhbSRg7NqXv8XkxyJMHmKw": {
-      "status": "new",
-      "time": 1793715281514
+      "status": "pending",
+      "time": 1793758689976,
+      "id": "120363428550123656@g.us",
+      "name": "𝙂𝘾 𝙍𝙄𝙎𝙎𝙪𝙩𝙖𝙢𝙖 𝙫2"
     },
     "LY2gT5o4qd0GoJeZX09Nw4": {
       "status": "new",
@@ -450,6 +452,6 @@
       "time": 1793758444099
     }
   },
-  "updated": 1793758672273,
+  "updated": 1793758690203,
   "total": 91
 }
