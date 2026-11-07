@@ -8863,8 +8863,9 @@
       "name": "PASAR ALLGAME ZESA [ 1 ]"
     },
     "C42qYESNGrQ0EQwb5DefZk": {
-      "status": "new",
-      "time": 1793516995994
+      "status": "error",
+      "time": 1794024238593,
+      "err": "bad-request"
     },
     "JXzpXELuCXoE3YYUeugBb6": {
       "status": "new",
@@ -10806,5 +10807,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024221435
+  "updated": 1794024239900
 }
