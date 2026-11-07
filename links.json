@@ -7782,15 +7782,6 @@
       "approval": false,
       "announce": false
     },
-    "FAxQeqG3ut872EyiBt9a78": {
-      "status": "tertutup",
-      "time": 1794022475910,
-      "id": "120363350451145714@g.us",
-      "name": "اسلحہ اور لائسنس پاکستان",
-      "size": 679,
-      "approval": false,
-      "announce": true
-    },
     "Gr4LKPN0h676qeLmxRAR64": {
       "status": "joined",
       "time": 1793492586196,
@@ -10940,6 +10931,6 @@
       "time": 1794022376002
     }
   },
-  "total": 1606,
-  "updated": 1794022476837
+  "total": 1605,
+  "updated": 1794022479072
 }
