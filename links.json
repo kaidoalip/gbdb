@@ -7915,13 +7915,13 @@
       "announce": false
     },
     "FBvvYOZdc6U8pv8VGdEyQU": {
-      "status": "valid",
-      "time": 1793506935485,
+      "status": "tertutup",
+      "time": 1794022740839,
       "id": "120363409521996216@g.us",
       "name": "World of English",
       "size": 113,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "IDISre7TMDEI8aJXj6Zmw0": {
       "status": "valid",
@@ -10906,5 +10906,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794022735998
+  "updated": 1794022741800
 }
