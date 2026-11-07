@@ -5499,8 +5499,8 @@
       "announce": false
     },
     "FasLpLNx0rx1lBP4TwSYiR": {
-      "status": "valid",
-      "time": 1793506240428,
+      "status": "joined",
+      "time": 1794021167820,
       "id": "120363429114294898@g.us",
       "name": "Pak Flow Group",
       "size": 425,
@@ -10996,5 +10996,5 @@
     }
   },
   "total": 1594,
-  "updated": 1794021158754
+  "updated": 1794021168547
 }
