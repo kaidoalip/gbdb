@@ -7254,13 +7254,13 @@
       "err": "bad-request"
     },
     "KqNMn27YBFXCeWmwD78Xnj": {
-      "status": "valid",
-      "time": 1793506701614,
+      "status": "tertutup",
+      "time": 1794022211781,
       "id": "120363411341128926@g.us",
-      "name": "MIKE TECHS PHONE UNLOCKING 📱📱",
+      "name": "MIKE TECHS PHONE UNLOCKING lipa mdogo mdogo",
       "size": 200,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "En5whKt8qc46SU9E0yT24V": {
       "status": "komunitas",
@@ -10944,5 +10944,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794022201319
+  "updated": 1794022212943
 }
