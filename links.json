@@ -5279,13 +5279,14 @@
       "announce": false
     },
     "KJEu0aWTpELJW2jJXlvm8X": {
-      "status": "valid",
-      "time": 1793506180150,
+      "status": "error",
+      "time": 1794020963903,
       "id": "120363415245952994@g.us",
       "name": "AdeelLabs",
       "size": 225,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HOqx3GyMPbxK5TvrF0a29K": {
       "status": "valid",
@@ -11018,5 +11019,5 @@
     }
   },
   "total": 1597,
-  "updated": 1794020945598
+  "updated": 1794020965190
 }
