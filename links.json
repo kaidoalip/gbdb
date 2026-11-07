@@ -4562,13 +4562,14 @@
       "name": "✨ *بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ ✨*"
     },
     "CsVGMx382qqH1LC4KEbb71": {
-      "status": "valid",
-      "time": 1793505949224,
+      "status": "error",
+      "time": 1794019800733,
       "id": "120363430386979624@g.us",
       "name": "🇵🇰 Deal Hunt Pakistan 🛍️",
       "size": 241,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LZPwHEjPxBU95ikuWp1Xli": {
       "status": "valid",
@@ -11188,5 +11189,5 @@
     }
   },
   "total": 1615,
-  "updated": 1794019795603
+  "updated": 1794019801499
 }
