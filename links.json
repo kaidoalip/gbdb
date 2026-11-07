@@ -4230,13 +4230,14 @@
       "name": "Non Custom Product Seller All Over Pakistan Delivery Available"
     },
     "HJpA2OFWvq81NAmQHnlc7L": {
-      "status": "valid",
-      "time": 1793505817319,
+      "status": "error",
+      "time": 1794019308749,
       "id": "120363431553238107@g.us",
       "name": "ASX. Premium Shop",
       "size": 139,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CgbEZWNw7v3IYzLOB0vzz2": {
       "status": "komunitas",
@@ -11322,5 +11323,5 @@
     }
   },
   "total": 1629,
-  "updated": 1794019304367
+  "updated": 1794019309865
 }
