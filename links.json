@@ -4892,15 +4892,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "BwbZnnPmBOk3m9Y2VsHG9Z": {
-      "status": "tertutup",
-      "time": 1794020591477,
-      "id": "120363430175287443@g.us",
-      "name": "OXY Support",
-      "size": 85,
-      "approval": false,
-      "announce": true
-    },
     "BCEme1t701qEtkx38pUllx": {
       "status": "valid",
       "time": 1793506071053,
@@ -11071,6 +11062,6 @@
       "time": 1794019856151
     }
   },
-  "total": 1602,
-  "updated": 1794020591817
+  "total": 1601,
+  "updated": 1794020594371
 }
