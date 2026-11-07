@@ -5784,13 +5784,13 @@
       "announce": false
     },
     "CYK6lc9pSoG0amiuIA18xo": {
-      "status": "valid",
-      "time": 1793506317464,
+      "status": "tertutup",
+      "time": 1794021364024,
       "id": "120363411576330618@g.us",
       "name": "Adsense & hosting buy and sell",
       "size": 162,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "IRCszyhaZPN7ZGAVhPMQhA": {
       "status": "komunitas",
@@ -10976,5 +10976,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794021352877
+  "updated": 1794021365362
 }
