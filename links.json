@@ -7774,8 +7774,8 @@
       "err": "not-authorized"
     },
     "C5XQYiOYwC5J4MARG1he1K": {
-      "status": "valid",
-      "time": 1793506876292,
+      "status": "joined",
+      "time": 1794022454163,
       "id": "120363410287569606@g.us",
       "name": "دینہ، جہلم میں سب کچھ ملتا ہے۔✨",
       "size": 197,
@@ -10941,5 +10941,5 @@
     }
   },
   "total": 1606,
-  "updated": 1794022443665
+  "updated": 1794022455265
 }
