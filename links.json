@@ -7906,8 +7906,8 @@
       "err": "bad-request"
     },
     "FI3NFgLuuOB7RDBOS1GMp5": {
-      "status": "valid",
-      "time": 1793506927662,
+      "status": "joined",
+      "time": 1794022701173,
       "id": "120363051261541504@g.us",
       "name": "SM Trusted Seller",
       "size": 317,
@@ -10911,5 +10911,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794022691615
+  "updated": 1794022702302
 }
