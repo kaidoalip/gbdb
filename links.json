@@ -6903,15 +6903,6 @@
       "approval": true,
       "announce": false
     },
-    "J6Na3NrTctpL3FvNaihBwX": {
-      "status": "tertutup",
-      "time": 1794021801817,
-      "id": "120363411201608424@g.us",
-      "name": "Peshawar Buy and Sell",
-      "size": 329,
-      "approval": false,
-      "announce": true
-    },
     "GeLaJysLjYG8mAiGUVj8C3": {
       "status": "valid",
       "time": 1793506596774,
@@ -10924,6 +10915,6 @@
       "time": 1794021775953
     }
   },
-  "total": 1593,
-  "updated": 1794021802737
+  "total": 1592,
+  "updated": 1794021805669
 }
