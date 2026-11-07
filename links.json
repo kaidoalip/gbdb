@@ -8239,15 +8239,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "KdDckvFaA7dILFQgkOFS8R": {
-      "status": "tertutup",
-      "time": 1794023102638,
-      "id": "120363407934810141@g.us",
-      "name": "GB HAN CRUEL V2",
-      "size": 95,
-      "approval": false,
-      "announce": true
-    },
     "CTS3m7huqQa1zAkRgJtyB9": {
       "status": "valid",
       "time": 1793507085503,
@@ -10807,6 +10798,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1593,
-  "updated": 1794023103566
+  "total": 1592,
+  "updated": 1794023106168
 }
