@@ -8328,13 +8328,13 @@
       "err": "bad-request"
     },
     "LuouQtrlrYxJW7cw5t5KjE": {
-      "status": "valid",
-      "time": 1793507109819,
+      "status": "tertutup",
+      "time": 1794023139053,
       "id": "120363426012495402@g.us",
       "name": "دټولی افغانستان دی تاریکو گورف2027",
       "size": 734,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "HGODnY9mHlbEqRE4bKLAUr": {
       "status": "valid",
@@ -10792,5 +10792,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794023129349
+  "updated": 1794023140910
 }
