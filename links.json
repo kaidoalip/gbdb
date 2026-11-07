@@ -8525,13 +8525,13 @@
       "name": "GPC Ayra Malik 🌸"
     },
     "KySV6mnhCkaCqHtlOXvdbJ": {
-      "status": "valid",
-      "time": 1793513014707,
+      "status": "tertutup",
+      "time": 1794023269055,
       "id": "120363412654194417@g.us",
       "name": "𝙎𝙃𝘼𝙃𝙕𝘼𝘿 𝙏𝙄𝙆𝙏𝙊𝙆 𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝙎𝘼𝙇𝙀𝙍 ♛",
       "size": 266,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "ISS3gHnodr76sHyocyVKdc": {
       "status": "valid",
@@ -10754,5 +10754,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794023258738
+  "updated": 1794023269781
 }
