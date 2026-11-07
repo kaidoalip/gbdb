@@ -8239,15 +8239,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "FumhwvzKCbp5XgcGBBGwgI": {
-      "status": "valid",
-      "time": 1793507079156,
-      "id": "120363412470734849@g.us",
-      "name": "GB UTAMA HAN CRUEL PART 2",
-      "size": 416,
-      "approval": false,
-      "announce": false
-    },
     "KdDckvFaA7dILFQgkOFS8R": {
       "status": "valid",
       "time": 1793507081979,
@@ -10816,6 +10807,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1594,
-  "updated": 1794023086539
+  "total": 1593,
+  "updated": 1794023092018
 }
