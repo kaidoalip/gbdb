@@ -8773,8 +8773,11 @@
       "name": "𝙎𝙐𝙁𝙔𝘼𝙉 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 𝙎𝙏𝙊𝙍𝙀"
     },
     "Hp9EbdOn4BEFk15VmNvA7Z": {
-      "status": "new",
-      "time": 1793514474917
+      "status": "tertutup",
+      "time": 1794023986068,
+      "id": "120363413453646219@g.us",
+      "name": "TikTok shop/ebay/Amazon/E commerce",
+      "announce": true
     },
     "J3GmcPIAe8BIDSwy5O9bIk": {
       "status": "new",
@@ -10804,5 +10807,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023961626
+  "updated": 1794023987184
 }
