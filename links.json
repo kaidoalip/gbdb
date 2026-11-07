@@ -4268,13 +4268,13 @@
       "time": 1793243628191
     },
     "JiEXhPYpz1pF0j2SdhjqzE": {
-      "status": "valid",
-      "time": 1793505826872,
+      "status": "tertutup",
+      "time": 1794019334135,
       "id": "120363428608679868@g.us",
       "name": "✅Gmail Bay & Sell📩",
       "size": 424,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "I3FL64vE00cIQF4nyYPBpj": {
       "status": "valid",
@@ -11314,5 +11314,5 @@
     }
   },
   "total": 1628,
-  "updated": 1794019323108
+  "updated": 1794019335550
 }
