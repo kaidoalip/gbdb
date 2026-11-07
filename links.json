@@ -6694,15 +6694,6 @@
       "approval": false,
       "announce": false
     },
-    "KKpi8Vdnf8u7a0m0fhG5db": {
-      "status": "tertutup",
-      "time": 1794021654617,
-      "id": "120363431936121160@g.us",
-      "name": "China Admission & Scholarships Guide",
-      "size": 54,
-      "approval": false,
-      "announce": true
-    },
     "Bvmnv8JDY2a8hWgN7Givzg": {
       "status": "valid",
       "time": 1793506547057,
@@ -10944,6 +10935,6 @@
       "time": 1794021658419
     }
   },
-  "total": 1595,
-  "updated": 1794021658419
+  "total": 1594,
+  "updated": 1794021661390
 }
