@@ -8230,13 +8230,13 @@
       "name": "M.AFAQ TRUSTED SELLER"
     },
     "ITHqu3brcIa4lI0rlZ7VI6": {
-      "status": "valid",
-      "time": 1793507073292,
+      "status": "tertutup",
+      "time": 1794023079044,
       "id": "120363410389973976@g.us",
       "name": "Used Gamil Buy & sell 📬",
       "size": 172,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "FFaa9LHXQPkI8WSgQk6VIy": {
       "status": "valid",
@@ -10825,5 +10825,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794023068197
+  "updated": 1794023079587
 }
