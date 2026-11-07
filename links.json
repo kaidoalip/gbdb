@@ -3762,8 +3762,8 @@
       "announce": false
     },
     "Gxdb94Xtb7PLHWA3VDUYdc": {
-      "status": "valid",
-      "time": 1793505722460,
+      "status": "joined",
+      "time": 1794018873064,
       "id": "120363295398382307@g.us",
       "name": "SKST Pan India Property Deals",
       "size": 396,
@@ -11407,5 +11407,5 @@
     }
   },
   "total": 1638,
-  "updated": 1794018861028
+  "updated": 1794018874576
 }
