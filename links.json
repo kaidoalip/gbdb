@@ -7449,8 +7449,8 @@
       "announce": false
     },
     "I2o8XJ7thUF2718TeCx7Te": {
-      "status": "valid",
-      "time": 1793506752408,
+      "status": "joined",
+      "time": 1794022418627,
       "id": "120363431622493821@g.us",
       "name": "Facebook Montization zone",
       "size": 65,
@@ -10939,5 +10939,5 @@
     }
   },
   "total": 1606,
-  "updated": 1794022396066
+  "updated": 1794022419756
 }
