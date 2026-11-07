@@ -5909,13 +5909,13 @@
       "announce": false
     },
     "CDVqmI2MRIm4Jkcod1dc54": {
-      "status": "valid",
-      "time": 1793506338542,
+      "status": "tertutup",
+      "time": 1794021438993,
       "id": "120363408641601614@g.us",
       "name": "STOCK MARKET TRADING INVESTMENT PLATFORM INDIAN",
       "size": 82,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Leph8Xn9cMCFv7V9hRT5Bo": {
       "status": "komunitas",
@@ -10951,5 +10951,5 @@
     }
   },
   "total": 1589,
-  "updated": 1794021417091
+  "updated": 1794021440343
 }
