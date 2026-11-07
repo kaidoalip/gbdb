@@ -3771,8 +3771,8 @@
       "announce": false
     },
     "EZQeOzKRiAwKBMwsFaOmOB": {
-      "status": "valid",
-      "time": 1793505725679,
+      "status": "joined",
+      "time": 1794018898133,
       "id": "120363428004576712@g.us",
       "name": "🇵🇰 Pakistan Buy & Sell | Har Shehar Se, Har Shehar Tak 🚚🛒",
       "size": 142,
@@ -11407,5 +11407,5 @@
     }
   },
   "total": 1638,
-  "updated": 1794018896566
+  "updated": 1794018899263
 }
