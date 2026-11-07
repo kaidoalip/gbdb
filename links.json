@@ -4463,13 +4463,13 @@
       "announce": false
     },
     "CY6eWpXc9mt34WF7JFvUFH": {
-      "status": "valid",
-      "time": 1793505896782,
+      "status": "tertutup",
+      "time": 1794019551128,
       "id": "120363421280592272@g.us",
       "name": "𝐼 𝑃𝐻𝑂𝑁𝐸 𝑀𝐼𝑋 𝑀𝐴𝐼𝐿 𝐵𝑈𝑌 𝐴𝑁𝐷 𝑆𝐸𝐿𝐿 𝐺𝑅𝑂𝑈𝑃 (𝑂𝑁𝐿𝑌 𝐴𝐷𝑀𝐼𝑁𝐸 𝑇𝑅𝑈𝑆𝑇𝐸𝐷 ) 💯💯💥",
       "size": 352,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "ILS4yzqsdLm2VbcPg7a327": {
       "status": "valid",
@@ -11256,5 +11256,5 @@
     }
   },
   "total": 1622,
-  "updated": 1794019529790
+  "updated": 1794019552043
 }
