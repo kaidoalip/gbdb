@@ -4174,15 +4174,6 @@
       "approval": false,
       "announce": false
     },
-    "Ek069G64hhjKvMpL1mALZ5": {
-      "status": "valid",
-      "time": 1793505799843,
-      "id": "120363405056403723@g.us",
-      "name": "🔥🟥 FB • LG • BUY & SELL ✅ 🟩🔥",
-      "size": 1003,
-      "approval": false,
-      "announce": false
-    },
     "CaYdm7kxJF3BPXWEvPmjdn": {
       "status": "komunitas",
       "time": 1793243573618,
@@ -11331,6 +11322,6 @@
       "time": 1794019256722
     }
   },
-  "total": 1630,
-  "updated": 1794019256722
+  "total": 1629,
+  "updated": 1794019259714
 }
