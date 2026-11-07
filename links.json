@@ -4165,15 +4165,6 @@
       "approval": false,
       "announce": false
     },
-    "HEjYnwpgxpQ3x9NKSHANpu": {
-      "status": "tertutup",
-      "time": 1794019220698,
-      "id": "120363400546182519@g.us",
-      "name": "Blusting tech support 😒🤧",
-      "size": 264,
-      "approval": false,
-      "announce": true
-    },
     "CKRdNGKmrljFGdzmaDvx72": {
       "status": "valid",
       "time": 1793505796758,
@@ -11336,6 +11327,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1630,
-  "updated": 1794019222487
+  "total": 1629,
+  "updated": 1794019224836
 }
