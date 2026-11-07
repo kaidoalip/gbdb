@@ -6983,8 +6983,8 @@
       "announce": false
     },
     "ET9AeuXt1fu0RK4eFrXhVZ": {
-      "status": "valid",
-      "time": 1793506622130,
+      "status": "joined",
+      "time": 1794021926027,
       "id": "120363399312818440@g.us",
       "name": "LinkedIn USA email login Guruo54",
       "size": 397,
@@ -10903,5 +10903,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794021902671
+  "updated": 1794021926554
 }
