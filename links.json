@@ -5437,8 +5437,8 @@
       "announce": false
     },
     "BYFH5frgwQ67i8mnyMgJOg": {
-      "status": "valid",
-      "time": 1793506225295,
+      "status": "joined",
+      "time": 1794021098043,
       "id": "120363296843082389@g.us",
       "name": "LEADS THE WAY!❇️",
       "size": 450,
@@ -11003,5 +11003,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794021087168
+  "updated": 1794021099342
 }
