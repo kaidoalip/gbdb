@@ -4494,13 +4494,14 @@
       "time": 1793243878184
     },
     "BJmt83L3RsgK1HbgbGwStB": {
-      "status": "valid",
-      "time": 1793505923468,
+      "status": "error",
+      "time": 1794019681720,
       "id": "120363043786897230@g.us",
       "name": "🕊️فیصل🦅 اباد گروپ229 🕊️",
       "size": 362,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JFSKCYiQLcLFxC0WicWjya": {
       "status": "valid",
@@ -11213,5 +11214,5 @@
     }
   },
   "total": 1618,
-  "updated": 1794019665247
+  "updated": 1794019682715
 }
