@@ -5039,8 +5039,8 @@
       "announce": false
     },
     "CXxsGp8z6iA5aaPboRwTmE": {
-      "status": "valid",
-      "time": 1793506120961,
+      "status": "joined",
+      "time": 1794020741334,
       "id": "120363348171962818@g.us",
       "name": "Haya Tools Provider ",
       "size": 176,
@@ -11022,5 +11022,5 @@
     }
   },
   "total": 1597,
-  "updated": 1794020732120
+  "updated": 1794020742247
 }
