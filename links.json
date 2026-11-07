@@ -7840,8 +7840,8 @@
       "err": "bad-request"
     },
     "Luz2wCUDQxtCc8mU4CmED9": {
-      "status": "valid",
-      "time": 1793506900803,
+      "status": "joined",
+      "time": 1794022580276,
       "id": "120363366307905434@g.us",
       "name": "MASUF CLOUD 🌨️☁️ BY AND SELL",
       "size": 232,
@@ -10928,5 +10928,5 @@
     }
   },
   "total": 1605,
-  "updated": 1794022570849
+  "updated": 1794022581198
 }
