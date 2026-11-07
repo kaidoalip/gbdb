@@ -3877,13 +3877,14 @@
       "name": "Resaler Group"
     },
     "KRr0D4iWd5vGMWkcjtOHTy": {
-      "status": "valid",
-      "time": 1793505749780,
+      "status": "error",
+      "time": 1794019007756,
       "id": "120363161096486561@g.us",
       "name": "SRS Mobile Software New Gulfam🖥️",
       "size": 596,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "EdizGvdQJ7YLRmPkXWi7ZK": {
       "status": "joined",
@@ -11381,5 +11382,5 @@
     }
   },
   "total": 1635,
-  "updated": 1794018992947
+  "updated": 1794019009080
 }
