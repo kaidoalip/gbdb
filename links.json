@@ -4463,8 +4463,8 @@
       "announce": false
     },
     "ILS4yzqsdLm2VbcPg7a327": {
-      "status": "valid",
-      "time": 1793505899026,
+      "status": "joined",
+      "time": 1794019565029,
       "id": "120363413665460045@g.us",
       "name": "پیشاور سے کراچی تک",
       "size": 267,
@@ -11247,5 +11247,5 @@
     }
   },
   "total": 1621,
-  "updated": 1794019555286
+  "updated": 1794019566133
 }
