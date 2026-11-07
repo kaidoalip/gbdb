@@ -5188,8 +5188,8 @@
       "announce": false
     },
     "E4rKtPod7cYJCIHG6Y4DUH": {
-      "status": "valid",
-      "time": 1793506159161,
+      "status": "joined",
+      "time": 1794020922344,
       "id": "120363433687430734@g.us",
       "name": "MADDY TECH SUPPORT 🦁",
       "size": 55,
@@ -11018,5 +11018,5 @@
     }
   },
   "total": 1597,
-  "updated": 1794020912096
+  "updated": 1794020923634
 }
