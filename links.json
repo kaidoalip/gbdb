@@ -6810,8 +6810,8 @@
       "announce": false
     },
     "Hf40RgC3lPoDQLDc9PrJPq": {
-      "status": "valid",
-      "time": 1793506566308,
+      "status": "joined",
+      "time": 1794021703420,
       "id": "120363410762762557@g.us",
       "name": "💚 THE GREEN KINGDOM 💚",
       "size": 179,
@@ -10927,5 +10927,5 @@
     }
   },
   "total": 1593,
-  "updated": 1794021693069
+  "updated": 1794021704598
 }
