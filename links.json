@@ -7905,15 +7905,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "JQjpkKVs4sN04ZdYmtFsfg": {
-      "status": "tertutup",
-      "time": 1794022672563,
-      "id": "120363409454475561@g.us",
-      "name": "تلاوت قرآن کریم ❤️‍🩹❤️‍🩹",
-      "size": 241,
-      "approval": false,
-      "announce": true
-    },
     "J3wo8kbtHo49BbLDTiWnx6": {
       "status": "valid",
       "time": 1793506925479,
@@ -10928,6 +10919,6 @@
       "time": 1794022617064
     }
   },
-  "total": 1606,
-  "updated": 1794022673486
+  "total": 1605,
+  "updated": 1794022675943
 }
