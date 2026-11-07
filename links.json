@@ -8191,13 +8191,13 @@
       "err": "growth-locked"
     },
     "Ep8743vyBZMKYq9JU3Zzri": {
-      "status": "valid",
-      "time": 1793507058208,
+      "status": "tertutup",
+      "time": 1794023036967,
       "id": "120363401287018413@g.us",
       "name": "ALL NETWORK PACKAGE",
       "size": 357,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "CjQUYwzzGBlIuLsdqFgtAT": {
       "status": "valid",
@@ -10833,5 +10833,5 @@
     }
   },
   "total": 1596,
-  "updated": 1794023025974
+  "updated": 1794023038108
 }
