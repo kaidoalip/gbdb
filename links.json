@@ -7131,15 +7131,6 @@
       "approval": false,
       "announce": false
     },
-    "G43RD4YO1ZY3P0hN47Z1K6": {
-      "status": "tertutup",
-      "time": 1794022087897,
-      "id": "120363306051812825@g.us",
-      "name": "GV SL TN TF TT TP buy",
-      "size": 314,
-      "approval": false,
-      "announce": true
-    },
     "E0uE9SnIOGLHePBRDibrOm": {
       "status": "valid",
       "time": 1793506668828,
@@ -10904,6 +10895,6 @@
       "time": 1794022016535
     }
   },
-  "total": 1592,
-  "updated": 1794022088257
+  "total": 1591,
+  "updated": 1794022090711
 }
