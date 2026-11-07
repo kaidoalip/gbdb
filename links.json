@@ -6913,13 +6913,14 @@
       "announce": false
     },
     "CJ9JdfDTVtOASqz3nmtB6J": {
-      "status": "valid",
-      "time": 1793506599053,
+      "status": "error",
+      "time": 1794021828127,
       "id": "120363406934034467@g.us",
       "name": "Facebook Ids Group",
       "size": 306,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Hrwow5L2KU86ICvVkGMkF4": {
       "status": "valid",
@@ -10916,5 +10917,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794021813259
+  "updated": 1794021829048
 }
