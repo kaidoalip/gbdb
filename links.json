@@ -9031,8 +9031,10 @@
       "err": "bad-request"
     },
     "DviOkiQWbMd6BkTjksPxrJ": {
-      "status": "new",
-      "time": 1793521556138
+      "status": "joined",
+      "time": 1794024595490,
+      "id": "120363412846297595@g.us",
+      "name": "Capcut& Stealth writer"
     },
     "ElyNG3nU2QT42sP58SNWKJ": {
       "status": "new",
@@ -10846,5 +10848,5 @@
     }
   },
   "total": 1575,
-  "updated": 1794024584689
+  "updated": 1794024596612
 }
