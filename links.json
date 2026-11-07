@@ -8328,13 +8328,14 @@
       "err": "bad-request"
     },
     "HGODnY9mHlbEqRE4bKLAUr": {
-      "status": "valid",
-      "time": 1793507113140,
+      "status": "error",
+      "time": 1794023148919,
       "id": "120363429348195813@g.us",
       "name": "<WARJOK SAMDETRI X AZHAR>",
       "size": 23,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FkTHMOjuWFh6LVh2eJkwBE": {
       "status": "valid",
@@ -10783,5 +10784,5 @@
     }
   },
   "total": 1590,
-  "updated": 1794023144187
+  "updated": 1794023149452
 }
