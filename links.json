@@ -7269,8 +7269,8 @@
       "announce": false
     },
     "Fpfptclj5TgFLoD0LsRVDj": {
-      "status": "valid",
-      "time": 1793506708560,
+      "status": "pending",
+      "time": 1794022243647,
       "id": "120363417286255978@g.us",
       "name": "GLOBAL DATA",
       "size": 517,
@@ -10935,5 +10935,5 @@
     }
   },
   "total": 1603,
-  "updated": 1794022226509
+  "updated": 1794022244814
 }
