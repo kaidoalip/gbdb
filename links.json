@@ -3816,15 +3816,6 @@
       "approval": false,
       "announce": false
     },
-    "KTuHW61otOACOhbtgCrKWa": {
-      "status": "tertutup",
-      "time": 1794018954429,
-      "id": "120363418768690928@g.us",
-      "name": "GM Online Official Store 🧦💼🎒🍯🐄👕🎽👚🥼🎓💻",
-      "size": 425,
-      "approval": false,
-      "announce": true
-    },
     "KRxkoksx3tr9W0nTJAWS0s": {
       "status": "pending",
       "time": 1793407676891,
@@ -11389,6 +11380,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1636,
-  "updated": 1794018956045
+  "total": 1635,
+  "updated": 1794018958361
 }
