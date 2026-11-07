@@ -4328,15 +4328,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "EZGBdeb3EpeE61ehuyW6qH": {
-      "status": "tertutup",
-      "time": 1794019451416,
-      "id": "120363413314511645@g.us",
-      "name": "Legit Works",
-      "size": 110,
-      "approval": false,
-      "announce": true
-    },
     "FtsTZcR27JGFLQsJAqQe5D": {
       "status": "komunitas",
       "time": 1793243728303,
@@ -11287,6 +11278,6 @@
       "time": 1794019257420
     }
   },
-  "total": 1625,
-  "updated": 1794019452003
+  "total": 1624,
+  "updated": 1794019455270
 }
