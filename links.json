@@ -4572,8 +4572,8 @@
       "err": "bad-request"
     },
     "FNbj9E1RVqw5YSZ7XxG1VZ": {
-      "status": "valid",
-      "time": 1793505953949,
+      "status": "joined",
+      "time": 1794019826297,
       "id": "120363412074872175@g.us",
       "name": "Hostinger Hosting & Domains",
       "size": 141,
@@ -11180,5 +11180,5 @@
     }
   },
   "total": 1614,
-  "updated": 1794019815386
+  "updated": 1794019827063
 }
