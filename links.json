@@ -8915,8 +8915,11 @@
       "name": "Business & Investment Group"
     },
     "Bp4UccaLph00y0JN4ykPU1": {
-      "status": "new",
-      "time": 1793518196421
+      "status": "tertutup",
+      "time": 1794024355703,
+      "id": "120363429900686814@g.us",
+      "name": "🛍️IDM MART 🛒",
+      "announce": true
     },
     "GCKoSRoNbXbKUBjnFQBTog": {
       "status": "new",
@@ -10822,5 +10825,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024335134
+  "updated": 1794024356243
 }
