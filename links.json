@@ -9074,8 +9074,10 @@
       "name": "Promotion Circle"
     },
     "LMKBpTfl1gXIWJEoWiDiQU": {
-      "status": "new",
-      "time": 1793524436227
+      "status": "pending",
+      "time": 1794024687769,
+      "id": "120363432940038463@g.us",
+      "name": "Batch² | Surah Mulk hifz Course"
     },
     "BBsmXt9X1zQFpwgVh4AnV9": {
       "status": "new",
@@ -10865,5 +10867,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024669144
+  "updated": 1794024688894
 }
