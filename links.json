@@ -4964,8 +4964,8 @@
       "announce": false
     },
     "C9wVmm2qsKR6D1gAdKy6UZ": {
-      "status": "valid",
-      "time": 1793506097114,
+      "status": "joined",
+      "time": 1794020668273,
       "id": "120363433010733164@g.us",
       "name": "PTI Nazriya Group 💚❤️🇵🇰",
       "size": 152,
@@ -11036,5 +11036,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794020657875
+  "updated": 1794020668601
 }
