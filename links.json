@@ -5755,15 +5755,6 @@
       "approval": true,
       "announce": false
     },
-    "FNAA1oysygq58MBNPozWyg": {
-      "status": "tertutup",
-      "time": 1794021330882,
-      "id": "120363429018638821@g.us",
-      "name": "Mary's Gift Card& Wire&Transfers Group💰💰(Global)",
-      "size": 119,
-      "approval": false,
-      "announce": true
-    },
     "L1u3v2dHkPKCzmPm5JZ2HC": {
       "status": "valid",
       "time": 1793506304838,
@@ -10992,6 +10983,6 @@
       "time": 1794021176031
     }
   },
-  "total": 1594,
-  "updated": 1794021331836
+  "total": 1593,
+  "updated": 1794021334255
 }
