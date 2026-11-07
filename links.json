@@ -5676,13 +5676,14 @@
       "announce": false
     },
     "GUDfekl5s9U9Bg92iI2oS6": {
-      "status": "valid",
-      "time": 1793506283108,
+      "status": "error",
+      "time": 1794021292494,
       "id": "120363414262452676@g.us",
       "name": "H A C K RR",
       "size": 7,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Du54RKNM0hCAdp0BWrHgbn": {
       "status": "komunitas",
@@ -10991,5 +10992,5 @@
     }
   },
   "total": 1594,
-  "updated": 1794021287221
+  "updated": 1794021293464
 }
