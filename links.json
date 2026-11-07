@@ -6965,8 +6965,8 @@
       "announce": false
     },
     "HU0JHisQ2H8Ag1BKp9n13K": {
-      "status": "valid",
-      "time": 1793506614144,
+      "status": "joined",
+      "time": 1794021877149,
       "id": "120363434370917594@g.us",
       "name": "OPEN CHAT GROUP",
       "size": 57,
@@ -10899,5 +10899,5 @@
     }
   },
   "total": 1590,
-  "updated": 1794021858573
+  "updated": 1794021878309
 }
