@@ -5306,15 +5306,6 @@
       "approval": false,
       "announce": false
     },
-    "IVy8HrYqSLcIUP9fTuoe5r": {
-      "status": "tertutup",
-      "time": 1794020998182,
-      "id": "120363431718864872@g.us",
-      "name": "OFFICL CARDER❤️💫",
-      "size": 130,
-      "approval": false,
-      "announce": true
-    },
     "Bn0wFXciV195YsY9pbLzuc": {
       "status": "valid",
       "time": 1793506191014,
@@ -11018,6 +11009,6 @@
       "time": 1794020816163
     }
   },
-  "total": 1597,
-  "updated": 1794020999103
+  "total": 1596,
+  "updated": 1794021002189
 }
