@@ -8025,13 +8025,14 @@
       "err": "bad-request"
     },
     "GXbf8odXsJQ4nPvVrGM585": {
-      "status": "valid",
-      "time": 1793506985944,
+      "status": "error",
+      "time": 1794022925106,
       "id": "120363432739736436@g.us",
       "name": "PRO YOUTUBER'S 👑",
       "size": 116,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Hdku6Zu7iEsEBuKDJn0RFl": {
       "status": "valid",
@@ -10865,5 +10866,5 @@
     }
   },
   "total": 1599,
-  "updated": 1794022921514
+  "updated": 1794022926223
 }
