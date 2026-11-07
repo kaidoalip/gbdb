@@ -8573,8 +8573,11 @@
       "err": "bad-request"
     },
     "J4rbPgWs4ZP14HEyldI6Fl": {
-      "status": "new",
-      "time": 1793511176795
+      "status": "tertutup",
+      "time": 1794023582792,
+      "id": "120363419140015193@g.us",
+      "name": "SK Travels",
+      "announce": true
     },
     "LLAKJIQxS8KGAa4e4i8aoM": {
       "status": "new",
@@ -10760,5 +10763,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794023575785
+  "updated": 1794023584300
 }
