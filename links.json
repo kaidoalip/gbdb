@@ -8760,8 +8760,11 @@
       "err": "bad-request"
     },
     "DNx3nNRoiwb11YzYQeSem0": {
-      "status": "new",
-      "time": 1793512857084
+      "status": "tertutup",
+      "time": 1794023946789,
+      "id": "120363425895340605@g.us",
+      "name": "𝙄𝘼𝙅 𝙂𝙧𝙤𝙪𝙥 𝘽𝙪𝙔 & 𝙎𝙖𝙡𝙡 🦅",
+      "announce": true
     },
     "Kd8LuJWzoYxCwT1kQC6sfs": {
       "status": "new",
@@ -10799,5 +10802,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023937461
+  "updated": 1794023947920
 }
