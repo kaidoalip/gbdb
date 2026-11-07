@@ -4254,15 +4254,6 @@
       "approval": true,
       "announce": false
     },
-    "IYBwxjaEOnqBDJbbGcxvzD": {
-      "status": "tertutup",
-      "time": 1794019319981,
-      "id": "120363411504315250@g.us",
-      "name": "Communication Hub 🏴",
-      "size": 444,
-      "approval": false,
-      "announce": true
-    },
     "LQ3VZFYcZdeE0H0LfMMjiD": {
       "status": "valid",
       "time": 1793505824108,
@@ -11322,6 +11313,6 @@
       "time": 1794019257420
     }
   },
-  "total": 1629,
-  "updated": 1794019321098
+  "total": 1628,
+  "updated": 1794019323108
 }
