@@ -3752,15 +3752,6 @@
       "approval": false,
       "announce": false
     },
-    "J7umRPQHC6K1rpwq2MQzOX": {
-      "status": "valid",
-      "time": 1793505720051,
-      "id": "120363407687600082@g.us",
-      "name": "Q&A GROUP",
-      "size": 206,
-      "approval": false,
-      "announce": false
-    },
     "GN5PY9hJuRF8spyRN2bEYl": {
       "status": "pending",
       "time": 1793407515970,
@@ -11415,6 +11406,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1639,
-  "updated": 1794018857361
+  "total": 1638,
+  "updated": 1794018861028
 }
