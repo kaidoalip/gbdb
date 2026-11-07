@@ -6937,15 +6937,6 @@
       "approval": true,
       "announce": false
     },
-    "J0OCaxtYwB44K7PtqlD2T5": {
-      "status": "valid",
-      "time": 1793506608569,
-      "id": "120363431430430505@g.us",
-      "name": "GLOBAL ONLINE MARKET 🌐",
-      "size": 165,
-      "approval": false,
-      "announce": false
-    },
     "JwQHlWGMPJECOURYWU7CmD": {
       "status": "joined",
       "time": 1793492586196,
@@ -10907,6 +10898,6 @@
       "time": 1794021775953
     }
   },
-  "total": 1591,
-  "updated": 1794021843302
+  "total": 1590,
+  "updated": 1794021847989
 }
