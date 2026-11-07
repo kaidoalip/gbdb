@@ -8619,8 +8619,10 @@
       "name": "𝐕𝐄𝐗𝐎𝐑𝐀 𝐋𝐔𝐌𝐄𝐍𝐈𝐒"
     },
     "LY2gT5o4qd0GoJeZX09Nw4": {
-      "status": "new",
-      "time": 1793512016977
+      "status": "pending",
+      "time": 1794023706936,
+      "id": "120363405341765525@g.us",
+      "name": "WARUNG JPM TEGAR GZ V2"
     },
     "ItCuDRLAELlKvxNIxq4T58": {
       "status": "new",
@@ -10766,5 +10768,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023696613
+  "updated": 1794023708521
 }
