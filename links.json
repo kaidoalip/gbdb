@@ -7867,8 +7867,8 @@
       "announce": false
     },
     "KH10XcPSze4E7WXxE5hyFo": {
-      "status": "valid",
-      "time": 1793512960608,
+      "status": "joined",
+      "time": 1794022626296,
       "id": "120363428652615153@g.us",
       "name": "Facebook Groups Buy & Sell",
       "size": 191,
@@ -10936,5 +10936,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022617065
+  "updated": 1794022627448
 }
