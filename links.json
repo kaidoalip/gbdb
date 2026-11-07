@@ -3968,8 +3968,8 @@
       "announce": false
     },
     "KyWjJhH9DJw8KYucZaywks": {
-      "status": "valid",
-      "time": 1793505774418,
+      "status": "joined",
+      "time": 1794019140021,
       "id": "120363430991879566@g.us",
       "name": "World Marketplace Connect – Multi-Platform Sellers & Buyers",
       "size": 111,
@@ -11346,5 +11346,5 @@
     }
   },
   "total": 1631,
-  "updated": 1794019120363
+  "updated": 1794019140729
 }
