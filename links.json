@@ -6685,15 +6685,6 @@
       "approval": true,
       "announce": false
     },
-    "HnsXQ1A07gx2I7s9jXy7vj": {
-      "status": "tertutup",
-      "time": 1794021641130,
-      "id": "120363425956219225@g.us",
-      "name": "​🎯 𝙂𝙈𝘼𝙄𝙇.  𝘼𝘿𝙈𝙊𝘽.  𝙏𝙏.  𝙏𝙉.  𝙂𝙑.  𝙏𝙁.  𝙎𝙇 [ 𝘽𝙪𝙮 & 𝙎𝙚𝙡𝙡] ​🇺🇸 ​🇬🇧 ​🇧🇩",
-      "size": 493,
-      "approval": false,
-      "announce": true
-    },
     "C4KsjYH1KURKSf1Azm4TcJ": {
       "status": "expired",
       "time": 1793406204075,
@@ -10901,6 +10892,6 @@
       "time": 1794021176031
     }
   },
-  "total": 1583,
-  "updated": 1794021641645
+  "total": 1582,
+  "updated": 1794021643725
 }
