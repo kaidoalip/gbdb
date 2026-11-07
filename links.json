@@ -6695,10 +6695,10 @@
       "announce": false
     },
     "Bvmnv8JDY2a8hWgN7Givzg": {
-      "status": "valid",
-      "time": 1793506547057,
+      "status": "joined",
+      "time": 1794021668800,
       "id": "120363425053284965@g.us",
-      "name": "MEGA TECH COMPUTER'S",
+      "name": "BASHCOM COMPUTER'S",
       "size": 487,
       "approval": false,
       "announce": false
@@ -10936,5 +10936,5 @@
     }
   },
   "total": 1594,
-  "updated": 1794021661390
+  "updated": 1794021669181
 }
