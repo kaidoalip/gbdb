@@ -8592,8 +8592,9 @@
       "name": "Kyc sell and buy"
     },
     "BH02lRjtSO254aCEeq4PlU": {
-      "status": "new",
-      "time": 1793511657073
+      "status": "error",
+      "time": 1794023637423,
+      "err": "bad-request"
     },
     "DSLNgqFQyqgHEE7KI49MYL": {
       "status": "new",
@@ -10767,5 +10768,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794023622265
+  "updated": 1794023638355
 }
