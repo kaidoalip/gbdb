@@ -4571,15 +4571,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "LZPwHEjPxBU95ikuWp1Xli": {
-      "status": "tertutup",
-      "time": 1794019812490,
-      "id": "120363388122713729@g.us",
-      "name": "🥣🌲میاں اعظم دواخانہ9🌴",
-      "size": 711,
-      "approval": false,
-      "announce": true
-    },
     "FNbj9E1RVqw5YSZ7XxG1VZ": {
       "status": "valid",
       "time": 1793505953949,
@@ -11188,6 +11179,6 @@
       "time": 1794019616881
     }
   },
-  "total": 1615,
-  "updated": 1794019813077
+  "total": 1614,
+  "updated": 1794019815386
 }
