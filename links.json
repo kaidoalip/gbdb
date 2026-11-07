@@ -3581,13 +3581,14 @@
       "name": "😎Gpc by Malik Amir😎"
     },
     "Cty8lXReFSHKQFF2Wz2GDp": {
-      "status": "valid",
-      "time": 1793505684384,
+      "status": "error",
+      "time": 1794018647521,
       "id": "120363409444400235@g.us",
       "name": "Online Jobs.",
       "size": 289,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JtFrwg5vCxs7KPhU8Cjkah": {
       "status": "valid",
@@ -11460,5 +11461,5 @@
     }
   },
   "total": 1644,
-  "updated": 1794018642548
+  "updated": 1794018648646
 }
