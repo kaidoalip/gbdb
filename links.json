@@ -5408,9 +5408,9 @@
       "err": "bad-request"
     },
     "H89pxXFStbg048bva3VyBw": {
-      "status": "valid",
-      "time": 1793506217067,
-      "err": "Connection Closed",
+      "status": "error",
+      "time": 1794021080091,
+      "err": "bad-request",
       "id": "120363425640314924@g.us",
       "name": "TRUSTED DELAER GROUP ✅",
       "size": 566,
@@ -11003,5 +11003,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794021075688
+  "updated": 1794021081394
 }
