@@ -7000,13 +7000,14 @@
       "approval": false
     },
     "EkM6VgD4XED6cDgKhQ5j6D": {
-      "status": "valid",
-      "time": 1793506625316,
+      "status": "error",
+      "time": 1794021939733,
       "id": "120363428744632578@g.us",
       "name": "Tiktok Shop Market OPEN 🛒💰",
       "size": 42,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BQwtcwnsgtn2InSp33tmUu": {
       "status": "expired",
@@ -10903,5 +10904,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794021926554
+  "updated": 1794021940658
 }
