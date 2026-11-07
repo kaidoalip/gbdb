@@ -5608,13 +5608,14 @@
       "announce": false
     },
     "LE13nZvf5PW7szcPpmkOCd": {
-      "status": "valid",
-      "time": 1793506267210,
+      "status": "error",
+      "time": 1794021201600,
       "id": "120363430324911274@g.us",
       "name": "🏦Shameless 💰",
       "size": 71,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "I8BqawksmFS33f0usDOK5v": {
       "status": "expired",
@@ -11007,5 +11008,5 @@
     }
   },
   "total": 1596,
-  "updated": 1794021197142
+  "updated": 1794021202918
 }
