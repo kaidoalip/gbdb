@@ -6605,13 +6605,13 @@
       "announce": false
     },
     "Ffwlrr2xpkiBoq8p8cn4Kc": {
-      "status": "valid",
-      "time": 1793506511270,
+      "status": "tertutup",
+      "time": 1794021559976,
       "id": "923117213222-1595384421@g.us",
       "name": "مسلم ہے لہو لہو مگر کیوں؟",
       "size": 354,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Bn43AEttFy9K2yuzY446UA": {
       "status": "valid",
@@ -10938,5 +10938,5 @@
     }
   },
   "total": 1587,
-  "updated": 1794021549299
+  "updated": 1794021561269
 }
