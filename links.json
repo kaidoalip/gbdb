@@ -4522,8 +4522,8 @@
       "announce": false
     },
     "LCH4ysgCwOc3cWaFrIZmrN": {
-      "status": "valid",
-      "time": 1793505931261,
+      "status": "joined",
+      "time": 1794019736853,
       "id": "120363412397584761@g.us",
       "name": "Noman Monetization Network",
       "size": 87,
@@ -11214,5 +11214,5 @@
     }
   },
   "total": 1618,
-  "updated": 1794019716707
+  "updated": 1794019737999
 }
