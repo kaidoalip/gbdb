@@ -5187,15 +5187,6 @@
       "approval": true,
       "announce": false
     },
-    "BaOEzURbNhwFKj2IHEjT1z": {
-      "status": "tertutup",
-      "time": 1794020907758,
-      "id": "120363415597562515@g.us",
-      "name": "ALL PANEL OTP WORK🔥🔥🔥",
-      "size": 185,
-      "approval": false,
-      "announce": true
-    },
     "E4rKtPod7cYJCIHG6Y4DUH": {
       "status": "valid",
       "time": 1793506159161,
@@ -11026,6 +11017,6 @@
       "time": 1794020816163
     }
   },
-  "total": 1598,
-  "updated": 1794020909050
+  "total": 1597,
+  "updated": 1794020912096
 }
