@@ -5675,15 +5675,6 @@
       "approval": true,
       "announce": false
     },
-    "FKArktvbYmTB9bEB5pqgAU": {
-      "status": "tertutup",
-      "time": 1794021282644,
-      "id": "120363428886502442@g.us",
-      "name": "GV/TN/TT/TF/SL/GMAIL/ANY TYPE OF EDU AND OUTLOOK",
-      "size": 865,
-      "approval": false,
-      "announce": true
-    },
     "GUDfekl5s9U9Bg92iI2oS6": {
       "status": "valid",
       "time": 1793506283108,
@@ -10999,6 +10990,6 @@
       "time": 1794021176031
     }
   },
-  "total": 1595,
-  "updated": 1794021283933
+  "total": 1594,
+  "updated": 1794021287221
 }
