@@ -9062,8 +9062,10 @@
       "err": "bad-request"
     },
     "JxIzl7Vlkdh8t7WOOq9DFV": {
-      "status": "new",
-      "time": 1793524076139
+      "status": "joined",
+      "time": 1794024648171,
+      "id": "120363431049172881@g.us",
+      "name": "Pkdigital.hub"
     },
     "Bp0aQvjRqv5LpCnGQEguUq": {
       "status": "new",
@@ -10853,5 +10855,5 @@
     }
   },
   "total": 1575,
-  "updated": 1794024637377
+  "updated": 1794024649259
 }
