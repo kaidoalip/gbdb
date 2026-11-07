@@ -3914,13 +3914,13 @@
       "name": "✨ 𝐙𝐚𝐢𝐧𝐚𝐛’𝐬 𝐀𝐜𝐭𝐢𝐯𝐞 𝐂𝐢𝐫𝐜𝐥𝐞 🔥💬"
     },
     "KBDlhrQ08wI2gaAj7f9xaJ": {
-      "status": "valid",
-      "time": 1793505754455,
+      "status": "tertutup",
+      "time": 1794019034845,
       "id": "120363426103871971@g.us",
       "name": "Zee Cloth Resell 🥼👚👔",
       "size": 147,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "GR9pMjnqAYUAHQj40n7HT8": {
       "status": "valid",
@@ -11373,5 +11373,5 @@
     }
   },
   "total": 1634,
-  "updated": 1794019023767
+  "updated": 1794019035378
 }
