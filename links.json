@@ -4454,8 +4454,8 @@
       "announce": false
     },
     "KYygz2J3NXa8d56v7gpCzw": {
-      "status": "valid",
-      "time": 1793505894064,
+      "status": "joined",
+      "time": 1794019528473,
       "id": "120363432736274189@g.us",
       "name": "🖥️ Cloud Server Marketplace",
       "size": 49,
@@ -11256,5 +11256,5 @@
     }
   },
   "total": 1622,
-  "updated": 1794019508607
+  "updated": 1794019529790
 }
