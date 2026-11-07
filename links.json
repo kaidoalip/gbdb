@@ -7172,8 +7172,8 @@
       "announce": false
     },
     "KYN30jJBQtu5VIR16EbDjN": {
-      "status": "valid",
-      "time": 1793506684506,
+      "status": "joined",
+      "time": 1794022136617,
       "id": "120363413165006480@g.us",
       "name": "USA Account Buy Sell Zone",
       "size": 25,
@@ -10943,5 +10943,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794022136363
+  "updated": 1794022138729
 }
