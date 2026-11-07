@@ -5790,13 +5790,13 @@
       "name": "FB+GM+ING+TN+TT+GV. ID BUY SELL"
     },
     "FfwNVtmfJRqKhU9Mz6xxT0": {
-      "status": "valid",
-      "time": 1793506319962,
+      "status": "tertutup",
+      "time": 1794021378175,
       "id": "120363412586516689@g.us",
       "name": "Global Gift Card Trading Center🌏",
       "size": 20,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "L4unp7vB9fN08JldsJ3Djn": {
       "status": "joined",
@@ -10967,5 +10967,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794021368495
+  "updated": 1794021379483
 }
