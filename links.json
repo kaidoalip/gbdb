@@ -4760,13 +4760,13 @@
       "err": "bad-request"
     },
     "GuJmCJoV7pjL3G4GqtgZy0": {
-      "status": "valid",
-      "time": 1793506028265,
+      "status": "tertutup",
+      "time": 1794020475042,
       "id": "120363403715254220@g.us",
       "name": "𝙈𝘼𝙇𝙄𝙆 𝙏𝙄𝙆𝙏𝙊𝙆 𝙎𝙃𝙊𝙋 🛒",
       "size": 329,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "D0TmyxgUmg0E5gsvY1m1uN": {
       "status": "komunitas",
@@ -11105,5 +11105,5 @@
     }
   },
   "total": 1606,
-  "updated": 1794020464723
+  "updated": 1794020477075
 }
