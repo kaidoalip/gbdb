@@ -4198,15 +4198,6 @@
       "approval": false,
       "announce": false
     },
-    "BfbPPmhD3PA0U4Yf7CpL0S": {
-      "status": "tertutup",
-      "time": 1794019295975,
-      "id": "120363303863625199@g.us",
-      "name": "Sale & perchase everythings Lahore👇",
-      "size": 77,
-      "approval": false,
-      "announce": true
-    },
     "HuhbADHvt9qEFzKSbCAMDN": {
       "status": "valid",
       "time": 1793505811096,
@@ -11329,6 +11320,6 @@
       "time": 1794019257420
     }
   },
-  "total": 1630,
-  "updated": 1794019296916
+  "total": 1629,
+  "updated": 1794019298793
 }
