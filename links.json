@@ -9143,8 +9143,10 @@
       "err": "bad-request"
     },
     "FidGUpcd4Xr0Ee05jm2gdL": {
-      "status": "new",
-      "time": 1793526596633
+      "status": "joined",
+      "time": 1794024859475,
+      "id": "120363431428046039@g.us",
+      "name": "BTC, Gold commodity deals"
     },
     "GML6iM4dPMH1H3fiMAjEEh": {
       "status": "new",
@@ -10878,5 +10880,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024849988
+  "updated": 1794024860617
 }
