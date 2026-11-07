@@ -3817,13 +3817,13 @@
       "announce": false
     },
     "HNoXSAk2Ga7BLiAUAPbjI1": {
-      "status": "valid",
-      "time": 1793505733609,
+      "status": "tertutup",
+      "time": 1794018939448,
       "id": "120363429702348871@g.us",
       "name": "❣️تـــلاوت قـــرآن پـــاک ❣️",
       "size": 456,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "KTuHW61otOACOhbtgCrKWa": {
       "status": "valid",
@@ -11399,5 +11399,5 @@
     }
   },
   "total": 1637,
-  "updated": 1794018929016
+  "updated": 1794018941264
 }
