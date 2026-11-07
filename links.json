@@ -6838,8 +6838,8 @@
       "err": "bad-request"
     },
     "FFw6Pqx4D9N3ELzLTMim7U": {
-      "status": "valid",
-      "time": 1793506577033,
+      "status": "joined",
+      "time": 1794021769109,
       "id": "120363410040787784@g.us",
       "name": "Tiktok and Facebook by selling",
       "size": 20,
@@ -10919,5 +10919,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794021759037
+  "updated": 1794021770263
 }
