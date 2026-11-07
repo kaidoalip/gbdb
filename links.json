@@ -8750,8 +8750,9 @@
       "name": "TN:::TP:::TT:::SL:::TF:::GV:::R4:::BM::: LinkedIn::: Buy:::Sell:::Gurup::(❤️‍🩹)"
     },
     "CH5l6DYuj9D2h18VNcFUpS": {
-      "status": "new",
-      "time": 1793512616897
+      "status": "error",
+      "time": 1794023925366,
+      "err": "bad-request"
     },
     "CsjASVadbqYL4ShJqty19c": {
       "status": "new",
@@ -10797,5 +10798,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023907963
+  "updated": 1794023926494
 }
