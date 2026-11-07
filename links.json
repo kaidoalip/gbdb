@@ -3941,8 +3941,8 @@
       "announce": false
     },
     "ERGJ3gSFkCA7PPkY26GGk2": {
-      "status": "valid",
-      "time": 1793505764944,
+      "status": "joined",
+      "time": 1794019081228,
       "id": "120363431050484531@g.us",
       "name": "SOCIAL  Medio services  VisionHive",
       "size": 14,
@@ -11355,5 +11355,5 @@
     }
   },
   "total": 1632,
-  "updated": 1794019071899
+  "updated": 1794019082840
 }
