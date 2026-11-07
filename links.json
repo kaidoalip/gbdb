@@ -4627,8 +4627,8 @@
       "announce": false
     },
     "D1THjRlhKOdC1DsTxY98Md": {
-      "status": "valid",
-      "time": 1793505975290,
+      "status": "joined",
+      "time": 1794020262792,
       "id": "120363433875592292@g.us",
       "name": "PREMIUM CALLS HUB 🫆",
       "size": 76,
@@ -11167,5 +11167,5 @@
     }
   },
   "total": 1613,
-  "updated": 1794020253958
+  "updated": 1794020263139
 }
