@@ -7367,8 +7367,8 @@
       "announce": false
     },
     "FezYYozUJIGBHSwlkhOmPG": {
-      "status": "valid",
-      "time": 1793506728635,
+      "status": "joined",
+      "time": 1794022299465,
       "id": "120363430372294415@g.us",
       "name": "Métodos y vueltas gratis | By SmithChase",
       "size": 331,
@@ -10953,5 +10953,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022289019
+  "updated": 1794022300200
 }
