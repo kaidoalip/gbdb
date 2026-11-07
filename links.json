@@ -7943,13 +7943,14 @@
       "announce": false
     },
     "KLFZ2RJckixHykXjQZ8SSG": {
-      "status": "valid",
-      "time": 1793506952858,
+      "status": "error",
+      "time": 1794022792869,
       "id": "120363411940271644@g.us",
       "name": "TikTok Small Accounts Buy and Sale",
       "size": 39,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GhgwjeuPCNvAx5SNTIC58A": {
       "status": "komunitas",
@@ -10888,5 +10889,5 @@
     }
   },
   "total": 1602,
-  "updated": 1794022780090
+  "updated": 1794022793997
 }
