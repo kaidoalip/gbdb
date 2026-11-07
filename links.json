@@ -8431,8 +8431,8 @@
       "announce": false
     },
     "FOHnFPfdyOJG8Py3qhK3kL": {
-      "status": "valid",
-      "time": 1793507155270,
+      "status": "joined",
+      "time": 1794023221183,
       "id": "120363429056905193@g.us",
       "name": "𝙁𝙖𝙧𝙧𝙪𝙠𝙝 Cloud Digital 💗🎀",
       "size": 201,
@@ -10761,5 +10761,5 @@
     }
   },
   "total": 1587,
-  "updated": 1794023215839
+  "updated": 1794023221701
 }
