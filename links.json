@@ -6819,13 +6819,13 @@
       "announce": false
     },
     "JRhjwzFIOXLBtWuHs9h4w7": {
-      "status": "valid",
-      "time": 1793506569566,
+      "status": "tertutup",
+      "time": 1794021728244,
       "id": "120363414222061230@g.us",
       "name": "PAYMENT BANK SELL",
       "size": 64,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "JRyflhR5RMm71VpkVOOlPt": {
       "status": "valid",
@@ -10927,5 +10927,5 @@
     }
   },
   "total": 1593,
-  "updated": 1794021704598
+  "updated": 1794021728761
 }
