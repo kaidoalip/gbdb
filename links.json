@@ -7244,13 +7244,14 @@
       "announce": false
     },
     "J8rWAz7ZcB260n4cqb2KHN": {
-      "status": "valid",
-      "time": 1793506698532,
+      "status": "error",
+      "time": 1794022200564,
       "id": "120363407114722226@g.us",
       "name": "Call centre Bd & Indian//⚒️🖥️",
       "size": 431,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KqNMn27YBFXCeWmwD78Xnj": {
       "status": "valid",
@@ -10943,5 +10944,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794022182682
+  "updated": 1794022201319
 }
