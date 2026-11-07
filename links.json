@@ -8338,13 +8338,14 @@
       "err": "bad-request"
     },
     "FkTHMOjuWFh6LVh2eJkwBE": {
-      "status": "valid",
-      "time": 1793507116295,
+      "status": "error",
+      "time": 1794023154631,
       "id": "120363431436916421@g.us",
       "name": "Only 2D 3D loaders & Risevar",
       "size": 67,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JLJekDMdWmU8yPMQkaaotT": {
       "status": "komunitas",
@@ -10784,5 +10785,5 @@
     }
   },
   "total": 1590,
-  "updated": 1794023149452
+  "updated": 1794023155149
 }
