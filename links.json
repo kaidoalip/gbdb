@@ -8826,8 +8826,11 @@
       "name": "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗙𝗔𝗠𝗜𝗟𝗬"
     },
     "FtRxH3dpjwF19WFmZIuZRe": {
-      "status": "new",
-      "time": 1793516276274
+      "status": "tertutup",
+      "time": 1794024143302,
+      "id": "120363432058650755@g.us",
+      "name": "Knowledge Hub",
+      "announce": true
     },
     "KkwWPZaVdyN5fANgTG23ap": {
       "status": "new",
@@ -10789,5 +10792,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024121705
+  "updated": 1794024144796
 }
