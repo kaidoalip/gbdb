@@ -4860,13 +4860,14 @@
       "announce": false
     },
     "DOduoy1lkUOINq9PkzdA7f": {
-      "status": "valid",
-      "time": 1793506060225,
+      "status": "error",
+      "time": 1794020552483,
       "id": "120363430935837664@g.us",
       "name": "KING FISHER COMMUNITY",
       "size": 163,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GPjJD0BDXSuGEpelFwZb3E": {
       "status": "expired",
@@ -11070,5 +11071,5 @@
     }
   },
   "total": 1602,
-  "updated": 1794020547803
+  "updated": 1794020553321
 }
