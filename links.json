@@ -4471,15 +4471,6 @@
       "approval": false,
       "announce": false
     },
-    "DvrcxFDBV6s6Mftu7Uuu4X": {
-      "status": "valid",
-      "time": 1793505907430,
-      "id": "120363416865679382@g.us",
-      "name": "꧁𒆜تعویذات گروپ𒆜꧂",
-      "size": 456,
-      "approval": false,
-      "announce": false
-    },
     "LviLz3AGjwjE48oJcPFCp7": {
       "status": "valid",
       "time": 1793505910958,
@@ -11232,6 +11223,6 @@
       "time": 1794019616701
     }
   },
-  "total": 1620,
-  "updated": 1794019616701
+  "total": 1619,
+  "updated": 1794019620071
 }
