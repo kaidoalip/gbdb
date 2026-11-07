@@ -7593,13 +7593,14 @@
       "announce": false
     },
     "DQvs9uuJEnTEdHyHm5HadZ": {
-      "status": "valid",
-      "time": 1793506800065,
+      "status": "error",
+      "time": 1794022443115,
       "id": "120363431826973523@g.us",
       "name": "خریداری گروپ",
       "size": 434,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "BNUcbDGFg53EDRYqzAhblT": {
       "status": "error",
@@ -10940,5 +10941,5 @@
     }
   },
   "total": 1606,
-  "updated": 1794022438003
+  "updated": 1794022443665
 }
