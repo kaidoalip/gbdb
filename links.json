@@ -4396,13 +4396,13 @@
       "name": "A.U COLLECTION 2"
     },
     "LH4ZyV6Oibo2Cbl3AS32iY": {
-      "status": "valid",
-      "time": 1793505877251,
+      "status": "tertutup",
+      "time": 1794019493885,
       "id": "120363418047595882@g.us",
       "name": "LinkedIn Technologies 😎",
       "size": 255,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DBCquUJI0Ko2AOwEz3FDLr": {
       "status": "error",
@@ -11261,5 +11261,5 @@
     }
   },
   "total": 1622,
-  "updated": 1794019482907
+  "updated": 1794019495488
 }
