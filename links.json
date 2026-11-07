@@ -4609,13 +4609,13 @@
       "err": "bad-request"
     },
     "KJyTRlIVgUi4x019mTsxWs": {
-      "status": "valid",
-      "time": 1793505966069,
+      "status": "tertutup",
+      "time": 1794020250410,
       "id": "120363431819032231@g.us",
       "name": "🛍️🛒 ملتان آن لائن بازار🛒💰",
       "size": 278,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DygLDMeWum588EVXRjF7IO": {
       "status": "valid",
@@ -11176,5 +11176,5 @@
     }
   },
   "total": 1614,
-  "updated": 1794020239420
+  "updated": 1794020251152
 }
