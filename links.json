@@ -8833,8 +8833,11 @@
       "announce": true
     },
     "LS4h70f31Gq1jqT0c7ezGT": {
-      "status": "new",
-      "time": 1793516396190
+      "status": "tertutup",
+      "time": 1794024164109,
+      "id": "120363431203312312@g.us",
+      "name": "Free promotion group🎀🎀🎀",
+      "announce": true
     },
     "Gzt3Oeb3PFjLNGHWlv8kuZ": {
       "status": "new",
@@ -10788,5 +10791,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024153149
+  "updated": 1794024165754
 }
