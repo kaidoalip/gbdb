@@ -8904,8 +8904,9 @@
       "announce": true
     },
     "BZRg2RAJtYDLq0ni05KUE1": {
-      "status": "new",
-      "time": 1793517596391
+      "status": "error",
+      "time": 1794024324522,
+      "err": "bad-request"
     },
     "Knv6hsrwpvf5FGVfWtPqrK": {
       "status": "new",
@@ -10819,5 +10820,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024317623
+  "updated": 1794024325657
 }
