@@ -8715,8 +8715,11 @@
       "err": "bad-request"
     },
     "JE0KVAV0JyU5IHrxzEnxmu": {
-      "status": "new",
-      "time": 1793512016977
+      "status": "tertutup",
+      "time": 1794023837267,
+      "id": "120363427286803247@g.us",
+      "name": "King 👑",
+      "announce": true
     },
     "ClBWJlmGLpkEWFd7bGR6Ds": {
       "status": "new",
@@ -10786,5 +10789,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023826356
+  "updated": 1794023838005
 }
