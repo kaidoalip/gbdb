@@ -3923,13 +3923,13 @@
       "announce": false
     },
     "EOh1WvMeirtEmloGD1lhAv": {
-      "status": "valid",
-      "time": 1793505762084,
+      "status": "tertutup",
+      "time": 1794019068320,
       "id": "917033861301-1521908622@g.us",
       "name": "TRUST MILLION BINARY FX",
       "size": 297,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Cvwlblk6Q5i6wNPhy1jVCS": {
       "status": "pending",
@@ -11364,5 +11364,5 @@
     }
   },
   "total": 1633,
-  "updated": 1794019048681
+  "updated": 1794019069036
 }
