@@ -8035,13 +8035,14 @@
       "err": "bad-request"
     },
     "Hdku6Zu7iEsEBuKDJn0RFl": {
-      "status": "valid",
-      "time": 1793506989292,
+      "status": "error",
+      "time": 1794022931913,
       "id": "120363431314675376@g.us",
       "name": "USA 🇺🇸 Uk 🇬🇧 Buy Sell  💰",
       "size": 122,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "J8sEOanyKzfGdLw99fvPoV": {
       "status": "valid",
@@ -10866,5 +10867,5 @@
     }
   },
   "total": 1599,
-  "updated": 1794022926223
+  "updated": 1794022933076
 }
