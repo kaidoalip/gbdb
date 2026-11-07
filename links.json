@@ -7928,15 +7928,6 @@
       "time": 1793506940753,
       "err": "not-authorized"
     },
-    "GcRwjSaN6jM2onqxQKNaKE": {
-      "status": "valid",
-      "time": 1793506944066,
-      "id": "120363412521267883@g.us",
-      "name": "All bank account maujud ♥️",
-      "size": 46,
-      "approval": false,
-      "announce": false
-    },
     "JeLYyezTsBtBNRvPlYt8bz": {
       "status": "error",
       "time": 1793512964015,
@@ -10896,6 +10887,6 @@
       "time": 1794022735998
     }
   },
-  "total": 1603,
-  "updated": 1794022752357
+  "total": 1602,
+  "updated": 1794022768355
 }
