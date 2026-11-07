@@ -8857,8 +8857,10 @@
       "name": "STOK KING ZESA JEBEH X ZALL #3"
     },
     "JHRejfSbniTJUpWw9rlJFz": {
-      "status": "new",
-      "time": 1793516995994
+      "status": "pending",
+      "time": 1794024220611,
+      "id": "120363429868092168@g.us",
+      "name": "PASAR ALLGAME ZESA [ 1 ]"
     },
     "C42qYESNGrQ0EQwb5DefZk": {
       "status": "new",
@@ -10804,5 +10806,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024202420
+  "updated": 1794024221435
 }
