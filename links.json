@@ -3687,8 +3687,8 @@
       "announce": false
     },
     "LipQEHQCqI8AiGfYfMMs5V": {
-      "status": "valid",
-      "time": 1793505697988,
+      "status": "joined",
+      "time": 1794018743373,
       "id": "120363428687912213@g.us",
       "name": "🕊High falling pegan🕊",
       "size": 217,
@@ -11452,5 +11452,5 @@
     }
   },
   "total": 1643,
-  "updated": 1794018721992
+  "updated": 1794018744135
 }
