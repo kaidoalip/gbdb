@@ -7896,13 +7896,14 @@
       "announce": false
     },
     "EUf4mmgRxuq0cF5A2mjSX3": {
-      "status": "valid",
-      "time": 1793506920312,
+      "status": "error",
+      "time": 1794022661290,
       "id": "120363412804430700@g.us",
       "name": "پاسداری",
       "size": 92,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JQjpkKVs4sN04ZdYmtFsfg": {
       "status": "valid",
@@ -10928,5 +10929,5 @@
     }
   },
   "total": 1606,
-  "updated": 1794022657045
+  "updated": 1794022662638
 }
