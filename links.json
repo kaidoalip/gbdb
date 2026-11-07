@@ -8767,8 +8767,10 @@
       "announce": true
     },
     "Kd8LuJWzoYxCwT1kQC6sfs": {
-      "status": "new",
-      "time": 1793512976938
+      "status": "joined",
+      "time": 1794023960536,
+      "id": "120363431941323789@g.us",
+      "name": "𝙎𝙐𝙁𝙔𝘼𝙉 𝘿𝙄𝙂𝙄𝙏𝘼𝙇 𝙎𝙏𝙊𝙍𝙀"
     },
     "Hp9EbdOn4BEFk15VmNvA7Z": {
       "status": "new",
@@ -10802,5 +10804,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023947920
+  "updated": 1794023961626
 }
