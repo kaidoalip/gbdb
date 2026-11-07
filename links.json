@@ -3808,13 +3808,13 @@
       "announce": false
     },
     "L1NUvyvkRMvKPaht3GB6Ku": {
-      "status": "valid",
-      "time": 1793505731323,
+      "status": "tertutup",
+      "time": 1794018924737,
       "id": "120363412085850528@g.us",
       "name": "Aroob Ecom USA & UK  Stock Dealing",
       "size": 81,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Gb0f13l2wqY6QDtNtvgnx5": {
       "status": "expired",
@@ -11408,5 +11408,5 @@
     }
   },
   "total": 1638,
-  "updated": 1794018914578
+  "updated": 1794018925881
 }
