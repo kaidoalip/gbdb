@@ -8063,15 +8063,6 @@
       "approval": true,
       "announce": false
     },
-    "JgNEY6WqJHh0IhUTvYHeSp": {
-      "status": "tertutup",
-      "time": 1794022949250,
-      "id": "120363428544338058@g.us",
-      "name": "Yt sell buy TikTok coins all service available",
-      "size": 243,
-      "approval": false,
-      "announce": true
-    },
     "JNam3G4hbVOKit1ViK2ptM": {
       "status": "valid",
       "time": 1793507003786,
@@ -10867,6 +10858,6 @@
       "time": 1794022735998
     }
   },
-  "total": 1599,
-  "updated": 1794022950375
+  "total": 1598,
+  "updated": 1794022952033
 }
