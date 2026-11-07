@@ -8586,8 +8586,10 @@
       "name": "KPK"
     },
     "LrQOBHQZKPpIIssg29ZUdJ": {
-      "status": "new",
-      "time": 1793511536817
+      "status": "joined",
+      "time": 1794023621108,
+      "id": "120363431312590329@g.us",
+      "name": "Kyc sell and buy"
     },
     "BH02lRjtSO254aCEeq4PlU": {
       "status": "new",
@@ -10765,5 +10767,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794023597470
+  "updated": 1794023622265
 }
