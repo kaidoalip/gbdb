@@ -6605,8 +6605,8 @@
       "announce": false
     },
     "Bn43AEttFy9K2yuzY446UA": {
-      "status": "valid",
-      "time": 1793506514682,
+      "status": "joined",
+      "time": 1794021573999,
       "id": "120363413280284947@g.us",
       "name": "BUY and SELL",
       "size": 94,
@@ -10929,5 +10929,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794021563773
+  "updated": 1794021575470
 }
