@@ -3717,13 +3717,13 @@
       "announce": false
     },
     "KbQ8RIP4SFxBDNMTmaFAHf": {
-      "status": "valid",
-      "time": 1793505708061,
+      "status": "tertutup",
+      "time": 1794018795726,
       "id": "923432306910-1592468727@g.us",
       "name": "PRIME ASSET MANAGEMENT",
       "size": 159,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Ko9vZzGvGhUEnkewCLWFBt": {
       "status": "valid",
@@ -11434,5 +11434,5 @@
     }
   },
   "total": 1641,
-  "updated": 1794018786483
+  "updated": 1794018796452
 }
