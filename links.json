@@ -4504,8 +4504,8 @@
       "err": "bad-request"
     },
     "JFSKCYiQLcLFxC0WicWjya": {
-      "status": "valid",
-      "time": 1793505926599,
+      "status": "joined",
+      "time": 1794019693631,
       "id": "120363431166679724@g.us",
       "name": "Sabir Ali 😍",
       "size": 11,
@@ -11214,5 +11214,5 @@
     }
   },
   "total": 1618,
-  "updated": 1794019682715
+  "updated": 1794019694928
 }
