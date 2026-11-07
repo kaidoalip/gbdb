@@ -4954,15 +4954,6 @@
       "approval": false,
       "announce": false
     },
-    "E1fKMSDE0t81LebMAKGD8v": {
-      "status": "tertutup",
-      "time": 1794020654367,
-      "id": "120363431053665877@g.us",
-      "name": "خرید و فروخت راولپنڈی اسلام آباد پشاور",
-      "size": 385,
-      "approval": false,
-      "announce": true
-    },
     "BGVhwl9Zuf6EVqTbE3SirO": {
       "status": "valid",
       "time": 1793506095212,
@@ -11044,6 +11035,6 @@
       "time": 1794019856151
     }
   },
-  "total": 1599,
-  "updated": 1794020655508
+  "total": 1598,
+  "updated": 1794020657875
 }
