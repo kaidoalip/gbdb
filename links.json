@@ -4590,8 +4590,8 @@
       "announce": false
     },
     "GntKDjwASZX4kxz9E780bO": {
-      "status": "valid",
-      "time": 1793505960306,
+      "status": "joined",
+      "time": 1794020221921,
       "id": "120363405210191206@g.us",
       "name": "OZARKS🪙",
       "size": 47,
@@ -11175,5 +11175,5 @@
     }
   },
   "total": 1614,
-  "updated": 1794020216138
+  "updated": 1794020223071
 }
