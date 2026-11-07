@@ -5367,8 +5367,8 @@
       "announce": false
     },
     "CfE8SPRSygY0WEF9Eip6zJ": {
-      "status": "valid",
-      "time": 1793506207418,
+      "status": "joined",
+      "time": 1794021057230,
       "id": "120363431618547400@g.us",
       "name": "Tech Support / CPA / Affiliate / Crypto Data Buy Sell USA UK AUS",
       "size": 6,
@@ -11002,5 +11002,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794021046326
+  "updated": 1794021058548
 }
