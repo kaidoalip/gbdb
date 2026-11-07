@@ -6649,15 +6649,6 @@
       "approval": true,
       "announce": false
     },
-    "I83BBgeRxzX5oKQUHCPFJ3": {
-      "status": "tertutup",
-      "time": 1794021612215,
-      "id": "120363428800239275@g.us",
-      "name": "Anas Bhutta Buy & Sale",
-      "size": 250,
-      "approval": false,
-      "announce": true
-    },
     "JZzVqqJXvad2tDgaeV9aYg": {
       "status": "expired",
       "time": 1793369186247,
@@ -10919,6 +10910,6 @@
       "time": 1794021176031
     }
   },
-  "total": 1585,
-  "updated": 1794021613371
+  "total": 1584,
+  "updated": 1794021616151
 }
