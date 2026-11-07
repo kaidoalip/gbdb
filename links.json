@@ -3761,15 +3761,6 @@
       "approval": false,
       "announce": false
     },
-    "EZQeOzKRiAwKBMwsFaOmOB": {
-      "status": "joined",
-      "time": 1794018898133,
-      "id": "120363428004576712@g.us",
-      "name": "🇵🇰 Pakistan Buy & Sell | Har Shehar Se, Har Shehar Tak 🚚🛒",
-      "size": 142,
-      "approval": false,
-      "announce": false
-    },
     "LhKmGF93dfD9JZikL1IXAw": {
       "status": "pending",
       "time": 1793407570061,
@@ -11276,6 +11267,6 @@
       "time": 1794032580984
     }
   },
-  "total": 1674,
-  "updated": 1794032580984
+  "total": 1673,
+  "updated": 1794032729336
 }
