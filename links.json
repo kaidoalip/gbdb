@@ -7096,15 +7096,6 @@
       "approval": false,
       "announce": false
     },
-    "LMdSWKsozQRHlRb7O2IGdD": {
-      "status": "valid",
-      "time": 1793506646706,
-      "id": "120363422692717279@g.us",
-      "name": "GSM SHAHZAD 🟢",
-      "size": 250,
-      "approval": false,
-      "announce": false
-    },
     "BmUaUPE7YVx0YAAT032Xvx": {
       "status": "expired",
       "time": 1793406379517,
@@ -10913,6 +10904,6 @@
       "time": 1794022016535
     }
   },
-  "total": 1593,
-  "updated": 1794022016535
+  "total": 1592,
+  "updated": 1794022028576
 }
