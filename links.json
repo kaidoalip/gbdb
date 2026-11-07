@@ -4319,13 +4319,14 @@
       "announce": false
     },
     "HZkivl5XInT7sn2ITPRsR1": {
-      "status": "valid",
-      "time": 1793505853616,
+      "status": "error",
+      "time": 1794019440091,
       "id": "120363417953354376@g.us",
       "name": "Nawabzada Service's 💸",
       "size": 242,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "EZGBdeb3EpeE61ehuyW6qH": {
       "status": "valid",
@@ -11287,5 +11288,5 @@
     }
   },
   "total": 1625,
-  "updated": 1794019424570
+  "updated": 1794019441012
 }
