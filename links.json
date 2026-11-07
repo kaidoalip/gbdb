@@ -4681,13 +4681,13 @@
       "name": "TikTok Shop ⭐"
     },
     "Hs6BkBCe2fJH4HKRxU5Rc9": {
-      "status": "valid",
-      "time": 1793505994106,
+      "status": "tertutup",
+      "time": 1794020388530,
       "id": "120363423506627289@g.us",
       "name": "💗Muqaddas_Collection0 📥",
       "size": 448,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Haq4vtfL8yV6Q6AY1YtYRu": {
       "status": "valid",
@@ -11140,5 +11140,5 @@
     }
   },
   "total": 1610,
-  "updated": 1794020377389
+  "updated": 1794020389639
 }
