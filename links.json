@@ -8249,13 +8249,13 @@
       "announce": false
     },
     "K7mP1E84DHc8ufwiR7uoh7": {
-      "status": "valid",
-      "time": 1793507090095,
+      "status": "tertutup",
+      "time": 1794023116650,
       "id": "120363373666684253@g.us",
       "name": "حساب استخارہ روحانی علاج",
       "size": 822,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "EehQghNJeq83o3T9EZ4YxS": {
       "status": "valid",
@@ -10799,5 +10799,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794023106168
+  "updated": 1794023117016
 }
