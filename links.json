@@ -9037,8 +9037,9 @@
       "name": "Capcut& Stealth writer"
     },
     "ElyNG3nU2QT42sP58SNWKJ": {
-      "status": "new",
-      "time": 1793521796196
+      "status": "error",
+      "time": 1794024613830,
+      "err": "bad-request"
     },
     "JqmuI5fIl9GJKA4q0EyahD": {
       "status": "new",
@@ -10848,5 +10849,5 @@
     }
   },
   "total": 1575,
-  "updated": 1794024596612
+  "updated": 1794024614994
 }
