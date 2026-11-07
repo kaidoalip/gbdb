@@ -8006,8 +8006,8 @@
       "err": "bad-request"
     },
     "FDHQTgcCgYF7n1Vu3AAvH7": {
-      "status": "valid",
-      "time": 1793506976462,
+      "status": "joined",
+      "time": 1794022888246,
       "id": "120363409835227799@g.us",
       "name": "I H DIGITAL MARKETING",
       "size": 388,
@@ -10873,5 +10873,5 @@
     }
   },
   "total": 1600,
-  "updated": 1794022877562
+  "updated": 1794022888772
 }
