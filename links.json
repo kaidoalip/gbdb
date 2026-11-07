@@ -5499,13 +5499,13 @@
       "announce": false
     },
     "IkDtLPyeS9EJyjo7ShQVfI": {
-      "status": "valid",
-      "time": 1793506237403,
+      "status": "tertutup",
+      "time": 1794021154510,
       "id": "120363398880509994@g.us",
       "name": "𝔾𝕍●丅ᑎ ● 丅丅 ● 𝐓𝐅 ...𝔹𝕌𝕐 𝕊𝔼𝕃𝕃...𝙶𝚄𝚁𝚄𝙿  ♡",
       "size": 423,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "FasLpLNx0rx1lBP4TwSYiR": {
       "status": "valid",
@@ -11005,5 +11005,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794021143358
+  "updated": 1794021155417
 }
