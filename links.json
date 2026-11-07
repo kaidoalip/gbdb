@@ -4472,13 +4472,13 @@
       "announce": false
     },
     "E7qVC1c9F4dCRhJHPpmAPs": {
-      "status": "valid",
-      "time": 1793505901865,
+      "status": "tertutup",
+      "time": 1794019589093,
       "id": "120363430340623099@g.us",
       "name": "Non custom available all Pakistan delivery available full safety ke sath\n🤷🇵🇰🚚💯",
       "size": 88,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "B6yyj9wYCBpAQSftJfsMow": {
       "status": "valid",
@@ -11247,5 +11247,5 @@
     }
   },
   "total": 1621,
-  "updated": 1794019566133
+  "updated": 1794019589801
 }
