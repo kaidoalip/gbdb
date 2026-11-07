@@ -7800,15 +7800,6 @@
       "approval": false,
       "announce": false
     },
-    "KAIAI8jbzX4DY0R5vFOch8": {
-      "status": "tertutup",
-      "time": 1794022514073,
-      "id": "120363430273585101@g.us",
-      "name": "Gadgets wholsaler",
-      "size": 105,
-      "approval": false,
-      "announce": true
-    },
     "HVQE4VztM524YWx9TbujEy": {
       "status": "error",
       "time": 1793512957556,
@@ -10935,6 +10926,6 @@
       "time": 1794022496755
     }
   },
-  "total": 1606,
-  "updated": 1794022515003
+  "total": 1605,
+  "updated": 1794022517316
 }
