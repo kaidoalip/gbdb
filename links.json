@@ -5344,13 +5344,13 @@
       "time": 1793264042322
     },
     "FmimT9faRXoHeyxradh4vx": {
-      "status": "valid",
-      "time": 1793506201259,
+      "status": "tertutup",
+      "time": 1794021036600,
       "id": "120363408084945752@g.us",
       "name": "Dev Services ❤️‍🔥",
       "size": 467,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "CXpJKxlFyhAF5ssjlYeboz": {
       "status": "valid",
@@ -11010,5 +11010,5 @@
     }
   },
   "total": 1596,
-  "updated": 1794021013082
+  "updated": 1794021037907
 }
