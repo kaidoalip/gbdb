@@ -7406,13 +7406,13 @@
       "announce": false
     },
     "LPsFm05ERtI8GAqXHLOnpI": {
-      "status": "valid",
-      "time": 1793506739080,
+      "status": "tertutup",
+      "time": 1794022367036,
       "id": "120363407881004205@g.us",
       "name": "🌟🏦Cash picked up - wire - gift card - global transfer🌟🏦",
       "size": 412,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "KsJytUVDPqHJ2EaB2nA4BN": {
       "status": "valid",
@@ -10953,5 +10953,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022342980
+  "updated": 1794022368634
 }
