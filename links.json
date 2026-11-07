@@ -4732,13 +4732,13 @@
       "name": "FINVORA"
     },
     "Lgw21xg5zIjInsmg5EtqXy": {
-      "status": "valid",
-      "time": 1793506018245,
+      "status": "tertutup",
+      "time": 1794020430984,
       "id": "923333500110-1555057574@g.us",
       "name": "〆Premium Tricks 『』✨",
       "size": 385,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "C5V7kI5n43YFtzbno1Fptj": {
       "status": "valid",
@@ -11113,5 +11113,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794020419946
+  "updated": 1794020431912
 }
