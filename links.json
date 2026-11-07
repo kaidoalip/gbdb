@@ -5110,8 +5110,8 @@
       "err": "bad-request"
     },
     "KsOfUYy87ng5hn2CqdtwNW": {
-      "status": "valid",
-      "time": 1793506136783,
+      "status": "joined",
+      "time": 1794020817705,
       "id": "120363412451156996@g.us",
       "name": "Blasting team available",
       "size": 105,
@@ -11027,5 +11027,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794020816163
+  "updated": 1794020818650
 }
