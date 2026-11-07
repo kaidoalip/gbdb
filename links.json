@@ -8209,13 +8209,14 @@
       "announce": false
     },
     "CBkwGIvHjOOAw3KCyxrRDo": {
-      "status": "valid",
-      "time": 1793507067708,
+      "status": "error",
+      "time": 1794023067055,
       "id": "120363413547404804@g.us",
       "name": "𝗚𝗖 𝗣𝗨𝗦𝗛𝗞𝗢𝗡 𝗥𝗜𝗜 𝗨𝗧𝗔𝗠𝗔🕊",
       "size": 70,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IbBrapju6uR0nuRuTlOks9": {
       "status": "error",
@@ -10824,5 +10825,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794023052588
+  "updated": 1794023068197
 }
