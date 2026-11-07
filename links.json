@@ -8073,13 +8073,14 @@
       "announce": false
     },
     "E6V2SOlUJYl8ky0SJgCEW7": {
-      "status": "valid",
-      "time": 1793507006935,
+      "status": "error",
+      "time": 1794022956271,
       "id": "120363418765861814@g.us",
       "name": "Free adx approval",
       "size": 11,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "DErtEzHPdSsHI8mmjMTk9a": {
       "status": "error",
@@ -10859,5 +10860,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794022952033
+  "updated": 1794022957024
 }
