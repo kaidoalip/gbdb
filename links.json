@@ -3835,8 +3835,8 @@
       "announce": false
     },
     "Cvm1pJZSOzI6JnZNVGQdlE": {
-      "status": "valid",
-      "time": 1793505738494,
+      "status": "joined",
+      "time": 1794018969479,
       "id": "120363409882361634@g.us",
       "name": "💘سچے الفاظ💫",
       "size": 35,
@@ -11381,5 +11381,5 @@
     }
   },
   "total": 1635,
-  "updated": 1794018958361
+  "updated": 1794018969923
 }
