@@ -4973,8 +4973,8 @@
       "announce": false
     },
     "DtCA7qXCvy23vXfeOSfA99": {
-      "status": "valid",
-      "time": 1793506099573,
+      "status": "joined",
+      "time": 1794020690416,
       "id": "120363408781841277@g.us",
       "name": "Baloch marketing 🥰",
       "size": 283,
@@ -11036,5 +11036,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794020668601
+  "updated": 1794020691567
 }
