@@ -7487,13 +7487,14 @@
       "announce": false
     },
     "KiV8qJh6dZTGig4Xs4EZVq": {
-      "status": "valid",
-      "time": 1793506764413,
+      "status": "error",
+      "time": 1794022437271,
       "id": "120363410404160188@g.us",
       "name": "🥷፝֟፝֟ 🫅 𝐆𝐕 𝐓𝐍 𝐓𝐓 𝐓𝐅 𝐒𝐋 𝐁𝐮𝐲 𝐚𝐧𝐝 𝐒𝐞𝐥𝐥 ᯓ፝֟፝֟➤🄳🄴🅅❀࿐",
       "size": 41,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Fvtiaf0GUMXC4PMIjeEdOi": {
       "status": "komunitas",
@@ -10939,5 +10940,5 @@
     }
   },
   "total": 1606,
-  "updated": 1794022419756
+  "updated": 1794022438003
 }
