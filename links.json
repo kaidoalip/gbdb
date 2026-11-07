@@ -4292,13 +4292,13 @@
       "announce": false
     },
     "BwySmAtZNhuB85WeqTtfxj": {
-      "status": "valid",
-      "time": 1793505840180,
+      "status": "tertutup",
+      "time": 1794019386243,
       "id": "120363421830281753@g.us",
       "name": "★H̸A̸M̸Z̸A̸_̸S̸E̸L̸L̸E̸R̸ ❤̸️̸★",
       "size": 575,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DMw7HYHxExh4glbDI2h7vP": {
       "status": "valid",
@@ -11296,5 +11296,5 @@
     }
   },
   "total": 1626,
-  "updated": 1794019364170
+  "updated": 1794019386773
 }
