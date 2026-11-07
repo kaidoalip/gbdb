@@ -5100,13 +5100,14 @@
       "announce": false
     },
     "FPS1g758dxmHSy2Cw3WBew": {
-      "status": "valid",
-      "time": 1793506134320,
+      "status": "error",
+      "time": 1794020806252,
       "id": "120363425958261918@g.us",
       "name": "COFFEE_SHOPZ",
       "size": 925,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KsOfUYy87ng5hn2CqdtwNW": {
       "status": "valid",
@@ -11022,5 +11023,5 @@
     }
   },
   "total": 1597,
-  "updated": 1794020788716
+  "updated": 1794020807181
 }
