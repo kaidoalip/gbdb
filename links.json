@@ -3816,15 +3816,6 @@
       "approval": true,
       "announce": false
     },
-    "Cvm1pJZSOzI6JnZNVGQdlE": {
-      "status": "joined",
-      "time": 1794018969479,
-      "id": "120363409882361634@g.us",
-      "name": "💘سچے الفاظ💫",
-      "size": 35,
-      "approval": false,
-      "announce": false
-    },
     "JSGuqHtu7J45s47KogZMlR": {
       "status": "joined",
       "time": 1794018991664,
@@ -7931,15 +7922,6 @@
       "approval": false,
       "announce": false
     },
-    "KJhN0IPp9xi22xpzaWKqy6": {
-      "status": "joined",
-      "time": 1794022839102,
-      "id": "120363429364686570@g.us",
-      "name": "❤ BM Market Hub | Buy & Sell 💼❤️",
-      "size": 229,
-      "approval": false,
-      "announce": false
-    },
     "DNgtm5Rp15437tpfTpSENC": {
       "status": "valid",
       "time": 1793506967323,
@@ -11706,6 +11688,6 @@
       "time": 1794042662216
     }
   },
-  "total": 1784,
-  "updated": 1794042781856
+  "total": 1782,
+  "updated": 1794042837362
 }
