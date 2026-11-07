@@ -5766,13 +5766,13 @@
       "err": "growth-locked"
     },
     "IKaxLhj1lQgJBRPGlY74yd": {
-      "status": "valid",
-      "time": 1793506308065,
+      "status": "tertutup",
+      "time": 1794021350278,
       "id": "120363302872276641@g.us",
       "name": "💳 PayPal • Cash App • Chime_ZellePay",
       "size": 130,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DqxfJm7tlsC62QgiI6GYdD": {
       "status": "valid",
@@ -10985,5 +10985,5 @@
     }
   },
   "total": 1593,
-  "updated": 1794021339679
+  "updated": 1794021351010
 }
