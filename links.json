@@ -4681,13 +4681,13 @@
       "name": "TikTok Shop ⭐"
     },
     "Haq4vtfL8yV6Q6AY1YtYRu": {
-      "status": "valid",
-      "time": 1793505996382,
+      "status": "tertutup",
+      "time": 1794020401534,
       "id": "120363414153764828@g.us",
       "name": "𝙇𝙐𝙁𝙁𝙔 𝙎𝙏𝙊𝙍𝙀 ?",
       "size": 114,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "BjoY8O02xroF1uK3Y0chS1": {
       "status": "valid",
@@ -11131,5 +11131,5 @@
     }
   },
   "total": 1609,
-  "updated": 1794020392788
+  "updated": 1794020402485
 }
