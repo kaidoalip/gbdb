@@ -4530,15 +4530,6 @@
       "approval": false,
       "announce": false
     },
-    "HpL1wa3gaOe6nl1A2AwdiO": {
-      "status": "tertutup",
-      "time": 1794019759486,
-      "id": "120363418241130209@g.us",
-      "name": "Gmail Buy & sell Group 🤝",
-      "size": 444,
-      "approval": false,
-      "announce": true
-    },
     "JoFj3fnwFvZ2gfyIWSItPZ": {
       "status": "valid",
       "time": 1793505936600,
@@ -11213,6 +11204,6 @@
       "time": 1794019616881
     }
   },
-  "total": 1618,
-  "updated": 1794019760421
+  "total": 1617,
+  "updated": 1794019763305
 }
