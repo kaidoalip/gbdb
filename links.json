@@ -8491,15 +8491,6 @@
       "approval": true,
       "announce": false
     },
-    "HqSVZMzVyxh6kKKsfevRRW": {
-      "status": "tertutup",
-      "time": 1794023249400,
-      "id": "120363406375241652@g.us",
-      "name": "Gmail , Facebook , instagram twitter all account available",
-      "size": 833,
-      "approval": false,
-      "announce": true
-    },
     "LG8d8MMMcmN1hhKUuQ0ENV": {
       "status": "komunitas",
       "time": 1793513001097,
@@ -10761,6 +10752,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1587,
-  "updated": 1794023250548
+  "total": 1586,
+  "updated": 1794023253621
 }
