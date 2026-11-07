@@ -8180,15 +8180,6 @@
       "approval": true,
       "announce": false
     },
-    "FFK5tlwvrMh9uOfLXJed7M": {
-      "status": "valid",
-      "time": 1793507050412,
-      "id": "120363415446546755@g.us",
-      "name": "𝗜𝗡𝗙𝗢 𝗘𝗖𝗘𝗥/𝗦𝗧𝗢𝗞 -𝗟𝗮𝗺𝘇𝘁𝘇𝘆𝗲",
-      "size": 111,
-      "approval": false,
-      "announce": false
-    },
     "LEUSzJ5vvYABHaCY6AZ3fP": {
       "status": "error",
       "time": 1793512973757,
@@ -10841,6 +10832,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1597,
-  "updated": 1794023005945
+  "total": 1596,
+  "updated": 1794023025974
 }
