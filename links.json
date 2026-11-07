@@ -8363,15 +8363,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "FvGbET50iYz8HACzJPtPSv": {
-      "status": "tertutup",
-      "time": 1794023170962,
-      "id": "120363432881948244@g.us",
-      "name": "VANTA Free Grow 📈",
-      "size": 40,
-      "approval": false,
-      "announce": true
-    },
     "CwDTtoeeb49GFD6M1itzmG": {
       "status": "valid",
       "time": 1793507126548,
@@ -10785,6 +10776,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1590,
-  "updated": 1794023171683
+  "total": 1589,
+  "updated": 1794023174471
 }
