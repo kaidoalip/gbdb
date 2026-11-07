@@ -9130,8 +9130,11 @@
       "err": "bad-request"
     },
     "GaSk0F71nKEInKmmYCXuzl": {
-      "status": "new",
-      "time": 1793526236123
+      "status": "tertutup",
+      "time": 1794024829142,
+      "id": "120363430651885464@g.us",
+      "name": "🌟PANDA X DEALING 🤝🔥✅",
+      "announce": true
     },
     "JIcIngjwoXoAlf8fe06ozb": {
       "status": "new",
@@ -10881,5 +10884,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024818781
+  "updated": 1794024830072
 }
