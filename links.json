@@ -4842,13 +4842,13 @@
       "announce": false
     },
     "LrCLlQisadX9s9FrVW9LKq": {
-      "status": "valid",
-      "time": 1793506050492,
+      "status": "tertutup",
+      "time": 1794020530704,
       "id": "120363413572809979@g.us",
       "name": "محمدی مجموعۃ النکاح",
       "size": 447,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "F8FfAeshA7SAWlHvSdqkwT": {
       "status": "expired",
@@ -11088,5 +11088,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794020509249
+  "updated": 1794020532057
 }
