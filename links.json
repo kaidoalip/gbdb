@@ -4190,8 +4190,8 @@
       "announce": false
     },
     "CI73JTKQnt8JHJgqOZ0gjq": {
-      "status": "valid",
-      "time": 1793505806949,
+      "status": "joined",
+      "time": 1794019274562,
       "id": "120363407490871972@g.us",
       "name": "M.umais (Trusted sealer)",
       "size": 281,
@@ -11330,5 +11330,5 @@
     }
   },
   "total": 1630,
-  "updated": 1794019262350
+  "updated": 1794019276171
 }
