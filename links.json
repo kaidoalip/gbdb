@@ -7141,8 +7141,8 @@
       "announce": false
     },
     "BB6VtlnVa6cIreDX0qc0dM": {
-      "status": "valid",
-      "time": 1793506672331,
+      "status": "joined",
+      "time": 1794022100998,
       "id": "120363431515414905@g.us",
       "name": "🚀 Prime YouTube Deals",
       "size": 298,
@@ -10896,5 +10896,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794022090711
+  "updated": 1794022102593
 }
