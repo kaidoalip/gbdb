@@ -4335,13 +4335,13 @@
       "name": "Hafsa Ecom USA/UK Stock Deals"
     },
     "BtznpsPWfSSD42onYZk0Ci": {
-      "status": "valid",
-      "time": 1793505859304,
+      "status": "tertutup",
+      "time": 1794019465512,
       "id": "120363417904141570@g.us",
       "name": "𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙎𝙚𝙧𝙫𝙞𝙘𝙚𝙨 𝙃𝙪𝙗",
       "size": 581,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "K5x3FLjTbms7S4C5iL7XLX": {
       "status": "valid",
@@ -11279,5 +11279,5 @@
     }
   },
   "total": 1624,
-  "updated": 1794019455270
+  "updated": 1794019466816
 }
