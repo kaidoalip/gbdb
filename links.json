@@ -3949,15 +3949,6 @@
       "approval": false,
       "announce": false
     },
-    "Jt53vZ2pXiDApo69xRZzUn": {
-      "status": "tertutup",
-      "time": 1794019102710,
-      "id": "254728871588-1569231135@g.us",
-      "name": "PC2GO Computers",
-      "size": 456,
-      "approval": false,
-      "announce": true
-    },
     "HwFqwdnrqqOEiz9Cfg53G8": {
       "status": "pending",
       "time": 1793408006764,
@@ -11354,6 +11345,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1632,
-  "updated": 1794019104017
+  "total": 1631,
+  "updated": 1794019109208
 }
