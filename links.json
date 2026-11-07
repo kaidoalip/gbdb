@@ -7858,8 +7858,8 @@
       "announce": false
     },
     "F2TsmijovpM8h8Z5v3OBGX": {
-      "status": "valid",
-      "time": 1793506908954,
+      "status": "joined",
+      "time": 1794022604325,
       "id": "120363429872401976@g.us",
       "name": "Buyers and Sellers",
       "size": 87,
@@ -10928,5 +10928,5 @@
     }
   },
   "total": 1605,
-  "updated": 1794022581198
+  "updated": 1794022605631
 }
