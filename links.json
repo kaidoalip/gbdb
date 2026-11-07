@@ -4860,13 +4860,13 @@
       "announce": false
     },
     "GGt8aVpdwmK9tVl5juuuVX": {
-      "status": "valid",
-      "time": 1793506055682,
+      "status": "tertutup",
+      "time": 1794020544498,
       "id": "120363410920876478@g.us",
       "name": "AYESHA TRUSTED SELLER ❤️🫶",
       "size": 110,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DOduoy1lkUOINq9PkzdA7f": {
       "status": "valid",
@@ -11079,5 +11079,5 @@
     }
   },
   "total": 1603,
-  "updated": 1794020534683
+  "updated": 1794020545078
 }
