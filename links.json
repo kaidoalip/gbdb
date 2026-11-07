@@ -3708,13 +3708,13 @@
       "name": "🔥 𝙐𝙭𝙈 | 𝙏𝙍𝙐𝙎𝙏𝙀𝘿 𝙂𝙈𝘼𝙄𝙇 𝙃𝙐𝘽 💠"
     },
     "CndaPUEYxwO75Ht29vtLVt": {
-      "status": "valid",
-      "time": 1793505705828,
+      "status": "tertutup",
+      "time": 1794018783292,
       "id": "120363405054204294@g.us",
       "name": "LAPSOL COMPUTER ACCESSORIES",
       "size": 636,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "GF0h2okiK9z05jHrVEPQYM": {
       "status": "pending",
@@ -11443,5 +11443,5 @@
     }
   },
   "total": 1642,
-  "updated": 1794018772607
+  "updated": 1794018784221
 }
