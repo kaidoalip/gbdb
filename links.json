@@ -9149,8 +9149,9 @@
       "name": "BTC, Gold commodity deals"
     },
     "GML6iM4dPMH1H3fiMAjEEh": {
-      "status": "new",
-      "time": 1793526596633
+      "status": "error",
+      "time": 1794024875162,
+      "err": "bad-request"
     },
     "H2UvqruOLwS8MkM7PpFwy7": {
       "status": "new",
@@ -10880,5 +10881,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024860617
+  "updated": 1794024876106
 }
