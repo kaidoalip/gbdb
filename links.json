@@ -4556,13 +4556,13 @@
       "name": "Laser Pass Currency Available All Pakistan Delivery Available Full Safety Ke Sath 🚛🇵🇰💯🤷"
     },
     "JuRihh6Z3adFR9zCVzByPR": {
-      "status": "valid",
-      "time": 1793505942605,
+      "status": "tertutup",
+      "time": 1794019778557,
       "id": "120363410309334102@g.us",
       "name": "Non custom available all Pakistan delivery available full safety ke sath🤷‍♂️🇵🇰🚛💯",
       "size": 138,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "HyptVlvvFWN6VVN1ZDlkEb": {
       "status": "joined",
@@ -11206,5 +11206,5 @@
     }
   },
   "total": 1617,
-  "updated": 1794019768260
+  "updated": 1794019779095
 }
