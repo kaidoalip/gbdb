@@ -8045,13 +8045,14 @@
       "err": "bad-request"
     },
     "J8sEOanyKzfGdLw99fvPoV": {
-      "status": "valid",
-      "time": 1793506992011,
+      "status": "error",
+      "time": 1794022937742,
       "id": "120363429649695653@g.us",
       "name": "🅐🅣🅜 🅑🅜 🅑🅤🅨 🅢🅐🅛🅛  🅖🅡🅞🅤🅟",
       "size": 44,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "E7vsSsznTQw8d5WJetbjXP": {
       "status": "valid",
@@ -10867,5 +10868,5 @@
     }
   },
   "total": 1599,
-  "updated": 1794022933076
+  "updated": 1794022938870
 }
