@@ -3591,8 +3591,8 @@
       "err": "bad-request"
     },
     "KaOtO3DyvZFEZnLPAQphMO": {
-      "status": "valid",
-      "time": 1793505690164,
+      "status": "joined",
+      "time": 1794018672321,
       "id": "120363428975826995@g.us",
       "name": "AWS Clouds Buy and Sell",
       "size": 32,
@@ -11452,5 +11452,5 @@
     }
   },
   "total": 1643,
-  "updated": 1794018663621
+  "updated": 1794018673279
 }
