@@ -8421,15 +8421,6 @@
       "approval": true,
       "announce": false
     },
-    "GzJk8li8yvjHh0wrrcZvej": {
-      "status": "tertutup",
-      "time": 1794023209091,
-      "id": "120363417883557098@g.us",
-      "name": "Trusted 💯 Busy and sell",
-      "size": 226,
-      "approval": false,
-      "announce": true
-    },
     "JLMK45W9WwDDcQMs4SdNxs": {
       "status": "valid",
       "time": 1793507151982,
@@ -10769,6 +10760,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1588,
-  "updated": 1794023210011
+  "total": 1587,
+  "updated": 1794023211900
 }
