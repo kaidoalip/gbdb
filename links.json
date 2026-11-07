@@ -6212,13 +6212,14 @@
       "announce": false
     },
     "LGhxn9alz6PCSRPWEor5oP": {
-      "status": "valid",
-      "time": 1793506391815,
+      "status": "error",
+      "time": 1794021477902,
       "id": "120363411720052545@g.us",
       "name": "STOK ZALL JEBEH × BOMEL #5",
       "size": 129,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BaKeEUdHvgdHEDgZeI7n0n": {
       "status": "valid",
@@ -10943,5 +10944,5 @@
     }
   },
   "total": 1588,
-  "updated": 1794021459727
+  "updated": 1794021478700
 }
