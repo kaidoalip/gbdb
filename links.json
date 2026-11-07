@@ -8820,8 +8820,10 @@
       "err": "bad-request"
     },
     "JNurgJK07wTLY6sZYzPkry": {
-      "status": "new",
-      "time": 1793516156254
+      "status": "joined",
+      "time": 1794024120963,
+      "id": "120363412347680152@g.us",
+      "name": "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗙𝗔𝗠𝗜𝗟𝗬"
     },
     "FtRxH3dpjwF19WFmZIuZRe": {
       "status": "new",
@@ -10787,5 +10789,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024110165
+  "updated": 1794024121705
 }
