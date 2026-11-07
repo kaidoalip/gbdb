@@ -8603,8 +8603,9 @@
       "name": "Fariya Falak E_Comrence Circle 🤝"
     },
     "EzpVigaoIsj18uw2I8YKyz": {
-      "status": "new",
-      "time": 1793512016977
+      "status": "error",
+      "time": 1794023675275,
+      "err": "bad-request"
     },
     "Go5AHhkjo2R7nDrLmc69Tb": {
       "status": "new",
@@ -10762,5 +10763,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023670621
+  "updated": 1794023676446
 }
