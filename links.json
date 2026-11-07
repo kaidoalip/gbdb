@@ -4859,15 +4859,6 @@
       "approval": true,
       "announce": false
     },
-    "GGt8aVpdwmK9tVl5juuuVX": {
-      "status": "tertutup",
-      "time": 1794020544498,
-      "id": "120363410920876478@g.us",
-      "name": "AYESHA TRUSTED SELLER ❤️🫶",
-      "size": 110,
-      "approval": false,
-      "announce": true
-    },
     "DOduoy1lkUOINq9PkzdA7f": {
       "status": "valid",
       "time": 1793506060225,
@@ -11078,6 +11069,6 @@
       "time": 1794019856151
     }
   },
-  "total": 1603,
-  "updated": 1794020545078
+  "total": 1602,
+  "updated": 1794020547803
 }
