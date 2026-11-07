@@ -7397,8 +7397,8 @@
       "announce": false
     },
     "Bujl9VLL2S8D7G54IB3OP1": {
-      "status": "valid",
-      "time": 1793506735678,
+      "status": "joined",
+      "time": 1794022342065,
       "id": "120363427463800959@g.us",
       "name": "Successful deal 🪵",
       "size": 91,
@@ -10953,5 +10953,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022322661
+  "updated": 1794022342980
 }
