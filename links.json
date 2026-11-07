@@ -3695,15 +3695,6 @@
       "approval": false,
       "announce": false
     },
-    "CZ3v9CSLmFm90yZrl4YZzu": {
-      "status": "tertutup",
-      "time": 1794018768299,
-      "id": "120363431188655921@g.us",
-      "name": "Faizan YT Service's",
-      "size": 68,
-      "approval": false,
-      "announce": true
-    },
     "KD6x5kkX42NLyXO8k7cAK0": {
       "status": "komunitas",
       "time": 1792741898891,
@@ -11451,6 +11442,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1643,
-  "updated": 1794018769014
+  "total": 1642,
+  "updated": 1794018772607
 }
