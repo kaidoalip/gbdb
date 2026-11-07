@@ -4781,13 +4781,14 @@
       "announce": false
     },
     "Cag0DliSoAp6lz3Kjt7uJg": {
-      "status": "valid",
-      "time": 1793506037929,
+      "status": "error",
+      "time": 1794020497624,
       "id": "120363431860273100@g.us",
       "name": "𝐇𝐀𝐒𝐍𝐀𝐈𝐍 𝐓𝐈𝐊𝐓𝐎𝐊 𝐒𝐇𝐎𝐏 👑",
       "size": 458,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "DkKVuzvW7ViHrRKYaTUYlv": {
       "status": "valid",
@@ -11087,5 +11088,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794020492864
+  "updated": 1794020498010
 }
