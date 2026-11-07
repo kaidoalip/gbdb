@@ -8498,13 +8498,14 @@
       "name": "💖 Trusted Place 💖"
     },
     "Kc15k54I6OXLXnMjXXEMpl": {
-      "status": "valid",
-      "time": 1793513003583,
+      "status": "error",
+      "time": 1794023258005,
       "id": "120363431581442745@g.us",
       "name": "Karachi buy and sell",
       "size": 26,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GmqOa3lE5rlFIxyTxff72H": {
       "status": "komunitas",
@@ -10753,5 +10754,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794023253621
+  "updated": 1794023258738
 }
