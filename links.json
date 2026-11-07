@@ -7877,13 +7877,13 @@
       "err": "Connection Closed"
     },
     "CiXe4CzWzO14qb3gAbiFFS": {
-      "status": "valid",
-      "time": 1793506914725,
+      "status": "tertutup",
+      "time": 1794022648332,
       "id": "120363425294160653@g.us",
       "name": "All account by sell 🇺🇸🇺🇸🇺🇸",
       "size": 652,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "FlzTHXwdOEYD1TIs7fDr1w": {
       "status": "valid",
@@ -10936,5 +10936,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022627448
+  "updated": 1794022649252
 }
