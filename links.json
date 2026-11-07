@@ -8106,13 +8106,13 @@
       "announce": false
     },
     "HmEiZAURgCSJYJku6PDPsv": {
-      "status": "valid",
-      "time": 1793507023283,
+      "status": "tertutup",
+      "time": 1794022986070,
       "id": "120363409998548415@g.us",
       "name": "💌*Gmail Buy Sell*📬",
       "size": 258,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "LjK0DwvWIJBGmUOhf0cfwV": {
       "status": "error",
@@ -10850,5 +10850,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794022979474
+  "updated": 1794022987219
 }
