@@ -8393,13 +8393,13 @@
       "announce": false
     },
     "CnLq91htqCDIwkZZwLXR2m": {
-      "status": "valid",
-      "time": 1793507136245,
+      "status": "tertutup",
+      "time": 1794023184416,
       "id": "120363428513193020@g.us",
       "name": "ALL COUNTRY TELEGRAM/WHATSAPP AVAILABLE FOR SELL 24HRS SERVICE --NEW/OLD NUMBER _250+ COUNTRY 🌏",
       "size": 733,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "GsZZgYBdTj9JbHM5Tds4Yo": {
       "status": "valid",
@@ -10777,5 +10777,5 @@
     }
   },
   "total": 1589,
-  "updated": 1794023174471
+  "updated": 1794023184773
 }
