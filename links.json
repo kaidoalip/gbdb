@@ -8467,13 +8467,14 @@
       "name": "🇮🇩 INDOMAIL ELITE HUB 👑"
     },
     "HxUzbUjtDWLBSxKB7AMLpJ": {
-      "status": "valid",
-      "time": 1793512988229,
+      "status": "error",
+      "time": 1794023236919,
       "id": "120363429896683867@g.us",
       "name": "Non Custome Products 70% Discount DILEVRY ALL PAKISTAN AVAILABLE 🚛🚛🚛",
       "size": 45,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Bpeo3q4pxX2I1xsny8jQAc": {
       "status": "komunitas",
@@ -10761,5 +10762,5 @@
     }
   },
   "total": 1587,
-  "updated": 1794023221701
+  "updated": 1794023238436
 }
