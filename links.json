@@ -9097,8 +9097,9 @@
       "name": "🛒 𝙏𝙝𝙚 𝙈𝙖𝙧𝙠𝙚𝙩𝙥𝙡𝙖𝙘𝙚"
     },
     "LoKxbsG9l8aLm0iH2EOm2N": {
-      "status": "new",
-      "time": 1793525156135
+      "status": "error",
+      "time": 1794024758303,
+      "err": "growth-locked"
     },
     "H23LRpn7i313ZfSevZZrQr": {
       "status": "new",
@@ -10872,5 +10873,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024740286
+  "updated": 1794024759051
 }
