@@ -6166,13 +6166,14 @@
       "announce": false
     },
     "Iaf8vIxUV7tIkvGI1qYdTF": {
-      "status": "valid",
-      "time": 1793506381806,
+      "status": "error",
+      "time": 1794021447685,
       "id": "120363410826210979@g.us",
       "name": "FT CS TOKE #1👑🔥",
       "size": 314,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "D4X0DxjBXt3DqunhkmaGk1": {
       "status": "expired",
@@ -10942,5 +10943,5 @@
     }
   },
   "total": 1588,
-  "updated": 1794021444042
+  "updated": 1794021448217
 }
