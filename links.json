@@ -8191,8 +8191,8 @@
       "err": "growth-locked"
     },
     "CjQUYwzzGBlIuLsdqFgtAT": {
-      "status": "valid",
-      "time": 1793507061117,
+      "status": "joined",
+      "time": 1794023051448,
       "id": "120363427925442374@g.us",
       "name": "GV TN Buy sell Trusted group",
       "size": 492,
@@ -10824,5 +10824,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794023040977
+  "updated": 1794023052588
 }
