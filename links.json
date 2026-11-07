@@ -9154,8 +9154,10 @@
       "err": "bad-request"
     },
     "H2UvqruOLwS8MkM7PpFwy7": {
-      "status": "new",
-      "time": 1793526836336
+      "status": "pending",
+      "time": 1794024883992,
+      "id": "120363425082890631@g.us",
+      "name": "𝐊𝐇𝐀𝐍 𝐓𝐈𝐊𝐓𝐎𝐊 𝐒𝐇𝐎𝐏🛒😍"
     },
     "G8Dm6Lkq6JN5uLTlIR4yIw": {
       "status": "new",
@@ -10881,5 +10883,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024876106
+  "updated": 1794024884959
 }
