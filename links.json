@@ -3743,15 +3743,6 @@
       "approval": false,
       "announce": false
     },
-    "G4zCD9hnPWOBLSxpYHXYlC": {
-      "status": "expired",
-      "time": 1793262870587,
-      "id": "120363413453646219@g.us",
-      "name": "TikTok shop/ebay/Amazon/E commerce",
-      "size": 490,
-      "approval": false,
-      "announce": false
-    },
     "GN5PY9hJuRF8spyRN2bEYl": {
       "status": "pending",
       "time": 1793407515970,
@@ -10806,6 +10797,6 @@
       "time": 1794023935801
     }
   },
-  "total": 1584,
-  "updated": 1794023987184
+  "total": 1583,
+  "updated": 1794023990069
 }
