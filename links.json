@@ -8163,8 +8163,8 @@
       "err": "bad-request"
     },
     "GQzuFXQyV3eGvvAnvmsQPI": {
-      "status": "valid",
-      "time": 1793507044375,
+      "status": "joined",
+      "time": 1794023004425,
       "id": "120363419311142384@g.us",
       "name": "Adnan Digital Hub",
       "size": 90,
@@ -10842,5 +10842,5 @@
     }
   },
   "total": 1597,
-  "updated": 1794022994357
+  "updated": 1794023005945
 }
