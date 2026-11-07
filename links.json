@@ -4472,13 +4472,13 @@
       "announce": false
     },
     "CPn2pNExXiV69gojClGyXz": {
-      "status": "valid",
-      "time": 1793505913532,
+      "status": "tertutup",
+      "time": 1794019650740,
       "id": "120363430509015903@g.us",
       "name": "Carohm computers group 11",
       "size": 186,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DutamNsM9ng36ydpvfXShT": {
       "status": "valid",
@@ -11222,5 +11222,5 @@
     }
   },
   "total": 1619,
-  "updated": 1794019641825
+  "updated": 1794019652071
 }
