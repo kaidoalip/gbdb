@@ -8308,13 +8308,14 @@
       "announce": false
     },
     "CcCjuyQu1LlJg4Jae2PjhR": {
-      "status": "valid",
-      "time": 1793507103974,
+      "status": "error",
+      "time": 1794023123739,
       "id": "120363414397352118@g.us",
       "name": "✨ 𝑯𝒂𝒇𝒊𝒛 𝑭𝒓𝒆𝒆 𝑺𝒌𝒊𝒍𝒍𝒔 𝑯𝒖𝒃 ✨",
       "size": 57,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Fv9C4713R5P7OpvENZsSYV": {
       "status": "valid",
@@ -10790,5 +10791,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794023120193
+  "updated": 1794023124455
 }
