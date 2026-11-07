@@ -8936,8 +8936,10 @@
       "announce": true
     },
     "CPtYkURZVCOKrjxLiClWla": {
-      "status": "new",
-      "time": 1793519276110
+      "status": "pending",
+      "time": 1794024406164,
+      "id": "120363294911055624@g.us",
+      "name": "All update information 🇵🇰"
     },
     "LBBM42RC0435JvrUOlX4Dc": {
       "status": "new",
@@ -10823,5 +10825,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024395018
+  "updated": 1794024407409
 }
