@@ -8789,8 +8789,10 @@
       "err": "bad-request"
     },
     "EFmDWDlaDzm3rknjXcxHXG": {
-      "status": "new",
-      "time": 1793515195527
+      "status": "pending",
+      "time": 1794024040039,
+      "id": "120363413097044112@g.us",
+      "name": "Falz perintis🤓"
     },
     "FhuaqJ8GWQa5EECmAKIAS7": {
       "status": "new",
@@ -10804,5 +10806,5 @@
     }
   },
   "total": 1583,
-  "updated": 1794024032087
+  "updated": 1794024041500
 }
