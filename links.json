@@ -5517,13 +5517,14 @@
       "announce": false
     },
     "DcrR0xZQvxLCBRgcEClnD4": {
-      "status": "valid",
-      "time": 1793506246325,
+      "status": "error",
+      "time": 1794021184948,
       "id": "120363428189291177@g.us",
       "name": "BUY SELL EXPERT ZONE",
       "size": 292,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LRCQOXCUAZR6oNT9ugjLpb": {
       "status": "komunitas",
@@ -11004,5 +11005,5 @@
     }
   },
   "total": 1596,
-  "updated": 1794021176032
+  "updated": 1794021186277
 }
