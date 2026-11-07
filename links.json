@@ -5039,13 +5039,13 @@
       "announce": false
     },
     "GeOxmOwleHE7tajicjInGV": {
-      "status": "valid",
-      "time": 1793506117841,
+      "status": "tertutup",
+      "time": 1794020728343,
       "id": "120363411479302008@g.us",
       "name": "BADSHAH TIK TOK TRUSTED SELLER🌸✅",
       "size": 78,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "CXxsGp8z6iA5aaPboRwTmE": {
       "status": "valid",
@@ -11031,5 +11031,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794020718378
+  "updated": 1794020729266
 }
