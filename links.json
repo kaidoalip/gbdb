@@ -8846,8 +8846,9 @@
       "name": "🌷PROMOTE YOURSELF 🥳"
     },
     "J77DVElbAAc8WQKs6MXmIb": {
-      "status": "new",
-      "time": 1793516995994
+      "status": "error",
+      "time": 1794024192944,
+      "err": "bad-request"
     },
     "HKTRAsxUpsSCTBGe6f39Ji": {
       "status": "new",
@@ -10801,5 +10802,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024178851
+  "updated": 1794024194095
 }
