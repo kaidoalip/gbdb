@@ -9091,8 +9091,10 @@
       "err": "bad-request"
     },
     "Ifud7bTZOqwL3HWug111nv": {
-      "status": "new",
-      "time": 1793525036247
+      "status": "pending",
+      "time": 1794024739889,
+      "id": "120363413894058186@g.us",
+      "name": "🛒 𝙏𝙝𝙚 𝙈𝙖𝙧𝙠𝙚𝙩𝙥𝙡𝙖𝙘𝙚"
     },
     "LoKxbsG9l8aLm0iH2EOm2N": {
       "status": "new",
@@ -10870,5 +10872,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024731107
+  "updated": 1794024740286
 }
