@@ -3789,13 +3789,14 @@
       "announce": false
     },
     "EI6iW8qbXbn6RKyUrANDRt": {
-      "status": "valid",
-      "time": 1793505728741,
+      "status": "error",
+      "time": 1794018913266,
       "id": "120363429334109377@g.us",
       "name": "GSM MASTER",
       "size": 170,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JPuOh3JX3IEJt3QQv7Cbem": {
       "status": "pending",
@@ -11407,5 +11408,5 @@
     }
   },
   "total": 1638,
-  "updated": 1794018899263
+  "updated": 1794018914578
 }
