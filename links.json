@@ -4666,8 +4666,8 @@
       "announce": false
     },
     "Luj0QRWnZt8FrtZDd0IHLu": {
-      "status": "valid",
-      "time": 1793505983962,
+      "status": "joined",
+      "time": 1794020329700,
       "id": "120363426056784684@g.us",
       "name": "EMAIL BLASTING",
       "size": 727,
@@ -11167,5 +11167,5 @@
     }
   },
   "total": 1613,
-  "updated": 1794020307025
+  "updated": 1794020330987
 }
