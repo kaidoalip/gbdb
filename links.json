@@ -4283,13 +4283,13 @@
       "name": "E-commerce A&Z Naveed Jutt"
     },
     "HIChZ8YdZAiKw54jEZbTZT": {
-      "status": "valid",
-      "time": 1793505834109,
+      "status": "tertutup",
+      "time": 1794019349341,
       "id": "120363431217068683@g.us",
       "name": "Reseller The Zeb,S store",
       "size": 27,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "CEOmu67HvKb4ZpZKXl6aRn": {
       "status": "valid",
@@ -11305,5 +11305,5 @@
     }
   },
   "total": 1627,
-  "updated": 1794019338880
+  "updated": 1794019350076
 }
