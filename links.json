@@ -5636,8 +5636,8 @@
       "announce": false
     },
     "KyFbAUnXAwqLOfrVqiuG4h": {
-      "status": "valid",
-      "time": 1793506275599,
+      "status": "joined",
+      "time": 1794021252024,
       "id": "120363433382376240@g.us",
       "name": "International clients",
       "size": 212,
@@ -10999,5 +10999,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794021228855
+  "updated": 1794021253326
 }
