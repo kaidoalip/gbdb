@@ -4199,13 +4199,14 @@
       "announce": false
     },
     "HuhbADHvt9qEFzKSbCAMDN": {
-      "status": "valid",
-      "time": 1793505811096,
+      "status": "error",
+      "time": 1794019303051,
       "id": "120363384589046747@g.us",
       "name": "BABU TN.TF.GV. All Text account online Buy/Sell",
       "size": 629,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GUnMcQFxTYS23QxyHj3NsX": {
       "status": "valid",
@@ -11321,5 +11322,5 @@
     }
   },
   "total": 1629,
-  "updated": 1794019298793
+  "updated": 1794019304367
 }
