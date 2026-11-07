@@ -5418,9 +5418,9 @@
       "announce": false
     },
     "L6u1wuvN3Vt5cznhRuALwg": {
-      "status": "valid",
-      "time": 1793506219847,
-      "err": "Connection Closed",
+      "status": "error",
+      "time": 1794021085863,
+      "err": "bad-request",
       "id": "120363413808014958@g.us",
       "name": "Social  media  acc recovery 🤝✅",
       "size": 129,
@@ -11003,5 +11003,5 @@
     }
   },
   "total": 1595,
-  "updated": 1794021081394
+  "updated": 1794021087168
 }
