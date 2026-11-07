@@ -4513,8 +4513,8 @@
       "announce": false
     },
     "J2YTPRcZpQq9OIywIqk0uZ": {
-      "status": "valid",
-      "time": 1793505928807,
+      "status": "joined",
+      "time": 1794019715744,
       "id": "120363433448918391@g.us",
       "name": "طلحہ جٹ کبوتر کلب بورے والا",
       "size": 313,
@@ -11214,5 +11214,5 @@
     }
   },
   "total": 1618,
-  "updated": 1794019694928
+  "updated": 1794019716707
 }
