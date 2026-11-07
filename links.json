@@ -9068,8 +9068,10 @@
       "name": "Pkdigital.hub"
     },
     "Bp0aQvjRqv5LpCnGQEguUq": {
-      "status": "new",
-      "time": 1793524436227
+      "status": "pending",
+      "time": 1794024668010,
+      "id": "120363412305424743@g.us",
+      "name": "Promotion Circle"
     },
     "LMKBpTfl1gXIWJEoWiDiQU": {
       "status": "new",
@@ -10863,5 +10865,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024657043
+  "updated": 1794024669144
 }
