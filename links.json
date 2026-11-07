@@ -8976,8 +8976,11 @@
       "announce": true
     },
     "EJIQ18FlpWy945EICw4pI6": {
-      "status": "new",
-      "time": 1793519756389
+      "status": "tertutup",
+      "time": 1794024499997,
+      "id": "120363431338539825@g.us",
+      "name": "تعلیم القرآن",
+      "announce": true
     },
     "KWKvbv5KWVx7rlY5iIsLDB": {
       "status": "new",
@@ -10835,5 +10838,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024487194
+  "updated": 1794024500914
 }
