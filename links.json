@@ -7905,15 +7905,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "J3wo8kbtHo49BbLDTiWnx6": {
-      "status": "tertutup",
-      "time": 1794022686769,
-      "id": "120363160262690317@g.us",
-      "name": "꧁اسلامی گروپ꧂",
-      "size": 823,
-      "approval": false,
-      "announce": true
-    },
     "FI3NFgLuuOB7RDBOS1GMp5": {
       "status": "valid",
       "time": 1793506927662,
@@ -10919,6 +10910,6 @@
       "time": 1794022617064
     }
   },
-  "total": 1605,
-  "updated": 1794022688370
+  "total": 1604,
+  "updated": 1794022691615
 }
