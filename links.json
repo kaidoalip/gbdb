@@ -8240,13 +8240,13 @@
       "err": "bad-request"
     },
     "KdDckvFaA7dILFQgkOFS8R": {
-      "status": "valid",
-      "time": 1793507081979,
+      "status": "tertutup",
+      "time": 1794023102638,
       "id": "120363407934810141@g.us",
       "name": "GB HAN CRUEL V2",
       "size": 95,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "CTS3m7huqQa1zAkRgJtyB9": {
       "status": "valid",
@@ -10808,5 +10808,5 @@
     }
   },
   "total": 1593,
-  "updated": 1794023095994
+  "updated": 1794023103566
 }
