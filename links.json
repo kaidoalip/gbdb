@@ -8840,8 +8840,10 @@
       "announce": true
     },
     "Gzt3Oeb3PFjLNGHWlv8kuZ": {
-      "status": "new",
-      "time": 1793516396190
+      "status": "pending",
+      "time": 1794024176618,
+      "id": "120363427663913251@g.us",
+      "name": "🌷PROMOTE YOURSELF 🥳"
     },
     "J77DVElbAAc8WQKs6MXmIb": {
       "status": "new",
@@ -10799,5 +10801,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024176568
+  "updated": 1794024178851
 }
