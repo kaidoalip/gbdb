@@ -7421,13 +7421,13 @@
       "name": "WR Express USA"
     },
     "GiquFJHaMVo9c9p3AaM0Ce": {
-      "status": "valid",
-      "time": 1793506745270,
+      "status": "tertutup",
+      "time": 1794022381692,
       "id": "120363313467940572@g.us",
       "name": "Money💰Heist ",
       "size": 288,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "DCFlCnxl2JAFEd624wjZiX": {
       "status": "komunitas",
@@ -10948,5 +10948,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022376002
+  "updated": 1794022382644
 }
