@@ -6923,13 +6923,13 @@
       "err": "bad-request"
     },
     "Hrwow5L2KU86ICvVkGMkF4": {
-      "status": "valid",
-      "time": 1793506602172,
+      "status": "tertutup",
+      "time": 1794021839234,
       "id": "120363431335843005@g.us",
       "name": "𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐂𝐥𝐨𝐮𝐝 🛍️",
       "size": 184,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "Gapdd05uSoP9lqxyH4isXP": {
       "status": "komunitas",
@@ -10917,5 +10917,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794021829048
+  "updated": 1794021840545
 }
