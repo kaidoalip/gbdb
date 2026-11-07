@@ -306,13 +306,13 @@
       "approval": false
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "valid",
-      "time": 1793505666870,
+      "status": "tertutup",
+      "time": 1794018622627,
       "id": "120363419536258556@g.us",
       "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
       "size": 366,
       "approval": false,
-      "announce": false,
+      "announce": true,
       "err": "Connection Closed"
     },
     "Joq33mLOtm1HoQCmSjU5XK": {
@@ -11480,5 +11480,5 @@
     }
   },
   "total": 1646,
-  "updated": 1794018611405
+  "updated": 1794018623906
 }
