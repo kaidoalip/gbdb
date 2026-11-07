@@ -5134,8 +5134,8 @@
       "announce": false
     },
     "EY8vR4LYFkpAjvGOirlZWp": {
-      "status": "valid",
-      "time": 1793506141606,
+      "status": "joined",
+      "time": 1794020861932,
       "id": "120363413640859420@g.us",
       "name": "Barq Server",
       "size": 43,
@@ -11027,5 +11027,5 @@
     }
   },
   "total": 1598,
-  "updated": 1794020840917
+  "updated": 1794020862958
 }
