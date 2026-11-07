@@ -8318,13 +8318,14 @@
       "err": "bad-request"
     },
     "Fv9C4713R5P7OpvENZsSYV": {
-      "status": "valid",
-      "time": 1793507106323,
+      "status": "error",
+      "time": 1794023128749,
       "id": "120363432417275463@g.us",
       "name": "Trusted group 🤝🤝",
       "size": 32,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LuouQtrlrYxJW7cw5t5KjE": {
       "status": "valid",
@@ -10791,5 +10792,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794023124455
+  "updated": 1794023129349
 }
