@@ -7295,13 +7295,14 @@
       "time": 1793403138428
     },
     "LgVODP1h6lL11dkn8PkGT7": {
-      "status": "valid",
-      "time": 1793506713839,
+      "status": "error",
+      "time": 1794022259814,
       "id": "120363410577234520@g.us",
       "name": "Ishaq herbals",
       "size": 978,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FzZbmdRbfR22eKFUiJ91th": {
       "status": "komunitas",
@@ -10951,5 +10952,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022257292
+  "updated": 1794022260256
 }
