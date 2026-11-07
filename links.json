@@ -6866,13 +6866,14 @@
       "err": "bad-request"
     },
     "J3WPzqrNK43AjhyctG6BLC": {
-      "status": "valid",
-      "time": 1793506584121,
+      "status": "error",
+      "time": 1794021785517,
       "id": "120363407508569010@g.us",
       "name": "Miss Mahnoor Sellers 🍁",
       "size": 150,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "HoblxGbcDdZ3wfgLB7JKGn": {
       "status": "valid",
@@ -10923,5 +10924,5 @@
     }
   },
   "total": 1593,
-  "updated": 1794021775954
+  "updated": 1794021786125
 }
