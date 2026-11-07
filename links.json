@@ -8874,8 +8874,11 @@
       "name": "PASAR ALLGAME ZAKI [ 2 ]"
     },
     "Fn16PeWK4llH4kobVqJQZ8": {
-      "status": "new",
-      "time": 1793516995994
+      "status": "tertutup",
+      "time": 1794024272379,
+      "id": "120363427938935249@g.us",
+      "name": "𝐒𝐓𝐎𝐊 𝐏𝐑𝐈𝐁𝐀𝐃𝐈 𝐙𝐄𝐒𝐀𝐀 𝐉𝐄𝐁𝐄𝐇 𝟎.7",
+      "announce": true
     },
     "EPLWS5prLoL5ZaqNlqDukk": {
       "status": "new",
@@ -10809,5 +10812,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024251166
+  "updated": 1794024273192
 }
