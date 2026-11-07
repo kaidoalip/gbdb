@@ -6553,8 +6553,8 @@
       "announce": false
     },
     "JFrQq2FixPJB6taWwWFq9u": {
-      "status": "valid",
-      "time": 1793506502165,
+      "status": "joined",
+      "time": 1794021531101,
       "id": "120363415597997942@g.us",
       "name": "TIKTOK BUY SELL",
       "size": 57,
@@ -10937,5 +10937,5 @@
     }
   },
   "total": 1587,
-  "updated": 1794021521470
+  "updated": 1794021532402
 }
