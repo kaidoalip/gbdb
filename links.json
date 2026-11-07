@@ -5626,15 +5626,6 @@
       "approval": false,
       "announce": false
     },
-    "JUdDTfiP4C2IPyBbjCJX4Q": {
-      "status": "tertutup",
-      "time": 1794021214204,
-      "id": "120363047734307134@g.us",
-      "name": "😈IMRAN YT BUY&SEL👿",
-      "size": 105,
-      "approval": false,
-      "announce": true
-    },
     "LJMhioHhLFoFp3oLNBdanj": {
       "status": "valid",
       "time": 1793506272735,
@@ -11007,6 +10998,6 @@
       "time": 1794021176031
     }
   },
-  "total": 1596,
-  "updated": 1794021215135
+  "total": 1595,
+  "updated": 1794021218444
 }
