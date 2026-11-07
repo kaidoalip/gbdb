@@ -5589,13 +5589,14 @@
       "announce": false
     },
     "IBsNPMky8XzK6X610RX3Cq": {
-      "status": "valid",
-      "time": 1793506261330,
+      "status": "error",
+      "time": 1794021196160,
       "id": "120363411384196130@g.us",
       "name": "INTERNATIONAL BUYERS & SELLERS 🌍",
       "size": 586,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JyuwJezf2jlAe6MuEFlpwp": {
       "status": "joined",
@@ -11006,5 +11007,5 @@
     }
   },
   "total": 1596,
-  "updated": 1794021191763
+  "updated": 1794021197142
 }
