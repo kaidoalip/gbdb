@@ -4927,15 +4927,6 @@
       "approval": true,
       "announce": false
     },
-    "CGE8DUU1g4P4RPB0iO9cJM": {
-      "status": "tertutup",
-      "time": 1794020640711,
-      "id": "120363431209572482@g.us",
-      "name": "اسماعیل الیکٹرانک سٹور",
-      "size": 139,
-      "approval": false,
-      "announce": true
-    },
     "FQ8f2SjpHJZDQncJlztWsB": {
       "status": "valid",
       "time": 1793506086178,
@@ -11053,6 +11044,6 @@
       "time": 1794019856151
     }
   },
-  "total": 1600,
-  "updated": 1794020642024
+  "total": 1599,
+  "updated": 1794020645169
 }
