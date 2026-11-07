@@ -8551,8 +8551,10 @@
       "err": "bad-request"
     },
     "HiI9T58sZL1Gp4x13C6daI": {
-      "status": "new",
-      "time": 1793509856792
+      "status": "joined",
+      "time": 1794023523284,
+      "id": "120363426376753563@g.us",
+      "name": "Tayyab social media trusted admin"
     },
     "CztbJWIOcrIKNSLjsjcVAl": {
       "status": "new",
@@ -10750,5 +10752,5 @@
     }
   },
   "total": 1585,
-  "updated": 1794023512560
+  "updated": 1794023524224
 }
