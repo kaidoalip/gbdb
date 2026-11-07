@@ -3726,8 +3726,8 @@
       "announce": false
     },
     "DSwsQu3AL819kdzW1AW3B9": {
-      "status": "valid",
-      "time": 1793505713735,
+      "status": "joined",
+      "time": 1794018833290,
       "id": "120363432215973701@g.us",
       "name": "پرموٹ چینل گروپ",
       "size": 7,
@@ -11425,5 +11425,5 @@
     }
   },
   "total": 1640,
-  "updated": 1794018810253
+  "updated": 1794018834198
 }
