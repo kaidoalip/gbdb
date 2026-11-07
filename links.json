@@ -4166,8 +4166,8 @@
       "announce": false
     },
     "CKRdNGKmrljFGdzmaDvx72": {
-      "status": "valid",
-      "time": 1793505796758,
+      "status": "joined",
+      "time": 1794019234481,
       "id": "120363410863402480@g.us",
       "name": "Short Channel Market place",
       "size": 432,
@@ -11328,5 +11328,5 @@
     }
   },
   "total": 1629,
-  "updated": 1794019224836
+  "updated": 1794019235617
 }
