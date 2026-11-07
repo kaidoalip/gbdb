@@ -8625,8 +8625,9 @@
       "name": "WARUNG JPM TEGAR GZ V2"
     },
     "ItCuDRLAELlKvxNIxq4T58": {
-      "status": "new",
-      "time": 1793512016977
+      "status": "error",
+      "time": 1794023726554,
+      "err": "bad-request"
     },
     "FTVdyF8f2LM4IZb9OIzG6r": {
       "status": "new",
@@ -10768,5 +10769,5 @@
     }
   },
   "total": 1584,
-  "updated": 1794023708521
+  "updated": 1794023727701
 }
