@@ -3735,13 +3735,13 @@
       "announce": false
     },
     "EFlrpUy3NOVFJAVYOCiwel": {
-      "status": "valid",
-      "time": 1793505716570,
+      "status": "tertutup",
+      "time": 1794018853249,
       "id": "120363430213111427@g.us",
       "name": "Khan Official Trusted Gmail Buyer and seller",
       "size": 257,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "IybQGqP0Co37GoHXPSHb1x": {
       "status": "expired",
@@ -11425,5 +11425,5 @@
     }
   },
   "total": 1640,
-  "updated": 1794018834198
+  "updated": 1794018854285
 }
