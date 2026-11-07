@@ -6650,13 +6650,13 @@
       "announce": false
     },
     "KvsfaGu79FJ4RyFa4sa6EN": {
-      "status": "valid",
-      "time": 1793506525757,
+      "status": "tertutup",
+      "time": 1794021598061,
       "id": "120363430132548924@g.us",
       "name": "TIKTOK ACCOUNT MARKET",
       "size": 14,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "I83BBgeRxzX5oKQUHCPFJ3": {
       "status": "valid",
@@ -10929,5 +10929,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794021575470
+  "updated": 1794021599184
 }
