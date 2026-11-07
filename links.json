@@ -8580,8 +8580,10 @@
       "announce": true
     },
     "LLAKJIQxS8KGAa4e4i8aoM": {
-      "status": "new",
-      "time": 1793511297191
+      "status": "pending",
+      "time": 1794023595258,
+      "id": "120363429374011437@g.us",
+      "name": "KPK"
     },
     "LrQOBHQZKPpIIssg29ZUdJ": {
       "status": "new",
@@ -10763,5 +10765,5 @@
     }
   },
   "total": 1586,
-  "updated": 1794023584300
+  "updated": 1794023597470
 }
