@@ -8969,8 +8969,11 @@
       "err": "bad-request"
     },
     "G5g2lSLEki13WtuD8U0I3T": {
-      "status": "new",
-      "time": 1793519636379
+      "status": "tertutup",
+      "time": 1794024485491,
+      "id": "120363433402930731@g.us",
+      "name": "Car Selling And Purchasing",
+      "announce": true
     },
     "EJIQ18FlpWy945EICw4pI6": {
       "status": "new",
@@ -10832,5 +10835,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024475076
+  "updated": 1794024487194
 }
