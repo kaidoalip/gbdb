@@ -7967,15 +7967,6 @@
       "approval": false,
       "announce": false
     },
-    "Bj6B5Dly3HBEyZLglD9897": {
-      "status": "tertutup",
-      "time": 1794022824162,
-      "id": "120363389164190853@g.us",
-      "name": "مستند اور قابل بھروسہ 1",
-      "size": 1025,
-      "approval": false,
-      "announce": true
-    },
     "KJhN0IPp9xi22xpzaWKqy6": {
       "status": "valid",
       "time": 1793506961101,
@@ -10888,6 +10879,6 @@
       "time": 1794022735998
     }
   },
-  "total": 1602,
-  "updated": 1794022825069
+  "total": 1601,
+  "updated": 1794022828198
 }
