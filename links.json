@@ -4471,15 +4471,6 @@
       "approval": false,
       "announce": false
     },
-    "LviLz3AGjwjE48oJcPFCp7": {
-      "status": "tertutup",
-      "time": 1794019636858,
-      "id": "120363411912331579@g.us",
-      "name": "Carohm computers and phones group 3",
-      "size": 919,
-      "approval": false,
-      "announce": true
-    },
     "CPn2pNExXiV69gojClGyXz": {
       "status": "valid",
       "time": 1793505913532,
@@ -11230,6 +11221,6 @@
       "time": 1794019616881
     }
   },
-  "total": 1620,
-  "updated": 1794019638495
+  "total": 1619,
+  "updated": 1794019641825
 }
