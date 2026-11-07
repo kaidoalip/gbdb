@@ -8015,13 +8015,14 @@
       "announce": false
     },
     "ETYj1xPUHtP24cfCRp2rxi": {
-      "status": "valid",
-      "time": 1793506979147,
+      "status": "error",
+      "time": 1794022906362,
       "id": "120363416085638260@g.us",
       "name": "ISLAMIC AKHWAT FOUNDATION LOAN SCHEME ONLINE GHAR BAITHE KARZA HASIL KAREN SHUKRIYA",
       "size": 82,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "H4aKFTioxCHEGon3ncBnNp": {
       "status": "valid",
@@ -10873,5 +10874,5 @@
     }
   },
   "total": 1600,
-  "updated": 1794022888772
+  "updated": 1794022907507
 }
