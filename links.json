@@ -8230,13 +8230,14 @@
       "name": "M.AFAQ TRUSTED SELLER"
     },
     "FFaa9LHXQPkI8WSgQk6VIy": {
-      "status": "valid",
-      "time": 1793507076757,
+      "status": "error",
+      "time": 1794023085800,
       "id": "120363411980266808@g.us",
       "name": "JB || RAJA STORE 0.1",
       "size": 7,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FumhwvzKCbp5XgcGBBGwgI": {
       "status": "valid",
@@ -10816,5 +10817,5 @@
     }
   },
   "total": 1594,
-  "updated": 1794023082527
+  "updated": 1794023086539
 }
