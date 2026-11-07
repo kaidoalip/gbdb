@@ -7149,15 +7149,6 @@
       "approval": false,
       "announce": false
     },
-    "Jz152wF0OetC2lVSUBVgsk": {
-      "status": "tertutup",
-      "time": 1794022122599,
-      "id": "120363430699776304@g.us",
-      "name": "Online payment",
-      "size": 1,
-      "approval": false,
-      "announce": true
-    },
     "HWTiVLimnVcHmPGaNukWXM": {
       "status": "expired",
       "time": 1793403055764
@@ -10895,6 +10886,6 @@
       "time": 1794022016535
     }
   },
-  "total": 1591,
-  "updated": 1794022123152
+  "total": 1590,
+  "updated": 1794022126328
 }
