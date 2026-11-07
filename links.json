@@ -4772,13 +4772,13 @@
       "name": "Fancy Dress Pakistan Fashion 🛍️"
     },
     "GlljNx0rmQoKOzsJNrAiL1": {
-      "status": "valid",
-      "time": 1793506032865,
+      "status": "tertutup",
+      "time": 1794020489766,
       "id": "120363412145453180@g.us",
       "name": "WE LOAD IPHONE AND IPAD APPLE WALLET📳📳📲📲📱📱 ONE YEAR PLUS WE LOAD UPTO 5000$💸💸💸",
       "size": 285,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "IwyqSJEY15b4haa9p2FeF6": {
       "status": "valid",
@@ -11096,5 +11096,5 @@
     }
   },
   "total": 1605,
-  "updated": 1794020479975
+  "updated": 1794020490345
 }
