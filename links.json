@@ -6703,15 +6703,6 @@
       "approval": false,
       "announce": false
     },
-    "BRwMSYIxTcA8iQEcZy8pKS": {
-      "status": "tertutup",
-      "time": 1794021689492,
-      "id": "120363426169422056@g.us",
-      "name": "GESNET TECHNOLOGIES",
-      "size": 302,
-      "approval": false,
-      "announce": true
-    },
     "G64PcYcPoBHD37liVomhkq": {
       "status": "joined",
       "time": 1793492586196,
@@ -10935,6 +10926,6 @@
       "time": 1794021658419
     }
   },
-  "total": 1594,
-  "updated": 1794021690231
+  "total": 1593,
+  "updated": 1794021693069
 }
