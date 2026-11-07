@@ -9119,8 +9119,10 @@
       "err": "bad-request"
     },
     "Hh6zYStp0D1GwnsolvxipT": {
-      "status": "new",
-      "time": 1793525996336
+      "status": "joined",
+      "time": 1794024793993,
+      "id": "120363414605811326@g.us",
+      "name": "Paki 🍑🍑 😡😡👄👄"
     },
     "LHt13qfQZ1R1fNrsaVyJzx": {
       "status": "new",
@@ -10882,5 +10884,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024783629
+  "updated": 1794024795145
 }
