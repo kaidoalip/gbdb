@@ -7344,13 +7344,14 @@
       "announce": false
     },
     "FyKYE90VjbQ6CoChquzBFB": {
-      "status": "valid",
-      "time": 1793506723133,
+      "status": "error",
+      "time": 1794022288678,
       "id": "120363428404313879@g.us",
       "name": "꧁𝐥𝐨𝐜𝐤 & 𝐤𝐞𝐲 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞™꧂",
       "size": 158,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BwglwnJcx3hHGqfCCG7kcD": {
       "status": "expired",
@@ -10952,5 +10953,5 @@
     }
   },
   "total": 1607,
-  "updated": 1794022271427
+  "updated": 1794022289019
 }
