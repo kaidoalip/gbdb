@@ -5021,13 +5021,13 @@
       "name": "𝐓𝐞𝐜𝐡𝐒𝐌𝐌𝐏𝐫𝐨"
     },
     "DGENrjfx5YJ2APTYsKN7xy": {
-      "status": "valid",
-      "time": 1793506108202,
+      "status": "tertutup",
+      "time": 1794020713937,
       "id": "120363427357700413@g.us",
       "name": "🌎FB🔹BM🔹GV🔹TN🔹Buy~Sell 🌎",
       "size": 183,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "IiWkykznAvE8bGbJAdWOuI": {
       "status": "valid",
@@ -11040,5 +11040,5 @@
     }
   },
   "total": 1599,
-  "updated": 1794020696350
+  "updated": 1794020714754
 }
