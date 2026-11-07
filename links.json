@@ -8087,15 +8087,6 @@
       "time": 1793512966434,
       "err": "bad-request"
     },
-    "FFN626LJ5eJ5bppqtkyOEn": {
-      "status": "valid",
-      "time": 1793507012554,
-      "id": "120363415641028578@g.us",
-      "name": "BANGLADESH CYBER ZONE",
-      "size": 82,
-      "approval": false,
-      "announce": false
-    },
     "GqMQre9Ux5W0jV8vHYowLI": {
       "status": "valid",
       "time": 1793507015571,
@@ -10859,6 +10850,6 @@
       "time": 1794022735998
     }
   },
-  "total": 1598,
-  "updated": 1794022957024
+  "total": 1597,
+  "updated": 1794022962620
 }
