@@ -5729,8 +5729,8 @@
       "announce": false
     },
     "E2QjFReOQhuJ3iSkiXBBoW": {
-      "status": "valid",
-      "time": 1793506294591,
+      "status": "joined",
+      "time": 1794021309017,
       "id": "120363431725018091@g.us",
       "name": "PVA Buy/Sell Group 🇧🇩",
       "size": 49,
@@ -10993,5 +10993,5 @@
     }
   },
   "total": 1594,
-  "updated": 1794021299203
+  "updated": 1794021309960
 }
