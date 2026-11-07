@@ -8534,8 +8534,11 @@
       "announce": false
     },
     "IRvXQfaSoJQFzj69skjA7P": {
-      "status": "new",
-      "time": 1793508536780
+      "status": "tertutup",
+      "time": 1794023498113,
+      "id": "120363411837376414@g.us",
+      "name": "Ali Mola Hackers Squad🔥",
+      "announce": true
     },
     "EtiJmUBN5eILadmkxSYAMm": {
       "status": "new",
@@ -10745,5 +10748,5 @@
     }
   },
   "total": 1585,
-  "updated": 1794023487891
+  "updated": 1794023499227
 }
