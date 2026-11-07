@@ -4471,15 +4471,6 @@
       "approval": false,
       "announce": false
     },
-    "B6yyj9wYCBpAQSftJfsMow": {
-      "status": "tertutup",
-      "time": 1794019601898,
-      "id": "120363426235117690@g.us",
-      "name": "Al Hafiz Organic products",
-      "size": 205,
-      "approval": false,
-      "announce": true
-    },
     "DvrcxFDBV6s6Mftu7Uuu4X": {
       "status": "valid",
       "time": 1793505907430,
@@ -11237,6 +11228,6 @@
       "time": 1794019498265
     }
   },
-  "total": 1620,
-  "updated": 1794019603196
+  "total": 1619,
+  "updated": 1794019606471
 }
