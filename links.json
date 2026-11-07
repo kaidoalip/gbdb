@@ -7150,13 +7150,13 @@
       "announce": false
     },
     "Jz152wF0OetC2lVSUBVgsk": {
-      "status": "valid",
-      "time": 1793506674271,
+      "status": "tertutup",
+      "time": 1794022122599,
       "id": "120363430699776304@g.us",
-      "name": "Official Gift Card Store",
+      "name": "Online payment",
       "size": 1,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "HWTiVLimnVcHmPGaNukWXM": {
       "status": "expired",
@@ -10896,5 +10896,5 @@
     }
   },
   "total": 1591,
-  "updated": 1794022102593
+  "updated": 1794022123152
 }
