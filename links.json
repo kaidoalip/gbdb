@@ -8393,13 +8393,14 @@
       "announce": false
     },
     "GsZZgYBdTj9JbHM5Tds4Yo": {
-      "status": "valid",
-      "time": 1793507139477,
+      "status": "error",
+      "time": 1794023191877,
       "id": "120363411406530668@g.us",
       "name": "Trusted Group Seller (2)",
       "size": 70,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KsHelDPrLdALPRwtNWwJp1": {
       "status": "valid",
@@ -10768,5 +10769,5 @@
     }
   },
   "total": 1588,
-  "updated": 1794023187914
+  "updated": 1794023192588
 }
