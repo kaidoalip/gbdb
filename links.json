@@ -8922,8 +8922,11 @@
       "announce": true
     },
     "GCKoSRoNbXbKUBjnFQBTog": {
-      "status": "new",
-      "time": 1793518436332
+      "status": "tertutup",
+      "time": 1794024368071,
+      "id": "120363431213937401@g.us",
+      "name": "Alishba Freelancer buying+selling💯",
+      "announce": true
     },
     "KaEZSiyJ8DX5L1QZFXX8cX": {
       "status": "new",
@@ -10825,5 +10828,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024356243
+  "updated": 1794024368906
 }
