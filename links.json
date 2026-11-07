@@ -3590,15 +3590,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "JtFrwg5vCxs7KPhU8Cjkah": {
-      "status": "tertutup",
-      "time": 1794018659015,
-      "id": "120363414190149814@g.us",
-      "name": "DAKAIT ON TOP 😍😍😍",
-      "size": 41,
-      "approval": false,
-      "announce": true
-    },
     "KaOtO3DyvZFEZnLPAQphMO": {
       "status": "valid",
       "time": 1793505690164,
@@ -11460,6 +11451,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1644,
-  "updated": 1794018660331
+  "total": 1643,
+  "updated": 1794018663621
 }
