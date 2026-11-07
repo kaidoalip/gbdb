@@ -7996,13 +7996,14 @@
       "err": "bad-request"
     },
     "I34PqrUdT2S2zwfF8bmkqO": {
-      "status": "valid",
-      "time": 1793506973178,
+      "status": "error",
+      "time": 1794022877013,
       "id": "120363412517025371@g.us",
       "name": "Venmo marketplace 🏪📈📉💹",
       "size": 366,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FDHQTgcCgYF7n1Vu3AAvH7": {
       "status": "valid",
@@ -10872,5 +10873,5 @@
     }
   },
   "total": 1600,
-  "updated": 1794022872002
+  "updated": 1794022877562
 }
