@@ -5853,13 +5853,14 @@
       "name": "AURA WORD BUSNIESS"
     },
     "LakKSaZu5SJLOsfi8AAKsr": {
-      "status": "valid",
-      "time": 1793506330504,
+      "status": "error",
+      "time": 1794021398697,
       "id": "120363429365874350@g.us",
       "name": "Trusted  TikTok &Yt account BAY &Selal",
       "size": 83,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Cfgd8VxHHfT2rOzybq8CsY": {
       "status": "valid",
@@ -10949,5 +10950,5 @@
     }
   },
   "total": 1589,
-  "updated": 1794021395348
+  "updated": 1794021399609
 }
