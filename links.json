@@ -4833,10 +4833,10 @@
       "time": 1793244133312
     },
     "FmAH50J0p27IvuwHMxfgdD": {
-      "status": "valid",
-      "time": 1793506047175,
+      "status": "joined",
+      "time": 1794020508277,
       "id": "120363429713897019@g.us",
-      "name": "Pakistan Tehreek-E-Insaf",
+      "name": "PakistanTehreek-E-Insaf",
       "size": 515,
       "approval": false,
       "announce": false
@@ -11088,5 +11088,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794020498010
+  "updated": 1794020509249
 }
