@@ -4381,13 +4381,13 @@
       "name": "👑 KIRAN TECH | CREATOR HUB 💍💵📈"
     },
     "JTUO84LE6xN03V8aNT1dhK": {
-      "status": "valid",
-      "time": 1793505871327,
+      "status": "tertutup",
+      "time": 1794019479825,
       "id": "120363411262050745@g.us",
       "name": "Buy And Sell Zone",
       "size": 313,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "FxwiIL48tn9KcBBsAXx7Mu": {
       "status": "valid",
@@ -11270,5 +11270,5 @@
     }
   },
   "total": 1623,
-  "updated": 1794019469321
+  "updated": 1794019480537
 }
