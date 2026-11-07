@@ -4599,13 +4599,14 @@
       "announce": false
     },
     "D8MN0PJxA0kIlfuqTTpwrO": {
-      "status": "valid",
-      "time": 1793505963240,
+      "status": "error",
+      "time": 1794020238504,
       "id": "120363414458688159@g.us",
       "name": "Business Of BM",
       "size": 198,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KJyTRlIVgUi4x019mTsxWs": {
       "status": "valid",
@@ -11175,5 +11176,5 @@
     }
   },
   "total": 1614,
-  "updated": 1794020223071
+  "updated": 1794020239420
 }
