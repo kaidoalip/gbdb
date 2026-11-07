@@ -8929,8 +8929,11 @@
       "announce": true
     },
     "JJuDfwdesPB8wlOEKA4LtL": {
-      "status": "new",
-      "time": 1793519156454
+      "status": "tertutup",
+      "time": 1794024393871,
+      "id": "120363428593765016@g.us",
+      "name": "𓆩💎𓆪 𝐁𝐋𝐀𝐒𝐓𝐈𝐍𝐆 𝐃𝐀𝐓𝐀 & 𝐆𝐌𝐀𝐈𝐋 𝐇𝐔𝐁 𓆩💎𓆪",
+      "announce": true
     },
     "CPtYkURZVCOKrjxLiClWla": {
       "status": "new",
@@ -10820,5 +10823,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024382924
+  "updated": 1794024395018
 }
