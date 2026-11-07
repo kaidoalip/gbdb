@@ -730,16 +730,6 @@
       "size": 0,
       "approval": false
     },
-    "BAFgvRFAy7CCJ2DUcietqM": {
-      "status": "tertutup",
-      "time": 1794018637961,
-      "id": "120363412768061441@g.us",
-      "name": "Roshan Bhai Trusted seller ✅",
-      "size": 64,
-      "approval": false,
-      "err": "Connection Closed",
-      "announce": true
-    },
     "Cld34Mmuc1N9Nuq3WjSi5Y": {
       "status": "joined",
       "time": 1793448252985,
@@ -11469,6 +11459,6 @@
       "time": 1794018611405
     }
   },
-  "total": 1645,
-  "updated": 1794018639240
+  "total": 1644,
+  "updated": 1794018642548
 }
