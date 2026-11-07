@@ -3959,8 +3959,8 @@
       "announce": false
     },
     "HnKoqb6GOJRA3AF0MOPN3e": {
-      "status": "valid",
-      "time": 1793505770053,
+      "status": "joined",
+      "time": 1794019118768,
       "id": "120363431223459045@g.us",
       "name": "Sharp deals.",
       "size": 408,
@@ -11346,5 +11346,5 @@
     }
   },
   "total": 1631,
-  "updated": 1794019109208
+  "updated": 1794019120363
 }
