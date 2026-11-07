@@ -4883,13 +4883,14 @@
       "announce": false
     },
     "IeGApc9cfWYELa7ypU7JxD": {
-      "status": "valid",
-      "time": 1793506065295,
+      "status": "error",
+      "time": 1794020580011,
       "id": "120363151749567866@g.us",
       "name": "Yt & Social Media Account Buying and Selling",
       "size": 39,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BwbZnnPmBOk3m9Y2VsHG9Z": {
       "status": "valid",
@@ -11071,5 +11072,5 @@
     }
   },
   "total": 1602,
-  "updated": 1794020564657
+  "updated": 1794020581387
 }
