@@ -8954,8 +8954,9 @@
       "name": "STOK RESS 1 DIMAS"
     },
     "LiiXIaYeo3HAXhFT1X1xDT": {
-      "status": "new",
-      "time": 1793519396438
+      "status": "error",
+      "time": 1794024461853,
+      "err": "bad-request"
     },
     "Jh9RU4MGnKKIH6TqJIdFCS": {
       "status": "new",
@@ -10829,5 +10830,5 @@
     }
   },
   "total": 1576,
-  "updated": 1794024447558
+  "updated": 1794024462875
 }
