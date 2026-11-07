@@ -5756,13 +5756,14 @@
       "announce": false
     },
     "L1u3v2dHkPKCzmPm5JZ2HC": {
-      "status": "valid",
-      "time": 1793506304838,
+      "status": "error",
+      "time": 1794021339120,
       "id": "120363411567402386@g.us",
       "name": "TRUSTED DEALS 🤝",
       "size": 728,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "growth-locked"
     },
     "IKaxLhj1lQgJBRPGlY74yd": {
       "status": "valid",
@@ -10984,5 +10985,5 @@
     }
   },
   "total": 1593,
-  "updated": 1794021334255
+  "updated": 1794021339679
 }
