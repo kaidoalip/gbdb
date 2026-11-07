@@ -7915,13 +7915,13 @@
       "announce": false
     },
     "GOzUnoHi4AlBl5Ba8YY2gq": {
-      "status": "valid",
-      "time": 1793506930784,
+      "status": "tertutup",
+      "time": 1794022726866,
       "id": "120363408226718352@g.us",
       "name": "Professor writing services",
       "size": 67,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "FBvvYOZdc6U8pv8VGdEyQU": {
       "status": "valid",
@@ -10911,5 +10911,5 @@
     }
   },
   "total": 1604,
-  "updated": 1794022702302
+  "updated": 1794022727577
 }
