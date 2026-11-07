@@ -6828,13 +6828,14 @@
       "announce": false
     },
     "GVoOYYAmuRo93F1VwRNEkK": {
-      "status": "valid",
-      "time": 1793506575188,
+      "status": "error",
+      "time": 1794021758105,
       "id": "120363407285587221@g.us",
       "name": "TN TF Google voice Need trusted group (Satu)☺️",
       "size": 463,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FFw6Pqx4D9N3ELzLTMim7U": {
       "status": "valid",
@@ -10918,5 +10919,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794021744203
+  "updated": 1794021759037
 }
