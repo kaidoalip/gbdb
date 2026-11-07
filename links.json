@@ -8096,15 +8096,6 @@
       "approval": true,
       "announce": false
     },
-    "G14ytFGQSbE3q21kUkJ3Qn": {
-      "status": "tertutup",
-      "time": 1794022972542,
-      "id": "120363411063322408@g.us",
-      "name": "🔰Cricket News & Updates 🏏",
-      "size": 190,
-      "approval": false,
-      "announce": true
-    },
     "L4hFrBlnX0tC6YscI5zEvy": {
       "status": "valid",
       "time": 1793507020373,
@@ -10858,6 +10849,6 @@
       "time": 1794022976869
     }
   },
-  "total": 1599,
-  "updated": 1794022976870
+  "total": 1598,
+  "updated": 1794022979474
 }
