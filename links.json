@@ -5316,8 +5316,8 @@
       "announce": false
     },
     "DAPoHWncHdd64UDkmnKnNA": {
-      "status": "valid",
-      "time": 1793506193936,
+      "status": "joined",
+      "time": 1794021011783,
       "id": "120363433479618129@g.us",
       "name": "CLOUD NODE NEXUS 🌦️",
       "size": 9,
@@ -11010,5 +11010,5 @@
     }
   },
   "total": 1596,
-  "updated": 1794021002189
+  "updated": 1794021013082
 }
