@@ -9107,8 +9107,11 @@
       "err": "bad-request"
     },
     "EUnn6vlBJoB8AQ1qV9UzoL": {
-      "status": "new",
-      "time": 1793525276028
+      "status": "tertutup",
+      "time": 1794024775084,
+      "id": "120363433517258240@g.us",
+      "name": "꧁༺ 𝑨𝒍 𝑯𝒂𝒇𝒊𝒛 𝑷𝒆𝒓𝒇𝒖𝒎𝒆 ༻꧂",
+      "announce": true
     },
     "GZAnazvFFLLFvbztjHTS3e": {
       "status": "new",
@@ -10874,5 +10877,5 @@
     }
   },
   "total": 1577,
-  "updated": 1794024764971
+  "updated": 1794024776189
 }
