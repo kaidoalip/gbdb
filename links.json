@@ -8909,8 +8909,10 @@
       "err": "bad-request"
     },
     "Knv6hsrwpvf5FGVfWtPqrK": {
-      "status": "new",
-      "time": 1793517836091
+      "status": "pending",
+      "time": 1794024333990,
+      "id": "120363400288241142@g.us",
+      "name": "Business & Investment Group"
     },
     "Bp4UccaLph00y0JN4ykPU1": {
       "status": "new",
@@ -10820,5 +10822,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024325657
+  "updated": 1794024335134
 }
