@@ -8024,15 +8024,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "H4aKFTioxCHEGon3ncBnNp": {
-      "status": "tertutup",
-      "time": 1794022917247,
-      "id": "120363430245698145@g.us",
-      "name": "Al-Awan Car Bike Sale Purchase",
-      "size": 395,
-      "approval": false,
-      "announce": true
-    },
     "GXbf8odXsJQ4nPvVrGM585": {
       "status": "valid",
       "time": 1793506985944,
@@ -10873,6 +10864,6 @@
       "time": 1794022735998
     }
   },
-  "total": 1600,
-  "updated": 1794022917982
+  "total": 1599,
+  "updated": 1794022921514
 }
