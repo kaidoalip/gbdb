@@ -6904,8 +6904,8 @@
       "announce": false
     },
     "GeLaJysLjYG8mAiGUVj8C3": {
-      "status": "valid",
-      "time": 1793506596774,
+      "status": "pending",
+      "time": 1794021812143,
       "id": "120363411121024772@g.us",
       "name": "Gullsher Buy Sell Market 💯",
       "size": 127,
@@ -10916,5 +10916,5 @@
     }
   },
   "total": 1592,
-  "updated": 1794021805669
+  "updated": 1794021813259
 }
