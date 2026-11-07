@@ -7806,8 +7806,8 @@
       "err": "growth-locked"
     },
     "FweYfWN7whiFYxi4T7OyZv": {
-      "status": "valid",
-      "time": 1793506889400,
+      "status": "joined",
+      "time": 1794022527174,
       "id": "120363429184107598@g.us",
       "name": "Google cloud account buy sell",
       "size": 11,
@@ -10927,5 +10927,5 @@
     }
   },
   "total": 1605,
-  "updated": 1794022517316
+  "updated": 1794022528319
 }
