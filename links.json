@@ -7976,15 +7976,6 @@
       "approval": false,
       "announce": false
     },
-    "Bfh3W238TUwJ0nng1y9CWb": {
-      "status": "tertutup",
-      "time": 1794022863328,
-      "id": "120363412378676100@g.us",
-      "name": "💢TRUSTED ZONE💥🔥",
-      "size": 19,
-      "approval": false,
-      "announce": true
-    },
     "DNgtm5Rp15437tpfTpSENC": {
       "status": "valid",
       "time": 1793506967323,
@@ -10879,6 +10870,6 @@
       "time": 1794022735998
     }
   },
-  "total": 1601,
-  "updated": 1794022864483
+  "total": 1600,
+  "updated": 1794022867450
 }
