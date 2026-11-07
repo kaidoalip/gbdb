@@ -8116,13 +8116,14 @@
       "err": "bad-request"
     },
     "HxoVC3XCv9J8TImZ2SEvpc": {
-      "status": "valid",
-      "time": 1793507030032,
+      "status": "error",
+      "time": 1794022993629,
       "id": "120363431671979247@g.us",
       "name": "Free of the FERF",
       "size": 3,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "DsAd4bBiqGy0N97R69PZgQ": {
       "status": "valid",
@@ -10841,5 +10842,5 @@
     }
   },
   "total": 1597,
-  "updated": 1794022990283
+  "updated": 1794022994357
 }
