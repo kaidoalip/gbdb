@@ -6947,8 +6947,8 @@
       "announce": false
     },
     "CuX5hnTIEOW70pHqDA7cjv": {
-      "status": "valid",
-      "time": 1793506611576,
+      "status": "joined",
+      "time": 1794021857820,
       "id": "120363427158952993@g.us",
       "name": "Account buy & sell",
       "size": 259,
@@ -10899,5 +10899,5 @@
     }
   },
   "total": 1590,
-  "updated": 1794021847989
+  "updated": 1794021858573
 }
