@@ -3624,8 +3624,8 @@
       "announce": false
     },
     "J2HMAvYygKfIzvdefUrSSZ": {
-      "status": "valid",
-      "time": 1793505696119,
+      "status": "joined",
+      "time": 1794018721075,
       "id": "120363430133935765@g.us",
       "name": "اپنا بازار برانچ 2️⃣",
       "size": 85,
@@ -11452,5 +11452,5 @@
     }
   },
   "total": 1643,
-  "updated": 1794018697635
+  "updated": 1794018721992
 }
