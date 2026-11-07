@@ -4291,15 +4291,6 @@
       "approval": false,
       "announce": false
     },
-    "BwySmAtZNhuB85WeqTtfxj": {
-      "status": "tertutup",
-      "time": 1794019386243,
-      "id": "120363421830281753@g.us",
-      "name": "★H̸A̸M̸Z̸A̸_̸S̸E̸L̸L̸E̸R̸ ❤̸️̸★",
-      "size": 575,
-      "approval": false,
-      "announce": true
-    },
     "DMw7HYHxExh4glbDI2h7vP": {
       "status": "valid",
       "time": 1793505842227,
@@ -11295,6 +11286,6 @@
       "time": 1794019257420
     }
   },
-  "total": 1626,
-  "updated": 1794019386773
+  "total": 1625,
+  "updated": 1794019389448
 }
