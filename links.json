@@ -8403,13 +8403,14 @@
       "err": "bad-request"
     },
     "KsHelDPrLdALPRwtNWwJp1": {
-      "status": "valid",
-      "time": 1793507142783,
+      "status": "error",
+      "time": 1794023197245,
       "id": "120363432479047324@g.us",
       "name": "Ali baba daraz Shopify items",
       "size": 30,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "GNOmUeCxEQ1CpGebdpUirM": {
       "status": "valid",
@@ -10769,5 +10770,5 @@
     }
   },
   "total": 1588,
-  "updated": 1794023192588
+  "updated": 1794023198365
 }
