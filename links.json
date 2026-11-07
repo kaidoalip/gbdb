@@ -4097,13 +4097,13 @@
       "announce": false
     },
     "EFUtPSmqOMX2wCzC7HORDa": {
-      "status": "valid",
-      "time": 1793505776616,
+      "status": "tertutup",
+      "time": 1794019161275,
       "id": "120363431784030570@g.us",
       "name": "LINKED IN RENTAL PLACE 💲💲✅💯(*sweet rates*)",
       "size": 77,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "KVMGF0tHvxYA3Uv33In906": {
       "status": "komunitas",
@@ -11346,5 +11346,5 @@
     }
   },
   "total": 1631,
-  "updated": 1794019140729
+  "updated": 1794019161836
 }
