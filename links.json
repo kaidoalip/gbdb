@@ -8354,13 +8354,14 @@
       "name": "👑ᕙ[GPC By Dua Fatima⁠]⁠ᕗ👑"
     },
     "FvPBZASQEfZ3Vf9tH9Uf5f": {
-      "status": "valid",
-      "time": 1793507120598,
+      "status": "error",
+      "time": 1794023160239,
       "id": "120363427834737534@g.us",
       "name": "Pk TikTok ShoP 🛍️🌟",
       "size": 283,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FvGbET50iYz8HACzJPtPSv": {
       "status": "valid",
@@ -10785,5 +10786,5 @@
     }
   },
   "total": 1590,
-  "updated": 1794023155149
+  "updated": 1794023160763
 }
