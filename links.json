@@ -4892,15 +4892,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "BCEme1t701qEtkx38pUllx": {
-      "status": "tertutup",
-      "time": 1794020605342,
-      "id": "120363160819550745@g.us",
-      "name": "Ecom with MALIK FAIZAN",
-      "size": 851,
-      "approval": false,
-      "announce": true
-    },
     "KOE6G7aa1T9A6w0M8XVF8z": {
       "status": "valid",
       "time": 1793506073582,
@@ -11062,6 +11053,6 @@
       "time": 1794019856151
     }
   },
-  "total": 1601,
-  "updated": 1794020606260
+  "total": 1600,
+  "updated": 1794020609592
 }
