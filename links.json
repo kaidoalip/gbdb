@@ -5692,13 +5692,14 @@
       "name": "Business With Sir Aqib Yaseen"
     },
     "JO7Z5AB8n96FAzrVvPWuA4": {
-      "status": "valid",
-      "time": 1793506286624,
+      "status": "error",
+      "time": 1794021298470,
       "id": "120363430048809640@g.us",
       "name": "Mbl Accesres only wholsale pric.G3",
       "size": 106,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Ce6y01cE7EBHG0ORfCT7wr": {
       "status": "valid",
@@ -10992,5 +10993,5 @@
     }
   },
   "total": 1594,
-  "updated": 1794021293464
+  "updated": 1794021299203
 }
