@@ -4540,13 +4540,14 @@
       "announce": false
     },
     "JTv47VwPkGpBmUmavSsvLL": {
-      "status": "valid",
-      "time": 1793505939701,
+      "status": "error",
+      "time": 1794019766958,
       "id": "120363427803691894@g.us",
       "name": "JB Tools | AI & Social Marketplace",
       "size": 227,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "DFXTgtQxNkJLB0YlFf7w2O": {
       "status": "komunitas",
@@ -11205,5 +11206,5 @@
     }
   },
   "total": 1617,
-  "updated": 1794019763305
+  "updated": 1794019768260
 }
