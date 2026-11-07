@@ -8897,8 +8897,11 @@
       "err": "bad-request"
     },
     "LIziW1Lb3Wz1qe8W8hdCIa": {
-      "status": "new",
-      "time": 1793517476545
+      "status": "tertutup",
+      "time": 1794024316812,
+      "id": "120363430922209173@g.us",
+      "name": "NR brother lslamic mart",
+      "announce": true
     },
     "BZRg2RAJtYDLq0ni05KUE1": {
       "status": "new",
@@ -10816,5 +10819,5 @@
     }
   },
   "total": 1578,
-  "updated": 1794024306308
+  "updated": 1794024317623
 }
