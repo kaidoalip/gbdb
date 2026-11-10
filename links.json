@@ -9366,8 +9366,10 @@
       "err": "bad-request"
     },
     "GtkBz26h3snG4HwgnZLweI": {
-      "status": "new",
-      "time": 1793594007752
+      "status": "pending",
+      "time": 1794309066711,
+      "id": "120363414713999647@g.us",
+      "name": "𝑺𝒖𝒍𝒎𝒂𝒏 𝒀𝑻 𝑫𝒆𝒂𝒍𝒔 & 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔"
     },
     "BV72hinY73rL4LWJxySISO": {
       "status": "new",
@@ -11973,5 +11975,5 @@
     }
   },
   "total": 1836,
-  "updated": 1794309057147
+  "updated": 1794309067887
 }
