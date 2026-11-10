@@ -452,13 +452,14 @@
       "announce": false
     },
     "CDVqmI2MRIm4Jkcod1dc54": {
-      "status": "valid",
-      "time": 1793331351309,
+      "status": "error",
+      "time": 1794279504879,
       "id": "120363408641601614@g.us",
       "name": "IPO STOCK MARKET TRADING INVESTMENT PLATFORM INDIAN",
       "size": 83,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KyxzvEx2EktF1d9a2rSBPV": {
       "status": "valid",
@@ -731,6 +732,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279500557,
+  "updated": 1794279505790,
   "total": 92
 }
