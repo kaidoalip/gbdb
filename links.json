@@ -9486,8 +9486,11 @@
       "err": "bad-request"
     },
     "BklXNdPvGCDHDELLeW4Zm2": {
-      "status": "new",
-      "time": 1793602408388
+      "status": "tertutup",
+      "time": 1794309355175,
+      "id": "120363422472656309@g.us",
+      "name": "𝐔𝐒𝐄𝐃 𝐆𝐌𝐀𝐈𝐋 𝐁𝐔𝐘//𝐒𝐄𝐋𝐋🇧🇩🇵🇰🇮🇳🇺🇸🇮🇷🇮🇹🤝",
+      "announce": true
     },
     "C8rNv2cWU6zFFqRHc0qI7T": {
       "status": "new",
@@ -11985,5 +11988,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309343617
+  "updated": 1794309356136
 }
