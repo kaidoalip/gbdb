@@ -9075,8 +9075,8 @@
       "name": "SMART DIGITAL INVEST"
     },
     "GeOHf0nqMJQAtn3uHNtkGp": {
-      "status": "pending",
-      "time": 1794308379806,
+      "status": "joined",
+      "time": 1794313193298,
       "id": "120363432284105580@g.us",
       "name": "🌍 𝙂𝙇𝙊𝘽𝘼𝙇 𝙏𝙄𝙆𝙏𝙊𝙆 𝙈𝘼𝙍𝙆𝙀𝙏"
     },
@@ -9176,8 +9176,8 @@
       "err": "bad-request"
     },
     "GAhkc191SD9Gps6IliHOTH": {
-      "status": "pending",
-      "time": 1794308659128,
+      "status": "joined",
+      "time": 1794313193298,
       "id": "120363426406156017@g.us",
       "name": "BUY & SALE YT STORE"
     },
@@ -9702,8 +9702,8 @@
       "err": "already-exists"
     },
     "ItPc0KvnbYMDEpnyKNP247": {
-      "status": "pending",
-      "time": 1794309910077,
+      "status": "joined",
+      "time": 1794313193298,
       "id": "120363284660694955@g.us",
       "name": "بزنس فورم"
     },
@@ -12163,5 +12163,5 @@
     }
   },
   "total": 1853,
-  "updated": 1794313185780
+  "updated": 1794313194905
 }
