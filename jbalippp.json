@@ -138,8 +138,11 @@
       "name": "SKST Pan India Property Deals"
     },
     "FfK7b0dAkChLOZZFy1NZHX": {
-      "status": "new",
-      "time": 1793625454946
+      "status": "tertutup",
+      "time": 1794280861422,
+      "id": "120363413679323691@g.us",
+      "name": "Wholesaler Group",
+      "announce": true
     },
     "EVRLiZiOP8e9qjYTv1eP49": {
       "status": "new",
@@ -262,6 +265,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280838480,
+  "updated": 1794280862236,
   "total": 55
 }
