@@ -642,13 +642,13 @@
       "err": "bad-request"
     },
     "C7MHtWkRTSIHVWTdllYToR": {
-      "status": "valid",
-      "time": 1793331440179,
+      "status": "tertutup",
+      "time": 1794279572230,
       "id": "120363400647236469@g.us",
       "name": "ZAHIR SHARP BITGETERS",
       "size": 38,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "CPtYkURZVCOKrjxLiClWla": {
       "status": "valid",
@@ -735,6 +735,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279563308,
+  "updated": 1794279572768,
   "total": 92
 }
