@@ -304,13 +304,14 @@
       "err": "bad-request"
     },
     "CrBBX0CJbnk6cgscyHYiyI": {
-      "status": "valid",
-      "time": 1793331278391,
+      "status": "error",
+      "time": 1794279830296,
       "id": "120363411660068223@g.us",
       "name": "𝗝𝗕 𝗕𝗥𝗘𝗔𝗞 𝗦𝗧𝗘𝗔𝗟 𝗔𝗡 𝗘𝗚𝗚 𝗥𝗜𝗙𝗤𝗜×𝗩𝗜𝗡𝗩𝗜𝗡𝗦𝗘𝗡¹",
       "size": 11,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Cro3dYi5qRgCO7fx2wX3zq": {
       "status": "valid",
@@ -753,6 +754,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279826360,
+  "updated": 1794279830582,
   "total": 90
 }
