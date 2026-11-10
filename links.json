@@ -9545,8 +9545,9 @@
       "name": "Value mart digital store"
     },
     "CbraUKeDIgJ6QrfuVk9p0F": {
-      "status": "new",
-      "time": 1793605648083
+      "status": "error",
+      "time": 1794309493952,
+      "err": "bad-request"
     },
     "BnZCGRYWvDj8DA97Dgb6SL": {
       "status": "new",
@@ -12000,5 +12001,5 @@
     }
   },
   "total": 1831,
-  "updated": 1794309477621
+  "updated": 1794309494919
 }
