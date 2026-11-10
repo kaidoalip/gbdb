@@ -9309,8 +9309,11 @@
       "err": "bad-request"
     },
     "JUlVFILZ9mh4Ik2MaTQuay": {
-      "status": "new",
-      "time": 1793539436256
+      "status": "tertutup",
+      "time": 1794308894842,
+      "id": "120363409389206331@g.us",
+      "name": "𝙅𝘼𝙕𝙕𝘾𝘼𝙎𝙃 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 💸",
+      "announce": true
     },
     "JYfwvwHpdEoB4mu4s17rBz": {
       "status": "new",
@@ -11968,5 +11971,5 @@
     }
   },
   "total": 1839,
-  "updated": 1794308881609
+  "updated": 1794308895777
 }
