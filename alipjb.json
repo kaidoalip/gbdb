@@ -669,8 +669,8 @@
       "err": "bad-request"
     },
     "CPtYkURZVCOKrjxLiClWla": {
-      "status": "valid",
-      "time": 1793331443106,
+      "status": "pending",
+      "time": 1794280047194,
       "id": "120363294911055624@g.us",
       "name": "All update information 🇵🇰",
       "size": 738,
@@ -774,6 +774,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794280038467,
+  "updated": 1794280047695,
   "total": 90
 }
