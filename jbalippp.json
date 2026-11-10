@@ -151,8 +151,9 @@
       "name": "TT tp tn tf sl gv buy sell gurup"
     },
     "LE13nZvf5PW7szcPpmkOCd": {
-      "status": "new",
-      "time": 1793627134928
+      "status": "error",
+      "time": 1794280886456,
+      "err": "bad-request"
     },
     "EWIQKYYa8MRCheMa4mTD1J": {
       "status": "new",
@@ -267,6 +268,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280873001,
+  "updated": 1794280886765,
   "total": 55
 }
