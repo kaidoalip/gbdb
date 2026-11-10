@@ -383,13 +383,14 @@
       "err": "bad-request"
     },
     "Dr3e5vlF59NLcUk6LzMIYK": {
-      "status": "valid",
-      "time": 1793331306640,
+      "status": "error",
+      "time": 1794279878528,
       "id": "120363413724230193@g.us",
       "name": "WARUNG JB HILZ KEBUKA",
       "size": 77,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FJ7JOYF1IVOLBIsNYZQUeD": {
       "status": "valid",
@@ -760,6 +761,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279874948,
+  "updated": 1794279878854,
   "total": 90
 }
