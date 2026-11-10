@@ -39,8 +39,10 @@
       "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟭"
     },
     "LWHap8FVRCVHIcDwMwMrxa": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "pending",
+      "time": 1794280627568,
+      "id": "120363427581336345@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟮"
     },
     "EMhuD50Wey7KFqvxHBAw0X": {
       "status": "new",
@@ -235,6 +237,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280609486,
+  "updated": 1794280627906,
   "total": 56
 }
