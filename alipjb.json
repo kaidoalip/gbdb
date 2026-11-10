@@ -175,13 +175,14 @@
       "err": "bad-request"
     },
     "Di3ZnQzBp9pA0hkQ9icsJK": {
-      "status": "valid",
-      "time": 1793331225048,
+      "status": "error",
+      "time": 1794279754176,
       "id": "120363414380560438@g.us",
       "name": "GB ALGAME PIKI",
       "size": 2,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FZy2av1gf3f4fJeSqgq8nS": {
       "status": "valid",
@@ -750,6 +751,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279750541,
+  "updated": 1794279754468,
   "total": 91
 }
