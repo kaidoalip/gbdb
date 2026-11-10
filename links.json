@@ -9599,8 +9599,10 @@
       "err": "bad-request"
     },
     "Ga7I7i572rT0yHd44VYLKD": {
-      "status": "new",
-      "time": 1793607807972
+      "status": "pending",
+      "time": 1794309601759,
+      "id": "120363376760326670@g.us",
+      "name": "TP.SL.TT.TN.TM.All Accounts Buy Sell ( Trusted Zone)"
     },
     "FQ6nSE6iOq5Btwv2M3xMiS": {
       "status": "new",
@@ -12022,5 +12024,5 @@
     }
   },
   "total": 1833,
-  "updated": 1794309592036
+  "updated": 1794309602917
 }
