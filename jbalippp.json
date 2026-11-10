@@ -231,8 +231,10 @@
       "name": "PRIME ASSET MANAGEMENT"
     },
     "EKkqHewjsCpGxg7IRinF6T": {
-      "status": "new",
-      "time": 1793680895731
+      "status": "joined",
+      "time": 1794281105757,
+      "id": "120363431943178715@g.us",
+      "name": "bNexa"
     },
     "I6fBAgbVhteLMDmTTxgXoj": {
       "status": "new",
@@ -283,6 +285,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281085637,
+  "updated": 1794281106053,
   "total": 53
 }
