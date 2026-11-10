@@ -155,13 +155,14 @@
       "err": "bad-request"
     },
     "ESuQqKzv3FfCGDLfgylYs3": {
-      "status": "valid",
-      "time": 1793331217262,
+      "status": "error",
+      "time": 1794279745277,
       "id": "120363413593088355@g.us",
       "name": "𓆩 𝐍𝐎𝐗𝐓𝐑𝐀𝐋 𝐕𝐕𝐈𝐏 𓆪",
       "size": 5,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "DpjZPYyBHJsH51ykiGtxEi": {
       "status": "valid",
@@ -748,6 +749,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279741065,
+  "updated": 1794279745808,
   "total": 91
 }
