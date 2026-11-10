@@ -638,14 +638,6 @@
       "size": 102,
       "approval": true
     },
-    "Ku7DBFisigP8765zrqWxzU": {
-      "status": "expired",
-      "time": 1792471494877,
-      "id": "120363409389206331@g.us",
-      "name": "𝙅𝘼𝙕𝙕𝘾𝘼𝙎𝙃 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 💸",
-      "size": 264,
-      "approval": false
-    },
     "GZ8oT2WAV7t3SiOMAHbhFI": {
       "status": "expired",
       "time": 1792410174997,
@@ -11970,6 +11962,6 @@
       "time": 1794308269011
     }
   },
-  "total": 1839,
-  "updated": 1794308895777
+  "total": 1838,
+  "updated": 1794308898591
 }
