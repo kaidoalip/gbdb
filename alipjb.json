@@ -254,13 +254,14 @@
       "err": "bad-request"
     },
     "Fi0BCJ20ZXS0I2JRRQpm27": {
-      "status": "valid",
-      "time": 1793331259863,
+      "status": "error",
+      "time": 1794279807193,
       "id": "120363412190188401@g.us",
       "name": "𝐹𝑇 𝐶𝑆 𝐾𝐼𝐸𝐿𝐿",
       "size": 2,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LvHhxS21XCM0f23Sah5QfO": {
       "status": "valid",
@@ -748,6 +749,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279803189,
+  "updated": 1794279807693,
   "total": 90
 }
