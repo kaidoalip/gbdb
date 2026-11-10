@@ -9027,11 +9027,6 @@
       "id": "120363413894058186@g.us",
       "name": "🛒 𝙏𝙝𝙚 𝙈𝙖𝙧𝙠𝙚𝙩𝙥𝙡𝙖𝙘𝙚"
     },
-    "LoKxbsG9l8aLm0iH2EOm2N": {
-      "status": "error",
-      "time": 1794026445830,
-      "err": "growth-locked"
-    },
     "H23LRpn7i313ZfSevZZrQr": {
       "status": "error",
       "time": 1794026454297,
@@ -11932,6 +11927,6 @@
       "time": 1794308269011
     }
   },
-  "total": 1846,
-  "updated": 1794308323257
+  "total": 1845,
+  "updated": 1794308329978
 }
