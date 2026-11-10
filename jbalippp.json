@@ -101,8 +101,11 @@
       "announce": true
     },
     "HNoXSAk2Ga7BLiAUAPbjI1": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "tertutup",
+      "time": 1794280760812,
+      "id": "120363429702348871@g.us",
+      "name": "❣️تـــلاوت قـــرآن پـــاک ❣️",
+      "announce": true
     },
     "Ftlkemk52AjHYrn0RPlOPt": {
       "status": "new",
@@ -253,6 +256,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280748256,
+  "updated": 1794280761123,
   "total": 56
 }
