@@ -9556,8 +9556,11 @@
       "name": "𝗣𝗔𝗦𝗔𝗥 𝗦𝗧𝗢𝗞 𝗠𝗨𝗥𝗔𝗛🌸"
     },
     "DPBSY2FuaA43NYi6opzu0e": {
-      "status": "new",
-      "time": 1793605648083
+      "status": "tertutup",
+      "time": 1794309529094,
+      "id": "120363371822350348@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗗𝗜𝗟𝗭𝗫 𝘃𝟭🇮🇩🇲🇾",
+      "announce": true
     },
     "H8riuXnMYxCAetekTmv2ez": {
       "status": "new",
@@ -12003,5 +12006,5 @@
     }
   },
   "total": 1831,
-  "updated": 1794309505212
+  "updated": 1794309530207
 }
