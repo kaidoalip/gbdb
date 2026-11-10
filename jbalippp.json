@@ -243,8 +243,9 @@
       "name": "Smart Shopping Hub"
     },
     "J7d28vVxsZN0xsbgFp1qvS": {
-      "status": "new",
-      "time": 1793681015732
+      "status": "error",
+      "time": 1794281141415,
+      "err": "growth-locked"
     },
     "IJJgNyME5pzAeEuuGDlfMG": {
       "status": "new",
@@ -287,6 +288,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281128696,
+  "updated": 1794281141746,
   "total": 53
 }
