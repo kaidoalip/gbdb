@@ -622,13 +622,14 @@
       "announce": false
     },
     "IxcHuLKGhXP05XTsPp6Ar5": {
-      "status": "valid",
-      "time": 1793331428613,
+      "status": "error",
+      "time": 1794279558749,
       "id": "120363409984933097@g.us",
       "name": "ZAHiR DOLLARS 💸",
       "size": 142,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FzUvOsoKHpT6FjURZ2OShO": {
       "status": "valid",
@@ -733,6 +734,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279542874,
+  "updated": 1794279559051,
   "total": 92
 }
