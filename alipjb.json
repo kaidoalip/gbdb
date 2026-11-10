@@ -413,13 +413,14 @@
       "err": "bad-request"
     },
     "ITZKIA9OEXZFDBe9q4Enzp": {
-      "status": "valid",
-      "time": 1793331317343,
+      "status": "error",
+      "time": 1794279892240,
       "id": "120363413207770013@g.us",
       "name": "BEBAS SER LINK V3",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "K97gpQ7GTgYDYAm29VYEBe": {
       "status": "error",
@@ -763,6 +764,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279888557,
+  "updated": 1794279892730,
   "total": 90
 }
