@@ -237,8 +237,10 @@
       "name": "bNexa"
     },
     "I6fBAgbVhteLMDmTTxgXoj": {
-      "status": "new",
-      "time": 1793681015732
+      "status": "joined",
+      "time": 1794281128401,
+      "id": "120363429955059666@g.us",
+      "name": "Smart Shopping Hub"
     },
     "J7d28vVxsZN0xsbgFp1qvS": {
       "status": "new",
@@ -285,6 +287,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281106053,
+  "updated": 1794281128696,
   "total": 53
 }
