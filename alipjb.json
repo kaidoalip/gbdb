@@ -406,13 +406,14 @@
       "announce": false
     },
     "K97gpQ7GTgYDYAm29VYEBe": {
-      "status": "valid",
-      "time": 1793331324092,
+      "status": "error",
+      "time": 1794279437663,
       "id": "120363413834803620@g.us",
       "name": "Piya..gmail  fb buy sell🌏",
       "size": 142,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Dd0KdP10Kxg8agKvpRNGsB": {
       "status": "valid",
@@ -757,6 +758,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279432251,
+  "updated": 1794279438922,
   "total": 95
 }
