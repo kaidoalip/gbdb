@@ -5904,15 +5904,6 @@
       "approval": true,
       "announce": false
     },
-    "Kp1MEaX5AGKEeuRJUVbNPM": {
-      "status": "expired",
-      "time": 1793368860400,
-      "id": "120363413679323691@g.us",
-      "name": "Wholesaler Group",
-      "size": 94,
-      "approval": false,
-      "announce": false
-    },
     "ESuQqKzv3FfCGDLfgylYs3": {
       "status": "expired",
       "time": 1793362039110,
@@ -11991,6 +11982,6 @@
       "time": 1794308269011
     }
   },
-  "total": 1834,
-  "updated": 1794309262668
+  "total": 1833,
+  "updated": 1794309266149
 }
