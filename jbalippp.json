@@ -94,8 +94,11 @@
       "err": "bad-request"
     },
     "ENRDBtuXkSE6briuTJxL53": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "tertutup",
+      "time": 1794280747937,
+      "id": "120363364985243488@g.us",
+      "name": "꧁✨ســــــــفــر❤آخـــــرت❤✨꧂",
+      "announce": true
     },
     "HNoXSAk2Ga7BLiAUAPbjI1": {
       "status": "new",
@@ -250,6 +253,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280737034,
+  "updated": 1794280748256,
   "total": 56
 }
