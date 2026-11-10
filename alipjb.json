@@ -294,13 +294,14 @@
       "err": "bad-request"
     },
     "BuwsHVwaJMN2jdRayKeZED": {
-      "status": "valid",
-      "time": 1793331273495,
+      "status": "error",
+      "time": 1794279825447,
       "id": "120363428829608094@g.us",
       "name": "JB || ALL GAME IASS STORE [BLK]",
       "size": 42,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CrBBX0CJbnk6cgscyHYiyI": {
       "status": "valid",
@@ -752,6 +753,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279821405,
+  "updated": 1794279826360,
   "total": 90
 }
