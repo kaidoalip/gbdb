@@ -442,15 +442,6 @@
       "approval": false,
       "announce": false
     },
-    "GOWptq6SboE3r8DPGN6HAL": {
-      "status": "tertutup",
-      "time": 1794279484815,
-      "id": "120363431222878004@g.us",
-      "name": "Gmail ❣️TT TF TN GV SL INDEX Buy group ❣️❣️(ONLY ADMIN)❣️❣️",
-      "size": 263,
-      "approval": false,
-      "announce": true
-    },
     "FKE6WP1e7rb1TgUXnEnG5O": {
       "status": "valid",
       "time": 1793331344316,
@@ -749,6 +740,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279485152,
-  "total": 94
+  "updated": 1794279486609,
+  "total": 93
 }
