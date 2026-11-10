@@ -9434,8 +9434,10 @@
       "err": "bad-request"
     },
     "E1fbvPOCeWH1cGKNsX1iRx": {
-      "status": "new",
-      "time": 1793597487795
+      "status": "joined",
+      "time": 1794309175679,
+      "id": "120363415061072556@g.us",
+      "name": "🔵 Any App Buy & Sell 🔵"
     },
     "DxsvP3ABHa0E34sMgMV8JK": {
       "status": "new",
@@ -11989,5 +11991,5 @@
     }
   },
   "total": 1836,
-  "updated": 1794309163847
+  "updated": 1794309177277
 }
