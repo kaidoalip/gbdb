@@ -632,13 +632,14 @@
       "err": "bad-request"
     },
     "FzUvOsoKHpT6FjURZ2OShO": {
-      "status": "valid",
-      "time": 1793331434382,
+      "status": "error",
+      "time": 1794279562824,
       "id": "120363429035799033@g.us",
       "name": "ZAHiR PEOPLE 💯",
       "size": 119,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "C7MHtWkRTSIHVWTdllYToR": {
       "status": "valid",
@@ -734,6 +735,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279559051,
+  "updated": 1794279563308,
   "total": 92
 }
