@@ -235,8 +235,8 @@
       "err": "bad-request"
     },
     "L6fzQr0hRlhDRTcibQADj3": {
-      "status": "valid",
-      "time": 1793331248374,
+      "status": "pending",
+      "time": 1794279789166,
       "id": "120363426036221147@g.us",
       "name": "𝐃𝐄𝐕𝐎𝐔𝐑𝐄𝐑 𝐃𝐈𝐃𝐈𝐊𝐀𝐍 𝐂𝐈𝐒𝐔𝐍",
       "size": 22,
@@ -747,6 +747,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279780857,
+  "updated": 1794279789495,
   "total": 90
 }
