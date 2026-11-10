@@ -9503,8 +9503,10 @@
       "err": "bad-request"
     },
     "IzbWRRErJwJ6CSMjpFuhf0": {
-      "status": "new",
-      "time": 1793603130403
+      "status": "joined",
+      "time": 1794309382016,
+      "id": "120363431669040956@g.us",
+      "name": "KRISH CLOUD SERVICE 👍🏻"
     },
     "HXe6krfiO0fBhbilWxcH5z": {
       "status": "new",
@@ -11990,5 +11992,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309370684
+  "updated": 1794309383354
 }
