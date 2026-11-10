@@ -9172,8 +9172,9 @@
       "announce": true
     },
     "BlHpj1rr5fWA4IDdn7x6F0": {
-      "status": "new",
-      "time": 1793533676466
+      "status": "error",
+      "time": 1794308617571,
+      "err": "bad-request"
     },
     "DRM8uiUiHPE23Mt2lo8NcF": {
       "status": "new",
@@ -11935,5 +11936,5 @@
     }
   },
   "total": 1840,
-  "updated": 1794308612226
+  "updated": 1794308618515
 }
