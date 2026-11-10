@@ -5712,13 +5712,13 @@
     },
     "L1u3v2dHkPKCzmPm5JZ2HC": {
       "status": "error",
-      "time": 1794025280078,
+      "time": 1794278933129,
       "id": "120363411567402386@g.us",
       "name": "TRUSTED DEALS 🤝",
       "size": 728,
       "approval": false,
       "announce": false,
-      "err": "growth-locked"
+      "err": "bad-request"
     },
     "DqxfJm7tlsC62QgiI6GYdD": {
       "status": "valid",
@@ -11940,5 +11940,5 @@
     }
   },
   "total": 1846,
-  "updated": 1794278928924
+  "updated": 1794278933686
 }
