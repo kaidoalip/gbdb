@@ -184,8 +184,9 @@
       "name": "PRIME ASSET MANAGEMENT"
     },
     "GaulBx8R5kcFP7GhG471bC": {
-      "status": "new",
-      "time": 1793644175156
+      "status": "error",
+      "time": 1794280963738,
+      "err": "bad-request"
     },
     "LANqKMxuZ2v81Z3Ppfr4Sw": {
       "status": "new",
@@ -272,6 +273,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280948450,
+  "updated": 1794280964193,
   "total": 54
 }
