@@ -145,13 +145,14 @@
       "announce": false
     },
     "Cvf37AG9RFx5FBewENlrgJ": {
-      "status": "valid",
-      "time": 1793331214399,
+      "status": "error",
+      "time": 1794279740750,
       "id": "120363427690088625@g.us",
       "name": "𝙈𝘼𝙍𝙆𝙀𝙏 𝙍𝙊𝘽𝙇𝙊𝙓 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 𝘽𝙔 𝙆𝘼𝙔𝙋𝙐𝙉𝙆𝙆𝙆",
       "size": 10,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "ESuQqKzv3FfCGDLfgylYs3": {
       "status": "valid",
@@ -747,6 +748,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279736691,
+  "updated": 1794279741065,
   "total": 91
 }
