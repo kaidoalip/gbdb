@@ -9208,8 +9208,9 @@
       "name": "BUY & SALE YT STORE"
     },
     "BDG7JDsNR8LK4u9u5wJStU": {
-      "status": "new",
-      "time": 1793534996237
+      "status": "error",
+      "time": 1794308674770,
+      "err": "bad-request"
     },
     "I4M8hnkVkfB49OrL6tS8zM": {
       "status": "new",
@@ -11943,5 +11944,5 @@
     }
   },
   "total": 1840,
-  "updated": 1794308660290
+  "updated": 1794308675773
 }
