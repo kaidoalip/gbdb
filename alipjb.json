@@ -343,13 +343,14 @@
       "err": "bad-request"
     },
     "G2lstCfE3KB9enaxu09pOO": {
-      "status": "valid",
-      "time": 1793331295286,
+      "status": "error",
+      "time": 1794279861232,
       "id": "120363412784819001@g.us",
       "name": "FT CS || MaxxLL X OWN¹",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "E4OS9Es5Oiw7d3QUDfrx8x": {
       "status": "valid",
@@ -756,6 +757,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279857440,
+  "updated": 1794279861750,
   "total": 90
 }
