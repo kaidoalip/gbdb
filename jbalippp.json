@@ -248,8 +248,10 @@
       "err": "growth-locked"
     },
     "IJJgNyME5pzAeEuuGDlfMG": {
-      "status": "new",
-      "time": 1793681015732
+      "status": "joined",
+      "time": 1794281152488,
+      "id": "120363430711912455@g.us",
+      "name": "Buying and selling group"
     },
     "Bn0wFXciV195YsY9pbLzuc": {
       "status": "new",
@@ -288,6 +290,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281141746,
+  "updated": 1794281153059,
   "total": 53
 }
