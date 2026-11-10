@@ -324,10 +324,10 @@
       "err": "bad-request"
     },
     "IQmFppEf5y441hp9kfBCE4": {
-      "status": "valid",
-      "time": 1793331288175,
+      "status": "pending",
+      "time": 1794279843236,
       "id": "120363424156720977@g.us",
-      "name": "GB OPTES PLAYHARD GPX",
+      "name": "GB OPTES REBELTA",
       "size": 228,
       "approval": true,
       "announce": false
@@ -755,6 +755,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279834822,
+  "updated": 1794279843573,
   "total": 90
 }
