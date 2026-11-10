@@ -9158,8 +9158,11 @@
       "announce": true
     },
     "JQByRlc6jAFIAhwVyDwbAD": {
-      "status": "new",
-      "time": 1793532356320
+      "status": "tertutup",
+      "time": 1794308560696,
+      "id": "120363423006725711@g.us",
+      "name": "Ameer Hamza collection",
+      "announce": true
     },
     "JA3JjrZRIxsCHp5WiYLTgO": {
       "status": "new",
@@ -11949,5 +11952,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794308545403
+  "updated": 1794308562157
 }
