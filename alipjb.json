@@ -284,13 +284,14 @@
       "err": "bad-request"
     },
     "JZGYFccZ4Bp631VHNTXCfr": {
-      "status": "valid",
-      "time": 1793331270230,
+      "status": "error",
+      "time": 1794279820892,
       "id": "120363430611178249@g.us",
       "name": "𝐌𝐀𝐑𝐆𝐀 𝐒𝐈𝐒",
       "size": 18,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "BuwsHVwaJMN2jdRayKeZED": {
       "status": "valid",
@@ -751,6 +752,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279816744,
+  "updated": 1794279821405,
   "total": 90
 }
