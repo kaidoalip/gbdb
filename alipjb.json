@@ -373,13 +373,14 @@
       "err": "bad-request"
     },
     "LjdvAN45S53In2MmnwXAGJ": {
-      "status": "valid",
-      "time": 1793331303697,
+      "status": "error",
+      "time": 1794279874460,
       "id": "120363414641556162@g.us",
       "name": "JB |DHLUN&KNCIL|STR😎👌",
       "size": 5,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Dr3e5vlF59NLcUk6LzMIYK": {
       "status": "valid",
@@ -759,6 +760,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279870465,
+  "updated": 1794279874948,
   "total": 90
 }
