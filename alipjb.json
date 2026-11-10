@@ -629,13 +629,14 @@
       "err": "bad-request"
     },
     "Jcfq748tac3B5fxpZ8Lebt": {
-      "status": "valid",
-      "time": 1793331421734,
+      "status": "error",
+      "time": 1794280033533,
       "id": "120363428922364137@g.us",
       "name": "ZAHIR KYC 24/7",
       "size": 66,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "L7wLuBdf0ktEJg7vBpvPfF": {
       "status": "valid",
@@ -772,6 +773,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794280029616,
+  "updated": 1794280034031,
   "total": 90
 }
