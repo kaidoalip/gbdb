@@ -195,8 +195,10 @@
       "name": "lucky group"
     },
     "CKRdNGKmrljFGdzmaDvx72": {
-      "status": "new",
-      "time": 1793665415497
+      "status": "joined",
+      "time": 1794281001984,
+      "id": "120363410863402480@g.us",
+      "name": "Short Channel Market place"
     },
     "L7DXw4I2XHuIGv04VRqsq2": {
       "status": "new",
@@ -271,6 +273,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280991801,
+  "updated": 1794281002281,
   "total": 53
 }
