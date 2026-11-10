@@ -9440,8 +9440,9 @@
       "name": "🔵 Any App Buy & Sell 🔵"
     },
     "DxsvP3ABHa0E34sMgMV8JK": {
-      "status": "new",
-      "time": 1793597607670
+      "status": "error",
+      "time": 1794309192214,
+      "err": "bad-request"
     },
     "D5Vi2s59HjPAc3bogwdXoX": {
       "status": "new",
@@ -11991,5 +11992,5 @@
     }
   },
   "total": 1836,
-  "updated": 1794309177277
+  "updated": 1794309193235
 }
