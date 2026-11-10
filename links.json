@@ -9213,8 +9213,10 @@
       "err": "bad-request"
     },
     "I4M8hnkVkfB49OrL6tS8zM": {
-      "status": "new",
-      "time": 1793535716420
+      "status": "joined",
+      "time": 1794308687814,
+      "id": "120363430425408691@g.us",
+      "name": "Md zia"
     },
     "IUPPRmBzVcDENqHGPlkMO1": {
       "status": "new",
@@ -11944,5 +11946,5 @@
     }
   },
   "total": 1840,
-  "updated": 1794308675773
+  "updated": 1794308689323
 }
