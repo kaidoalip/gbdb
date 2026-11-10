@@ -108,8 +108,11 @@
       "announce": true
     },
     "CE2sZV8v3bD9Df1qQCezTc": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "tertutup",
+      "time": 1794280778692,
+      "id": "120363419536258556@g.us",
+      "name": "🌷ALL VPN & IP/ PROXY SELL🌷",
+      "announce": true
     },
     "ImQRpK4EDdu4HDf7x1lSkD": {
       "status": "new",
@@ -252,6 +255,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280767340,
+  "updated": 1794280778977,
   "total": 55
 }
