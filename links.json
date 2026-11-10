@@ -9550,8 +9550,10 @@
       "err": "bad-request"
     },
     "BnZCGRYWvDj8DA97Dgb6SL": {
-      "status": "new",
-      "time": 1793605648083
+      "status": "pending",
+      "time": 1794309504069,
+      "id": "120363412994572346@g.us",
+      "name": "𝗣𝗔𝗦𝗔𝗥 𝗦𝗧𝗢𝗞 𝗠𝗨𝗥𝗔𝗛🌸"
     },
     "DPBSY2FuaA43NYi6opzu0e": {
       "status": "new",
@@ -12001,5 +12003,5 @@
     }
   },
   "total": 1831,
-  "updated": 1794309494919
+  "updated": 1794309505212
 }
