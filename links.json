@@ -9247,8 +9247,10 @@
       "announce": true
     },
     "CozegYdpVUw61NkWAQgLkq": {
-      "status": "new",
-      "time": 1793537036524
+      "status": "pending",
+      "time": 1794308762318,
+      "id": "120363431555348966@g.us",
+      "name": "✩̶گ̶ج̶ر̶ ̶ک̶ی̶ ̶ح̶و̶ی̶ل̶ی̶ ✩"
     },
     "B9ONeDFKVqm6KOSs36OGFA": {
       "status": "new",
@@ -11954,5 +11956,5 @@
     }
   },
   "total": 1840,
-  "updated": 1794308750908
+  "updated": 1794308763301
 }
