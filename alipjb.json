@@ -720,8 +720,10 @@
       "err": "bad-request"
     },
     "I1DaXtSV3oM5m89pFNgzfZ": {
-      "status": "new",
-      "time": 1793332798758
+      "status": "joined",
+      "time": 1794279682068,
+      "id": "120363432774952243@g.us",
+      "name": "Majid Cloud Creator"
     },
     "JhUQ375VR2KDl9TH2Ux8vT": {
       "status": "new",
@@ -740,6 +742,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279671501,
+  "updated": 1794279682580,
   "total": 91
 }
