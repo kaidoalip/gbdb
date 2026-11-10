@@ -737,14 +737,15 @@
       "name": "👑 NEXVORA | DIGITAL MARKETING 🚀💻✨"
     },
     "GpWBShYa6QWL2tNbjmkZWD": {
-      "status": "new",
-      "time": 1793333278726
+      "status": "error",
+      "time": 1794279732153,
+      "err": "bad-request"
     },
     "EzKZSdD8cBZ9j6bXOFS6sk": {
       "status": "new",
       "time": 1793333278726
     }
   },
-  "updated": 1794279713058,
+  "updated": 1794279732684,
   "total": 91
 }
