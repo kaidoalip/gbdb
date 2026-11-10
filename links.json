@@ -9727,8 +9727,11 @@
       "announce": true
     },
     "BeoKpo9YlFJEnNqXW4uMDT": {
-      "status": "new",
-      "time": 1793616094690
+      "status": "tertutup",
+      "time": 1794309997948,
+      "id": "120363415070959883@g.us",
+      "name": "Hania Digital Hub 💵",
+      "announce": true
     },
     "CUqxGIAEsiXKepgEouu60P": {
       "status": "new",
@@ -12062,5 +12065,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309983304
+  "updated": 1794309999306
 }
