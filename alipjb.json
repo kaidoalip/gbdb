@@ -540,13 +540,14 @@
       "announce": false
     },
     "GxTkMJYxUOsD9sHlL0QFHy": {
-      "status": "valid",
-      "time": 1793331389401,
+      "status": "error",
+      "time": 1794279532729,
       "id": "120363413266298260@g.us",
       "name": "Power of ai tools",
       "size": 11,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FtsTZcR27JGFLQsJAqQe5D": {
       "status": "komunitas",
@@ -732,6 +733,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279516028,
+  "updated": 1794279533052,
   "total": 92
 }
