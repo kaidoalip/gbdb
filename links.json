@@ -9361,8 +9361,9 @@
       "announce": true
     },
     "DBEiW0Z3TdsGPwOyQckPcN": {
-      "status": "new",
-      "time": 1793593648248
+      "status": "error",
+      "time": 1794309056572,
+      "err": "bad-request"
     },
     "GtkBz26h3snG4HwgnZLweI": {
       "status": "new",
@@ -11972,5 +11973,5 @@
     }
   },
   "total": 1836,
-  "updated": 1794309052878
+  "updated": 1794309057147
 }
