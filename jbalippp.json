@@ -266,8 +266,10 @@
       "err": "bad-request"
     },
     "J6yZJ39XPrp7ff8ZsDNziw": {
-      "status": "new",
-      "time": 1793692655922
+      "status": "pending",
+      "time": 1794281190951,
+      "id": "120363392804717858@g.us",
+      "name": "PRIME ASSET MANAGEMENT"
     },
     "FjEzgLHncuNAaPJoygigqE": {
       "status": "new",
@@ -294,6 +296,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281182443,
+  "updated": 1794281191257,
   "total": 53
 }
