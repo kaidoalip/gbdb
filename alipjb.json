@@ -363,13 +363,14 @@
       "err": "bad-request"
     },
     "EgGD8vHBTCg5LjzXFKPXgP": {
-      "status": "valid",
-      "time": 1793331300240,
+      "status": "error",
+      "time": 1794279869956,
       "id": "120363429139064120@g.us",
       "name": "gorengan|gumoo👑 v3",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LjdvAN45S53In2MmnwXAGJ": {
       "status": "valid",
@@ -758,6 +759,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279866412,
+  "updated": 1794279870465,
   "total": 90
 }
