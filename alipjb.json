@@ -609,13 +609,14 @@
       "announce": false
     },
     "EzqdPxub1ax9YaQqDvqCwC": {
-      "status": "valid",
-      "time": 1793331414368,
+      "status": "error",
+      "time": 1794280024800,
       "id": "120363300291215356@g.us",
       "name": "PEOPLE ZAHIR",
       "size": 907,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "F3KEBSKUyAZFj2SrYNSYOD": {
       "status": "valid",
@@ -770,6 +771,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794280008347,
+  "updated": 1794280025149,
   "total": 90
 }
