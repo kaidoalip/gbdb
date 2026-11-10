@@ -207,8 +207,10 @@
       "name": "JORDAN MAILER"
     },
     "INai8qnUaKU0kuVkoEXOyG": {
-      "status": "new",
-      "time": 1793667695534
+      "status": "joined",
+      "time": 1794281045514,
+      "id": "120363413396418431@g.us",
+      "name": "Links exchange groups"
     },
     "KIRLyI63OVQIuBD37vGnKJ": {
       "status": "new",
@@ -275,6 +277,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281024117,
+  "updated": 1794281046002,
   "total": 53
 }
