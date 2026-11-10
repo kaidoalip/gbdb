@@ -225,13 +225,14 @@
       "err": "bad-request"
     },
     "LyIfsQ32raiGy9rvBS0cNx": {
-      "status": "valid",
-      "time": 1793331244961,
+      "status": "error",
+      "time": 1794279780319,
       "id": "120363431440327094@g.us",
       "name": "JB¹ | ZARRD STORE",
       "size": 30,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "L6fzQr0hRlhDRTcibQADj3": {
       "status": "valid",
@@ -746,6 +747,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279776083,
+  "updated": 1794279780857,
   "total": 90
 }
