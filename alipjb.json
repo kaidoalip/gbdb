@@ -690,8 +690,9 @@
       "name": "All Pakistan Sale Purchase Group 🇵🇰"
     },
     "CrDZ2GWWtFHAZPYqLKrchN": {
-      "status": "new",
-      "time": 1793331718706
+      "status": "error",
+      "time": 1794279648940,
+      "err": "bad-request"
     },
     "IvHNEZhHEiNHtJXRt6hnCd": {
       "status": "new",
@@ -734,6 +735,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279632390,
+  "updated": 1794279649284,
   "total": 91
 }
