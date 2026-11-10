@@ -393,13 +393,14 @@
       "err": "bad-request"
     },
     "FJ7JOYF1IVOLBIsNYZQUeD": {
-      "status": "valid",
-      "time": 1793331310318,
+      "status": "error",
+      "time": 1794279883267,
       "id": "120363410220654359@g.us",
       "name": "MARKET ALL GAME BY SOFTYAN STORE",
       "size": 74,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "KnmHOF6bALYLHuWw3aYCMr": {
       "status": "valid",
@@ -761,6 +762,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279878854,
+  "updated": 1794279883825,
   "total": 90
 }
