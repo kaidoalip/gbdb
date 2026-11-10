@@ -9354,8 +9354,11 @@
       "err": "bad-request"
     },
     "FeNvRSK6hV4Hs4gk2OO09b": {
-      "status": "new",
-      "time": 1793540876368
+      "status": "tertutup",
+      "time": 1794309043865,
+      "id": "120363431811408395@g.us",
+      "name": "[PUBG / US ] [TikTok / COINS]",
+      "announce": true
     },
     "HSTNh77TSQJ6QZskht3xSe": {
       "status": "new",
@@ -11973,5 +11976,5 @@
     }
   },
   "total": 1837,
-  "updated": 1794309032914
+  "updated": 1794309045217
 }
