@@ -9319,8 +9319,11 @@
       "name": "International wire transfer, parcel mailing, credit/debit card payment, gift card purchase, etc., al"
     },
     "LIZI3lhSb8o5WAFPu6dzUN": {
-      "status": "new",
-      "time": 1793539796377
+      "status": "tertutup",
+      "time": 1794308936247,
+      "id": "120363169071786389@g.us",
+      "name": "Vip Data Seller",
+      "announce": true
     },
     "Gx1UT06bRD6HzghXswr82l": {
       "status": "new",
@@ -11966,5 +11969,5 @@
     }
   },
   "total": 1838,
-  "updated": 1794308913987
+  "updated": 1794308937506
 }
