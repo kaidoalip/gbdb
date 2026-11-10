@@ -9304,8 +9304,9 @@
       "name": "Dera Ismail Khan Buying & Selling Group"
     },
     "BdOe6a5Dxzl9KVrbBP85ai": {
-      "status": "new",
-      "time": 1793538956362
+      "status": "error",
+      "time": 1794308880280,
+      "err": "bad-request"
     },
     "JUlVFILZ9mh4Ik2MaTQuay": {
       "status": "new",
@@ -11967,5 +11968,5 @@
     }
   },
   "total": 1839,
-  "updated": 1794308877627
+  "updated": 1794308881609
 }
