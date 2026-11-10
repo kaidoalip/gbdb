@@ -9298,8 +9298,10 @@
       "err": "growth-locked"
     },
     "I6fBAgbVhteLMDmTTxgXoj": {
-      "status": "new",
-      "time": 1793538356841
+      "status": "joined",
+      "time": 1794308876227,
+      "id": "120363429955059666@g.us",
+      "name": "Dera Ismail Khan Buying & Selling Group"
     },
     "BdOe6a5Dxzl9KVrbBP85ai": {
       "status": "new",
@@ -11965,5 +11967,5 @@
     }
   },
   "total": 1839,
-  "updated": 1794308871356
+  "updated": 1794308877627
 }
