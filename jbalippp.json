@@ -254,8 +254,11 @@
       "name": "Buying and selling group"
     },
     "Bn0wFXciV195YsY9pbLzuc": {
-      "status": "new",
-      "time": 1793687375870
+      "status": "tertutup",
+      "time": 1794281175764,
+      "id": "120363430318605535@g.us",
+      "name": "𝗞𝗜𝗡𝗚",
+      "announce": true
     },
     "BM7wWCyDReZ3vTTm2I93X1": {
       "status": "new",
@@ -290,6 +293,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281153059,
+  "updated": 1794281176276,
   "total": 53
 }
