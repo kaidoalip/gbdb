@@ -9460,8 +9460,10 @@
       "err": "bad-request"
     },
     "CDg76WP8oiV5RoyAAcJFbt": {
-      "status": "new",
-      "time": 1793599048089
+      "status": "joined",
+      "time": 1794309230186,
+      "id": "120363414863978808@g.us",
+      "name": "Dk..Sakib"
     },
     "Do0FoB41XrE788TCvoa0fe": {
       "status": "new",
@@ -11991,5 +11993,5 @@
     }
   },
   "total": 1835,
-  "updated": 1794309218682
+  "updated": 1794309231493
 }
