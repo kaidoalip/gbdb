@@ -9464,8 +9464,11 @@
       "announce": true
     },
     "KiaO4NsHXek3MLndRqK4t9": {
-      "status": "new",
-      "time": 1793600968027
+      "status": "tertutup",
+      "time": 1794309278025,
+      "id": "120363405212314478@g.us",
+      "name": "All SMTP AVAILABLE MIX I PHONE__ OLD 2 FA __ ALL ASMTP AVAILABLE ✅✅✅",
+      "announce": true
     },
     "Kwvk2krKcgsEGXJX01U9nf": {
       "status": "new",
@@ -11983,5 +11986,5 @@
     }
   },
   "total": 1833,
-  "updated": 1794309266149
+  "updated": 1794309278588
 }
