@@ -215,13 +215,14 @@
       "err": "bad-request"
     },
     "Bgk4uxjxudJ2YbNtGqJZdd": {
-      "status": "valid",
-      "time": 1793331242114,
+      "status": "error",
+      "time": 1794279775578,
       "id": "120363414621225406@g.us",
       "name": "GB OPTES REALTIM #1",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LyIfsQ32raiGy9rvBS0cNx": {
       "status": "valid",
@@ -745,6 +746,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279771324,
+  "updated": 1794279776083,
   "total": 90
 }
