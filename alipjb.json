@@ -264,13 +264,14 @@
       "err": "bad-request"
     },
     "LvHhxS21XCM0f23Sah5QfO": {
-      "status": "valid",
-      "time": 1793331262428,
+      "status": "error",
+      "time": 1794279811553,
       "id": "120363411165124782@g.us",
       "name": "GB MARKET ALL GAME | XRC V1",
       "size": 2,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "B99wfy2vfcBJdB2KKVTyB4": {
       "status": "valid",
@@ -749,6 +750,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279807693,
+  "updated": 1794279812042,
   "total": 90
 }
