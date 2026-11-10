@@ -126,8 +126,10 @@
       "name": "Facebook Montization zone"
     },
     "CiorftKwsNHFRGPdqHmzbs": {
-      "status": "new",
-      "time": 1793622094921
+      "status": "pending",
+      "time": 1794280816996,
+      "id": "120363431145309757@g.us",
+      "name": "Email blasting"
     },
     "Gxdb94Xtb7PLHWA3VDUYdc": {
       "status": "new",
@@ -258,6 +260,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280797455,
+  "updated": 1794280817353,
   "total": 55
 }
