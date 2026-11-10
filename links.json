@@ -9331,8 +9331,10 @@
       "err": "bad-request"
     },
     "CCkAbTEW66066N1tBJtaCO": {
-      "status": "new",
-      "time": 1793540636467
+      "status": "joined",
+      "time": 1794308965622,
+      "id": "120363403239803334@g.us",
+      "name": "Farhan Ai Tools Saller✅"
     },
     "InCciuXoGdr6U3cqmgLivn": {
       "status": "new",
@@ -11966,5 +11968,5 @@
     }
   },
   "total": 1837,
-  "updated": 1794308953892
+  "updated": 1794308966937
 }
