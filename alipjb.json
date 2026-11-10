@@ -461,13 +461,14 @@
       "announce": false
     },
     "FKE6WP1e7rb1TgUXnEnG5O": {
-      "status": "valid",
-      "time": 1793331344316,
+      "status": "error",
+      "time": 1794279921701,
       "id": "120363411921291289@g.us",
       "name": "💫 øPrïDä DëäLïnG z∅Në ✨",
       "size": 293,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "CDVqmI2MRIm4Jkcod1dc54": {
       "status": "error",
@@ -765,6 +766,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279917219,
+  "updated": 1794279922051,
   "total": 90
 }
