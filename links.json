@@ -9720,8 +9720,11 @@
       "name": "Distinctive Design®️  |  Deals & Drops"
     },
     "FaSzQxwRyXv4KTaDcyt2vJ": {
-      "status": "new",
-      "time": 1793614528273
+      "status": "tertutup",
+      "time": 1794309982346,
+      "id": "120363416613879067@g.us",
+      "name": "ALI GSM SERVICES",
+      "announce": true
     },
     "BeoKpo9YlFJEnNqXW4uMDT": {
       "status": "new",
@@ -12059,5 +12062,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309957931
+  "updated": 1794309983304
 }
