@@ -406,13 +406,13 @@
       "announce": false
     },
     "BTUnuRB0zNaC1w3T9hCz10": {
-      "status": "valid",
-      "time": 1793331320551,
+      "status": "tertutup",
+      "time": 1794279430513,
       "id": "120363404928000301@g.us",
       "name": "❤️ATIK HASAN NILOY GMAIL BUY GROUP 100% TRUST 🔥",
       "size": 606,
       "approval": false,
-      "announce": false
+      "announce": true
     },
     "K97gpQ7GTgYDYAm29VYEBe": {
       "status": "valid",
@@ -766,6 +766,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1793331457035,
-  "total": 82
+  "updated": 1794279430820,
+  "total": 96
 }
