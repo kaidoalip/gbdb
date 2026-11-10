@@ -165,13 +165,14 @@
       "err": "bad-request"
     },
     "DpjZPYyBHJsH51ykiGtxEi": {
-      "status": "valid",
-      "time": 1793331221551,
+      "status": "error",
+      "time": 1794279749999,
       "id": "120363411617205080@g.us",
       "name": "[TOP UP] KINO STORE GAME || DIGITAL",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Di3ZnQzBp9pA0hkQ9icsJK": {
       "status": "valid",
@@ -749,6 +750,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279745808,
+  "updated": 1794279750541,
   "total": 91
 }
