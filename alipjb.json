@@ -244,13 +244,14 @@
       "announce": false
     },
     "CAAWZffbDnYEJS68uLeGru": {
-      "status": "valid",
-      "time": 1793331255915,
+      "status": "error",
+      "time": 1794279802872,
       "id": "120363430971204361@g.us",
       "name": "GB JB Ozaa[PROSES FMS]",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Fi0BCJ20ZXS0I2JRRQpm27": {
       "status": "valid",
@@ -747,6 +748,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279789495,
+  "updated": 1794279803189,
   "total": 90
 }
