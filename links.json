@@ -9308,8 +9308,9 @@
       "announce": true
     },
     "JYfwvwHpdEoB4mu4s17rBz": {
-      "status": "new",
-      "time": 1793539556465
+      "status": "error",
+      "time": 1794308902631,
+      "err": "bad-request"
     },
     "JnCEA0YUGb30vn1hCVIKXe": {
       "status": "new",
@@ -11963,5 +11964,5 @@
     }
   },
   "total": 1838,
-  "updated": 1794308898591
+  "updated": 1794308903395
 }
