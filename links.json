@@ -9276,8 +9276,10 @@
       "err": "bad-request"
     },
     "EKkqHewjsCpGxg7IRinF6T": {
-      "status": "new",
-      "time": 1793538356841
+      "status": "joined",
+      "time": 1794308856125,
+      "id": "120363431943178715@g.us",
+      "name": "bNexa"
     },
     "Fbbs2rXVKOFLaNmtC5rCmJ": {
       "status": "new",
@@ -11959,5 +11961,5 @@
     }
   },
   "total": 1839,
-  "updated": 1794308850431
+  "updated": 1794308857472
 }
