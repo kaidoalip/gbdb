@@ -274,13 +274,14 @@
       "err": "bad-request"
     },
     "B99wfy2vfcBJdB2KKVTyB4": {
-      "status": "valid",
-      "time": 1793331266658,
+      "status": "error",
+      "time": 1794279816188,
       "id": "120363432847932649@g.us",
       "name": "JB² VINZSTR || REGION JATIM",
       "size": 41,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "JZGYFccZ4Bp631VHNTXCfr": {
       "status": "valid",
@@ -750,6 +751,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279812042,
+  "updated": 1794279816744,
   "total": 90
 }
