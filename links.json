@@ -9594,8 +9594,9 @@
       "name": "HAMID OFFICIAL YT BroadCast🔥😊"
     },
     "LCQVn1Q1bfm8DOBaSFGuIC": {
-      "status": "new",
-      "time": 1793607208462
+      "status": "error",
+      "time": 1794309589220,
+      "err": "bad-request"
     },
     "Ga7I7i572rT0yHd44VYLKD": {
       "status": "new",
@@ -12021,5 +12022,5 @@
     }
   },
   "total": 1833,
-  "updated": 1794309588646
+  "updated": 1794309592036
 }
