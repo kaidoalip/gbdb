@@ -9745,8 +9745,9 @@
       "name": "Corporate, current and saving account work"
     },
     "F6ZiJftmBM92sjaxXzvHYx": {
-      "status": "new",
-      "time": 1793616334981
+      "status": "error",
+      "time": 1794310036676,
+      "err": "bad-request"
     },
     "LkIdbMjCrT2Gz99NWFB1Tr": {
       "status": "new",
@@ -12068,5 +12069,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794310021207
+  "updated": 1794310037995
 }
