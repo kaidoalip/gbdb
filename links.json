@@ -9526,8 +9526,11 @@
       "announce": true
     },
     "IsCbTZPK1U2CoxlFT3fivG": {
-      "status": "new",
-      "time": 1793604568138
+      "status": "tertutup",
+      "time": 1794309437461,
+      "id": "120363426664314320@g.us",
+      "name": "𝗦𝗔𝗗𝗔𝗤𝗔𝗧 𝗧𝗥𝗨𝗦𝗧𝗘𝗗 𝗦𝗘𝗟𝗟𝗘𝗥 🔥",
+      "announce": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
       "status": "new",
@@ -11993,5 +11996,5 @@
     }
   },
   "total": 1831,
-  "updated": 1794309426329
+  "updated": 1794309438426
 }
