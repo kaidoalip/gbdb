@@ -9533,8 +9533,10 @@
       "announce": true
     },
     "BDjDcuIbDB5B5tQWlF8v9K": {
-      "status": "new",
-      "time": 1793605048164
+      "status": "joined",
+      "time": 1794309453715,
+      "id": "120363421225872930@g.us",
+      "name": "All Service Provider 💝"
     },
     "GHqwQSdW8R0KrvwwhhVIeO": {
       "status": "new",
@@ -11996,5 +11998,5 @@
     }
   },
   "total": 1831,
-  "updated": 1794309438426
+  "updated": 1794309454105
 }
