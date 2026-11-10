@@ -195,13 +195,14 @@
       "err": "bad-request"
     },
     "JzKrKjFq3k8JmuFGn7RNAr": {
-      "status": "valid",
-      "time": 1793331236126,
+      "status": "error",
+      "time": 1794279766749,
       "id": "120363431164107919@g.us",
       "name": "Gorengan|gumoo👑",
       "size": 3,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "DbQPfncWX1818sEa2IvG2C": {
       "status": "valid",
@@ -743,6 +744,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279763136,
+  "updated": 1794279767154,
   "total": 90
 }
