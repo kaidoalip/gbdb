@@ -442,13 +442,14 @@
       "announce": false
     },
     "BlzraQOYngiALDNxQdrvDc": {
-      "status": "valid",
-      "time": 1793331334890,
+      "status": "error",
+      "time": 1794279916898,
       "id": "120363298751876863@g.us",
       "name": "BM verified FB buy sell",
       "size": 925,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "EsM1dpSMdYnCThslsNKcCW": {
       "status": "joined",
@@ -764,6 +765,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279901252,
+  "updated": 1794279917219,
   "total": 90
 }
