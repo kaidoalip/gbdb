@@ -9287,8 +9287,10 @@
       "err": "bad-request"
     },
     "IJJgNyME5pzAeEuuGDlfMG": {
-      "status": "new",
-      "time": 1793538356841
+      "status": "joined",
+      "time": 1794308866751,
+      "id": "120363430711912455@g.us",
+      "name": "Buying and selling group"
     },
     "J7d28vVxsZN0xsbgFp1qvS": {
       "status": "new",
@@ -11962,5 +11964,5 @@
     }
   },
   "total": 1839,
-  "updated": 1794308861054
+  "updated": 1794308867303
 }
