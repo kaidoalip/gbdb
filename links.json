@@ -8109,13 +8109,13 @@
     },
     "LEUSzJ5vvYABHaCY6AZ3fP": {
       "status": "error",
-      "time": 1794025758395,
+      "time": 1794279236673,
       "id": "120363427097810401@g.us",
       "name": "Buy • Sell • Exchange tench Rawalpindi Pakistan",
       "size": 360,
       "approval": false,
       "announce": false,
-      "err": "growth-locked"
+      "err": "bad-request"
     },
     "CjQUYwzzGBlIuLsdqFgtAT": {
       "status": "joined",
@@ -11930,5 +11930,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794279232481
+  "updated": 1794279237518
 }
