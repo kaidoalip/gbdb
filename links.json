@@ -9151,8 +9151,11 @@
       "name": "𝘼𝙝𝙢𝙚𝙧 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝘼𝙜𝙚𝙣𝙘𝙮"
     },
     "HRuWvNE1djvElIy9bvIAdY": {
-      "status": "new",
-      "time": 1793532116232
+      "status": "tertutup",
+      "time": 1794308544847,
+      "id": "120363412724596577@g.us",
+      "name": "TechByRash",
+      "announce": true
     },
     "JQByRlc6jAFIAhwVyDwbAD": {
       "status": "new",
@@ -11946,5 +11949,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794308521026
+  "updated": 1794308545403
 }
