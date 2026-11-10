@@ -9126,8 +9126,11 @@
       "name": "We are Buying AWS/Azure/GCP"
     },
     "JqbbA9TnNadDHuihHBBLCP": {
-      "status": "new",
-      "time": 1793530076055
+      "status": "tertutup",
+      "time": 1794308466797,
+      "id": "120363411760396775@g.us",
+      "name": "𝐆𝐂 𝐊𝐄𝐃𝐔𝐀 𝐄𝐗𝐂 𝐔𝐓𝐀𝐌𝐀",
+      "announce": true
     },
     "E4HXyVy1cEUAMlchOjOhHx": {
       "status": "new",
@@ -11937,5 +11940,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794308442352
+  "updated": 1794308468153
 }
