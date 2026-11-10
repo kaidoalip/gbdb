@@ -314,13 +314,14 @@
       "err": "bad-request"
     },
     "Cro3dYi5qRgCO7fx2wX3zq": {
-      "status": "valid",
-      "time": 1793331283959,
+      "status": "error",
+      "time": 1794279834323,
       "id": "120363398142536874@g.us",
       "name": "𝐆𝐁 𝐈𝐍𝐅𝐎 𝐅𝐓 𝐂𝐒 𝟓𝟎𝟎 - 𝟓𝐊 𝐊𝐀𝐙𝐄𝐎 #𝟏",
       "size": 333,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IQmFppEf5y441hp9kfBCE4": {
       "status": "valid",
@@ -754,6 +755,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279830582,
+  "updated": 1794279834822,
   "total": 90
 }
