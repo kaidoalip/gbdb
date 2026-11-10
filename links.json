@@ -9133,8 +9133,10 @@
       "announce": true
     },
     "E4HXyVy1cEUAMlchOjOhHx": {
-      "status": "new",
-      "time": 1793530316727
+      "status": "pending",
+      "time": 1794308478727,
+      "id": "120363420301759118@g.us",
+      "name": "THE GADGET TROVE COMPANY ❤️"
     },
     "I9etjn8Xn4wIbUGRxtjW76": {
       "status": "new",
@@ -11940,5 +11942,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794308468153
+  "updated": 1794308479920
 }
