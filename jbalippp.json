@@ -120,8 +120,10 @@
       "err": "bad-request"
     },
     "I2o8XJ7thUF2718TeCx7Te": {
-      "status": "new",
-      "time": 1793620894932
+      "status": "joined",
+      "time": 1794280797167,
+      "id": "120363431622493821@g.us",
+      "name": "Facebook Montization zone"
     },
     "CiorftKwsNHFRGPdqHmzbs": {
       "status": "new",
@@ -256,6 +258,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280786593,
+  "updated": 1794280797455,
   "total": 55
 }
