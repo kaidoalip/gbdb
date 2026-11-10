@@ -619,13 +619,14 @@
       "err": "bad-request"
     },
     "F3KEBSKUyAZFj2SrYNSYOD": {
-      "status": "valid",
-      "time": 1793331418196,
+      "status": "error",
+      "time": 1794280029276,
       "id": "120363411853172858@g.us",
       "name": "ZAHIR ACCOUNTS VERIFICATION",
       "size": 387,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Jcfq748tac3B5fxpZ8Lebt": {
       "status": "valid",
@@ -771,6 +772,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794280025149,
+  "updated": 1794280029616,
   "total": 90
 }
