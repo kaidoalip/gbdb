@@ -333,13 +333,14 @@
       "announce": false
     },
     "Ldvk2KkqyX77cipmIdb5hY": {
-      "status": "valid",
-      "time": 1793331291048,
+      "status": "error",
+      "time": 1794279856880,
       "id": "120363411019226480@g.us",
       "name": "MARKET KARLZ POINT",
       "size": 214,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "G2lstCfE3KB9enaxu09pOO": {
       "status": "valid",
@@ -755,6 +756,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279843573,
+  "updated": 1794279857440,
   "total": 90
 }
