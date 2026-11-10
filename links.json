@@ -9240,8 +9240,11 @@
       "err": "bad-request"
     },
     "GR3GYx5nmXs5vDM1I30DBU": {
-      "status": "new",
-      "time": 1793536796366
+      "status": "tertutup",
+      "time": 1794308748866,
+      "id": "120363430463348303@g.us",
+      "name": "🅱️💪❤️ استاد سفر گانا گروپ❤️👉🇵🇰",
+      "announce": true
     },
     "CozegYdpVUw61NkWAQgLkq": {
       "status": "new",
@@ -11951,5 +11954,5 @@
     }
   },
   "total": 1840,
-  "updated": 1794308736941
+  "updated": 1794308750908
 }
