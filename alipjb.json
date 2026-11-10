@@ -194,15 +194,6 @@
       "announce": false,
       "err": "bad-request"
     },
-    "CzGHIeN39hiJwQS3322mOp": {
-      "status": "valid",
-      "time": 1793331232404,
-      "id": "120363410668844433@g.us",
-      "name": "𝙎𝙩𝙤𝙠 𝙧𝙚𝙘𝙚𝙝 𝙕𝙖𝙣𝙕𝙯",
-      "size": 68,
-      "approval": true,
-      "announce": false
-    },
     "JzKrKjFq3k8JmuFGn7RNAr": {
       "status": "valid",
       "time": 1793331236126,
@@ -752,6 +743,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279758420,
-  "total": 91
+  "updated": 1794279763136,
+  "total": 90
 }
