@@ -353,13 +353,14 @@
       "err": "bad-request"
     },
     "E4OS9Es5Oiw7d3QUDfrx8x": {
-      "status": "valid",
-      "time": 1793331297833,
+      "status": "error",
+      "time": 1794279865887,
       "id": "120363412160181808@g.us",
       "name": "#1 InVault | JB AKUN GAME",
       "size": 44,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "EgGD8vHBTCg5LjzXFKPXgP": {
       "status": "valid",
@@ -757,6 +758,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279861750,
+  "updated": 1794279866412,
   "total": 90
 }
