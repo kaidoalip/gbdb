@@ -205,13 +205,14 @@
       "err": "bad-request"
     },
     "DbQPfncWX1818sEa2IvG2C": {
-      "status": "valid",
-      "time": 1793331239454,
+      "status": "error",
+      "time": 1794279771025,
       "id": "120363423729651548@g.us",
       "name": "MARKET || ☆ KENZ STORE V3 ☆",
       "size": 70,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Bgk4uxjxudJ2YbNtGqJZdd": {
       "status": "valid",
@@ -744,6 +745,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279767154,
+  "updated": 1794279771324,
   "total": 90
 }
