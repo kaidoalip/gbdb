@@ -9519,8 +9519,11 @@
       "err": "bad-request"
     },
     "JxEQK1RKSbuKQAOvkbbs2G": {
-      "status": "new",
-      "time": 1793604207938
+      "status": "tertutup",
+      "time": 1794309418284,
+      "id": "120363415129018045@g.us",
+      "name": "Tokan Saller and buyyer",
+      "announce": true
     },
     "BsrQabq2HHc0dz26qsGFus": {
       "status": "new",
@@ -11994,5 +11997,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309407219
+  "updated": 1794309418833
 }
