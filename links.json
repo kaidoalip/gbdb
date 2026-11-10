@@ -9739,8 +9739,10 @@
       "err": "bad-request"
     },
     "HpWjtShrMG483oE4HGvrc2": {
-      "status": "new",
-      "time": 1793616214690
+      "status": "joined",
+      "time": 1794310019865,
+      "id": "120363432607143485@g.us",
+      "name": "Corporate, current and saving account work"
     },
     "F6ZiJftmBM92sjaxXzvHYx": {
       "status": "new",
@@ -12066,5 +12068,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794310007576
+  "updated": 1794310021207
 }
