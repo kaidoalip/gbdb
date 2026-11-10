@@ -9120,8 +9120,10 @@
       "announce": true
     },
     "DtYIfy5yOpq1FNoKn3mw6v": {
-      "status": "new",
-      "time": 1793529956443
+      "status": "joined",
+      "time": 1794308441405,
+      "id": "120363413237153270@g.us",
+      "name": "We are Buying AWS/Azure/GCP"
     },
     "JqbbA9TnNadDHuihHBBLCP": {
       "status": "new",
@@ -11935,5 +11937,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794308426382
+  "updated": 1794308442352
 }
