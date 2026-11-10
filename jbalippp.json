@@ -218,8 +218,11 @@
       "err": "growth-locked"
     },
     "EVwsIBF3hazF1Ylm04xfd2": {
-      "status": "new",
-      "time": 1793676935679
+      "status": "tertutup",
+      "time": 1794281074244,
+      "id": "120363422208001830@g.us",
+      "name": "Dara Brand Aram's delivery all Pakistan",
+      "announce": true
     },
     "B5kuE2LAMQmFWIBSc1qjnS": {
       "status": "new",
@@ -278,6 +281,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794281063330,
+  "updated": 1794281074717,
   "total": 53
 }
