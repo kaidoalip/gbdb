@@ -639,13 +639,14 @@
       "err": "bad-request"
     },
     "L7wLuBdf0ktEJg7vBpvPfF": {
-      "status": "valid",
-      "time": 1793331425831,
+      "status": "error",
+      "time": 1794280037977,
       "id": "120363411828642320@g.us",
       "name": "ZAHIR REMOTASK GROUP",
       "size": 47,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "IxcHuLKGhXP05XTsPp6Ar5": {
       "status": "error",
@@ -773,6 +774,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794280034031,
+  "updated": 1794280038467,
   "total": 90
 }
