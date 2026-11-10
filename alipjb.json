@@ -731,8 +731,10 @@
       "err": "bad-request"
     },
     "EHQEwDg7jbm4RoaIyAbR5q": {
-      "status": "new",
-      "time": 1793333158727
+      "status": "joined",
+      "time": 1794279712728,
+      "id": "120363427703862229@g.us",
+      "name": "👑 NEXVORA | DIGITAL MARKETING 🚀💻✨"
     },
     "GpWBShYa6QWL2tNbjmkZWD": {
       "status": "new",
@@ -743,6 +745,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279701875,
+  "updated": 1794279713058,
   "total": 91
 }
