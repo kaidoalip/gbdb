@@ -9702,8 +9702,10 @@
       "err": "already-exists"
     },
     "ItPc0KvnbYMDEpnyKNP247": {
-      "status": "new",
-      "time": 1793611648315
+      "status": "pending",
+      "time": 1794309910077,
+      "id": "120363284660694955@g.us",
+      "name": "بزنس فورم"
     },
     "HuIcONs7Az9DuRjrG2y2SZ": {
       "status": "new",
@@ -12053,5 +12055,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309889092
+  "updated": 1794309911426
 }
