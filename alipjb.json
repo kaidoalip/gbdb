@@ -496,13 +496,14 @@
       "name": "FINVORA"
     },
     "KDxoFEFRUuhJnkRamyIkIG": {
-      "status": "valid",
-      "time": 1793331361367,
+      "status": "error",
+      "time": 1794279944869,
       "id": "120363432662174464@g.us",
       "name": "Global Gift Card Network🇺🇸",
       "size": 138,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "FYHiliNV1f2DQFkKZqk66d": {
       "status": "valid",
@@ -766,6 +767,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279931347,
+  "updated": 1794279945185,
   "total": 90
 }
