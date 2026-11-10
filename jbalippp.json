@@ -145,8 +145,10 @@
       "announce": true
     },
     "EVRLiZiOP8e9qjYTv1eP49": {
-      "status": "new",
-      "time": 1793626894949
+      "status": "pending",
+      "time": 1794280872693,
+      "id": "120363412777295373@g.us",
+      "name": "TT tp tn tf sl gv buy sell gurup"
     },
     "LE13nZvf5PW7szcPpmkOCd": {
       "status": "new",
@@ -265,6 +267,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280862236,
+  "updated": 1794280873001,
   "total": 55
 }
