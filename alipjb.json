@@ -515,13 +515,14 @@
       "announce": false
     },
     "JZvhSx9abwZCse4X9GsMx9": {
-      "status": "valid",
-      "time": 1793331366996,
+      "status": "error",
+      "time": 1794279968172,
       "id": "120363410890858614@g.us",
       "name": "JB ALL Game || SAMORA #1",
       "size": 302,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Gl23DlgsVSe6pu7DoJmFa7": {
       "status": "valid",
@@ -767,6 +768,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279954653,
+  "updated": 1794279968496,
   "total": 90
 }
