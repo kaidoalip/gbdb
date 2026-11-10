@@ -3772,7 +3772,7 @@
     },
     "EI6iW8qbXbn6RKyUrANDRt": {
       "status": "error",
-      "time": 1794278757502,
+      "time": 1794307419675,
       "id": "120363429334109377@g.us",
       "name": "GSM MASTER",
       "size": 170,
@@ -11930,5 +11930,5 @@
     }
   },
   "total": 1845,
-  "updated": 1794307414745
+  "updated": 1794307420233
 }
