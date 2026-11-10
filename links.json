@@ -9671,8 +9671,11 @@
       "err": "already-exists"
     },
     "HG2map5YK9zFXECh0GdLlR": {
-      "status": "new",
-      "time": 1793611288811
+      "status": "joined",
+      "time": 1794309823262,
+      "id": "120363410868548196@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟰",
+      "err": "already-exists"
     },
     "LAXwFJ08FQeAkq3wDkq0Am": {
       "status": "new",
@@ -12042,5 +12045,5 @@
     }
   },
   "total": 1832,
-  "updated": 1794309801853
+  "updated": 1794309823664
 }
