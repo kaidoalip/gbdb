@@ -79,8 +79,9 @@
       "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟴"
     },
     "JXmhUTXwpwQ6UwIaRl9QJv": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "error",
+      "time": 1794280728252,
+      "err": "bad-request"
     },
     "Duptnh9IAQcE4xyyVBEHlV": {
       "status": "new",
@@ -247,6 +248,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280715678,
+  "updated": 1794280728614,
   "total": 56
 }
