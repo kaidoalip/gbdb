@@ -33,8 +33,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗞𝗜𝗜 𝗩𝟭"
     },
     "BUx708nn5c3KFeGtMscajT": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "pending",
+      "time": 1794280609182,
+      "id": "120363429380259943@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟭"
     },
     "LWHap8FVRCVHIcDwMwMrxa": {
       "status": "new",
@@ -233,6 +235,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280600748,
+  "updated": 1794280609486,
   "total": 56
 }
