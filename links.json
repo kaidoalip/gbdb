@@ -9649,34 +9649,6 @@
       "id": "120363403958552786@g.us",
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗞𝗜𝗜 𝗩𝟭"
     },
-    "BUx708nn5c3KFeGtMscajT": {
-      "status": "joined",
-      "time": 1794309753045,
-      "id": "120363429380259943@g.us",
-      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟭",
-      "err": "already-exists"
-    },
-    "LWHap8FVRCVHIcDwMwMrxa": {
-      "status": "joined",
-      "time": 1794309777053,
-      "id": "120363427581336345@g.us",
-      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟮",
-      "err": "already-exists"
-    },
-    "EMhuD50Wey7KFqvxHBAw0X": {
-      "status": "joined",
-      "time": 1794309801022,
-      "id": "120363403246070445@g.us",
-      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟯",
-      "err": "already-exists"
-    },
-    "HG2map5YK9zFXECh0GdLlR": {
-      "status": "joined",
-      "time": 1794309823262,
-      "id": "120363410868548196@g.us",
-      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟰",
-      "err": "already-exists"
-    },
     "LAXwFJ08FQeAkq3wDkq0Am": {
       "status": "error",
       "time": 1794314488927,
@@ -9686,20 +9658,6 @@
       "status": "error",
       "time": 1794314495145,
       "err": "bad-request"
-    },
-    "BeysggxIoQr6M2hh6gLynE": {
-      "status": "joined",
-      "time": 1794309858834,
-      "id": "120363413625160172@g.us",
-      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟳",
-      "err": "already-exists"
-    },
-    "GCJW0p4R13K1mIdTYsvGLE": {
-      "status": "joined",
-      "time": 1794309887437,
-      "id": "120363413888786768@g.us",
-      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟴",
-      "err": "already-exists"
     },
     "ItPc0KvnbYMDEpnyKNP247": {
       "status": "joined",
@@ -12242,6 +12200,6 @@
       "time": 1794319669351
     }
   },
-  "total": 1873,
-  "updated": 1794319669351
+  "total": 1867,
+  "updated": 1794319693022
 }
