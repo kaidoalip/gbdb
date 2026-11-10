@@ -9230,8 +9230,9 @@
       "name": "𝙂𝘽 || 𝙏𝙀𝙍𝘽𝙐𝙆𝘼 𝙐𝙐𝘾𝙐𝙋 𝙅𝘼𝙏𝙄𝙈¹"
     },
     "FXb6oHzHNfvLOk99krDUrx": {
-      "status": "new",
-      "time": 1793536316638
+      "status": "error",
+      "time": 1794308729795,
+      "err": "bad-request"
     },
     "EEJnpydQFBVDg6ccRyHVQP": {
       "status": "new",
@@ -11949,5 +11950,5 @@
     }
   },
   "total": 1840,
-  "updated": 1794308714643
+  "updated": 1794308731139
 }
