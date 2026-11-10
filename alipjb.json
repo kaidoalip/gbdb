@@ -535,13 +535,14 @@
       "err": "bad-request"
     },
     "LfG72NmzlOPHYzKqX0GtT3": {
-      "status": "valid",
-      "time": 1793331375086,
+      "status": "error",
+      "time": 1794279977078,
       "id": "120363410528983253@g.us",
       "name": "JB DANZ X STORE // MENJUAL SEGALA JENIS GAME",
       "size": 199,
       "approval": true,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "Ji1HWKtc4wM1LgzwGilZgZ": {
       "status": "valid",
@@ -769,6 +770,6 @@
       "err": "bad-request"
     }
   },
-  "updated": 1794279972847,
+  "updated": 1794279977449,
   "total": 90
 }
