@@ -651,13 +651,14 @@
       "announce": false
     },
     "CxkGTvimlrsI9zObPSow1N": {
-      "status": "valid",
-      "time": 1793331445991,
+      "status": "error",
+      "time": 1794279579883,
       "id": "120363431436916421@g.us",
       "name": "Only 3D loaders",
       "size": 46,
       "approval": false,
-      "announce": false
+      "announce": false,
+      "err": "bad-request"
     },
     "LRCQOXCUAZR6oNT9ugjLpb": {
       "status": "komunitas",
@@ -726,6 +727,6 @@
       "time": 1793333278726
     }
   },
-  "updated": 1794279574878,
+  "updated": 1794279580200,
   "total": 91
 }
