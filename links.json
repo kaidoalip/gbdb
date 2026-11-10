@@ -9165,8 +9165,11 @@
       "announce": true
     },
     "Lr5SWk1ywt3DJc7DSfl32j": {
-      "status": "new",
-      "time": 1793532476579
+      "status": "tertutup",
+      "time": 1794308583710,
+      "id": "120363429762868936@g.us",
+      "name": "𝐊𝐈𝐃𝐒 𝐋𝐀𝐍𝐃",
+      "announce": true
     },
     "HbfK4irbbmWDu8N63Re5fE": {
       "status": "new",
@@ -11948,5 +11951,5 @@
     }
   },
   "total": 1844,
-  "updated": 1794308570913
+  "updated": 1794308584690
 }
