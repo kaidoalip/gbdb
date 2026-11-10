@@ -178,8 +178,10 @@
       "name": "S_K_Zone"
     },
     "Cvwlblk6Q5i6wNPhy1jVCS": {
-      "status": "new",
-      "time": 1793643815359
+      "status": "pending",
+      "time": 1794280948120,
+      "id": "120363324074443704@g.us",
+      "name": "PRIME ASSET MANAGEMENT"
     },
     "GaulBx8R5kcFP7GhG471bC": {
       "status": "new",
@@ -270,6 +272,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280939736,
+  "updated": 1794280948450,
   "total": 54
 }
