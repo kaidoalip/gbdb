@@ -39,8 +39,8 @@
     },
     "Duptnh9IAQcE4xyyVBEHlV": {
       "status": "error",
-      "time": 1793764154390,
-      "err": "growth-locked"
+      "time": 1794279374720,
+      "err": "bad-request"
     },
     "I14wavpiZNT6X8aGY62Qm1": {
       "status": "joined",
@@ -741,6 +741,6 @@
       "name": "Bayxz JB || ALL GAME"
     }
   },
-  "updated": 1793764634440,
+  "updated": 1794279375000,
   "total": 122
 }
