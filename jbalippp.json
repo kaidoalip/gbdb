@@ -67,8 +67,10 @@
       "err": "bad-request"
     },
     "BeysggxIoQr6M2hh6gLynE": {
-      "status": "new",
-      "time": 1793619423586
+      "status": "pending",
+      "time": 1794280698366,
+      "id": "120363413625160172@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟳"
     },
     "GCJW0p4R13K1mIdTYsvGLE": {
       "status": "new",
@@ -243,6 +245,6 @@
       "time": 1793704416166
     }
   },
-  "updated": 1794280689664,
+  "updated": 1794280698701,
   "total": 56
 }
