@@ -3620,15 +3620,6 @@
       "approval": true,
       "announce": false
     },
-    "JSGuqHtu7J45s47KogZMlR": {
-      "status": "joined",
-      "time": 1794018991664,
-      "id": "120363431603617569@g.us",
-      "name": "ضلع تلاگنگ اعواناں دا گروپ راولپنڈی ڈویژن",
-      "size": 94,
-      "approval": false,
-      "announce": false
-    },
     "Lx8cG6ur61IIznxZwhvqOs": {
       "status": "pending",
       "time": 1793407746788,
@@ -4563,15 +4554,6 @@
     "JiZrEMKt5k58xO6gPZUulL": {
       "status": "expired",
       "time": 1793244133312
-    },
-    "FmAH50J0p27IvuwHMxfgdD": {
-      "status": "joined",
-      "time": 1794020508277,
-      "id": "120363429713897019@g.us",
-      "name": "PakistanTehreek-E-Insaf",
-      "size": 515,
-      "approval": false,
-      "announce": false
     },
     "F8FfAeshA7SAWlHvSdqkwT": {
       "status": "expired",
@@ -12237,6 +12219,6 @@
       "time": 1794352912134
     }
   },
-  "total": 1928,
-  "updated": 1794559587533
+  "total": 1926,
+  "updated": 1794559589079
 }
