@@ -11,8 +11,10 @@
       "time": 1794652803906
     },
     "JgmxWGl3sBeFk2OeGIAPCv": {
-      "status": "new",
-      "time": 1794652803906
+      "status": "pending",
+      "time": 1794652813286,
+      "id": "120363157930495500@g.us",
+      "name": "MOBILE DEPO 🍇 CLAIM 🍇 PROCESSING 🌀 DATA "
     },
     "JNXA7HjGrKC04MSmS9IP3H": {
       "status": "new",
@@ -55,6 +57,6 @@
       "time": 1794652803906
     }
   },
-  "updated": 1794652806595,
+  "updated": 1794652813487,
   "total": 13
 }
