@@ -1,8 +1,10 @@
 {
   "links": {
     "C5VmJHdpsP7Gn9L7wGemja": {
-      "status": "new",
-      "time": 1794652803906
+      "status": "joined",
+      "time": 1794652806417,
+      "id": "120363403726613720@g.us",
+      "name": "Buy and Sell Cloud Mart"
     },
     "DBoGsnErOmS17mQvfWyeZy": {
       "status": "new",
@@ -53,6 +55,6 @@
       "time": 1794652803906
     }
   },
-  "updated": 1794652803906,
+  "updated": 1794652806595,
   "total": 13
 }
