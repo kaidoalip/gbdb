@@ -467,8 +467,10 @@
       "name": "STOK UTAMA DIMAS 🗿"
     },
     "EMYuXBNXSyJ17eK4okAuBY": {
-      "status": "new",
-      "time": 1794749331549
+      "status": "pending",
+      "time": 1794750703506,
+      "id": "120363428900252442@g.us",
+      "name": "STOK RESS 1 DIMAS"
     },
     "H1FvuwTtUKJ0gcN70JuDrP": {
       "status": "new",
@@ -1211,6 +1213,6 @@
       "time": 1794750651585
     }
   },
-  "updated": 1794750683621,
+  "updated": 1794750703725,
   "total": 264
 }
