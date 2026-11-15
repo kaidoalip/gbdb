@@ -937,8 +937,10 @@
       "name": "SANTIAGO ALLBASE"
     },
     "EWrdvBLebKuJSJLxj7MG8y": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784592601,
+      "id": "120363431055335452@g.us",
+      "name": "INFO FT BR BY OKKHA #2"
     },
     "DXNksSR5iCmJvVnJsUWG1E": {
       "status": "new",
@@ -2765,6 +2767,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784572422,
+  "updated": 1794784592834,
   "total": 615
 }
