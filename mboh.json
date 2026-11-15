@@ -860,8 +860,10 @@
       "name": "[ Information ¿ FALZZbug ]"
     },
     "LcloMbV1RVSBcs6kkF0HVv": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784338453,
+      "id": "120363414975613733@g.us",
+      "name": "NDRA FT CS"
     },
     "Do4EGGkdnD34Q6gMwdznGO": {
       "status": "new",
@@ -2656,6 +2658,6 @@
       "time": 1794784159975
     }
   },
-  "updated": 1794784317519,
+  "updated": 1794784338752,
   "total": 594
 }
