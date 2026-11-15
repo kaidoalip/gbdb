@@ -878,8 +878,10 @@
       "name": "22 LACAK 3+ #BANGDEP"
     },
     "EbY64KdAx2hJfsIgS8Dxrc": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784400298,
+      "id": "120363428359962236@g.us",
+      "name": "FT CS FADIL 500P-5K #1"
     },
     "LYxE9CYUR7BI5K3cfEegKY": {
       "status": "new",
@@ -2750,6 +2752,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784380803,
+  "updated": 1794784400801,
   "total": 616
 }
