@@ -955,8 +955,10 @@
       "name": "FT CS 500P-5K | BY WINZZ"
     },
     "K4YbcD61GLc47BfaNjDsEd": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784659997,
+      "id": "120363429674728443@g.us",
+      "name": "FT CEES BY ZA UTAMA"
     },
     "GzneQrzMUaX8h0AxCEtOOo": {
       "status": "new",
@@ -2771,6 +2773,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784636631,
+  "updated": 1794784660238,
   "total": 615
 }
