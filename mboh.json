@@ -407,8 +407,10 @@
       "name": "ROOM⁵ ALL GAME LEEN STORE X JAKSEL"
     },
     "KvNu3OBG6Ld1pXTU178q4p": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750502976,
+      "id": "120363432033142170@g.us",
+      "name": "ROOM⁷ || LEEN STORE X JAKSEL"
     },
     "JcMpTrV8dcaELeNgb8YrIw": {
       "status": "new",
@@ -987,6 +989,6 @@
       "time": 1794750291570
     }
   },
-  "updated": 1794750484690,
+  "updated": 1794750503174,
   "total": 213
 }
