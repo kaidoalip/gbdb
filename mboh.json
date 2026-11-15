@@ -56,8 +56,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗥𝗬𝗔 𝟯"
     },
     "Km7cBd4pv7WCIdbSPuXKdu": {
-      "status": "new",
-      "time": 1794724717743
+      "status": "pending",
+      "time": 1794749211549,
+      "id": "120363429949855659@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗥𝗬𝗔 𝟰"
     },
     "J4igdB2seSx7VD3SUVUkAj": {
       "status": "new",
@@ -348,6 +350,6 @@
       "time": 1794749156759
     }
   },
-  "updated": 1794749194511,
+  "updated": 1794749211782,
   "total": 82
 }
