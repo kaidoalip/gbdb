@@ -413,8 +413,10 @@
       "name": "ROOM⁷ || LEEN STORE X JAKSEL"
     },
     "JcMpTrV8dcaELeNgb8YrIw": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794750521820,
+      "id": "120363414705381678@g.us",
+      "name": "STOK⁸ || LEEN X PP BOMEL SEMVAK"
     },
     "BaBwPtf8nUN6usfZneBaj2": {
       "status": "new",
@@ -989,6 +991,6 @@
       "time": 1794750291570
     }
   },
-  "updated": 1794750503174,
+  "updated": 1794750522032,
   "total": 213
 }
