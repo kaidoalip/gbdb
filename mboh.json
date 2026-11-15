@@ -519,12 +519,6 @@
       "time": 1794752122901,
       "err": "bad-request"
     },
-    "GZKQm4LxKhv3wPmUF0IX2w": {
-      "status": "pending",
-      "time": 1794752130551,
-      "id": "120363410533943959@g.us",
-      "name": "GROUP 8 OFFICIAL ZEKAIS"
-    },
     "IGrZ9kYNl4q3CuVSn6LSI6": {
       "status": "error",
       "time": 1794752148209,
@@ -2292,6 +2286,6 @@
       "time": 1794757851662
     }
   },
-  "updated": 1794757851662,
-  "total": 504
+  "updated": 1794757901809,
+  "total": 503
 }
