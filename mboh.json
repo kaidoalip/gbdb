@@ -943,8 +943,10 @@
       "name": "INFO FT BR BY OKKHA #2"
     },
     "DXNksSR5iCmJvVnJsUWG1E": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784616826,
+      "id": "120363412887808164@g.us",
+      "name": "INFO FT BY OKKHA #1"
     },
     "B9bFLYnZEWGGX5rU4dPuX2": {
       "status": "new",
@@ -2767,6 +2769,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784612152,
+  "updated": 1794784617359,
   "total": 615
 }
