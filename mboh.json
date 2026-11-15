@@ -590,8 +590,9 @@
       "name": "BOSS FAZRI STORE || JB EPEP"
     },
     "LndwwdEe988F01FSUVsE5o": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "error",
+      "time": 1794752307440,
+      "err": "bad-request"
     },
     "JuB7NiuVYM4DulO6rheYXp": {
       "status": "new",
@@ -1510,6 +1511,6 @@
       "time": 1794752211647
     }
   },
-  "updated": 1794752294366,
+  "updated": 1794752307649,
   "total": 329
 }
