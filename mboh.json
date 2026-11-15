@@ -825,8 +825,10 @@
       "name": "STOK OWN/PARTNER AJii Z STORE 3"
     },
     "JytpcbjK47KFLI5g0vFmak": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753113865,
+      "id": "120363410194332099@g.us",
+      "name": "GB FT BRAWEL SIMOL #4"
     },
     "Fg1Z0xTKlv0I27E1cwrvWz": {
       "status": "new",
@@ -1685,6 +1687,6 @@
       "time": 1794753051542
     }
   },
-  "updated": 1794753090348,
+  "updated": 1794753114073,
   "total": 354
 }
