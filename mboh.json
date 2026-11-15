@@ -365,8 +365,10 @@
       "name": "GB FINZ STR JABAR #1"
     },
     "HPyG5FmeqvJHWAfLt2GKIs": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750359515,
+      "id": "120363429582859081@g.us",
+      "name": "𝐆𝐂 𝐔𝐓𝐀𝐌𝐀 𝐄𝐗𝐂 (𝐍𝐄𝐖)"
     },
     "CanbzjN8nwJINI4JSld2dM": {
       "status": "new",
@@ -981,6 +983,6 @@
       "time": 1794750291570
     }
   },
-  "updated": 1794750340171,
+  "updated": 1794750359737,
   "total": 215
 }
