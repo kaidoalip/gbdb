@@ -630,8 +630,10 @@
       "name": "FT CS PEPENG KAIZHEN #1"
     },
     "LhwaYeQ3PQUASp89oU1if9": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752431688,
+      "id": "120363411653717558@g.us",
+      "name": "GB FT CS KAIZHEN #1"
     },
     "HaYIzQgbBZs4l5ffJzqW6Z": {
       "status": "new",
@@ -1530,6 +1532,6 @@
       "time": 1794752331756
     }
   },
-  "updated": 1794752408174,
+  "updated": 1794752431968,
   "total": 331
 }
