@@ -1109,8 +1109,10 @@
       "name": "KOMUNITAS MBR RZY"
     },
     "KnL0kYAkzL07d3iqJ5AvhN": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "joined",
+      "time": 1794785269059,
+      "id": "120363428349493091@g.us",
+      "name": "KOMUNITAS MBR RZ"
     },
     "LuSXdqFWjdFJ21dYC2o0WG": {
       "status": "new",
@@ -2845,6 +2847,6 @@
       "time": 1794785212497
     }
   },
-  "updated": 1794785243482,
+  "updated": 1794785269344,
   "total": 621
 }
