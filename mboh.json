@@ -761,8 +761,10 @@
       "name": "GC STOCK HAMZA STOR⁰¹"
     },
     "E88UBH7iuE3CKV7OJn9Emo": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752903574,
+      "id": "120363413431472873@g.us",
+      "name": "GB JB ALL GAME || RESS STORE"
     },
     "KvGmj0JqHfUD5Lqc5ZS1fw": {
       "status": "new",
@@ -1597,6 +1599,6 @@
       "time": 1794752814293
     }
   },
-  "updated": 1794752895383,
+  "updated": 1794752903766,
   "total": 337
 }
