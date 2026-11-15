@@ -8,8 +8,11 @@
       "err": "already-exists"
     },
     "HJesOUTay99EC5IshHBjm9": {
-      "status": "new",
-      "time": 1794723637745
+      "status": "tertutup",
+      "time": 1794723712166,
+      "id": "120363428476744376@g.us",
+      "name": "GC UTAMA JANZ SERANG V2",
+      "announce": true
     },
     "HRFCMsmpnbNBfRDT2OJNoa": {
       "status": "new",
@@ -20,6 +23,6 @@
       "time": 1794723637745
     }
   },
-  "updated": 1794723689229,
+  "updated": 1794723712383,
   "total": 4
 }
