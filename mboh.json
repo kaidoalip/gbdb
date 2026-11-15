@@ -479,20 +479,20 @@
       "name": "STOK RESS¹ CANN🕊"
     },
     "EgVlmtd0hS405KhRnXI2cb": {
-      "status": "pending",
-      "time": 1794752052421,
+      "status": "joined",
+      "time": 1794784163271,
       "id": "120363410296255396@g.us",
       "name": "LADANG CUAN SANZ STR #V1"
     },
     "GLz6ZYBAYaZAyumo48XMsk": {
-      "status": "pending",
-      "time": 1794752073472,
+      "status": "joined",
+      "time": 1794784163271,
       "id": "120363429238839446@g.us",
       "name": "LADANG CUAN SANZ STR #V2"
     },
     "KFeYGZ5nDIN1RaDHU7XKpM": {
-      "status": "pending",
-      "time": 1794752092302,
+      "status": "joined",
+      "time": 1794784163271,
       "id": "120363430029037146@g.us",
       "name": "LADANG CUAN SANZ STR #V3"
     },
@@ -2662,6 +2662,6 @@
       "time": 1794784159975
     }
   },
-  "updated": 1794784159975,
+  "updated": 1794784163444,
   "total": 598
 }
