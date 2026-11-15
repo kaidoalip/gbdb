@@ -561,8 +561,9 @@
       "name": "JB EWING STORE BEBAS SHARELINK"
     },
     "G8tF0IqU5i7740e2tjWVQI": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "error",
+      "time": 1794752221710,
+      "err": "bad-request"
     },
     "DZ9dYnZIrl2GsqMPUfmqfW": {
       "status": "new",
@@ -1501,6 +1502,6 @@
       "time": 1794752211647
     }
   },
-  "updated": 1794752211647,
+  "updated": 1794752221928,
   "total": 329
 }
