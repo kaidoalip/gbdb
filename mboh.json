@@ -425,8 +425,10 @@
       "name": "GB¹ ALL GAME RENZZ 🪽"
     },
     "HYh20lOqz1zJ82iaXwVHCp": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794750568023,
+      "id": "120363214717581299@g.us",
+      "name": "GB² ALL GAME RENZZ 🪽"
     },
     "GPtTyjKXkfO8DkOjHw3nus": {
       "status": "new",
@@ -1105,6 +1107,6 @@
       "time": 1794750531561
     }
   },
-  "updated": 1794750549283,
+  "updated": 1794750568245,
   "total": 241
 }
