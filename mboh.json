@@ -796,8 +796,10 @@
       "name": "GB FT CS BY TROBOS ID"
     },
     "FPaQSbLt4Xz554ZeXd1E2t": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753018129,
+      "id": "120363413490369870@g.us",
+      "name": "FT CS KING RENZZ #5"
     },
     "K27Lmf8fairFY5JGoiWT2r": {
       "status": "new",
@@ -1644,6 +1646,6 @@
       "time": 1794752931547
     }
   },
-  "updated": 1794752995475,
+  "updated": 1794753018333,
   "total": 346
 }
