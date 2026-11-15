@@ -371,8 +371,10 @@
       "name": "𝐆𝐂 𝐔𝐓𝐀𝐌𝐀 𝐄𝐗𝐂 (𝐍𝐄𝐖)"
     },
     "CanbzjN8nwJINI4JSld2dM": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794750380385,
+      "id": "120363407565811598@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗣𝗨𝗧𝗥𝗔 𝗩𝟭"
     },
     "GP0EACyYGIZ0sUZaNApY1R": {
       "status": "new",
@@ -983,6 +985,6 @@
       "time": 1794750291570
     }
   },
-  "updated": 1794750359737,
+  "updated": 1794750380619,
   "total": 215
 }
