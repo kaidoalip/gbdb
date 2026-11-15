@@ -265,8 +265,9 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗢𝗧𝗢𝗡𝗚"
     },
     "J1kV7CWN51d88gLOZtfV6d": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "error",
+      "time": 1794750029298,
+      "err": "bad-request"
     },
     "Btahsyb20OyJFvfAh6KsgR": {
       "status": "new",
@@ -441,6 +442,6 @@
       "time": 1794749811542
     }
   },
-  "updated": 1794750011847,
+  "updated": 1794750029513,
   "total": 88
 }
