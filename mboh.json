@@ -293,8 +293,10 @@
       "name": "FT BY ILAP|new"
     },
     "BOD44dlpynaGPvAPcy1UT1": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750104489,
+      "id": "120363414486908270@g.us",
+      "name": "INFO FT CS DAPZZ 500-3K [1]"
     },
     "IxkIucBR6we3S6Ragmr73w": {
       "status": "new",
@@ -477,6 +479,6 @@
       "time": 1794750051626
     }
   },
-  "updated": 1794750084039,
+  "updated": 1794750104686,
   "total": 95
 }
