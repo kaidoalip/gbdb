@@ -925,8 +925,10 @@
       "name": "SYNTAN'AY"
     },
     "GDtpRej3RvR9YPfTwXrfvQ": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784551716,
+      "id": "120363415159235411@g.us",
+      "name": "FT PEPENG 1-5K BY FONZZ#1"
     },
     "E9M1rFIhRc73s0rK2ShBvm": {
       "status": "new",
@@ -2761,6 +2763,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784530028,
+  "updated": 1794784552126,
   "total": 615
 }
