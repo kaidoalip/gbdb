@@ -636,8 +636,10 @@
       "name": "GB FT CS KAIZHEN #1"
     },
     "HaYIzQgbBZs4l5ffJzqW6Z": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752455795,
+      "id": "120363430282117516@g.us",
+      "name": "JB ALL GAME (DANZZ)"
     },
     "H0yuK1xY93W23tRGyZY5wD": {
       "status": "new",
@@ -1540,6 +1542,6 @@
       "time": 1794752451558
     }
   },
-  "updated": 1794752451558,
+  "updated": 1794752455994,
   "total": 333
 }
