@@ -659,8 +659,10 @@
       "name": "GB JB || JURAGAN TAN"
     },
     "KkP67WgP4WSIKcsOOx9kBP": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752521150,
+      "id": "120363429362281804@g.us",
+      "name": "LAGA KUZE"
     },
     "ESrkXMc1TdG34urHvzBByJ": {
       "status": "new",
@@ -1547,6 +1549,6 @@
       "time": 1794752451558
     }
   },
-  "updated": 1794752502353,
+  "updated": 1794752521354,
   "total": 333
 }
