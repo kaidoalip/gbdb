@@ -542,8 +542,11 @@
       "err": "not-authorized"
     },
     "KJdYF7O87tTKfOKssDLuwM": {
-      "status": "new",
-      "time": 1794750171541
+      "status": "joined",
+      "time": 1794752161623,
+      "id": "120363412480943182@g.us",
+      "name": "𝘞𝘢𝘳𝘶𝘯𝘨 || 𝓝 𝘰𝖗𝖗𝘪𝘦 ℜ𝘵𝘰 1𝘬",
+      "err": "already-exists"
     },
     "KXAJJUA8psh5FyFEhC26Ij": {
       "status": "new",
@@ -1474,6 +1477,6 @@
       "time": 1794752091697
     }
   },
-  "updated": 1794752152090,
+  "updated": 1794752161930,
   "total": 324
 }
