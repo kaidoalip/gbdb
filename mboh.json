@@ -128,8 +128,10 @@
       "err": "bad-request"
     },
     "LaqqluC9yWm5ZkoRWreEkY": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794749373451,
+      "id": "120363410844118048@g.us",
+      "name": "𝗢𝗕𝗥𝗔𝗟 𝗦𝗧𝗢𝗞 𝗠𝗨𝗥𝗔𝗛 𝗩𝟭"
     },
     "F0vjBJvFEEFAx0mTXLTbgR": {
       "status": "new",
@@ -392,6 +394,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749365211,
+  "updated": 1794749373638,
   "total": 87
 }
