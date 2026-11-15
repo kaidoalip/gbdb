@@ -773,8 +773,9 @@
       "name": "JOB GMAIL RATE 5-6k"
     },
     "K0E56aGxnMI3UrfSTJEicQ": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "error",
+      "time": 1794752939831,
+      "err": "bad-request"
     },
     "K9pg6NyK9EyIDZh6QD7bLS": {
       "status": "new",
@@ -1637,6 +1638,6 @@
       "time": 1794752931547
     }
   },
-  "updated": 1794752931547,
+  "updated": 1794752940053,
   "total": 346
 }
