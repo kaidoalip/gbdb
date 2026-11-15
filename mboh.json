@@ -389,8 +389,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗣𝗨𝗧𝗥𝗔 𝗩𝟯"
     },
     "CZVOhPmi3gd7ru2zEMUfey": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794750444145,
+      "id": "120363424668780358@g.us",
+      "name": "𝗚𝗖 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗣𝗨𝗧𝗥𝗔 𝗩𝟮"
     },
     "Ff1bRqlDYluKnjC58rcRCx": {
       "status": "new",
@@ -985,6 +987,6 @@
       "time": 1794750291570
     }
   },
-  "updated": 1794750436743,
+  "updated": 1794750444359,
   "total": 214
 }
