@@ -485,8 +485,10 @@
       "name": "FJB DIMAS MARKET🔱"
     },
     "L3tEDDQ0H2iCQTXa671MZo": {
-      "status": "new",
-      "time": 1794749811542
+      "status": "pending",
+      "time": 1794752012942,
+      "id": "120363411122832776@g.us",
+      "name": "GC UTAMA CAN🇨🇿🇮🇩"
     },
     "JiXvZ0a0mkX3jHfy9fm4M4": {
       "status": "new",
@@ -1441,6 +1443,6 @@
       "time": 1794751851607
     }
   },
-  "updated": 1794751993556,
+  "updated": 1794752013221,
   "total": 320
 }
