@@ -607,8 +607,10 @@
       "name": "GB KEBUKA YRSTORE #1"
     },
     "E6e5vYnzZwGKujuhftucjQ": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752360928,
+      "id": "120363431300963102@g.us",
+      "name": "GB TERBUKA 24 JAM KINGTR | REG KEBUMEN"
     },
     "C2JWlTUZ7bsE8KHzUWHV47": {
       "status": "new",
@@ -1523,6 +1525,6 @@
       "time": 1794752331756
     }
   },
-  "updated": 1794752337931,
+  "updated": 1794752361110,
   "total": 331
 }
