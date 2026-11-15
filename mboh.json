@@ -843,8 +843,10 @@
       "name": "STOCK YARZZ X PERGAM 2"
     },
     "K67v6dGVO3rKxxPEA9xzf1": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753177690,
+      "id": "120363100841997194@g.us",
+      "name": "BELGIA VS ITALIA [WIN CAIRR / UNGGUL ]"
     },
     "ELTOygIiUVCGWd6U6h4GzT": {
       "status": "new",
@@ -1699,6 +1701,6 @@
       "time": 1794753171567
     }
   },
-  "updated": 1794753171567,
+  "updated": 1794753177922,
   "total": 356
 }
