@@ -619,8 +619,9 @@
       "name": "JB 3 CAHYO SDA"
     },
     "BSF12YM7Vx42cw17HltuYh": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "error",
+      "time": 1794752399006,
+      "err": "bad-request"
     },
     "IL2pf1gtyLXG5s28EfeUXl": {
       "status": "new",
@@ -1527,6 +1528,6 @@
       "time": 1794752331756
     }
   },
-  "updated": 1794752382701,
+  "updated": 1794752399236,
   "total": 331
 }
