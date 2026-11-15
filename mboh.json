@@ -1103,8 +1103,10 @@
       "name": "𝐌𝐁𝐎𝐈𝐒 𝐀𝐑𝐄𝐀 | 𝐀𝐋𝐋𝐁𝐀𝐒𝐄"
     },
     "Ka1RaaA8kss0Gdr8OgJWFQ": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "joined",
+      "time": 1794785243265,
+      "id": "120363426510519001@g.us",
+      "name": "KOMUNITAS MBR RZY"
     },
     "KnL0kYAkzL07d3iqJ5AvhN": {
       "status": "new",
@@ -2843,6 +2845,6 @@
       "time": 1794785212497
     }
   },
-  "updated": 1794785230713,
+  "updated": 1794785243482,
   "total": 621
 }
