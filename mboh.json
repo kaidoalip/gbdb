@@ -908,8 +908,9 @@
       "name": "TSX GANK COMMUNITY"
     },
     "GswfUHTFWboAfrBHZyGqhH": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "error",
+      "time": 1794784499050,
+      "err": "bad-request"
     },
     "LtilRRHH2sWEms5fdu5Fex": {
       "status": "new",
@@ -2756,6 +2757,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784492218,
+  "updated": 1794784499554,
   "total": 615
 }
