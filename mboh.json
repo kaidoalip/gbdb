@@ -503,8 +503,10 @@
       "name": "LADANG CUAN SANZ STR #V1"
     },
     "GLz6ZYBAYaZAyumo48XMsk": {
-      "status": "new",
-      "time": 1794750051626
+      "status": "pending",
+      "time": 1794752073472,
+      "id": "120363429238839446@g.us",
+      "name": "LADANG CUAN SANZ STR #V2"
     },
     "KFeYGZ5nDIN1RaDHU7XKpM": {
       "status": "new",
@@ -1447,6 +1449,6 @@
       "time": 1794751851607
     }
   },
-  "updated": 1794752052737,
+  "updated": 1794752073734,
   "total": 320
 }
