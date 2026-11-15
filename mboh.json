@@ -449,8 +449,10 @@
       "name": "𝗝𝗕 || 𝗨𝗧𝗔𝗠𝗔 𝗛𝗔𝗡𝗭 𝟮🍀"
     },
     "FttnHhTjdY99TKLmYBwSDF": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794750645727,
+      "id": "120363413024543362@g.us",
+      "name": "𝗦𝗧𝗢𝗖𝗞 𝗥𝗘𝗦𝗦 𝗛𝗔𝗡𝗭 𝟬𝟮"
     },
     "CVdu9S9hKdf8ITp8mFKWix": {
       "status": "new",
@@ -1113,6 +1115,6 @@
       "time": 1794750531561
     }
   },
-  "updated": 1794750626039,
+  "updated": 1794750645937,
   "total": 241
 }
