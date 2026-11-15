@@ -134,8 +134,10 @@
       "name": "𝗢𝗕𝗥𝗔𝗟 𝗦𝗧𝗢𝗞 𝗠𝗨𝗥𝗔𝗛 𝗩𝟭"
     },
     "F0vjBJvFEEFAx0mTXLTbgR": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749389821,
+      "id": "120363427822934934@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦𝟭"
     },
     "ILMmQYrwMTZ1bR1amnGNsO": {
       "status": "new",
@@ -394,6 +396,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749373638,
+  "updated": 1794749390131,
   "total": 87
 }
