@@ -991,8 +991,10 @@
       "name": "KOMUNITAS PECINTA RZY"
     },
     "DmE55mjfuO8AYewFxkQ9pg": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784799662,
+      "id": "120363430401680189@g.us",
+      "name": "JB NAELAL STORE 1"
     },
     "EGSQcbZnPs7A5xVDeMGzsQ": {
       "status": "new",
@@ -2799,6 +2801,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794784780438,
+  "updated": 1794784799872,
   "total": 619
 }
