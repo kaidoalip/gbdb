@@ -1062,8 +1062,10 @@
       "name": "𝗚𝗕 𝗖𝗥/𝗪𝗔𝗥 𝗕𝗕𝗦 𝗦𝗛𝗔𝗥𝗘 𝗕𝗬 𝗫𝗘𝗜 #1"
     },
     "Cz5ubgEgZpxKOkYxE8vwCk": {
-      "status": "new",
-      "time": 1794750291570
+      "status": "pending",
+      "time": 1794785079559,
+      "id": "120363431134597331@g.us",
+      "name": "𝗚𝗕 𝗖𝗥/𝗪𝗔𝗥 𝗕𝗕𝗦 𝗦𝗛𝗔𝗥𝗘 𝗕𝗬 𝗫𝗘𝗜 #2"
     },
     "GssalFoQwNg0UBRSW2MUZK": {
       "status": "new",
@@ -2810,6 +2812,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794785056265,
+  "updated": 1794785079783,
   "total": 616
 }
