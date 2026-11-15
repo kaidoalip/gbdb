@@ -949,8 +949,10 @@
       "name": "INFO FT BY OKKHA #1"
     },
     "B9bFLYnZEWGGX5rU4dPuX2": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784636377,
+      "id": "120363413539298826@g.us",
+      "name": "FT CS 500P-5K | BY WINZZ"
     },
     "K4YbcD61GLc47BfaNjDsEd": {
       "status": "new",
@@ -2769,6 +2771,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784617359,
+  "updated": 1794784636631,
   "total": 615
 }
