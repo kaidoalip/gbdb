@@ -275,8 +275,10 @@
       "err": "bad-request"
     },
     "Kpc6h3NdY1979qMSkBWfVF": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750046434,
+      "id": "120363414739655495@g.us",
+      "name": "𝐉𝐁 𝐙𝐀𝐘𝐑𝐀 𝐒𝐓𝐎𝐑𝐄 [ 1 ]"
     },
     "E1zInxDDBPb8FuvuuTZcgO": {
       "status": "new",
@@ -443,6 +445,6 @@
       "time": 1794749811542
     }
   },
-  "updated": 1794750035260,
+  "updated": 1794750046628,
   "total": 88
 }
