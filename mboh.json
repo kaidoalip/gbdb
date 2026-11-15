@@ -979,8 +979,10 @@
       "name": "GB FT CE REXZ #PROSES1"
     },
     "HODlUGoZCtqDMMoH06V7NR": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784754958,
+      "id": "120363431069710980@g.us",
+      "name": "GB FT CS BY PEOT #1"
     },
     "D0frjKhSKEgBv39czza7Vk": {
       "status": "new",
@@ -2799,6 +2801,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794784734233,
+  "updated": 1794784755168,
   "total": 620
 }
