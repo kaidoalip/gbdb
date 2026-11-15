@@ -861,8 +861,10 @@
       "name": "🇲🇾SUMATZU RESELER V2 🇲🇾"
     },
     "EDPqbkAjWLdLjm6XflalTh": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753245009,
+      "id": "120363402645557953@g.us",
+      "name": "🇲🇾SUMATZU RESELER V3🇲🇾"
     },
     "G3TK4GwspmO17Oe19xcOMW": {
       "status": "new",
@@ -1705,6 +1707,6 @@
       "time": 1794753171567
     }
   },
-  "updated": 1794753225147,
+  "updated": 1794753245327,
   "total": 356
 }
