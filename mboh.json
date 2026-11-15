@@ -145,8 +145,10 @@
       "err": "bad-request"
     },
     "C70nzLxzyZSICkLOA8YkDU": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749411447,
+      "id": "120363426126101327@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗔𝗕𝗗𝗜𝗟𝗭"
     },
     "HxCvJwbbZxe7mbNArSFZpZ": {
       "status": "new",
@@ -397,6 +399,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749404321,
+  "updated": 1794749411681,
   "total": 87
 }
