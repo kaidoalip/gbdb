@@ -784,8 +784,10 @@
       "name": "13.05.13.2006_KG 5 Batu Kalang Utara"
     },
     "KdEBhl42K6S1iiZSFgnPz5": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752971430,
+      "id": "120363413689150074@g.us",
+      "name": "𝐉𝐁¹ || 𝐉𝐎𝐗𝐙𝐘 𝐒𝐓𝐑"
     },
     "GFHxrIsFywe5CuwlWWBM3a": {
       "status": "new",
@@ -1640,6 +1642,6 @@
       "time": 1794752931547
     }
   },
-  "updated": 1794752950377,
+  "updated": 1794752971652,
   "total": 346
 }
