@@ -813,8 +813,10 @@
       "err": "bad-request"
     },
     "HSGLFinFp689EYc4BShmeJ": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753064065,
+      "id": "120363428499640081@g.us",
+      "name": "GB FT CS MAMZZ STORE"
     },
     "FPtuwhxuD8L5aXdNmItdZk": {
       "status": "new",
@@ -1685,6 +1687,6 @@
       "time": 1794753051542
     }
   },
-  "updated": 1794753053842,
+  "updated": 1794753064403,
   "total": 355
 }
