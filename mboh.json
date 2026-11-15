@@ -1,8 +1,8 @@
 {
   "links": {
     "HJesOUTay99EC5IshHBjm9": {
-      "status": "tertutup",
-      "time": 1794723712166,
+      "status": "pending",
+      "time": 1794724253184,
       "id": "120363428476744376@g.us",
       "name": "GC UTAMA JANZ SERANG V2",
       "announce": true
@@ -20,6 +20,6 @@
       "name": "JB MENUJU RAMADHAN JANZ"
     }
   },
-  "updated": 1794723847662,
+  "updated": 1794724253627,
   "total": 3
 }
