@@ -38,8 +38,11 @@
       "name": "JB||ALLGAME BY GWSTORE #1🚀🚀"
     },
     "Kp6j4HTILOr83rRkjhi0ER": {
-      "status": "new",
-      "time": 1794724717743
+      "status": "joined",
+      "time": 1794726098328,
+      "id": "120363432745940646@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗔𝗥𝗬𝗔",
+      "err": "already-exists"
     },
     "GomisBgkZnWKoQODoAMTUQ": {
       "status": "new",
@@ -74,6 +77,6 @@
       "time": 1794725677736
     }
   },
-  "updated": 1794725677736,
+  "updated": 1794726098529,
   "total": 15
 }
