@@ -624,8 +624,10 @@
       "err": "bad-request"
     },
     "IL2pf1gtyLXG5s28EfeUXl": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752407846,
+      "id": "120363414137674650@g.us",
+      "name": "FT CS PEPENG KAIZHEN #1"
     },
     "LhwaYeQ3PQUASp89oU1if9": {
       "status": "new",
@@ -1528,6 +1530,6 @@
       "time": 1794752331756
     }
   },
-  "updated": 1794752399236,
+  "updated": 1794752408174,
   "total": 331
 }
