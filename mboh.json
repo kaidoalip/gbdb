@@ -1044,8 +1044,10 @@
       "err": "bad-request"
     },
     "F427hSodsb0J0TulOZ6Iii": {
-      "status": "new",
-      "time": 1794750291570
+      "status": "joined",
+      "time": 1794785005551,
+      "id": "120363412723743685@g.us",
+      "name": "GB STOK || UTAMA BY FAKZZ SEMTURE"
     },
     "EMyZH4gFPR25PP4ulCDGx3": {
       "status": "new",
@@ -2808,6 +2810,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794784992977,
+  "updated": 1794785006036,
   "total": 617
 }
