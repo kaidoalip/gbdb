@@ -140,8 +140,9 @@
       "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦𝟭"
     },
     "ILMmQYrwMTZ1bR1amnGNsO": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "error",
+      "time": 1794749404102,
+      "err": "bad-request"
     },
     "C70nzLxzyZSICkLOA8YkDU": {
       "status": "new",
@@ -396,6 +397,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749390131,
+  "updated": 1794749404321,
   "total": 87
 }
