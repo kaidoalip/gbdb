@@ -890,8 +890,10 @@
       "name": "FT CS BY LEXXY 500P-5K #1"
     },
     "JnkY7HSS0JXJNzaNqLyZ0m": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784445970,
+      "id": "120363412194921008@g.us",
+      "name": "JB RESS CRIZZ STURE"
     },
     "EPfSAXeA3St9A1b4pM1BYO": {
       "status": "new",
@@ -2750,6 +2752,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784426555,
+  "updated": 1794784446210,
   "total": 615
 }
