@@ -1151,8 +1151,10 @@
       "name": "JB | FAKHRI PJ SHOP"
     },
     "FCHeqBlcboO1veIFq1WCyR": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "joined",
+      "time": 1794785440428,
+      "id": "120363431811084146@g.us",
+      "name": "GC KAMIEL X PANTER⁴"
     },
     "InH0RuIb7dnB8fGuXDyihK": {
       "status": "new",
@@ -2847,6 +2849,6 @@
       "time": 1794785212497
     }
   },
-  "updated": 1794785415888,
+  "updated": 1794785440616,
   "total": 618
 }
