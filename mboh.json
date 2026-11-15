@@ -595,8 +595,10 @@
       "err": "bad-request"
     },
     "JuB7NiuVYM4DulO6rheYXp": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752316364,
+      "id": "120363433574545005@g.us",
+      "name": "JB¹ ALL GAME ROBLOX || BY FATH"
     },
     "CKAAl7bdQ5REzIrVlAKRw4": {
       "status": "new",
@@ -1511,6 +1513,6 @@
       "time": 1794752211647
     }
   },
-  "updated": 1794752307649,
+  "updated": 1794752316732,
   "total": 329
 }
