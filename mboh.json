@@ -778,8 +778,10 @@
       "err": "bad-request"
     },
     "K9pg6NyK9EyIDZh6QD7bLS": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752950181,
+      "id": "120363424644074171@g.us",
+      "name": "13.05.13.2006_KG 5 Batu Kalang Utara"
     },
     "KdEBhl42K6S1iiZSFgnPz5": {
       "status": "new",
@@ -1638,6 +1640,6 @@
       "time": 1794752931547
     }
   },
-  "updated": 1794752940053,
+  "updated": 1794752950377,
   "total": 346
 }
