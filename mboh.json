@@ -671,8 +671,10 @@
       "name": "𝗙𝗧 𝗘𝗙𝗢𝗢𝗧𝗕𝗔𝗟𝗟"
     },
     "I43nFq3ItcQ1tI2UHWXyk1": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752567928,
+      "id": "120363430440740426@g.us",
+      "name": "HAMMZ STORE #1"
     },
     "EuCncKLe1veKFt0ZlOpSox": {
       "status": "new",
@@ -1551,6 +1553,6 @@
       "time": 1794752451558
     }
   },
-  "updated": 1794752545625,
+  "updated": 1794752568116,
   "total": 333
 }
