@@ -44,8 +44,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗥𝗬𝗔 𝟭"
     },
     "ENXLvu5SzMS0VJ4yrNOZ4Q": {
-      "status": "new",
-      "time": 1794724717743
+      "status": "pending",
+      "time": 1794749166021,
+      "id": "120363431160620249@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗥𝗬𝗔 𝟮"
     },
     "HxoAcqWinuU0GQ5bwoX1hc": {
       "status": "new",
@@ -344,6 +346,6 @@
       "time": 1794749156759
     }
   },
-  "updated": 1794749158070,
+  "updated": 1794749166362,
   "total": 82
 }
