@@ -329,8 +329,10 @@
       "name": "𝐌𝐀𝐑𝐊𝐄𝐓 𝐊𝐈𝐌𝐎 #1"
     },
     "Eat8LpI7cpdHxcK7I9vLuB": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750234407,
+      "id": "120363432848863447@g.us",
+      "name": "JB CILL STORE ALL GAME"
     },
     "EPwMnFZPkBSIDDqlpO6tBH": {
       "status": "new",
@@ -497,6 +499,6 @@
       "time": 1794750171541
     }
   },
-  "updated": 1794750212119,
+  "updated": 1794750234592,
   "total": 97
 }
