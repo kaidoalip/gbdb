@@ -274,12 +274,6 @@
       "time": 1794750035036,
       "err": "bad-request"
     },
-    "Kpc6h3NdY1979qMSkBWfVF": {
-      "status": "joined",
-      "time": 1794750046434,
-      "id": "120363414739655495@g.us",
-      "name": "𝐉𝐁 𝐙𝐀𝐘𝐑𝐀 𝐒𝐓𝐎𝐑𝐄 [ 1 ]"
-    },
     "E1zInxDDBPb8FuvuuTZcgO": {
       "status": "pending",
       "time": 1794750065175,
@@ -315,12 +309,6 @@
       "time": 1794750171775,
       "id": "120363428513170916@g.us",
       "name": "🔥𝘽𝙀𝘽𝘼𝙎 𝙎𝙃𝘼𝙍𝙀 𝙉𝙄𝙕𝙕𝙕 #2💋"
-    },
-    "BjZE3OuarW92rcQWUQNfD9": {
-      "status": "joined",
-      "time": 1794750192877,
-      "id": "120363419886159253@g.us",
-      "name": "JB PANZU STORE¹ [WAJIB MC ADMIN UTAMA]"
     },
     "DIzgyuZHcFTGBJBDztKz14": {
       "status": "pending",
@@ -1449,6 +1437,6 @@
       "time": 1794751851607
     }
   },
-  "updated": 1794751851607,
-  "total": 322
+  "updated": 1794751865352,
+  "total": 320
 }
