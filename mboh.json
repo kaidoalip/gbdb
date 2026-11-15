@@ -737,8 +737,10 @@
       "name": "JB DOBERMAN STORE"
     },
     "JJKM0BYrmRS6i4tCBqdthz": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752810973,
+      "id": "120363422735335461@g.us",
+      "name": "NEXT LAGA"
     },
     "Ej0oiwOaI326G7xkEYlhC8": {
       "status": "new",
@@ -1589,6 +1591,6 @@
       "time": 1794752691757
     }
   },
-  "updated": 1794752787557,
+  "updated": 1794752811154,
   "total": 337
 }
