@@ -80,8 +80,10 @@
       "name": "GB2 BY SISKA SHOP"
     },
     "IB1GCUmEQLx9XAPn27jEKN": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749279362,
+      "id": "120363429776051045@g.us",
+      "name": "JB 1 || NEW ANGGA STORE🇮🇩👑"
     },
     "GaDyaq2Bq9BDvra7H3cEfO": {
       "status": "new",
@@ -352,6 +354,6 @@
       "time": 1794749156759
     }
   },
-  "updated": 1794749261407,
+  "updated": 1794749279564,
   "total": 81
 }
