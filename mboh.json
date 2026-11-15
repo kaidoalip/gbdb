@@ -997,8 +997,10 @@
       "name": "JB NAELAL STORE 1"
     },
     "CTwAjZe4kcA94XVQ5OSGg4": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784825519,
+      "id": "120363430102577462@g.us",
+      "name": "FT CS YONGKI #1"
     },
     "GjGtpXkUK5dHz2u4Pll3k6": {
       "status": "new",
@@ -2797,6 +2799,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794784815982,
+  "updated": 1794784825732,
   "total": 618
 }
