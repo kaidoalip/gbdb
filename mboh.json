@@ -695,8 +695,10 @@
       "name": "PUSAT KUOTA MURAH - GAMBIT STORE"
     },
     "JhQlQpFSEmmB463J9F5dcX": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752650095,
+      "id": "120363432506062342@g.us",
+      "name": "FT CS BY LEOD#1(PROSES)"
     },
     "GzHREB8zxiX8EXKnGcv6ZC": {
       "status": "new",
@@ -1555,6 +1557,6 @@
       "time": 1794752451558
     }
   },
-  "updated": 1794752632424,
+  "updated": 1794752650339,
   "total": 332
 }
