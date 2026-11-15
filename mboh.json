@@ -1050,8 +1050,10 @@
       "name": "GB STOK || UTAMA BY FAKZZ SEMTURE"
     },
     "EMyZH4gFPR25PP4ulCDGx3": {
-      "status": "new",
-      "time": 1794750291570
+      "status": "joined",
+      "time": 1794785028208,
+      "id": "120363432360412435@g.us",
+      "name": "JB ALL GAME BY KAJA V1"
     },
     "JdO93lhkPAaGdNSjagerPI": {
       "status": "new",
@@ -2810,6 +2812,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794785006036,
+  "updated": 1794785028396,
   "total": 617
 }
