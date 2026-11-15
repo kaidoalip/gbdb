@@ -164,8 +164,11 @@
       "name": "GC UTAMA JANZ SERANG"
     },
     "JhuwhqclDWOBp2d2yyILbj": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794749456641,
+      "id": "120363430250652119@g.us",
+      "name": "ROOM ALLGAME ZESA JB REAL [ 6 ]",
+      "err": "conflict"
     },
     "LRa5DCZLmAMHtXha4yhQml": {
       "status": "new",
@@ -404,6 +407,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749451936,
+  "updated": 1794749456857,
   "total": 87
 }
