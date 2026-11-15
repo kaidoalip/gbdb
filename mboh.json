@@ -45,8 +45,10 @@
       "err": "already-exists"
     },
     "GomisBgkZnWKoQODoAMTUQ": {
-      "status": "new",
-      "time": 1794724717743
+      "status": "joined",
+      "time": 1794726121229,
+      "id": "120363413528144823@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗥𝗬𝗔 𝟭"
     },
     "ENXLvu5SzMS0VJ4yrNOZ4Q": {
       "status": "new",
@@ -77,6 +79,6 @@
       "time": 1794725677736
     }
   },
-  "updated": 1794726098529,
+  "updated": 1794726121430,
   "total": 15
 }
