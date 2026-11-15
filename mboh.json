@@ -491,8 +491,10 @@
       "name": "GC UTAMA CAN🇨🇿🇮🇩"
     },
     "JiXvZ0a0mkX3jHfy9fm4M4": {
-      "status": "new",
-      "time": 1794749811542
+      "status": "pending",
+      "time": 1794752032885,
+      "id": "120363412440038217@g.us",
+      "name": "STOK RESS¹ CANN🕊"
     },
     "EgVlmtd0hS405KhRnXI2cb": {
       "status": "new",
@@ -1443,6 +1445,6 @@
       "time": 1794751851607
     }
   },
-  "updated": 1794752013221,
+  "updated": 1794752033092,
   "total": 320
 }
