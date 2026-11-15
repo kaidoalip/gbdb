@@ -151,8 +151,11 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗔𝗕𝗗𝗜𝗟𝗭"
     },
     "HxCvJwbbZxe7mbNArSFZpZ": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794749432637,
+      "id": "120363408157164470@g.us",
+      "name": "𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝘼𝘽𝘿𝙄𝙇𝙕",
+      "err": "conflict"
     },
     "BEZEsORKyKsLUDGE44va0A": {
       "status": "new",
@@ -399,6 +402,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749411681,
+  "updated": 1794749432858,
   "total": 87
 }
