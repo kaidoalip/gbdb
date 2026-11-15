@@ -1097,8 +1097,10 @@
       "err": "bad-request"
     },
     "EWMyJDSl48aIUMuSKinzvt": {
-      "status": "new",
-      "time": 1794750291570
+      "status": "pending",
+      "time": 1794785196604,
+      "id": "120363432713113510@g.us",
+      "name": "𝐌𝐁𝐎𝐈𝐒 𝐀𝐑𝐄𝐀 | 𝐀𝐋𝐋𝐁𝐀𝐒𝐄"
     },
     "FHcCThvpNL69lezcAIkBJM": {
       "status": "new",
@@ -2825,6 +2827,6 @@
       "time": 1794785092143
     }
   },
-  "updated": 1794785186522,
+  "updated": 1794785196877,
   "total": 617
 }
