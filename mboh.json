@@ -247,8 +247,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗣𝗜𝗗𝗭"
     },
     "Haly2NSL13u84okHmtqRKs": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749972700,
+      "id": "120363406508948903@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗣𝗜𝗗𝗭 𝗩𝟭"
     },
     "DRYAmamfH6vIL4wAHqYNAC": {
       "status": "new",
@@ -435,6 +437,6 @@
       "time": 1794749811542
     }
   },
-  "updated": 1794749954074,
+  "updated": 1794749972913,
   "total": 88
 }
