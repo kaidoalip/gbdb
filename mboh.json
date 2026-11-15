@@ -819,8 +819,10 @@
       "name": "GB FT CS MAMZZ STORE"
     },
     "FLagmzd6B8s1iqaoDLlhdw": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753090143,
+      "id": "120363417826462546@g.us",
+      "name": "STOK OWN/PARTNER AJii Z STORE 3"
     },
     "JytpcbjK47KFLI5g0vFmak": {
       "status": "new",
@@ -1683,6 +1685,6 @@
       "time": 1794753051542
     }
   },
-  "updated": 1794753081326,
+  "updated": 1794753090348,
   "total": 354
 }
