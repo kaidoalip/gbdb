@@ -1115,8 +1115,10 @@
       "name": "KOMUNITAS MBR RZ"
     },
     "LuSXdqFWjdFJ21dYC2o0WG": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "joined",
+      "time": 1794785291027,
+      "id": "120363427624433288@g.us",
+      "name": "Stok Gagah || Good Store"
     },
     "BVrWTiDurMQ92948iZYvqB": {
       "status": "new",
@@ -2847,6 +2849,6 @@
       "time": 1794785212497
     }
   },
-  "updated": 1794785269344,
+  "updated": 1794785291235,
   "total": 621
 }
