@@ -665,8 +665,10 @@
       "name": "LAGA KUZE"
     },
     "ESrkXMc1TdG34urHvzBByJ": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752545402,
+      "id": "120363407457489706@g.us",
+      "name": "𝗙𝗧 𝗘𝗙𝗢𝗢𝗧𝗕𝗔𝗟𝗟"
     },
     "I43nFq3ItcQ1tI2UHWXyk1": {
       "status": "new",
@@ -1549,6 +1551,6 @@
       "time": 1794752451558
     }
   },
-  "updated": 1794752521354,
+  "updated": 1794752545625,
   "total": 333
 }
