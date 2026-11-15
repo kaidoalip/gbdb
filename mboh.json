@@ -241,8 +241,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗣𝗜𝗗𝗭 ³"
     },
     "IeAY9AVB3ndKAWrHT1ZLGV": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749953038,
+      "id": "120363418895118298@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗣𝗜𝗗𝗭"
     },
     "Haly2NSL13u84okHmtqRKs": {
       "status": "new",
@@ -433,6 +435,6 @@
       "time": 1794749811542
     }
   },
-  "updated": 1794749929806,
+  "updated": 1794749954074,
   "total": 88
 }
