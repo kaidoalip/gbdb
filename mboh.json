@@ -93,8 +93,10 @@
       "err": "already-exists"
     },
     "CB7Y0WbP2734PBL2eTl38j": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794749322690,
+      "id": "120363421282975744@g.us",
+      "name": "𝗝𝗕 𝗚𝗛𝗔𝗡𝗭𝗭𝗬 𝗩𝟭"
     },
     "GCgTVOcqSkG5lcdK7iXOgM": {
       "status": "new",
@@ -357,6 +359,6 @@
       "time": 1794749156759
     }
   },
-  "updated": 1794749300873,
+  "updated": 1794749324564,
   "total": 81
 }
