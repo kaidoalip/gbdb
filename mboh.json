@@ -689,8 +689,10 @@
       "name": "JB II GAMZ NGAWI #1"
     },
     "JPS61pPqRf1KwZ7PwjIHXM": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752632206,
+      "id": "120363277037014607@g.us",
+      "name": "PUSAT KUOTA MURAH - GAMBIT STORE"
     },
     "JhQlQpFSEmmB463J9F5dcX": {
       "status": "new",
@@ -1553,6 +1555,6 @@
       "time": 1794752451558
     }
   },
-  "updated": 1794752614162,
+  "updated": 1794752632424,
   "total": 332
 }
