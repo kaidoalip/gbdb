@@ -884,8 +884,10 @@
       "name": "FT CS FADIL 500P-5K #1"
     },
     "Hw7cK76sGu66oi6V24TW8o": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784426054,
+      "id": "120363413488781954@g.us",
+      "name": "FT CS BY LEXXY 500P-5K #1"
     },
     "JnkY7HSS0JXJNzaNqLyZ0m": {
       "status": "new",
@@ -2748,6 +2750,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784417056,
+  "updated": 1794784426555,
   "total": 615
 }
