@@ -902,8 +902,10 @@
       "name": "GB FT CS TEKEN BY DEPE#1"
     },
     "CoFbvQ87iYSDMivvvhYmIs": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784486507,
+      "id": "120363414148011904@g.us",
+      "name": "TSX GANK COMMUNITY"
     },
     "GswfUHTFWboAfrBHZyGqhH": {
       "status": "new",
@@ -2754,6 +2756,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784466830,
+  "updated": 1794784486706,
   "total": 615
 }
