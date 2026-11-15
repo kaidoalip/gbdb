@@ -566,8 +566,10 @@
       "err": "bad-request"
     },
     "DZ9dYnZIrl2GsqMPUfmqfW": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752231984,
+      "id": "120363422576379115@g.us",
+      "name": "GC² ZEK STR X PP BOMEL SEMVMAK"
     },
     "FHXBjCNOutWJfAZfoaX4h9": {
       "status": "new",
@@ -1502,6 +1504,6 @@
       "time": 1794752211647
     }
   },
-  "updated": 1794752221928,
+  "updated": 1794752232178,
   "total": 329
 }
