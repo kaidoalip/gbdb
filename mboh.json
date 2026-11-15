@@ -123,8 +123,9 @@
       "name": "𝗦𝗧𝗢𝗞 𝗨𝗧𝗔𝗠𝗔 𝗣𝗔𝗬𝗬𝗭🗿"
     },
     "JZYDt5Yk1h1KFSrpNri6UP": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "error",
+      "time": 1794749364984,
+      "err": "bad-request"
     },
     "LaqqluC9yWm5ZkoRWreEkY": {
       "status": "new",
@@ -391,6 +392,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749351049,
+  "updated": 1794749365211,
   "total": 87
 }
