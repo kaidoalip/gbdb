@@ -177,8 +177,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗨𝗧𝗔𝗠𝗔 𝗗𝗜𝗩𝗭"
     },
     "I5LQywqAmMr1PMY0o9CrU3": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749498873,
+      "id": "120363427778337942@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗗𝗜𝗩𝗭 (𝟭)"
     },
     "Ks5OP7LUKntGAutu4NHvOy": {
       "status": "new",
@@ -409,6 +411,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749478842,
+  "updated": 1794749499103,
   "total": 87
 }
