@@ -479,8 +479,10 @@
       "name": "STOK RESS 2 DIMAS"
     },
     "KuKUOsyxBSe4q1WbbQDK2a": {
-      "status": "new",
-      "time": 1794749331549
+      "status": "pending",
+      "time": 1794750736441,
+      "id": "120363430546631544@g.us",
+      "name": "STOK RESS 3 DIMAS"
     },
     "FUik4sXPtlF41ZUgfmLx7O": {
       "status": "new",
@@ -1215,6 +1217,6 @@
       "time": 1794750651585
     }
   },
-  "updated": 1794750720463,
+  "updated": 1794750736685,
   "total": 264
 }
