@@ -158,8 +158,10 @@
       "err": "conflict"
     },
     "BEZEsORKyKsLUDGE44va0A": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794749450673,
+      "id": "120363427281488141@g.us",
+      "name": "GC UTAMA JANZ SERANG"
     },
     "JhuwhqclDWOBp2d2yyILbj": {
       "status": "new",
@@ -402,6 +404,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749432858,
+  "updated": 1794749450896,
   "total": 87
 }
