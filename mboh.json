@@ -299,8 +299,10 @@
       "name": "INFO FT CS DAPZZ 500-3K [1]"
     },
     "IxkIucBR6we3S6Ragmr73w": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750126591,
+      "id": "120363405529322476@g.us",
+      "name": "JB PULZZ STORE#2"
     },
     "IONnUMLhQg5CpcUBFdUIUE": {
       "status": "new",
@@ -479,6 +481,6 @@
       "time": 1794750051626
     }
   },
-  "updated": 1794750104686,
+  "updated": 1794750126777,
   "total": 95
 }
