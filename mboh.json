@@ -207,8 +207,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗗𝗜𝗩𝗭 (𝟱)"
     },
     "ELAb1nkjjag06LseoA1NUu": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749593523,
+      "id": "120363431841063556@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗗𝗜𝗩𝗭 (𝟲)"
     },
     "Fkw3vu2Uu3Y0QVgs9J2s4D": {
       "status": "new",
@@ -419,6 +421,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749573950,
+  "updated": 1794749593744,
   "total": 87
 }
