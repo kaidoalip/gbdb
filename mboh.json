@@ -1039,8 +1039,9 @@
       "name": "𝙅𝘽 𝙏𝙎𝘾 || 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀"
     },
     "E7mlcK6GU9YJQYkGepCrjM": {
-      "status": "new",
-      "time": 1794750291570
+      "status": "error",
+      "time": 1794784985649,
+      "err": "bad-request"
     },
     "G5Fm4amuEx2IoX3ZP0iA3M": {
       "status": "new",
@@ -2811,6 +2812,6 @@
       "time": 1794784732239
     }
   },
-  "updated": 1794784972441,
+  "updated": 1794784985869,
   "total": 618
 }
