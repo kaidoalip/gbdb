@@ -549,8 +549,10 @@
       "err": "already-exists"
     },
     "KXAJJUA8psh5FyFEhC26Ij": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752184707,
+      "id": "120363414883301188@g.us",
+      "name": "GB FT BY EWING 0-5K 🔥"
     },
     "ITuOSh0jk7fK16mHkIf4Rd": {
       "status": "new",
@@ -1477,6 +1479,6 @@
       "time": 1794752091697
     }
   },
-  "updated": 1794752161930,
+  "updated": 1794752185006,
   "total": 324
 }
