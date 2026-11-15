@@ -831,8 +831,10 @@
       "name": "GB FT BRAWEL SIMOL #4"
     },
     "Fg1Z0xTKlv0I27E1cwrvWz": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794753136359,
+      "id": "120363420463793637@g.us",
+      "name": "STOCK YARZZ X PERGAM 5"
     },
     "CywQxk2FjNo3MNORNEsW08": {
       "status": "new",
@@ -1687,6 +1689,6 @@
       "time": 1794753051542
     }
   },
-  "updated": 1794753114073,
+  "updated": 1794753136550,
   "total": 354
 }
