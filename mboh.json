@@ -442,12 +442,6 @@
       "id": "120363413024543362@g.us",
       "name": "𝗦𝗧𝗢𝗖𝗞 𝗥𝗘𝗦𝗦 𝗛𝗔𝗡𝗭 𝟬𝟮"
     },
-    "CVdu9S9hKdf8ITp8mFKWix": {
-      "status": "joined",
-      "time": 1794751931727,
-      "id": "120363431255082990@g.us",
-      "name": "𝘼𝙡𝙡 𝙋𝙍𝙊𝙅𝙀𝘾𝙏 || 𝙈𝙞𝙡𝙠𝙖𝙨 𝙏𝙚𝙘𝙣𝙤®"
-    },
     "LBBM42RC0435JvrUOlX4Dc": {
       "status": "pending",
       "time": 1794750683400,
@@ -540,13 +534,6 @@
       "status": "blocked",
       "time": 1794752151784,
       "err": "not-authorized"
-    },
-    "KJdYF7O87tTKfOKssDLuwM": {
-      "status": "joined",
-      "time": 1794752161623,
-      "id": "120363412480943182@g.us",
-      "name": "𝘞𝘢𝘳𝘶𝘯𝘨 || 𝓝 𝘰𝖗𝖗𝘪𝘦 ℜ𝘵𝘰 1𝘬",
-      "err": "already-exists"
     },
     "KXAJJUA8psh5FyFEhC26Ij": {
       "status": "joined",
@@ -1707,6 +1694,6 @@
       "time": 1794753171567
     }
   },
-  "updated": 1794753245327,
-  "total": 356
+  "updated": 1794753279334,
+  "total": 354
 }
