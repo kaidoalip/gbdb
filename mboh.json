@@ -497,8 +497,10 @@
       "name": "STOK RESS¹ CANN🕊"
     },
     "EgVlmtd0hS405KhRnXI2cb": {
-      "status": "new",
-      "time": 1794750051626
+      "status": "pending",
+      "time": 1794752052421,
+      "id": "120363410296255396@g.us",
+      "name": "LADANG CUAN SANZ STR #V1"
     },
     "GLz6ZYBAYaZAyumo48XMsk": {
       "status": "new",
@@ -1445,6 +1447,6 @@
       "time": 1794751851607
     }
   },
-  "updated": 1794752033092,
+  "updated": 1794752052737,
   "total": 320
 }
