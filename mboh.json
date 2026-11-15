@@ -1121,8 +1121,10 @@
       "name": "Stok Gagah || Good Store"
     },
     "BVrWTiDurMQ92948iZYvqB": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "joined",
+      "time": 1794785317348,
+      "id": "120363414379568343@g.us",
+      "name": "ANAK JB"
     },
     "BdeFepbgHcGGogfzvuCYl4": {
       "status": "new",
@@ -2849,6 +2851,6 @@
       "time": 1794785212497
     }
   },
-  "updated": 1794785291235,
+  "updated": 1794785317551,
   "total": 621
 }
