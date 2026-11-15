@@ -15,14 +15,16 @@
       "announce": true
     },
     "HRFCMsmpnbNBfRDT2OJNoa": {
-      "status": "new",
-      "time": 1794723637745
+      "status": "joined",
+      "time": 1794723719555,
+      "id": "120363431526375421@g.us",
+      "name": "GC UTAMA JANZ SERANG V4"
     },
     "K8WsQlNyxMQAqGcPVb4mVh": {
       "status": "new",
       "time": 1794723637745
     }
   },
-  "updated": 1794723712383,
+  "updated": 1794723719907,
   "total": 4
 }
