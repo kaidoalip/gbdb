@@ -230,8 +230,10 @@
       "err": "bad-request"
     },
     "J5qSBfYTlGB9RYFspOvQ3K": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749651236,
+      "id": "120363429687649754@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗣𝗜𝗗𝗭 ¹"
     },
     "FoPGEaO0xUM6nWLAAsX6d4": {
       "status": "new",
@@ -426,6 +428,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749645246,
+  "updated": 1794749651487,
   "total": 87
 }
