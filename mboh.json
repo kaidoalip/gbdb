@@ -633,12 +633,6 @@
       "time": 1794752472565,
       "err": "bad-request"
     },
-    "BhxWdlgCad160JNJ7WGAxu": {
-      "status": "joined",
-      "time": 1794752481222,
-      "id": "120363411914981990@g.us",
-      "name": "Jokers`"
-    },
     "BUnrRFkTGmBIFHqdDW0JTS": {
       "status": "joined",
       "time": 1794752502156,
@@ -2154,6 +2148,6 @@
       "time": 1794756171671
     }
   },
-  "updated": 1794756291572,
-  "total": 469
+  "updated": 1794756361790,
+  "total": 468
 }
