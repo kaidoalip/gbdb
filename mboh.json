@@ -431,8 +431,10 @@
       "name": "GB² ALL GAME RENZZ 🪽"
     },
     "GPtTyjKXkfO8DkOjHw3nus": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750588361,
+      "id": "120363420787358763@g.us",
+      "name": "GB³ ALL GAME RENZZ 🪽"
     },
     "CyvaujRdvL5JVaGr08rKo8": {
       "status": "new",
@@ -1107,6 +1109,6 @@
       "time": 1794750531561
     }
   },
-  "updated": 1794750568245,
+  "updated": 1794750588564,
   "total": 241
 }
