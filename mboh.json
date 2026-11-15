@@ -20,8 +20,10 @@
       "name": "JB MENUJU RAMADHAN JANZ"
     },
     "E0HHbzdDhtVIFNvwEFjAuW": {
-      "status": "new",
-      "time": 1794724357764
+      "status": "pending",
+      "time": 1794724669641,
+      "id": "120363410040810900@g.us",
+      "name": "TOKO SERBA ADA DIKZZ V2"
     },
     "BpLIHz3SvLq2dp4GhYo23z": {
       "status": "new",
@@ -32,6 +34,6 @@
       "time": 1794724477740
     }
   },
-  "updated": 1794724477740,
+  "updated": 1794724669862,
   "total": 6
 }
