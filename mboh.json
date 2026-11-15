@@ -335,8 +335,10 @@
       "name": "JB CILL STORE ALL GAME"
     },
     "EPwMnFZPkBSIDDqlpO6tBH": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "joined",
+      "time": 1794750254346,
+      "id": "120363409898573081@g.us",
+      "name": "( RWTF ) DLY X ZAM"
     },
     "EZBugN8t3Yh7RWBJcUBoHK": {
       "status": "new",
@@ -499,6 +501,6 @@
       "time": 1794750171541
     }
   },
-  "updated": 1794750234592,
+  "updated": 1794750254626,
   "total": 97
 }
