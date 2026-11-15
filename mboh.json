@@ -1,12 +1,5 @@
 {
   "links": {
-    "BEZEsORKyKsLUDGE44va0A": {
-      "status": "joined",
-      "time": 1794723689028,
-      "id": "120363427281488141@g.us",
-      "name": "GC UTAMA JANZ SERANG",
-      "err": "already-exists"
-    },
     "HJesOUTay99EC5IshHBjm9": {
       "status": "tertutup",
       "time": 1794723712166,
@@ -27,6 +20,6 @@
       "name": "JB MENUJU RAMADHAN JANZ"
     }
   },
-  "updated": 1794723721547,
-  "total": 4
+  "updated": 1794723847662,
+  "total": 3
 }
