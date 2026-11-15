@@ -743,8 +743,10 @@
       "name": "NEXT LAGA"
     },
     "Ej0oiwOaI326G7xkEYlhC8": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752834697,
+      "id": "120363431098058726@g.us",
+      "name": "GC⁴ ZEK STR X PP BOMEL SEMVMAK"
     },
     "Jy0qUrx5fNj5SvElw4Ie5I": {
       "status": "new",
@@ -1595,6 +1597,6 @@
       "time": 1794752814293
     }
   },
-  "updated": 1794752814293,
+  "updated": 1794752835279,
   "total": 338
 }
