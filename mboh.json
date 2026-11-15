@@ -613,8 +613,10 @@
       "name": "GB TERBUKA 24 JAM KINGTR | REG KEBUMEN"
     },
     "C2JWlTUZ7bsE8KHzUWHV47": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794752382418,
+      "id": "120363431261931503@g.us",
+      "name": "JB 3 CAHYO SDA"
     },
     "BSF12YM7Vx42cw17HltuYh": {
       "status": "new",
@@ -1525,6 +1527,6 @@
       "time": 1794752331756
     }
   },
-  "updated": 1794752361110,
+  "updated": 1794752382701,
   "total": 331
 }
