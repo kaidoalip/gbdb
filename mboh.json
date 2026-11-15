@@ -931,8 +931,10 @@
       "name": "FT PEPENG 1-5K BY FONZZ#1"
     },
     "E9M1rFIhRc73s0rK2ShBvm": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "pending",
+      "time": 1794784572120,
+      "id": "120363411912178002@g.us",
+      "name": "SANTIAGO ALLBASE"
     },
     "EWrdvBLebKuJSJLxj7MG8y": {
       "status": "new",
@@ -2763,6 +2765,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784552126,
+  "updated": 1794784572422,
   "total": 615
 }
