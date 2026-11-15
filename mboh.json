@@ -443,8 +443,10 @@
       "name": "𝗝𝗕 || 𝗨𝗧𝗔𝗠𝗔 𝗛𝗔𝗡𝗭 𝟭🍀"
     },
     "FtxJDwnMZD1K7lIQ39tmDg": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794750625826,
+      "id": "120363412968437395@g.us",
+      "name": "𝗝𝗕 || 𝗨𝗧𝗔𝗠𝗔 𝗛𝗔𝗡𝗭 𝟮🍀"
     },
     "FttnHhTjdY99TKLmYBwSDF": {
       "status": "new",
@@ -1111,6 +1113,6 @@
       "time": 1794750531561
     }
   },
-  "updated": 1794750607320,
+  "updated": 1794750626039,
   "total": 241
 }
