@@ -74,8 +74,10 @@
       "name": "GB BY SISKA SHOP"
     },
     "EsDcT3ya2CYGRXDTAGIuvx": {
-      "status": "new",
-      "time": 1794725677736
+      "status": "pending",
+      "time": 1794749261193,
+      "id": "120363426153644294@g.us",
+      "name": "GB2 BY SISKA SHOP"
     },
     "IB1GCUmEQLx9XAPn27jEKN": {
       "status": "new",
@@ -350,6 +352,6 @@
       "time": 1794749156759
     }
   },
-  "updated": 1794749243706,
+  "updated": 1794749261407,
   "total": 81
 }
