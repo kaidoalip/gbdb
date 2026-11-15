@@ -919,8 +919,10 @@
       "name": "GB FT CS LING #1"
     },
     "C0J1mND67IvB1HOKDwZjiG": {
-      "status": "new",
-      "time": 1794750291569
+      "status": "joined",
+      "time": 1794784529816,
+      "id": "120363431751234812@g.us",
+      "name": "SYNTAN'AY"
     },
     "GDtpRej3RvR9YPfTwXrfvQ": {
       "status": "new",
@@ -2759,6 +2761,6 @@
       "time": 1794784372384
     }
   },
-  "updated": 1794784509726,
+  "updated": 1794784530028,
   "total": 615
 }
