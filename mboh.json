@@ -1092,8 +1092,9 @@
       "name": "𝗚𝗕 𝗢𝗣𝗧𝗘𝗦 || 𝗫𝗬𝗟𝗘𝗥"
     },
     "IuPTwgIBzqjDEHBV5QlKpV": {
-      "status": "new",
-      "time": 1794750291570
+      "status": "error",
+      "time": 1794785186277,
+      "err": "bad-request"
     },
     "EWMyJDSl48aIUMuSKinzvt": {
       "status": "new",
@@ -2824,6 +2825,6 @@
       "time": 1794785092143
     }
   },
-  "updated": 1794785171263,
+  "updated": 1794785186522,
   "total": 617
 }
