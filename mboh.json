@@ -236,8 +236,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗣𝗜𝗗𝗭 ¹"
     },
     "FoPGEaO0xUM6nWLAAsX6d4": {
-      "status": "new",
-      "time": 1794749156759
+      "status": "pending",
+      "time": 1794749669619,
+      "id": "120363424095647084@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗣𝗜𝗗𝗭 ²"
     },
     "CExFaZuupdq38M41eYqAVR": {
       "status": "new",
@@ -428,6 +430,6 @@
       "time": 1794749331549
     }
   },
-  "updated": 1794749651487,
+  "updated": 1794749669945,
   "total": 87
 }
