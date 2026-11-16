@@ -1690,8 +1690,10 @@
       "name": "GB ISIAN ZYNOXZ"
     },
     "Gfdz2t3XtRQLOhHkxWNh8N": {
-      "status": "new",
-      "time": 1794752331756
+      "status": "pending",
+      "time": 1794796835033,
+      "id": "120363414717866531@g.us",
+      "name": "Nexro punya Pushkon jir 🥶"
     },
     "EtHkOoCPbo3Hm4MvahgOdG": {
       "status": "new",
@@ -3238,6 +3240,6 @@
       "time": 1794796732573
     }
   },
-  "updated": 1794796818440,
+  "updated": 1794796835275,
   "total": 672
 }
