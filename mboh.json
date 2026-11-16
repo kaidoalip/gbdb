@@ -1786,8 +1786,10 @@
       "name": "𝗚𝗕 1 || 𝗕𝗔𝗬𝗬 𝗥𝗘𝗤 𝗚𝗧𝗟𝗢"
     },
     "C7e7uDQTNIYBCEJHHdigVk": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "pending",
+      "time": 1794797197475,
+      "id": "120363411586720511@g.us",
+      "name": "GB 2 JB CILL STORE"
     },
     "B8cchAXF9384IBkM5kilUd": {
       "status": "new",
@@ -3262,6 +3264,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797178667,
+  "updated": 1794797198775,
   "total": 670
 }
