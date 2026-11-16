@@ -1217,8 +1217,10 @@
       "name": "TOKO KELONTONG SmartUtama BUKA 24 JAM KECUALI PAS TUTUP"
     },
     "GSnB6tRR3CjBWuSHh5Nu3y": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "pending",
+      "time": 1794795371750,
+      "id": "120363431422804798@g.us",
+      "name": "ZIZ STORE { REGION SOLO }"
     },
     "CZUQz1aSaVB6fnXPflOLCt": {
       "status": "new",
@@ -3077,6 +3079,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795365268,
+  "updated": 1794795371982,
   "total": 670
 }
