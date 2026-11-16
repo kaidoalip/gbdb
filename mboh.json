@@ -1362,8 +1362,10 @@
       "err": "bad-request"
     },
     "KboPCssxuKN2DGp8S4hjac": {
-      "status": "new",
-      "time": 1794751011538
+      "status": "joined",
+      "time": 1794795789491,
+      "id": "120363417663776711@g.us",
+      "name": "ATD ROBUX/STARLIGHT"
     },
     "FcHpGsJOS4BA5UrkQsg9JO": {
       "status": "new",
@@ -3106,6 +3108,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795779787,
+  "updated": 1794795790240,
   "total": 666
 }
