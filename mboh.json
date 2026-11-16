@@ -1275,8 +1275,10 @@
       "err": "bad-request"
     },
     "GDYoTqFYYegDjZeJcJZoeP": {
-      "status": "new",
-      "time": 1794750651585
+      "status": "pending",
+      "time": 1794795537049,
+      "id": "120363426080219150@g.us",
+      "name": "GB UTAMA PYYN YEE!!! 🕊"
     },
     "DDMKmKApKfcFi4bDrTFQZv": {
       "status": "new",
@@ -3087,6 +3089,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795530384,
+  "updated": 1794795537282,
   "total": 668
 }
