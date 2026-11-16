@@ -472,24 +472,6 @@
       "id": "120363412440038217@g.us",
       "name": "STOK RESS¹ CANN🕊"
     },
-    "EgVlmtd0hS405KhRnXI2cb": {
-      "status": "joined",
-      "time": 1794784163271,
-      "id": "120363410296255396@g.us",
-      "name": "LADANG CUAN SANZ STR #V1"
-    },
-    "GLz6ZYBAYaZAyumo48XMsk": {
-      "status": "joined",
-      "time": 1794784163271,
-      "id": "120363429238839446@g.us",
-      "name": "LADANG CUAN SANZ STR #V2"
-    },
-    "KFeYGZ5nDIN1RaDHU7XKpM": {
-      "status": "joined",
-      "time": 1794784163271,
-      "id": "120363430029037146@g.us",
-      "name": "LADANG CUAN SANZ STR #V3"
-    },
     "L8bO6LtbNdM09wTDWj911X": {
       "status": "pending",
       "time": 1794752108328,
@@ -4159,6 +4141,6 @@
       "time": 1794811254893
     }
   },
-  "updated": 1794811254893,
-  "total": 890
+  "updated": 1794811351737,
+  "total": 887
 }
