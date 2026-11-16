@@ -1804,8 +1804,10 @@
       "name": "ROOM CUAN ASTRO¹"
     },
     "CU3zpOUgWNH3lrJf3CEG0z": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "joined",
+      "time": 1794797270134,
+      "id": "120363431426325270@g.us",
+      "name": "FT CS BY RISZ X OWN#1"
     },
     "IedHHxjqYtgBWrEd4JDxNE": {
       "status": "new",
@@ -3264,6 +3266,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797244546,
+  "updated": 1794797270613,
   "total": 669
 }
