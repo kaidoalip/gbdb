@@ -1470,8 +1470,10 @@
       "name": "STOCK YARZZ X PERGAM 3"
     },
     "CztUlCg3Aud0wi1mDJOFuQ": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796160939,
+      "id": "120363414516101122@g.us",
+      "name": "JOIN GRUP DI DESKRIPSI JUGA"
     },
     "Lu6R0lE6UCdB1WN4mrbSpi": {
       "status": "new",
@@ -3150,6 +3152,6 @@
       "time": 1794796132614
     }
   },
-  "updated": 1794796141177,
+  "updated": 1794796161161,
   "total": 668
 }
