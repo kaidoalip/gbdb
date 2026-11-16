@@ -1494,8 +1494,10 @@
       "name": "JB OMLING²"
     },
     "B66RJlOAGt49iNB8SbcMFv": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796236026,
+      "id": "120363425500791907@g.us",
+      "name": "GB JPM 3 NISA"
     },
     "KoPWs5lx8rp0HmrI1EfKiy": {
       "status": "new",
@@ -3158,6 +3160,6 @@
       "time": 1794796132614
     }
   },
-  "updated": 1794796216635,
+  "updated": 1794796236377,
   "total": 668
 }
