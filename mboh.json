@@ -1638,8 +1638,10 @@
       "name": "𝙊𝙉𝙇𝙔 𝙎𝘼𝙍"
     },
     "LMsD2zD1gtd16eSrNoMDds": {
-      "status": "new",
-      "time": 1794752091697
+      "status": "pending",
+      "time": 1794796702287,
+      "id": "120363430739847360@g.us",
+      "name": "VEXALEN HIGH"
     },
     "K4pzAedUX9LIVctzv9kGcM": {
       "status": "new",
@@ -3218,6 +3220,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796694071,
+  "updated": 1794796702702,
   "total": 671
 }
