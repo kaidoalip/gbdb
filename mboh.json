@@ -1792,8 +1792,10 @@
       "name": "GB 2 JB CILL STORE"
     },
     "B8cchAXF9384IBkM5kilUd": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "pending",
+      "time": 1794797217006,
+      "id": "120363431728926365@g.us",
+      "name": "GRUB TERBUKA BY TITO STORE"
     },
     "Bj0gGgFylbGHnjjrQHXzd3": {
       "status": "new",
@@ -3264,6 +3266,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797212604,
+  "updated": 1794797217226,
   "total": 670
 }
