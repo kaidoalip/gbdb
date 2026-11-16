@@ -1440,8 +1440,10 @@
       "name": "STOCK YARZZ X PERGAM 1"
     },
     "BdhPFZrEOeZ37FUwxBNUaa": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "joined",
+      "time": 1794796063406,
+      "id": "120363419032155119@g.us",
+      "name": "SG 2 MENUJUU RAMADHAN 2027 [3]"
     },
     "G85baKmJJYPBm2nLJCgoCv": {
       "status": "new",
@@ -3128,6 +3130,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794796040057,
+  "updated": 1794796063601,
   "total": 665
 }
