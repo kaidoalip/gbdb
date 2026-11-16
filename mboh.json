@@ -1584,8 +1584,10 @@
       "name": "GB MONZ [ TERBUKA ]"
     },
     "HsOEcGrbG3iBZCelJy1f36": {
-      "status": "new",
-      "time": 1794751371541
+      "status": "joined",
+      "time": 1794796518120,
+      "id": "120363411955987173@g.us",
+      "name": "GB BEBAS SHARE LINK"
     },
     "FMx9XtWz3Sk0KA6xHfeDk5": {
       "status": "new",
@@ -3216,6 +3218,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796499977,
+  "updated": 1794796518527,
   "total": 675
 }
