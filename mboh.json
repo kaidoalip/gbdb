@@ -1726,8 +1726,10 @@
       "name": "𝘿𝙪𝙣𝙞𝙖 𝘾𝙪𝙖𝙣 𝙍𝘼𝙆𝙕𝙓 #2"
     },
     "K3VznyQGlZa3d6Ls9qEzAh": {
-      "status": "new",
-      "time": 1794752691757
+      "status": "joined",
+      "time": 1794796989689,
+      "id": "120363410667169234@g.us",
+      "name": "𝘿𝙪𝙣𝙞𝙖 𝘾𝙪𝙖𝙣 𝙍𝘼𝙆𝙕𝙓 #3"
     },
     "BBcJOFgFcpH6jiTjcSgtlX": {
       "status": "new",
@@ -3246,6 +3248,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794796972804,
+  "updated": 1794796989916,
   "total": 671
 }
