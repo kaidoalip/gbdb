@@ -1660,8 +1660,10 @@
       "err": "not-authorized"
     },
     "JayETYJO9wHDtkEFEHCR4W": {
-      "status": "new",
-      "time": 1794752211647
+      "status": "joined",
+      "time": 1794796750534,
+      "id": "120363431189783012@g.us",
+      "name": "𝓞𝓯𝓯𝓲𝓬𝓲𝓪𝓵 𝓜𝓲𝓵𝔂𝓱𝔂𝓪𝓪 𝓢𝓽𝓸𝓻𝓮"
     },
     "KZo0HUN8J2J6oRKV79dagP": {
       "status": "new",
@@ -3228,6 +3230,6 @@
       "time": 1794796732573
     }
   },
-  "updated": 1794796741841,
+  "updated": 1794796750925,
   "total": 672
 }
