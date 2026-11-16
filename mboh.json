@@ -1506,8 +1506,10 @@
       "name": "JB OMLING³"
     },
     "FfR30sT0UzxKckKbyiSksk": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796277463,
+      "id": "120363410033654557@g.us",
+      "name": "ZARINA GB 1"
     },
     "IzjxGQw5uEF2TS1kCt4OIE": {
       "status": "new",
@@ -3178,6 +3180,6 @@
       "time": 1794796252655
     }
   },
-  "updated": 1794796257471,
+  "updated": 1794796277694,
   "total": 672
 }
