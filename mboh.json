@@ -1446,8 +1446,10 @@
       "name": "SG 2 MENUJUU RAMADHAN 2027 [3]"
     },
     "G85baKmJJYPBm2nLJCgoCv": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796081611,
+      "id": "120363424699223678@g.us",
+      "name": "SG 2 MENUJU RAMADHAN 2027 [2]"
     },
     "LBvfbAjDSmWBzZheflyJJk": {
       "status": "new",
@@ -3130,6 +3132,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794796063601,
+  "updated": 1794796081894,
   "total": 665
 }
