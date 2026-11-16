@@ -1476,8 +1476,10 @@
       "name": "JOIN GRUP DI DESKRIPSI JUGA"
     },
     "Lu6R0lE6UCdB1WN4mrbSpi": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796177028,
+      "id": "120363422038683354@g.us",
+      "name": "JB OMLING¹"
     },
     "K4oaVjDP3BEKh5W8tGxv2Z": {
       "status": "new",
@@ -3152,6 +3154,6 @@
       "time": 1794796132614
     }
   },
-  "updated": 1794796161161,
+  "updated": 1794796177338,
   "total": 668
 }
