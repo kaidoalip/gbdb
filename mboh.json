@@ -1464,8 +1464,10 @@
       "name": "STOCK YARZZ X PERGAM 4"
     },
     "JCOUYBWoCq6Katt8AfRXS0": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "joined",
+      "time": 1794796140975,
+      "id": "120363399009643710@g.us",
+      "name": "STOCK YARZZ X PERGAM 3"
     },
     "CztUlCg3Aud0wi1mDJOFuQ": {
       "status": "new",
@@ -3148,6 +3150,6 @@
       "time": 1794796132614
     }
   },
-  "updated": 1794796132614,
+  "updated": 1794796141177,
   "total": 668
 }
