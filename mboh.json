@@ -1309,8 +1309,10 @@
       "err": "bad-request"
     },
     "Je5FEBFQhywBu70pZtaoTv": {
-      "status": "new",
-      "time": 1794750651585
+      "status": "joined",
+      "time": 1794795632544,
+      "id": "120363040431822242@g.us",
+      "name": "𝗙𝗔𝗭 𝗦𝗧𝗢𝗥𝗘 || 𝗔𝗣𝗣𝗦 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 , 𝗧𝗢𝗣𝗨𝗣 & 𝗦𝗨𝗡𝗧𝗜𝗞 𝗦𝗢𝗦𝗠𝗘𝗗 🛍️"
     },
     "ExopWyT63kU2mGpO1FG5lv": {
       "status": "new",
@@ -3093,6 +3095,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795623664,
+  "updated": 1794795632763,
   "total": 667
 }
