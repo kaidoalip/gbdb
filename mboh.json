@@ -1404,8 +1404,10 @@
       "name": "BAEARS"
     },
     "DgfDZfYWRxw9NoSE2abJTp": {
-      "status": "new",
-      "time": 1794751011538
+      "status": "pending",
+      "time": 1794795935872,
+      "id": "120363421180970431@g.us",
+      "name": "✧˚₊· Sirdanz belum punah v1 ·₊˚✧"
     },
     "DIrneqdVrd43dxJ7FQuPw8": {
       "status": "new",
@@ -3128,6 +3130,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794795916983,
+  "updated": 1794795936166,
   "total": 668
 }
