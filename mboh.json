@@ -1816,8 +1816,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗬𝗮𝗻𝘇𝗡𝗲𝘄𝗘𝗿𝗮"
     },
     "K6tHxhIVKT8CrKukf039D0": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "pending",
+      "time": 1794797319980,
+      "id": "120363346944900922@g.us",
+      "name": "TOKO CIMOL JHN"
     },
     "IJCRYrK5ig8JbQeq26guAx": {
       "status": "new",
@@ -3268,6 +3270,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797297923,
+  "updated": 1794797324064,
   "total": 669
 }
