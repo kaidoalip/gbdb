@@ -1732,8 +1732,10 @@
       "name": "𝘿𝙪𝙣𝙞𝙖 𝘾𝙪𝙖𝙣 𝙍𝘼𝙆𝙕𝙓 #3"
     },
     "BBcJOFgFcpH6jiTjcSgtlX": {
-      "status": "new",
-      "time": 1794752814293
+      "status": "pending",
+      "time": 1794797010781,
+      "id": "120363410463983678@g.us",
+      "name": "INPO || DAGET HARIAN💸"
     },
     "GjjdKShjDcbDpgFr8JtdVl": {
       "status": "new",
@@ -3248,6 +3250,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794796989916,
+  "updated": 1794797011029,
   "total": 671
 }
