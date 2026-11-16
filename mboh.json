@@ -1827,8 +1827,10 @@
       "err": "bad-request"
     },
     "LP9VdAJKlSI8e1NEcJ7JMk": {
-      "status": "new",
-      "time": 1794753171567
+      "status": "joined",
+      "time": 1794797376551,
+      "id": "120363429842219275@g.us",
+      "name": "𝗝𝗕 𝗦𝗬𝗘𝗦𝗦𝟳 𝗥𝗘𝗗𝗨𝗣? [5]"
     },
     "Kk1jXJn7DnB3YsTILe0WMl": {
       "status": "new",
@@ -3271,6 +3273,6 @@
       "time": 1794797332682
     }
   },
-  "updated": 1794797362289,
+  "updated": 1794797376821,
   "total": 669
 }
