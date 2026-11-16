@@ -1223,8 +1223,10 @@
       "name": "ZIZ STORE { REGION SOLO }"
     },
     "CZUQz1aSaVB6fnXPflOLCt": {
-      "status": "new",
-      "time": 1794750531561
+      "status": "joined",
+      "time": 1794795389578,
+      "id": "120363430829543557@g.us",
+      "name": "JB¹ || KYYSTR BGR [PROSES]"
     },
     "KN2BVahbTW70i1B2POPyR7": {
       "status": "new",
@@ -3079,6 +3081,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795371982,
+  "updated": 1794795389794,
   "total": 670
 }
