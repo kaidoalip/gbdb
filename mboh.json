@@ -1252,8 +1252,10 @@
       "name": "STOK DEWA X OMLING X BOMEL"
     },
     "BUZzMSkEIRQJSlXnXt6XXL": {
-      "status": "new",
-      "time": 1794750651585
+      "status": "joined",
+      "time": 1794795473072,
+      "id": "120363429863420482@g.us",
+      "name": "Lavitala Shop | Bot¹"
     },
     "BvD4Mrvbvna8qWi6oa39GH": {
       "status": "new",
@@ -3084,6 +3086,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795454097,
+  "updated": 1794795473401,
   "total": 669
 }
