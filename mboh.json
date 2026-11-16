@@ -1410,8 +1410,10 @@
       "name": "✧˚₊· Sirdanz belum punah v1 ·₊˚✧"
     },
     "HDpymqTzmicJy22OPnkJKa": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794795960772,
+      "id": "120363429842747514@g.us",
+      "name": "FJB VINZ STORE#4"
     },
     "Jad3YeKGPaS138daa6An45": {
       "status": "new",
@@ -3122,6 +3124,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794795953464,
+  "updated": 1794795961006,
   "total": 666
 }
