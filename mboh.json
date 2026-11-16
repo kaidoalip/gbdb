@@ -1452,8 +1452,10 @@
       "name": "SG 2 MENUJU RAMADHAN 2027 [2]"
     },
     "LBvfbAjDSmWBzZheflyJJk": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796099842,
+      "id": "120363428604083598@g.us",
+      "name": "GB BONOSTR01 ALL GAME #1"
     },
     "LDYddOOc5LpCaLXWFHG3T1": {
       "status": "new",
@@ -3132,6 +3134,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794796081894,
+  "updated": 1794796100233,
   "total": 665
 }
