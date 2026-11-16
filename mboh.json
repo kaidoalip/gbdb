@@ -1780,8 +1780,10 @@
       "name": "𝙒𝘼𝙍𝙐𝙉𝙂 𝙅𝙋𝙈 𝙑𝙄𝙉𝙕𝙕 𝙓 𝘿𝘼𝙋𝙕✨"
     },
     "FMAzrVA60HDKYzSWn97KR7": {
-      "status": "new",
-      "time": 1794752931547
+      "status": "pending",
+      "time": 1794797178330,
+      "id": "120363430767132524@g.us",
+      "name": "𝗚𝗕 1 || 𝗕𝗔𝗬𝗬 𝗥𝗘𝗤 𝗚𝗧𝗟𝗢"
     },
     "C7e7uDQTNIYBCEJHHdigVk": {
       "status": "new",
@@ -3260,6 +3262,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797169220,
+  "updated": 1794797178667,
   "total": 670
 }
