@@ -1714,8 +1714,10 @@
       "name": "GB ALL GAME || Dyxzz STORE¹"
     },
     "EEAA2pzzVsAA3vLRsmlmIG": {
-      "status": "new",
-      "time": 1794752691757
+      "status": "pending",
+      "time": 1794796947346,
+      "id": "120363412537141621@g.us",
+      "name": "GB ALL GAME || Dyxzz STORE²"
     },
     "LZghmJaNdbjBoirAeigyC3": {
       "status": "new",
@@ -3234,6 +3236,6 @@
       "time": 1794796852533
     }
   },
-  "updated": 1794796924834,
+  "updated": 1794796947621,
   "total": 669
 }
