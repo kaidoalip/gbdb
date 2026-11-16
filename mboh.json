@@ -1596,8 +1596,10 @@
       "name": "GB FT CS NDRExJUNZ  500-3K"
     },
     "CiJ8UmvfuCK6iUaN0IAedp": {
-      "status": "new",
-      "time": 1794751371541
+      "status": "pending",
+      "time": 1794796552883,
+      "id": "120363432359930787@g.us",
+      "name": "FT CS BY DRE x JUNZ 500-5k"
     },
     "FvqHmkNIq2n2P8WH2iH4YL": {
       "status": "new",
@@ -3220,6 +3222,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796536193,
+  "updated": 1794796553137,
   "total": 675
 }
