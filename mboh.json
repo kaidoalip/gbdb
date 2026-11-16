@@ -1798,8 +1798,10 @@
       "name": "GRUB TERBUKA BY TITO STORE"
     },
     "EcvP7P96YeJJ84aEvzUq7Q": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "joined",
+      "time": 1794797244351,
+      "id": "120363388994106122@g.us",
+      "name": "ROOM CUAN ASTRO¹"
     },
     "CU3zpOUgWNH3lrJf3CEG0z": {
       "status": "new",
@@ -3262,6 +3264,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797232529,
+  "updated": 1794797244546,
   "total": 669
 }
