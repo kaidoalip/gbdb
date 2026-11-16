@@ -1822,8 +1822,9 @@
       "name": "TOKO CIMOL JHN"
     },
     "HDNfrdm53iB8kd5wiGE8VT": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "error",
+      "time": 1794797354798,
+      "err": "bad-request"
     },
     "FPtuwhxuD8L5aXdNmItdZk": {
       "status": "new",
@@ -3274,6 +3275,6 @@
       "time": 1794797332682
     }
   },
-  "updated": 1794797348539,
+  "updated": 1794797355071,
   "total": 670
 }
