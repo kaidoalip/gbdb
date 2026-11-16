@@ -1572,8 +1572,10 @@
       "name": "STOK RES YANZz 4"
     },
     "Dr34uYtxwSKKPQRcZ6gLuS": {
-      "status": "new",
-      "time": 1794751371541
+      "status": "pending",
+      "time": 1794796481993,
+      "id": "120363430076604031@g.us",
+      "name": "GRUB BEBAS SHARE LINK"
     },
     "B6FAzZEoAsT02n13nrw5OO": {
       "status": "new",
@@ -3196,6 +3198,6 @@
       "time": 1794796252655
     }
   },
-  "updated": 1794796475013,
+  "updated": 1794796482548,
   "total": 671
 }
