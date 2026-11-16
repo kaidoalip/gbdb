@@ -1620,8 +1620,10 @@
       "name": "STOK (1) ||GYX STORE  X OWN/PT"
     },
     "C7KYJLCpKNT30A1EXDnvMW": {
-      "status": "new",
-      "time": 1794751731652
+      "status": "joined",
+      "time": 1794796644136,
+      "id": "120363408192542142@g.us",
+      "name": "JB 1|| GYX STORE"
     },
     "EqGqKgmTM5c1ScAE2M3fKl": {
       "status": "new",
@@ -3216,6 +3218,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796625740,
+  "updated": 1794796644457,
   "total": 672
 }
