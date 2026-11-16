@@ -1566,8 +1566,10 @@
       "name": "GC Utama YANZz"
     },
     "F1JHFwrVsHPKjkR49G27D1": {
-      "status": "new",
-      "time": 1794751251631
+      "status": "pending",
+      "time": 1794796462270,
+      "id": "120363425152672888@g.us",
+      "name": "STOK RES YANZz 4"
     },
     "KOzMEjNGHmNBSeZDuaQA5m": {
       "status": "new",
@@ -3198,6 +3200,6 @@
       "time": 1794796252655
     }
   },
-  "updated": 1794796443074,
+  "updated": 1794796462556,
   "total": 672
 }
