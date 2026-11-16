@@ -1091,8 +1091,8 @@
       "err": "bad-request"
     },
     "EWMyJDSl48aIUMuSKinzvt": {
-      "status": "pending",
-      "time": 1794785196604,
+      "status": "joined",
+      "time": 1794795296732,
       "id": "120363432713113510@g.us",
       "name": "𝐌𝐁𝐎𝐈𝐒 𝐀𝐑𝐄𝐀 | 𝐀𝐋𝐋𝐁𝐀𝐒𝐄"
     },
@@ -3081,6 +3081,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795292709,
+  "updated": 1794795296914,
   "total": 671
 }
