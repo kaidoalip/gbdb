@@ -1258,8 +1258,10 @@
       "name": "Lavitala Shop | Bot¹"
     },
     "BvD4Mrvbvna8qWi6oa39GH": {
-      "status": "new",
-      "time": 1794750651585
+      "status": "pending",
+      "time": 1794795490813,
+      "id": "120363415657134185@g.us",
+      "name": "GB¹ ISIAN Risz | BJM"
     },
     "BS76aaZ2BL29dSmGbqB7vh": {
       "status": "new",
@@ -3086,6 +3088,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795473401,
+  "updated": 1794795491116,
   "total": 669
 }
