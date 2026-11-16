@@ -1458,8 +1458,10 @@
       "name": "GB BONOSTR01 ALL GAME #1"
     },
     "LDYddOOc5LpCaLXWFHG3T1": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "joined",
+      "time": 1794796118545,
+      "id": "120363213771271464@g.us",
+      "name": "STOCK YARZZ X PERGAM 4"
     },
     "JCOUYBWoCq6Katt8AfRXS0": {
       "status": "new",
@@ -3134,6 +3136,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794796100233,
+  "updated": 1794796118746,
   "total": 665
 }
