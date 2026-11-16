@@ -1234,8 +1234,10 @@
       "err": "bad-request"
     },
     "DIvAJjzm0T7EjmIHHe6WJg": {
-      "status": "new",
-      "time": 1794750651585
+      "status": "pending",
+      "time": 1794795415876,
+      "id": "120363274287759425@g.us",
+      "name": "𝐉𝐁 𝐄𝐋 𝐒𝐓𝐎𝐑𝐄"
     },
     "INNH0nQetIJ6DA1j4RzVQM": {
       "status": "new",
@@ -3078,6 +3080,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795412537,
+  "updated": 1794795416092,
   "total": 669
 }
