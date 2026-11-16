@@ -1293,8 +1293,10 @@
       "name": "FT CEES RECEH || BY BARAA"
     },
     "BCPapPKnW5zCjRx2PybqJD": {
-      "status": "new",
-      "time": 1794750651585
+      "status": "joined",
+      "time": 1794795602574,
+      "id": "120363427497144783@g.us",
+      "name": "DILZ VS CILZY"
     },
     "IjQgliA5OSI03T6vVSJSfb": {
       "status": "new",
@@ -3089,6 +3091,6 @@
       "time": 1794794932594
     }
   },
-  "updated": 1794795581488,
+  "updated": 1794795603084,
   "total": 667
 }
