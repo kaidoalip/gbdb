@@ -1810,8 +1810,10 @@
       "name": "FT CS BY RISZ X OWN#1"
     },
     "IedHHxjqYtgBWrEd4JDxNE": {
-      "status": "new",
-      "time": 1794753051542
+      "status": "joined",
+      "time": 1794797297551,
+      "id": "120363423954138088@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗬𝗮𝗻𝘇𝗡𝗲𝘄𝗘𝗿𝗮"
     },
     "K6tHxhIVKT8CrKukf039D0": {
       "status": "new",
@@ -3266,6 +3268,6 @@
       "time": 1794796972804
     }
   },
-  "updated": 1794797270613,
+  "updated": 1794797297923,
   "total": 669
 }
