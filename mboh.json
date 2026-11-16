@@ -1602,8 +1602,10 @@
       "name": "FT CS BY DRE x JUNZ 500-5k"
     },
     "FvqHmkNIq2n2P8WH2iH4YL": {
-      "status": "new",
-      "time": 1794751611604
+      "status": "joined",
+      "time": 1794796570542,
+      "id": "120363415753026280@g.us",
+      "name": "JB 1 || RIZZY STR 01"
     },
     "EcemJc4CP7z7EwKu7JwJw6": {
       "status": "new",
@@ -3222,6 +3224,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796553137,
+  "updated": 1794796570757,
   "total": 675
 }
