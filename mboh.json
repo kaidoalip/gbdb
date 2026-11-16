@@ -1608,8 +1608,10 @@
       "name": "JB 1 || RIZZY STR 01"
     },
     "GDpHZ1gEuhkI1j5bZeMP4e": {
-      "status": "new",
-      "time": 1794751611604
+      "status": "pending",
+      "time": 1794796604005,
+      "id": "120363431892480236@g.us",
+      "name": "GB² ALL GAME GANZ4YOU STORE REGION BANTEN"
     },
     "CCzkyxQZXFc1UZTuE3jM5x": {
       "status": "new",
@@ -3212,6 +3214,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796596805,
+  "updated": 1794796604243,
   "total": 672
 }
