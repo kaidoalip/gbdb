@@ -1416,8 +1416,10 @@
       "name": "FJB VINZ STORE#4"
     },
     "F6eXhHVNCHYC9GEZ5wEM3p": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794795983610,
+      "id": "120363429594697032@g.us",
+      "name": "JB¹ DEVZSENGSTURRR"
     },
     "IruvuOaZh8qLKLMgRPn41T": {
       "status": "new",
@@ -3120,6 +3122,6 @@
       "time": 1794795892507
     }
   },
-  "updated": 1794795976446,
+  "updated": 1794795983840,
   "total": 665
 }
