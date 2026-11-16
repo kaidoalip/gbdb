@@ -1488,8 +1488,10 @@
       "name": "𝗦𝗧𝗢𝗖𝗞 𝟭 || 𝗭𝗬𝗔𝗡 𝗣𝗨𝗦𝗔𝗧 × 𝗢𝗪𝗡𝗘𝗥"
     },
     "BetQLCYrSNzAfFybYuW9qT": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796216409,
+      "id": "120363427626049091@g.us",
+      "name": "JB OMLING²"
     },
     "B66RJlOAGt49iNB8SbcMFv": {
       "status": "new",
@@ -3156,6 +3158,6 @@
       "time": 1794796132614
     }
   },
-  "updated": 1794796197392,
+  "updated": 1794796216635,
   "total": 668
 }
