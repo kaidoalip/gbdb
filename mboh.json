@@ -1644,8 +1644,10 @@
       "name": "VEXALEN HIGH"
     },
     "K4pzAedUX9LIVctzv9kGcM": {
-      "status": "new",
-      "time": 1794752091697
+      "status": "joined",
+      "time": 1794796723069,
+      "id": "120363410533639409@g.us",
+      "name": "𝐆B isian/Ft mlbb (kenon jngn out)"
     },
     "Kpc6h3NdY1979qMSkBWfVF": {
       "status": "new",
@@ -3220,6 +3222,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796702702,
+  "updated": 1794796723300,
   "total": 671
 }
