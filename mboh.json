@@ -1512,8 +1512,10 @@
       "name": "ZARINA GB 1"
     },
     "IzjxGQw5uEF2TS1kCt4OIE": {
-      "status": "new",
-      "time": 1794751131585
+      "status": "pending",
+      "time": 1794796295461,
+      "id": "120363413643213442@g.us",
+      "name": "BEBAS SHER LINK"
     },
     "IYUo9WZ501o9OzKcQPsLIC": {
       "status": "new",
@@ -3180,6 +3182,6 @@
       "time": 1794796252655
     }
   },
-  "updated": 1794796277694,
+  "updated": 1794796295683,
   "total": 672
 }
