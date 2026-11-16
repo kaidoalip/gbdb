@@ -1590,8 +1590,10 @@
       "name": "GB BEBAS SHARE LINK"
     },
     "FMx9XtWz3Sk0KA6xHfeDk5": {
-      "status": "new",
-      "time": 1794751371541
+      "status": "pending",
+      "time": 1794796535973,
+      "id": "120363413821335077@g.us",
+      "name": "GB FT CS NDRExJUNZ  500-3K"
     },
     "CiJ8UmvfuCK6iUaN0IAedp": {
       "status": "new",
@@ -3218,6 +3220,6 @@
       "time": 1794796492581
     }
   },
-  "updated": 1794796518527,
+  "updated": 1794796536193,
   "total": 675
 }
