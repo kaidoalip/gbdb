@@ -2450,8 +2450,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗞𝗔𝗟𝗟 𝟰"
     },
     "Hp4iav34TM9C6zP6qXPATG": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "pending",
+      "time": 1794972708669,
+      "id": "120363411628007990@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗞𝗔𝗟𝗟 𝟱"
     },
     "CF2u7FH28dS1SP2PHJvor1": {
       "status": "new",
@@ -6122,6 +6124,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972690146,
+  "updated": 1794972708914,
   "total": 1333
 }
