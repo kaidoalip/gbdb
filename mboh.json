@@ -4315,8 +4315,11 @@
       "err": "bad-request"
     },
     "Lll1ewJkegv076qVPq86f4": {
-      "status": "new",
-      "time": 1794808014964
+      "status": "tertutup",
+      "time": 1794977893305,
+      "id": "120363423479585783@g.us",
+      "name": "BATTLE OF SWORD(open)",
+      "announce": true
     },
     "EjSWn6VRSMv18GO0dHw0FG": {
       "status": "new",
@@ -6543,6 +6546,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977884284,
+  "updated": 1794977893726,
   "total": 1297
 }
