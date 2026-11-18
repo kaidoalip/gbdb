@@ -2021,8 +2021,10 @@
       "name": "JB ALLGAME 283"
     },
     "FDp31okRUfoFXbprifNQBu": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971282960,
+      "id": "120363429500126038@g.us",
+      "name": "JB ALLGAME 290"
     },
     "HRVrDTeOxn351LMkGiqdLp": {
       "status": "new",
@@ -6009,6 +6011,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971265019,
+  "updated": 1794971283649,
   "total": 1339
 }
