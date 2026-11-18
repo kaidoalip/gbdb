@@ -2227,8 +2227,9 @@
       "name": "𝗽𝘂𝘀𝗮𝘁 𝘀𝘁𝗼𝗸 𝗺𝗹𝗯𝗯 𝘅 𝗳𝗿𝗲𝗲 𝗳𝗶𝗿𝗲 𝗵𝗮𝗺 𝗩𝟭"
     },
     "EY4Mf6Nu3gnFhppT0JetvU": {
-      "status": "new",
-      "time": 1794754731659
+      "status": "error",
+      "time": 1794972187376,
+      "err": "bad-request"
     },
     "LnFEFnFwXVR3yfBTvbNy3C": {
       "status": "new",
@@ -6047,6 +6048,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972171062,
+  "updated": 1794972187645,
   "total": 1333
 }
