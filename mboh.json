@@ -3499,8 +3499,11 @@
       "err": "bad-request"
     },
     "BnZCGRYWvDj8DA97Dgb6SL": {
-      "status": "new",
-      "time": 1794794813903
+      "status": "tertutup",
+      "time": 1794975913569,
+      "id": "120363412994572346@g.us",
+      "name": "𝗣𝗔𝗦𝗔𝗥 𝗦𝗧𝗢𝗞 𝗠𝗨𝗥𝗔𝗛🌸",
+      "announce": true
     },
     "DPBSY2FuaA43NYi6opzu0e": {
       "status": "new",
@@ -6327,6 +6330,6 @@
       "time": 1794975798868
     }
   },
-  "updated": 1794975904393,
+  "updated": 1794975913804,
   "total": 1305
 }
