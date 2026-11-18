@@ -2318,8 +2318,11 @@
       "err": "growth-locked"
     },
     "Ixsg0Bbtu2668DIxaH2s1c": {
-      "status": "new",
-      "time": 1794756051694
+      "status": "tertutup",
+      "time": 1794972376766,
+      "id": "4915214713535-1496788817@g.us",
+      "name": "𝗼𝗽𝗲𝗻 𝗯𝘆 || 𝗮𝘆𝗮𝗮²💋",
+      "announce": true
     },
     "IyRfZEaksEd3DuTc1wN7a6": {
       "status": "new",
@@ -6074,6 +6077,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972367932,
+  "updated": 1794972377081,
   "total": 1333
 }
