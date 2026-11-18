@@ -3954,8 +3954,11 @@
       "err": "bad-request"
     },
     "BeOdCyKwtrI23BtNGqEAGS": {
-      "status": "new",
-      "time": 1794801292670
+      "status": "tertutup",
+      "time": 1794976967454,
+      "id": "120363409900835823@g.us",
+      "name": "GC UTAMA GOBEXSTR🏃",
+      "announce": true
     },
     "GqIWYsfcBEqAhx9mIHfGq0": {
       "status": "new",
@@ -6434,6 +6437,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976958047,
+  "updated": 1794976967904,
   "total": 1298
 }
