@@ -2076,8 +2076,10 @@
       "name": "JB ALLGAME GL GANK"
     },
     "FYY3wnIrzUX061W02X3yK3": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971812995,
+      "id": "120363431912004124@g.us",
+      "name": "ALLGAME 413"
     },
     "KgyGw7MouHF9VY1iJindhK": {
       "status": "new",
@@ -6028,6 +6030,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971793553,
+  "updated": 1794971813249,
   "total": 1339
 }
