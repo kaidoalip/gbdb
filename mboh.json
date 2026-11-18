@@ -2978,8 +2978,9 @@
       "name": "𝗟𝗣𝗠 𝗞𝗘𝗬𝗬𝗔 𝟬𝟭"
     },
     "FoSqBKNnqvWH6CFtVVYOtk": {
-      "status": "new",
-      "time": 1794781252062
+      "status": "error",
+      "time": 1794974764816,
+      "err": "bad-request"
     },
     "HTAqN1YAHUgK3exb6A8Wcq": {
       "status": "new",
@@ -6214,6 +6215,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974750550,
+  "updated": 1794974765058,
   "total": 1316
 }
