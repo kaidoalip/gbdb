@@ -4719,8 +4719,10 @@
       "name": "VEXALEN HIGH"
     },
     "BOI6JD50sLfHd1km1IEKIb": {
-      "status": "new",
-      "time": 1794811734750
+      "status": "pending",
+      "time": 1794978785286,
+      "id": "120363429125005788@g.us",
+      "name": "JB ALLGAME (DIJUAL, MINAT PM)"
     },
     "Hd0RgpHZTJQ6e8poPfnCb6": {
       "status": "new",
@@ -6615,6 +6617,6 @@
       "time": 1794978559528
     }
   },
-  "updated": 1794978778026,
+  "updated": 1794978785665,
   "total": 1285
 }
