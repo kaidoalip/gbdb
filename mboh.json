@@ -3876,8 +3876,10 @@
       "name": "OBRAL STOK MURAH V1 🧢"
     },
     "FgmUdyLaPJtHgcAwK22nsP": {
-      "status": "new",
-      "time": 1794800572574
+      "status": "pending",
+      "time": 1794976773628,
+      "id": "120363413550686357@g.us",
+      "name": "KAZU MARKET STOK RECEH 🧢"
     },
     "JJNN6chTJg01iye4cnFnXN": {
       "status": "new",
@@ -6416,6 +6418,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976754746,
+  "updated": 1794976773866,
   "total": 1299
 }
