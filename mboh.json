@@ -5081,8 +5081,9 @@
       "name": "GB CR/WAR BBS SHARE JARZZ #1"
     },
     "KQ1nq3nGKp35HcIYnAT5rB": {
-      "status": "new",
-      "time": 1794815817463
+      "status": "error",
+      "time": 1794979828936,
+      "err": "bad-request"
     },
     "DUm71Hh8zoK28CcAvvdCUr": {
       "status": "new",
@@ -6777,6 +6778,6 @@
       "time": 1794979761386
     }
   },
-  "updated": 1794979813688,
+  "updated": 1794979829439,
   "total": 1298
 }
