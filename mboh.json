@@ -2716,8 +2716,10 @@
       "name": "MARKET FREE FIRE LANGZ STURR"
     },
     "Eo2b3v1iBeW85QSQlkQZU7": {
-      "status": "new",
-      "time": 1794760251670
+      "status": "pending",
+      "time": 1794973378211,
+      "id": "120363431506804141@g.us",
+      "name": "MARKET MOBILE LEGENDS LANGZ STURR"
     },
     "G7vw9E9kvoQ1k38jXS7Pbg": {
       "status": "new",
@@ -6196,6 +6198,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973359705,
+  "updated": 1794973378857,
   "total": 1331
 }
