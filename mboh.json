@@ -3494,8 +3494,9 @@
       "name": "RIVIEW PLAYSTORE MOVA CASHBACK 2026"
     },
     "EBrmMNRhXnI4cv1qngm315": {
-      "status": "new",
-      "time": 1794794813903
+      "status": "error",
+      "time": 1794975903987,
+      "err": "bad-request"
     },
     "BnZCGRYWvDj8DA97Dgb6SL": {
       "status": "new",
@@ -6326,6 +6327,6 @@
       "time": 1794975798868
     }
   },
-  "updated": 1794975888381,
+  "updated": 1794975904393,
   "total": 1305
 }
