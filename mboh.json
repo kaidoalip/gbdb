@@ -4207,8 +4207,10 @@
       "err": "bad-request"
     },
     "LIDzeWKZqmhIWw1RB3aulI": {
-      "status": "new",
-      "time": 1794805372646
+      "status": "joined",
+      "time": 1794977643453,
+      "id": "120363413232447119@g.us",
+      "name": "𝗦𝗛𝗔𝗥𝗔𝗛 𝗦𝗧𝗢𝗥𝗘 𝗩𝟯"
     },
     "CmjmmuAt1LGGCmOijSYA9f": {
       "status": "new",
@@ -6503,6 +6505,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977634448,
+  "updated": 1794977643802,
   "total": 1295
 }
