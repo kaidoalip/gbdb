@@ -5009,8 +5009,10 @@
       "err": "bad-request"
     },
     "DDJdhLYHzzBDEjE2lNJMrj": {
-      "status": "new",
-      "time": 1794815097141
+      "status": "pending",
+      "time": 1794979586951,
+      "id": "120363432129540426@g.us",
+      "name": "JB TYZY_STORE LUMAJANG"
     },
     "FhNZxP3JhoC46afd9Dstdq": {
       "status": "new",
@@ -6729,6 +6731,6 @@
       "time": 1794979522158
     }
   },
-  "updated": 1794979579952,
+  "updated": 1794979587203,
   "total": 1292
 }
