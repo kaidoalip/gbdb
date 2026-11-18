@@ -4866,8 +4866,11 @@
       "err": "bad-request"
     },
     "Ks3M2Pba9WXFiIGo6Fe65V": {
-      "status": "new",
-      "time": 1794813656492
+      "status": "tertutup",
+      "time": 1794979259940,
+      "id": "120363427837958705@g.us",
+      "name": "GB OPTES JEALOUSY",
+      "announce": true
     },
     "IXgYGj1adgKHw3PAJoDdGy": {
       "status": "new",
@@ -6670,6 +6673,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979250035,
+  "updated": 1794979260383,
   "total": 1288
 }
