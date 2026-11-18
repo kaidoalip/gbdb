@@ -2792,8 +2792,9 @@
       "name": "GB¹ SANZZ STURR"
     },
     "BBRGHe0V3BS9Ey6ivJa9MV": {
-      "status": "new",
-      "time": 1794762891580
+      "status": "error",
+      "time": 1794973570843,
+      "err": "bad-request"
     },
     "CCpNwoeYqAB9doV54cCtk5": {
       "status": "new",
@@ -6168,6 +6169,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973554557,
+  "updated": 1794973571059,
   "total": 1319
 }
