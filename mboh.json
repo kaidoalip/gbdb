@@ -4833,8 +4833,10 @@
       "err": "bad-request"
     },
     "KuxAa6Ysey5I34JePwa5N3": {
-      "status": "new",
-      "time": 1794812816525
+      "status": "pending",
+      "time": 1794979142195,
+      "id": "120363431462526533@g.us",
+      "name": "JB¹ || ARNO STORE REAL"
     },
     "Dbdd5r5gf4QIj43wBAwshM": {
       "status": "new",
@@ -6677,6 +6679,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979132838,
+  "updated": 1794979142471,
   "total": 1292
 }
