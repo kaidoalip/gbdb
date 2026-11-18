@@ -2352,8 +2352,10 @@
       "name": "GB FTCS BY #HAMZ"
     },
     "E7Pqupzxf7x01SAZPgMsyH": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972438794,
+      "id": "120363429861056855@g.us",
+      "name": "⚡GB FT BY TANN ⚡"
     },
     "EHfw7JDoi5IH3pREATw5JV": {
       "status": "new",
@@ -6092,6 +6094,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972438886,
+  "updated": 1794972440661,
   "total": 1334
 }
