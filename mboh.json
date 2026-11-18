@@ -3833,8 +3833,11 @@
       "name": "PROJECT AMEL 🇰🇼"
     },
     "FcENoBe6iYQJqqeTZzCYOJ": {
-      "status": "new",
-      "time": 1794800452578
+      "status": "tertutup",
+      "time": 1794976652220,
+      "id": "120363050047030237@g.us",
+      "name": "ASOSIASI TIM SELIDIK",
+      "announce": true
     },
     "I7dyGZT0B8ZGQfaT47hjp4": {
       "status": "new",
@@ -6401,6 +6404,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976643555,
+  "updated": 1794976652443,
   "total": 1299
 }
