@@ -3692,8 +3692,11 @@
       "name": "𝐉𝐁 | 𝐔𝐓𝐀𝐌𝐀 Kiaza X kaelly"
     },
     "GelsVvIXbHl7FYc4H0BS7Q": {
-      "status": "new",
-      "time": 1794798052576
+      "status": "tertutup",
+      "time": 1794976374287,
+      "id": "120363413416770861@g.us",
+      "name": "TURNAMEN ANTAR CC SEASON 2 (OPEN)",
+      "announce": true
     },
     "JGxTz0uJn5CGuVhzpyBWi6": {
       "status": "new",
@@ -6380,6 +6383,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976353147,
+  "updated": 1794976374520,
   "total": 1303
 }
