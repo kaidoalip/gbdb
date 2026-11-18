@@ -5027,8 +5027,10 @@
       "name": "𝙂𝘾 𝙐𝙏𝘼𝙈𝘼 𝙑𝘼𝙉𝙊𝙎𝙏𝙊𝙍𝙀"
     },
     "EMIsPHGOVv0GSBa8XSEWFx": {
-      "status": "new",
-      "time": 1794815337505
+      "status": "pending",
+      "time": 1794979651279,
+      "id": "120363406261666644@g.us",
+      "name": "𝙂𝘾 𝙎𝙏𝙊𝙆 𝙑𝘼𝙉𝙊𝙎𝙏𝙊𝙍𝙀 𝟬.𝟮"
     },
     "Ip8ITpi3C6Y6E0eYTJ6m2B": {
       "status": "new",
@@ -6755,6 +6757,6 @@
       "time": 1794979641485
     }
   },
-  "updated": 1794979641485,
+  "updated": 1794979651640,
   "total": 1297
 }
