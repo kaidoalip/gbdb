@@ -2698,8 +2698,10 @@
       "name": "STOK XTUSEN V¹"
     },
     "IOpXF9r20uX7kWDBY8Yq4L": {
-      "status": "new",
-      "time": 1794759291580
+      "status": "pending",
+      "time": 1794973319346,
+      "id": "120363405325355358@g.us",
+      "name": "STOK XTUSEN V²"
     },
     "JxqkSrYGBDs82qkz2hkpxz": {
       "status": "new",
@@ -6190,6 +6192,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973302689,
+  "updated": 1794973319615,
   "total": 1331
 }
