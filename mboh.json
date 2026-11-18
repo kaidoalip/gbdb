@@ -2503,8 +2503,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟭"
     },
     "FsI9tNGb2L0L2POhiuusNg": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972842357,
+      "id": "120363398462058543@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟮"
     },
     "FAlfKK6GkqC9iwGdpuB55S": {
       "status": "new",
@@ -6135,6 +6137,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972826096,
+  "updated": 1794972842638,
   "total": 1332
 }
