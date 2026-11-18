@@ -4345,8 +4345,10 @@
       "err": "bad-request"
     },
     "GFx2Zrl7uaPB92NW6J4nZI": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "pending",
+      "time": 1794977970007,
+      "id": "120363430587879832@g.us",
+      "name": "WARUNG WANN 24 JAM"
     },
     "HkaU2D0tqiY2RTC5eJoacr": {
       "status": "new",
@@ -6549,6 +6551,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977962461,
+  "updated": 1794977970338,
   "total": 1296
 }
