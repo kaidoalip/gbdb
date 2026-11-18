@@ -2855,8 +2855,10 @@
       "err": "bad-request"
     },
     "IwG7Mh607KXIQslxdywLUP": {
-      "status": "new",
-      "time": 1794764811587
+      "status": "pending",
+      "time": 1794973726878,
+      "id": "120363412787410668@g.us",
+      "name": "𝗚𝗖 𝗠𝗘𝗡𝗨𝗝𝗨 𝗕𝗨𝗟𝗔𝗡 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 2027"
     },
     "GIBhqvvjS2A7sdP6FzGAQV": {
       "status": "new",
@@ -6179,6 +6181,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973719622,
+  "updated": 1794973727317,
   "total": 1317
 }
