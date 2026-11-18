@@ -1839,8 +1839,10 @@
       "name": "MIE AYAM MIRACLE"
     },
     "BAoOymRwlkiBlmxGf0hMrU": {
-      "status": "new",
-      "time": 1794753291684
+      "status": "pending",
+      "time": 1794970861426,
+      "id": "120363413707648991@g.us",
+      "name": "B INDO SEMESTER KADUT"
     },
     "KCE1mvlrl9mB0wRZWClgY3": {
       "status": "new",
@@ -5963,6 +5965,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794970842685,
+  "updated": 1794970861774,
   "total": 1341
 }
