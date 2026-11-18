@@ -3154,8 +3154,11 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗟𝗣𝗜𝗡 𝟱"
     },
     "FQAhzGoxzHA3zfJdaiONvZ": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "tertutup",
+      "time": 1794975116176,
+      "id": "120363433665167332@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗟𝗣𝗜𝗡 𝟳",
+      "announce": true
     },
     "BXL7ejy2iEODYJvZ7NgdAB": {
       "status": "new",
@@ -6258,6 +6261,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975106745,
+  "updated": 1794975116423,
   "total": 1315
 }
