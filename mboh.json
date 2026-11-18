@@ -3846,8 +3846,10 @@
       "name": "GC UTAMA KAZU STR V1 🧢"
     },
     "E0CYCd6Grwc1P1Fpfdc4wy": {
-      "status": "new",
-      "time": 1794800572574
+      "status": "pending",
+      "time": 1794976681371,
+      "id": "120363426984117730@g.us",
+      "name": "GC UTAMA KAZU STR V2 🧢"
     },
     "IoOtCYnIncuHMax0elD16M": {
       "status": "new",
@@ -6406,6 +6408,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976662824,
+  "updated": 1794976681724,
   "total": 1299
 }
