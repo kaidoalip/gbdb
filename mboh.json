@@ -4855,8 +4855,10 @@
       "err": "bad-request"
     },
     "IcsP7LLhVUEHztfCoRkwaN": {
-      "status": "new",
-      "time": 1794813296326
+      "status": "pending",
+      "time": 1794979233983,
+      "id": "120363433326746788@g.us",
+      "name": "𝐄𝐓𝐃𝐀𝐇"
     },
     "BmJWpVBGAA0BFQPbuUKKgG": {
       "status": "new",
@@ -6667,6 +6669,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979226956,
+  "updated": 1794979234429,
   "total": 1288
 }
