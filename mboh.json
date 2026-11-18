@@ -3187,8 +3187,10 @@
       "name": "[ GC ] UTAMA REXU || REG SUMATRA V2"
     },
     "F1MFCbOKtoF8FVSEbSi9n4": {
-      "status": "new",
-      "time": 1794784732239
+      "status": "pending",
+      "time": 1794975187729,
+      "id": "120363414983768764@g.us",
+      "name": "[ GC ] FREE FIRE UTAMA || PRINCEE REXU"
     },
     "DlfbxwMjDwc4SA37xCiaUN": {
       "status": "new",
@@ -6271,6 +6273,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975172694,
+  "updated": 1794975187972,
   "total": 1315
 }
