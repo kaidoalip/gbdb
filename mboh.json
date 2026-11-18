@@ -3910,8 +3910,10 @@
       "err": "bad-request"
     },
     "Fq8Z7hMqJf3EhIjh7ex4hC": {
-      "status": "new",
-      "time": 1794800572574
+      "status": "joined",
+      "time": 1794976866217,
+      "id": "120363432087064502@g.us",
+      "name": "Falz gc4"
     },
     "H68KJVuWNeWAmTTIuIAWlH": {
       "status": "new",
@@ -6426,6 +6428,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976856938,
+  "updated": 1794976866561,
   "total": 1299
 }
