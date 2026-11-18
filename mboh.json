@@ -2257,8 +2257,11 @@
       "name": "𝙒𝘼𝙍𝙐𝙉𝙂 𝙅𝙋𝙈 𝙉𝙄𝙂𝙃𝙏𝙈𝘼𝙍𝙀 𝙀𝙈𝙋𝙄𝙍𝙀"
     },
     "EZSeqAL0qzDHHdPrTol6IF": {
-      "status": "new",
-      "time": 1794755331555
+      "status": "tertutup",
+      "time": 1794972263343,
+      "id": "120363429312621975@g.us",
+      "name": "Kallxvyuw",
+      "announce": true
     },
     "E2wxKrFOcER4RymwDHNhpK": {
       "status": "new",
@@ -6057,6 +6060,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972244322,
+  "updated": 1794972263782,
   "total": 1333
 }
