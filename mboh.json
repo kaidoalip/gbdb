@@ -2232,8 +2232,10 @@
       "err": "bad-request"
     },
     "LnFEFnFwXVR3yfBTvbNy3C": {
-      "status": "new",
-      "time": 1794754971989
+      "status": "pending",
+      "time": 1794972194516,
+      "id": "120363429965899382@g.us",
+      "name": "𝗝𝗕 𝗛𝗔𝗠 𝗗𝗗𝗞🗿🚬"
     },
     "HNOk9Xal2faKJvM1pnP6TF": {
       "status": "new",
@@ -6048,6 +6050,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972187645,
+  "updated": 1794972194975,
   "total": 1333
 }
