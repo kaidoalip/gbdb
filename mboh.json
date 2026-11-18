@@ -4328,8 +4328,10 @@
       "name": "𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝙿𝙰𝙽𝙶𝙴𝚂𝚃𝚄 𝚂𝚃𝙾𝚁𝙴 𝙴𝚜𝚝 2018"
     },
     "E6fxtv5lCmdLx1BdAiOeRF": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "pending",
+      "time": 1794977927576,
+      "id": "120363429719992192@g.us",
+      "name": "𝐁𝐀𝐂𝐊 𝐀𝐆𝐀𝐈𝐍 𝐎𝐌𝐏𝐎𝐍𝐆"
     },
     "DVJ6wNLaAy7IVVIgQBiQ6l": {
       "status": "new",
@@ -6544,6 +6546,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977907413,
+  "updated": 1794977928000,
   "total": 1296
 }
