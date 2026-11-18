@@ -4765,8 +4765,10 @@
       "name": "𝙂𝘽 𝙏𝙀𝙍𝘽𝙐𝙆𝘼 𝙑1"
     },
     "KuXaLKBA5l659daNeQQdxw": {
-      "status": "new",
-      "time": 1794811855057
+      "status": "pending",
+      "time": 1794978903029,
+      "id": "120363430927541039@g.us",
+      "name": "𝙂𝘽 𝙏𝙀𝙍𝘽𝙐𝙆𝘼 𝙑2"
     },
     "EiHf57kX9bu7plcGaCdEmS": {
       "status": "new",
@@ -6641,6 +6643,6 @@
       "time": 1794978799508
     }
   },
-  "updated": 1794978886186,
+  "updated": 1794978903541,
   "total": 1288
 }
