@@ -3384,8 +3384,11 @@
       "err": "bad-request"
     },
     "L1C5dAysviGHDetUvgWubF": {
-      "status": "new",
-      "time": 1794793492488
+      "status": "tertutup",
+      "time": 1794975593669,
+      "id": "120363431634798680@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗦𝗬𝗔𝗛𝗛 𝟯",
+      "announce": true
     },
     "KKgr5dm58R34C6Zx54SS8X": {
       "status": "new",
@@ -6296,6 +6299,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975584977,
+  "updated": 1794975593887,
   "total": 1308
 }
