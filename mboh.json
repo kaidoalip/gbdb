@@ -2421,8 +2421,10 @@
       "name": "Jokers`"
     },
     "IWi6yhCoi1s5MS7I2q14gy": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "pending",
+      "time": 1794972625874,
+      "id": "120363427812504817@g.us",
+      "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗞𝗔𝗟𝗟"
     },
     "ERdh6nvGVFVHcZQYgNIgsS": {
       "status": "new",
@@ -6117,6 +6119,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972608096,
+  "updated": 1794972626802,
   "total": 1334
 }
