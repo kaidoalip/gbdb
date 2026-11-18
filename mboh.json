@@ -2833,8 +2833,10 @@
       "name": "STOK YANZZ JEBE X PP BOMEL 0.4"
     },
     "J761f3DBZHh3cc0ZK4CwGw": {
-      "status": "new",
-      "time": 1794763611674
+      "status": "pending",
+      "time": 1794973675346,
+      "id": "120363414914050917@g.us",
+      "name": "STOK YANZZ JEBE 0.5"
     },
     "LVfZzrdlYOKDuARXpTsI49": {
       "status": "new",
@@ -6181,6 +6183,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973657396,
+  "updated": 1794973675561,
   "total": 1319
 }
