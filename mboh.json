@@ -4526,8 +4526,10 @@
       "name": "𝐋𝐘𝐒𝐓𝐈𝐂 𝐂𝐔𝐓𝐄"
     },
     "Bx5EdqANo0b0QOAMpeWVIM": {
-      "status": "new",
-      "time": 1794809574967
+      "status": "pending",
+      "time": 1794978305831,
+      "id": "120363430716679473@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗙𝗔𝗜𝗭"
     },
     "D0PdT8b6uVsGCqav1YO2L3": {
       "status": "new",
@@ -6574,6 +6576,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978299280,
+  "updated": 1794978306457,
   "total": 1290
 }
