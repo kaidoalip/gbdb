@@ -2686,8 +2686,10 @@
       "name": "GC STOK XTUSEN V¹"
     },
     "L637QBm2cnuCsukgqtbBRN": {
-      "status": "new",
-      "time": 1794759291580
+      "status": "pending",
+      "time": 1794973280911,
+      "id": "120363393710290985@g.us",
+      "name": "GC STOK XTUSEN V²"
     },
     "HWxAD2bl2Em9oYWMoNVPME": {
       "status": "new",
@@ -6186,6 +6188,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973260439,
+  "updated": 1794973281344,
   "total": 1331
 }
