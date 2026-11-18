@@ -4520,8 +4520,10 @@
       "name": "MARGA 123"
     },
     "HRmTf12A1AY1PcqidPa032": {
-      "status": "new",
-      "time": 1794809454962
+      "status": "pending",
+      "time": 1794978281177,
+      "id": "120363431927005550@g.us",
+      "name": "𝐋𝐘𝐒𝐓𝐈𝐂 𝐂𝐔𝐓𝐄"
     },
     "LhGOKzvFFFzF4rut6RXAJO": {
       "status": "new",
@@ -6576,6 +6578,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978261721,
+  "updated": 1794978281410,
   "total": 1291
 }
