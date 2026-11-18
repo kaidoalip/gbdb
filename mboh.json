@@ -3283,8 +3283,10 @@
       "err": "bad-request"
     },
     "KOoONegtPoCAbg39ioxsm8": {
-      "status": "new",
-      "time": 1794787732279
+      "status": "pending",
+      "time": 1794975412283,
+      "id": "120363412226994031@g.us",
+      "name": "STOK RESS RAPJI¹"
     },
     "BDAlri9RruuKPU7heBvSJk": {
       "status": "new",
@@ -6283,6 +6285,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975405261,
+  "updated": 1794975412503,
   "total": 1311
 }
