@@ -4196,8 +4196,10 @@
       "err": "bad-request"
     },
     "HVuuBHlMbKI6wCM0zKfNrS": {
-      "status": "new",
-      "time": 1794805252607
+      "status": "pending",
+      "time": 1794977618582,
+      "id": "120363429803333957@g.us",
+      "name": "TOKO KELONTONG BY ARZ"
     },
     "HHFmpWjLzxOHxpouIzt9pH": {
       "status": "new",
@@ -6500,6 +6502,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977611414,
+  "updated": 1794977618814,
   "total": 1295
 }
