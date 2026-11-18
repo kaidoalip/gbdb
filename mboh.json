@@ -2427,8 +2427,10 @@
       "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗞𝗔𝗟𝗟"
     },
     "ERdh6nvGVFVHcZQYgNIgsS": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "pending",
+      "time": 1794972644691,
+      "id": "120363433222462819@g.us",
+      "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗞𝗔𝗟𝗟 𝗩𝟮"
     },
     "GB2qBCLM0tQL7UydueS7MT": {
       "status": "new",
@@ -6119,6 +6121,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972626802,
+  "updated": 1794972644971,
   "total": 1334
 }
