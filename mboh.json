@@ -3567,8 +3567,9 @@
       "name": "GB TERBUKA DAMZ🦅"
     },
     "INFU9EU1n1t7WQUf9DfgK8": {
-      "status": "new",
-      "time": 1794796492581
+      "status": "error",
+      "time": 1794976031433,
+      "err": "bad-request"
     },
     "KrYHW5AyFjeK26GtQmipfg": {
       "status": "new",
@@ -6347,6 +6348,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794976016105,
+  "updated": 1794976031927,
   "total": 1305
 }
