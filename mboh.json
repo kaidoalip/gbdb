@@ -3034,8 +3034,10 @@
       "err": "bad-request"
     },
     "GaDyaq2Bq9BDvra7H3cEfO": {
-      "status": "new",
-      "time": 1794784159975
+      "status": "pending",
+      "time": 1794974826662,
+      "id": "120363431387467585@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗚𝗛𝗔𝗡𝗭𝗭𝗬 (𝗡𝗘𝗪)"
     },
     "GZKQm4LxKhv3wPmUF0IX2w": {
       "status": "new",
@@ -6226,6 +6228,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974819886,
+  "updated": 1794974827105,
   "total": 1316
 }
