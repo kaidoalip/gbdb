@@ -2742,8 +2742,10 @@
       "err": "bad-request"
     },
     "Htk0EjxbRFvAu06RwWprEF": {
-      "status": "new",
-      "time": 1794761091576
+      "status": "pending",
+      "time": 1794973464740,
+      "id": "120363413617377949@g.us",
+      "name": "GB WARJOK DIRZ X OWN/PT"
     },
     "CiSHubmKaiHFIcplTaAlJs": {
       "status": "new",
@@ -6154,6 +6156,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973458250,
+  "updated": 1794973465003,
   "total": 1319
 }
