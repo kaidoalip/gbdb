@@ -4377,8 +4377,11 @@
       "err": "bad-request"
     },
     "JN0Nrze0UKS7nPQwEMT8rc": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "tertutup",
+      "time": 1794978025293,
+      "id": "120363431812362823@g.us",
+      "name": "GB OPTEST GOODWILL FAMILY",
+      "announce": true
     },
     "BftnRu8WrIP4HdhlB9T7Ky": {
       "status": "new",
@@ -6557,6 +6560,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794978015953,
+  "updated": 1794978025602,
   "total": 1296
 }
