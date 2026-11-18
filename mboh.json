@@ -1891,8 +1891,11 @@
       "err": "bad-request"
     },
     "BZpA7BC6Ydf4Dtop1CcGlA": {
-      "status": "new",
-      "time": 1794753291684
+      "status": "tertutup",
+      "time": 1794970982908,
+      "id": "120363413313766874@g.us",
+      "name": "GB¹ Cah store/mabar,JB ALL game roblok",
+      "announce": true
     },
     "GESDEHrFUqa4YjxojmmvHQ": {
       "status": "new",
@@ -5979,6 +5982,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794970973880,
+  "updated": 1794970983170,
   "total": 1341
 }
