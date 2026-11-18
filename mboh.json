@@ -3827,8 +3827,10 @@
       "err": "bad-request"
     },
     "Kb8CkTjWCL83u8dPymnPRM": {
-      "status": "new",
-      "time": 1794800332572
+      "status": "pending",
+      "time": 1794976625237,
+      "id": "120363414239289776@g.us",
+      "name": "PROJECT AMEL 🇰🇼"
     },
     "JFxgfSIb1GR7OxLPIbr1zd": {
       "status": "new",
@@ -6403,6 +6405,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976618681,
+  "updated": 1794976625522,
   "total": 1300
 }
