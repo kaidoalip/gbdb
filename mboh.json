@@ -3056,8 +3056,9 @@
       "name": "MARKET ROBLOX || KIMM🌿"
     },
     "LTPurJrKmgPLI9ERXUdf9l": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "error",
+      "time": 1794974866297,
+      "err": "bad-request"
     },
     "DzHISOxljfO9hiNQ15zjzN": {
       "status": "new",
@@ -6232,6 +6233,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974852971,
+  "updated": 1794974866530,
   "total": 1316
 }
