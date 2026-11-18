@@ -3711,8 +3711,9 @@
       "name": "𝐒𝐓𝐎𝐂𝐊 || 𝐌𝐀𝐄𝐋𝐋 𝐒𝐓𝐎𝐑𝐄 𝐗 𝐎𝐖𝐍𝐄𝐑 𝟎.𝟒"
     },
     "G6kZiczHHSA9zhlQ1kN3PN": {
-      "status": "new",
-      "time": 1794798172602
+      "status": "error",
+      "time": 1794976426138,
+      "err": "bad-request"
     },
     "C4wemHGA4pE3aDbLpH2EAx": {
       "status": "new",
@@ -6395,6 +6396,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976421947,
+  "updated": 1794976426369,
   "total": 1305
 }
