@@ -2485,8 +2485,10 @@
       "announce": true
     },
     "Csjg3bS7hgxLHxGYoSWAQC": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972788131,
+      "id": "120363388921280601@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗘𝗥𝗡𝗘𝗦𝗧"
     },
     "HDZkPb4UHZy3SzlXeWDamv": {
       "status": "new",
@@ -6129,6 +6131,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972776896,
+  "updated": 1794972788785,
   "total": 1332
 }
