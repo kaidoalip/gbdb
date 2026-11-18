@@ -2456,8 +2456,9 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗞𝗔𝗟𝗟 𝟱"
     },
     "CF2u7FH28dS1SP2PHJvor1": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "error",
+      "time": 1794972721353,
+      "err": "bad-request"
     },
     "EAxdnONdNa5I50ZyAHGb7y": {
       "status": "new",
@@ -6124,6 +6125,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972708914,
+  "updated": 1794972721571,
   "total": 1333
 }
