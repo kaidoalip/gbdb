@@ -4038,8 +4038,9 @@
       "name": "𝐃𝐔𝐍𝐈𝐀 𝐂𝐔𝐀𝐍 𝐁𝐘 𝐃𝐈𝐍𝐙𝐙𝐒𝐓𝐔𝐑 𝐑𝐄𝐆 𝐒𝐔𝐋𝐒𝐄𝐋"
     },
     "IB1GCUmEQLx9XAPn27jEKN": {
-      "status": "new",
-      "time": 1794802132591
+      "status": "error",
+      "time": 1794977173878,
+      "err": "bad-request"
     },
     "KjZwuwDJtwtAgCSNgL3J0l": {
       "status": "new",
@@ -6462,6 +6463,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977161599,
+  "updated": 1794977174551,
   "total": 1298
 }
