@@ -3561,8 +3561,10 @@
       "err": "bad-request"
     },
     "LFaLqmCuUXFGLXDZ8k5Yrg": {
-      "status": "new",
-      "time": 1794796252655
+      "status": "pending",
+      "time": 1794976015853,
+      "id": "120363430765332912@g.us",
+      "name": "GB TERBUKA DAMZ🦅"
     },
     "INFU9EU1n1t7WQUf9DfgK8": {
       "status": "new",
@@ -6345,6 +6347,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794976008981,
+  "updated": 1794976016105,
   "total": 1305
 }
