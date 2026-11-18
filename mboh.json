@@ -2245,8 +2245,10 @@
       "announce": true
     },
     "DDzHcJLZVci7PLtjPaSe9A": {
-      "status": "new",
-      "time": 1794755211558
+      "status": "pending",
+      "time": 1794972226482,
+      "id": "120363412039822296@g.us",
+      "name": "LADANG CUAN BY LANZX #1"
     },
     "LHkL2x2AF6I9pchShV0GRB": {
       "status": "new",
@@ -6053,6 +6055,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972216938,
+  "updated": 1794972226718,
   "total": 1333
 }
