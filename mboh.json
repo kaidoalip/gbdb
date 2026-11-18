@@ -4628,8 +4628,10 @@
       "err": "bad-request"
     },
     "Ggz3QA7zqsTJBaLCrYTWbN": {
-      "status": "new",
-      "time": 1794810174881
+      "status": "pending",
+      "time": 1794978547928,
+      "id": "120363408227385120@g.us",
+      "name": "¹GB/JB ALL GAME || DIL X VINN"
     },
     "KoXhzXDcRQGFnTt9FItYvf": {
       "status": "new",
@@ -6600,6 +6602,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978541346,
+  "updated": 1794978548161,
   "total": 1288
 }
