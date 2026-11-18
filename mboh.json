@@ -4928,8 +4928,9 @@
       "name": "FT CS 500-5K BY RIZ #1"
     },
     "HyohYS5MtqAE8biELF0EF7": {
-      "status": "new",
-      "time": 1794814137872
+      "status": "error",
+      "time": 1794979362198,
+      "err": "bad-request"
     },
     "FP48P5qXBlf07tKIbpJ2Ik": {
       "status": "new",
@@ -6684,6 +6685,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979345753,
+  "updated": 1794979362847,
   "total": 1287
 }
