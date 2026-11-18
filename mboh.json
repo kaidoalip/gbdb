@@ -4275,8 +4275,11 @@
       "name": "22 750 PP 2K"
     },
     "GH3sfVgbJEV2CZ2y5b6Kaz": {
-      "status": "new",
-      "time": 1794807534850
+      "status": "tertutup",
+      "time": 1794977819701,
+      "id": "120363433120308326@g.us",
+      "name": "GB FT CS ★500P-5K YT¹",
+      "announce": true
     },
     "BpaeLKa2UFb9G34YKypVVC": {
       "status": "new",
@@ -6527,6 +6530,6 @@
       "time": 1794977719908
     }
   },
-  "updated": 1794977801903,
+  "updated": 1794977819913,
   "total": 1296
 }
