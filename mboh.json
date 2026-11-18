@@ -2009,8 +2009,10 @@
       "name": "STOK MARKET KIZZ4YOU # 1 🚀"
     },
     "FfFIVptRpLS4WdJ7I79JhO": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971246286,
+      "id": "120363431228471322@g.us",
+      "name": "JB ALLGAME 282"
     },
     "HUQe7ntH7NdKCEspAvC83r": {
       "status": "new",
@@ -6005,6 +6007,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971226856,
+  "updated": 1794971246516,
   "total": 1339
 }
