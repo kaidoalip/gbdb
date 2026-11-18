@@ -4957,8 +4957,9 @@
       "name": "JB RAJASTORE ALL GAME🇲🇨"
     },
     "DLknBw0O8E184iRv1pezk0": {
-      "status": "new",
-      "time": 1794814497107
+      "status": "error",
+      "time": 1794979453785,
+      "err": "bad-request"
     },
     "LcRohLsV8hOFrKmTIlnVOf": {
       "status": "new",
@@ -6689,6 +6690,6 @@
       "time": 1794979401383
     }
   },
-  "updated": 1794979438011,
+  "updated": 1794979454022,
   "total": 1286
 }
