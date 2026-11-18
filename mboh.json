@@ -4012,8 +4012,11 @@
       "name": "𝗝𝗕 || 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 𝗕𝗘𝗥𝗦𝗔𝗠𝗔 𝗔𝗟𝗣𝗔𝗡"
     },
     "GL1dCPvGGwQG4kGOHDwyBE": {
-      "status": "new",
-      "time": 1794801892592
+      "status": "tertutup",
+      "time": 1794977120041,
+      "id": "120363427522422557@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗔𝗟𝗣𝗔𝗡 𝟭🕊️",
+      "announce": true
     },
     "Fmv9ronKXsrB3n5g0DvJjO": {
       "status": "new",
@@ -6452,6 +6455,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977119563,
+  "updated": 1794977121133,
   "total": 1298
 }
