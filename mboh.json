@@ -4054,8 +4054,11 @@
       "err": "bad-request"
     },
     "FpSapWBRCUb0dieldKS0I0": {
-      "status": "new",
-      "time": 1794802372581
+      "status": "tertutup",
+      "time": 1794977206537,
+      "id": "120363425691978633@g.us",
+      "name": "MANUSIA BERDASI🍂",
+      "announce": true
     },
     "Jy3cMtcyb8b2HGugJxuvHm": {
       "status": "new",
@@ -6466,6 +6469,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977197469,
+  "updated": 1794977207417,
   "total": 1298
 }
