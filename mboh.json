@@ -3721,8 +3721,10 @@
       "err": "bad-request"
     },
     "CTkJU8NssTmIM9GEeNz6w8": {
-      "status": "new",
-      "time": 1794798652752
+      "status": "pending",
+      "time": 1794976437815,
+      "id": "120363427926298902@g.us",
+      "name": "GB JB ALLGAME FARCIK | STORE"
     },
     "GVKRPl9xo1OFH3z6TYTnNX": {
       "status": "new",
@@ -6397,6 +6399,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976431326,
+  "updated": 1794976438269,
   "total": 1305
 }
