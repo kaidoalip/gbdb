@@ -4570,8 +4570,10 @@
       "err": "bad-request"
     },
     "BaeOerml7GpGgQ9IfPFI7D": {
-      "status": "new",
-      "time": 1794809694936
+      "status": "pending",
+      "time": 1794978412382,
+      "id": "120363379409353403@g.us",
+      "name": "GC¹ STOK KNIGHT STORE🔰"
     },
     "E85O3OfI727AluW4kryRc2": {
       "status": "new",
@@ -6586,6 +6588,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978403467,
+  "updated": 1794978412637,
   "total": 1289
 }
