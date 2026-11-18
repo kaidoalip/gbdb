@@ -2933,8 +2933,10 @@
       "announce": true
     },
     "GysWTk6CL3LDnfZAj7s1MZ": {
-      "status": "new",
-      "time": 1794774651590
+      "status": "pending",
+      "time": 1794973925166,
+      "id": "120363413459795596@g.us",
+      "name": "𝑮𝑶𝑶𝑫 𝑭𝑶𝑹𝑼𝑴 𝑴𝑳𝑩𝑩 𝑩𝒀 @𝑴𝑬𝑰𝑫𝑰"
     },
     "IhB7EmyQazM8HkNXZRXd2A": {
       "status": "new",
@@ -6205,6 +6207,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973914495,
+  "updated": 1794973925828,
   "total": 1317
 }
