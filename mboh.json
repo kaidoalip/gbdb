@@ -3747,8 +3747,10 @@
       "err": "bad-request"
     },
     "F9BgEqCzICVCqpLbfLpPUu": {
-      "status": "new",
-      "time": 1794799492574
+      "status": "pending",
+      "time": 1794976480340,
+      "id": "120363429746653501@g.us",
+      "name": "[𝐉𝐁] ✦ 𝐀𝐊𝐒𝐄𝐑𝐎 ✦"
     },
     "GB1ATrlIDwLDqq5EfzA7Mm": {
       "status": "new",
@@ -6399,6 +6401,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976472580,
+  "updated": 1794976480751,
   "total": 1304
 }
