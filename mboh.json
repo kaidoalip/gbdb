@@ -2058,8 +2058,10 @@
       "name": "JB UTAMA GILZ STORE 🚀"
     },
     "HqV1rhD9FmFI9COaOFtTLp": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971756864,
+      "id": "120363414090891908@g.us",
+      "name": "JB ALLGAME 287"
     },
     "LLMNdiUFahc8MFnbTUDhOF": {
       "status": "new",
@@ -6022,6 +6024,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971737570,
+  "updated": 1794971757113,
   "total": 1339
 }
