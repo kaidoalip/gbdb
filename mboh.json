@@ -4340,8 +4340,9 @@
       "name": "𝙈𝘼𝙍𝙆𝙀𝙏 𝙔𝙏𝙏𝘼"
     },
     "BSIiDPXz3bF8Mbpq7NSPGO": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "error",
+      "time": 1794977962235,
+      "err": "bad-request"
     },
     "GFx2Zrl7uaPB92NW6J4nZI": {
       "status": "new",
@@ -6548,6 +6549,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977959478,
+  "updated": 1794977962461,
   "total": 1296
 }
