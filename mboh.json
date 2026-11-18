@@ -3260,8 +3260,10 @@
       "err": "bad-request"
     },
     "KTQRGcOhN5d6ws80F0BaoG": {
-      "status": "new",
-      "time": 1794786652388
+      "status": "pending",
+      "time": 1794975337356,
+      "id": "120363426409343994@g.us",
+      "name": "gb cr with bima(nosher)"
     },
     "JzmBitju9gFEdFPgIhLdyq": {
       "status": "new",
@@ -6288,6 +6290,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975330413,
+  "updated": 1794975337811,
   "total": 1314
 }
