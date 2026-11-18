@@ -3326,8 +3326,10 @@
       "name": "AX BoT GRUP🫪"
     },
     "CF4b1UoA7yE484ntMUO4Fo": {
-      "status": "new",
-      "time": 1794788452560
+      "status": "pending",
+      "time": 1794975492304,
+      "id": "120363431547703404@g.us",
+      "name": "JB TERBUKA ALIP STORE 1#"
     },
     "E9wmXKuJV9iLGzZzCEcmS1": {
       "status": "new",
@@ -6290,6 +6292,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975475602,
+  "updated": 1794975492741,
   "total": 1310
 }
