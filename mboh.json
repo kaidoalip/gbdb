@@ -3040,8 +3040,9 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗚𝗛𝗔𝗡𝗭𝗭𝗬 (𝗡𝗘𝗪)"
     },
     "GZKQm4LxKhv3wPmUF0IX2w": {
-      "status": "new",
-      "time": 1794784159975
+      "status": "error",
+      "time": 1794974840466,
+      "err": "bad-request"
     },
     "DKVb8GDoDyT528foC7WzfU": {
       "status": "new",
@@ -6228,6 +6229,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974827105,
+  "updated": 1794974840705,
   "total": 1316
 }
