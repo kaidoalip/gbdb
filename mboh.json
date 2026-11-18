@@ -5021,8 +5021,10 @@
       "name": "HANFRMDAOV2"
     },
     "F2RZ4tJwfOPAI0rv3lGWUY": {
-      "status": "new",
-      "time": 1794815337505
+      "status": "pending",
+      "time": 1794979630572,
+      "id": "120363424248475404@g.us",
+      "name": "𝙂𝘾 𝙐𝙏𝘼𝙈𝘼 𝙑𝘼𝙉𝙊𝙎𝙏𝙊𝙍𝙀"
     },
     "EMIsPHGOVv0GSBa8XSEWFx": {
       "status": "new",
@@ -6729,6 +6731,6 @@
       "time": 1794979522158
     }
   },
-  "updated": 1794979612930,
+  "updated": 1794979631391,
   "total": 1291
 }
