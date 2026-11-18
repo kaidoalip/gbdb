@@ -1963,8 +1963,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝟮 𝗥𝗜𝗦𝗦𝘂𝘁𝗮𝗺𝗮"
     },
     "KD7lkYBZFdk0CzHeeamGDD": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971120921,
+      "id": "120363414129310466@g.us",
+      "name": "𝙂𝘾 𝙍𝙄𝙎𝙎𝙪𝙩𝙖𝙢𝙖 𝙫𝟯"
     },
     "ERAVYNYZZhMFL3ooWt36Gl": {
       "status": "new",
@@ -5991,6 +5993,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971101680,
+  "updated": 1794971121535,
   "total": 1339
 }
