@@ -2401,8 +2401,11 @@
       "name": "CR BEBAS SHARE ZACK²"
     },
     "LMfdk8VNEPmL8GgGJd6Nmd": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "tertutup",
+      "time": 1794972584634,
+      "id": "120363412584310471@g.us",
+      "name": "BEBAS SHARE LINK #TAKEPM",
+      "announce": true
     },
     "JGKvFqJkWM87Ii7CcKsgcR": {
       "status": "new",
@@ -6109,6 +6112,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972565348,
+  "updated": 1794972584880,
   "total": 1334
 }
