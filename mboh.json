@@ -2389,8 +2389,10 @@
       "announce": true
     },
     "DGfylCTDHoCJUdOHsCN85z": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972544902,
+      "id": "120363434266620004@g.us",
+      "name": "CR BEBAS SHARE ZACK¹"
     },
     "I6zgE7aNd0NG5ZQjF7F9TC": {
       "status": "new",
@@ -6105,6 +6107,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972535882,
+  "updated": 1794972545125,
   "total": 1334
 }
