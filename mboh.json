@@ -2808,8 +2808,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗦𝗬𝗔𝗛𝗛"
     },
     "Fwxck5kqZWtBXVV5n47o5m": {
-      "status": "new",
-      "time": 1794763371590
+      "status": "pending",
+      "time": 1794973599807,
+      "id": "120363430270455061@g.us",
+      "name": "𝗔𝗥𝗘𝗔 𝗨𝗧𝗔𝗠𝗔 𝗦𝗬𝗔𝗛𝗛"
     },
     "HVX2fZbxuTCCU8v0JaMzmp": {
       "status": "new",
@@ -6172,6 +6174,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973582941,
+  "updated": 1794973600232,
   "total": 1319
 }
