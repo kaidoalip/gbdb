@@ -3379,8 +3379,9 @@
       "name": "Norvavelion V4 new"
     },
     "H8HDXlrY1FU3awOt3H7EXQ": {
-      "status": "new",
-      "time": 1794793252505
+      "status": "error",
+      "time": 1794975584558,
+      "err": "bad-request"
     },
     "L1C5dAysviGHDetUvgWubF": {
       "status": "new",
@@ -6295,6 +6296,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975581184,
+  "updated": 1794975584977,
   "total": 1308
 }
