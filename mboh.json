@@ -4564,10 +4564,6 @@
       "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝟯",
       "announce": true
     },
-    "LuW6yuFJkgV9GEVbPIRCsg": {
-      "status": "new",
-      "time": 1794809574967
-    },
     "DFzb1ND0NAlCiS58RhZ0JK": {
       "status": "new",
       "time": 1794809574967
@@ -6589,6 +6585,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978393264,
-  "total": 1290
+  "updated": 1794978399769,
+  "total": 1289
 }
