@@ -4639,8 +4639,10 @@
       "err": "bad-request"
     },
     "K5awFBJYiOe8qKhxcS5lIY": {
-      "status": "new",
-      "time": 1794810534791
+      "status": "joined",
+      "time": 1794978578700,
+      "id": "120363413512006683@g.us",
+      "name": "𝗯𝗯𝘀 𝘀𝗵𝗮𝗿𝗲 𝗺𝗶𝗰𝗶 #𝟯 (𝗸𝗲𝗻𝗼𝗻 𝗴𝘀𝗵 𝗼𝘂𝘁)"
     },
     "CYh6j05UoKQ7jvlYYosyfo": {
       "status": "new",
@@ -6607,6 +6609,6 @@
       "time": 1794978559528
     }
   },
-  "updated": 1794978568927,
+  "updated": 1794978578955,
   "total": 1289
 }
