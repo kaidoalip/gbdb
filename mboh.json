@@ -3804,8 +3804,10 @@
       "err": "bad-request"
     },
     "BC59hI1NmsJIo3qKc9NQFq": {
-      "status": "new",
-      "time": 1794799852594
+      "status": "pending",
+      "time": 1794976565809,
+      "id": "120363429595250612@g.us",
+      "name": "𝐂𝐄𝐘𝐈𝐍𝐂 𝟒𝟕𝟖 || 𝐉𝐆𝐍 𝐁𝐈𝐒𝐔 𝐊𝐍𝐓𝐎𝐋"
     },
     "JmbcYSvh1kfIilg2mA0uEd": {
       "status": "new",
@@ -6400,6 +6402,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976558467,
+  "updated": 1794976566467,
   "total": 1301
 }
