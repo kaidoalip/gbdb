@@ -4538,8 +4538,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗙𝗔𝗜𝗭 𝗩𝟮"
     },
     "EV9YhloJ92R909LIbJS21g": {
-      "status": "new",
-      "time": 1794809574967
+      "status": "pending",
+      "time": 1794978345953,
+      "id": "120363415590208017@g.us",
+      "name": "𝗚𝗖 𝗔𝗟𝗟𝗦𝗧𝗢𝗞 𝗙𝗔𝗜𝗭"
     },
     "HBhEBiizAUI40JoBPdjRIt": {
       "status": "new",
@@ -6578,6 +6580,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978326448,
+  "updated": 1794978346199,
   "total": 1290
 }
