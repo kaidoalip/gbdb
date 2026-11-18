@@ -2988,8 +2988,10 @@
       "err": "bad-request"
     },
     "I0ZxtdEWtXm5xEoRGXHQTU": {
-      "status": "new",
-      "time": 1794781252062
+      "status": "pending",
+      "time": 1794974775909,
+      "id": "120363431020217561@g.us",
+      "name": "᪇𓌲͜ुㅤ❜❜ Chavien Promotion"
     },
     "GKSQKXrVW0o6hMzJ0ITqHx": {
       "status": "new",
@@ -6216,6 +6218,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974769514,
+  "updated": 1794974776488,
   "total": 1316
 }
