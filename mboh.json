@@ -3470,8 +3470,9 @@
       "name": "𝗰𝗿 𝘄𝗮𝗿 𝗹𝘂𝗻𝗻𝗮𝘄𝘃𝘆 𝗹𝘂𝗰𝘂𝘂 𝘃𝟱"
     },
     "Bdz0xyGdBWsHhoKm6jHcPz": {
-      "status": "new",
-      "time": 1794793732581
+      "status": "error",
+      "time": 1794975791131,
+      "err": "bad-request"
     },
     "I5WzzooELLEIvmFUf99w78": {
       "status": "new",
@@ -6322,6 +6323,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975770631,
+  "updated": 1794975793595,
   "total": 1306
 }
