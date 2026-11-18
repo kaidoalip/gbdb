@@ -3218,8 +3218,10 @@
       "announce": true
     },
     "HqfqqlT17J29i5bL7Dcld7": {
-      "status": "new",
-      "time": 1794785212497
+      "status": "pending",
+      "time": 1794975273336,
+      "id": "120363430939922385@g.us",
+      "name": "GB FT CS KING SKY 750P-3K[PROSES] #2🌟"
     },
     "J9y52DpF2CyIqcJXGPVJoe": {
       "status": "new",
@@ -6282,6 +6284,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975265170,
+  "updated": 1794975273625,
   "total": 1315
 }
