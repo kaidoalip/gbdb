@@ -5159,8 +5159,9 @@
       "name": "𝗝𝗕¹ || 𝗨𝗞𝗔𝗜𝗟 𝗦𝗧𝗥 | 𝗥𝗚𝗡 𝗝𝗘𝗠𝗕𝗘𝗥🔰"
     },
     "LTpz8CpAyEY3nZgwhmd51K": {
-      "status": "new",
-      "time": 1794816417599
+      "status": "error",
+      "time": 1794980010805,
+      "err": "bad-request"
     },
     "KclXTnIc4mVEFhuzN37Svf": {
       "status": "new",
@@ -6867,6 +6868,6 @@
       "time": 1794980001307
     }
   },
-  "updated": 1794980001307,
+  "updated": 1794980011048,
   "total": 1315
 }
