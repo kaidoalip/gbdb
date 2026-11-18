@@ -2364,8 +2364,10 @@
       "name": "FT CEES BY ZAKI X FAUZI 500-5K (PROSES)"
     },
     "CC6VorfFnUi5jeONwj6Lqw": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972478319,
+      "id": "120363413139129879@g.us",
+      "name": "GB FT CS BY RAMZ 1K-5K"
     },
     "KN2cO4idSEHL1Xw9cGknjm": {
       "status": "new",
@@ -6096,6 +6098,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972458169,
+  "updated": 1794972478570,
   "total": 1334
 }
