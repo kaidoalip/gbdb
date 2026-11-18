@@ -2210,8 +2210,10 @@
       "err": "bad-request"
     },
     "DCxgS97CfmvBgYMQsE4T05": {
-      "status": "new",
-      "time": 1794754611659
+      "status": "joined",
+      "time": 1794972126897,
+      "id": "120363416199627923@g.us",
+      "name": "JB || UTAMA JUNZZ ALL GAME"
     },
     "CMbvkBoAlSX8qhNN6iTrhe": {
       "status": "new",
@@ -6062,6 +6064,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972117332,
+  "updated": 1794972127125,
   "total": 1338
 }
