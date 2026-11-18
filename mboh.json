@@ -4096,8 +4096,10 @@
       "name": "𝐆𝐂 𝐒𝐓𝐎𝐊 𝐑𝐄𝐒𝐒 𝐊𝐈𝐈 𝟏"
     },
     "JZKwCEGyMKF9fIDnUmDKaJ": {
-      "status": "new",
-      "time": 1794803092672
+      "status": "pending",
+      "time": 1794977316766,
+      "id": "120363410530109419@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗧𝗔𝗠𝗭𝘆(𝗡𝗘𝗪)"
     },
     "ENfqTl19Fg7LBuTP7WD17t": {
       "status": "new",
@@ -6472,6 +6474,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977309755,
+  "updated": 1794977317102,
   "total": 1296
 }
