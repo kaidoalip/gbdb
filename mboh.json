@@ -4167,8 +4167,10 @@
       "name": "| KOPDES² PAK NANDO |"
     },
     "LAKyl52s3zpGAZ0doYCMoU": {
-      "status": "new",
-      "time": 1794803812930
+      "status": "pending",
+      "time": 1794977560865,
+      "id": "120363412781217124@g.us",
+      "name": "MAZKEY STUR V28"
     },
     "HvK1s4yiaCUKKzAMHjIwgU": {
       "status": "new",
@@ -6495,6 +6497,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977540953,
+  "updated": 1794977561188,
   "total": 1296
 }
