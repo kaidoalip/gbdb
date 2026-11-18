@@ -4741,8 +4741,10 @@
       "name": "𝙆𝙄 𝙐𝙏𝘼𝙈𝘼 𝙑1"
     },
     "BzIDLmtxY35FJxBdRt2Xax": {
-      "status": "new",
-      "time": 1794811855057
+      "status": "pending",
+      "time": 1794978834712,
+      "id": "120363428790988877@g.us",
+      "name": "𝙆𝙄 𝙐𝙏𝘼𝙈𝘼 𝙑2"
     },
     "EQORGLBE7smDQkZfmAEoDw": {
       "status": "new",
@@ -6633,6 +6635,6 @@
       "time": 1794978799508
     }
   },
-  "updated": 1794978817726,
+  "updated": 1794978835157,
   "total": 1288
 }
