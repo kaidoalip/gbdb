@@ -4066,8 +4066,10 @@
       "err": "bad-request"
     },
     "H9ZsrldYlIjG8pr9cNHXJc": {
-      "status": "new",
-      "time": 1794802492720
+      "status": "pending",
+      "time": 1794977221075,
+      "id": "120363430736404072@g.us",
+      "name": "GB UTAMA KenzlySkiee"
     },
     "JVJY79IcvCQ59MqgfEHyWM": {
       "status": "new",
@@ -6470,6 +6472,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977213793,
+  "updated": 1794977221327,
   "total": 1298
 }
