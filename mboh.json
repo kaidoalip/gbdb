@@ -2550,8 +2550,11 @@
       "name": "𝗦𝗧𝗢𝗞 𝗠𝗟𝗕𝗕 𝗢𝗡𝗟𝗬 𝗩𝟭"
     },
     "FHTxkl3mlKQ5A1NncKwZeE": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "tertutup",
+      "time": 1794972967837,
+      "id": "120363430837485476@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟯",
+      "announce": true
     },
     "IJ74dwPhShsGIHcNSbTCO9": {
       "status": "new",
@@ -6150,6 +6153,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972948230,
+  "updated": 1794972968094,
   "total": 1332
 }
