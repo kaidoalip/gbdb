@@ -4213,8 +4213,10 @@
       "name": "𝗦𝗛𝗔𝗥𝗔𝗛 𝗦𝗧𝗢𝗥𝗘 𝗩𝟯"
     },
     "CmjmmuAt1LGGCmOijSYA9f": {
-      "status": "new",
-      "time": 1794805853189
+      "status": "pending",
+      "time": 1794977662204,
+      "id": "120363430937163172@g.us",
+      "name": "GB UTAMA REPANO #1"
     },
     "BTig2G9Zw6X69myk6qqvOZ": {
       "status": "new",
@@ -6505,6 +6507,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977643802,
+  "updated": 1794977662849,
   "total": 1295
 }
