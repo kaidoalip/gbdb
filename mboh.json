@@ -4873,8 +4873,10 @@
       "announce": true
     },
     "IXgYGj1adgKHw3PAJoDdGy": {
-      "status": "new",
-      "time": 1794813776854
+      "status": "pending",
+      "time": 1794979269664,
+      "id": "120363433030177723@g.us",
+      "name": "INFO FT CS VALZ X OWN #1"
     },
     "FjxNckpLNtm4KXeJW6uJbm": {
       "status": "new",
@@ -6673,6 +6675,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979260383,
+  "updated": 1794979270003,
   "total": 1288
 }
