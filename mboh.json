@@ -2722,8 +2722,9 @@
       "name": "MARKET MOBILE LEGENDS LANGZ STURR"
     },
     "LVgVXlPiMgGJNTraQzymbb": {
-      "status": "new",
-      "time": 1794760611593
+      "status": "error",
+      "time": 1794973428535,
+      "err": "bad-request"
     },
     "DwyPAqCvdv9FKZQUUEoqF1": {
       "status": "new",
@@ -6166,6 +6167,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973425072,
+  "updated": 1794973428747,
   "total": 1323
 }
