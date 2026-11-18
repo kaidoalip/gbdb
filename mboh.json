@@ -2765,8 +2765,10 @@
       "err": "bad-request"
     },
     "Hen06YwXNTu1hjfRsVA4Gt": {
-      "status": "new",
-      "time": 1794762411598
+      "status": "joined",
+      "time": 1794973522266,
+      "id": "120363424685880478@g.us",
+      "name": "GB JB ALL GAME BY Ramzz18Store✨"
     },
     "KifXxOjbWxjGfkqH8tZ4fV": {
       "status": "new",
@@ -6161,6 +6163,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973513400,
+  "updated": 1794973522510,
   "total": 1319
 }
