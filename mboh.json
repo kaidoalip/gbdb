@@ -4544,8 +4544,11 @@
       "name": "𝗚𝗖 𝗔𝗟𝗟𝗦𝗧𝗢𝗞 𝗙𝗔𝗜𝗭"
     },
     "HBhEBiizAUI40JoBPdjRIt": {
-      "status": "new",
-      "time": 1794809574967
+      "status": "tertutup",
+      "time": 1794978366302,
+      "id": "120363412069594711@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝟭",
+      "announce": true
     },
     "LBOJMeoXdRUGg4646EZMws": {
       "status": "new",
@@ -6580,6 +6583,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978346199,
+  "updated": 1794978366650,
   "total": 1290
 }
