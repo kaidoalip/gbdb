@@ -1851,8 +1851,9 @@
       "name": "Pusatnya stok ff-mlbb🥶"
     },
     "BZcaPsQJ0lr0rz8x62PD6S": {
-      "status": "new",
-      "time": 1794753291684
+      "status": "error",
+      "time": 1794970896090,
+      "err": "bad-request"
     },
     "GIq8DTZgBVk0tPP8T9uQx6": {
       "status": "new",
@@ -5967,6 +5968,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794970883620,
+  "updated": 1794970896329,
   "total": 1341
 }
