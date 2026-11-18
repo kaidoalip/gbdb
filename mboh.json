@@ -2939,8 +2939,10 @@
       "name": "𝑮𝑶𝑶𝑫 𝑭𝑶𝑹𝑼𝑴 𝑴𝑳𝑩𝑩 𝑩𝒀 @𝑴𝑬𝑰𝑫𝑰"
     },
     "IhB7EmyQazM8HkNXZRXd2A": {
-      "status": "new",
-      "time": 1794774651590
+      "status": "pending",
+      "time": 1794973948699,
+      "id": "120363426835270426@g.us",
+      "name": "𝑱𝑩/𝑷𝑻 𝑺𝑴𝑼𝑹𝑭𝑻 𝑨𝑳𝑾𝑨𝒀𝑺 @𝑴𝑬𝑰𝑫𝑰"
     },
     "DlQ5P1oBbbNES9LYk0nqoi": {
       "status": "new",
@@ -6207,6 +6209,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973925828,
+  "updated": 1794973948942,
   "total": 1317
 }
