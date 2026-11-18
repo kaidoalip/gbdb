@@ -2444,8 +2444,10 @@
       "err": "bad-request"
     },
     "Bs67c5YikuALxJ1viiwqTz": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "pending",
+      "time": 1794972689535,
+      "id": "120363431392417632@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗞𝗔𝗟𝗟 𝟰"
     },
     "Hp4iav34TM9C6zP6qXPATG": {
       "status": "new",
@@ -6120,6 +6122,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972682345,
+  "updated": 1794972690146,
   "total": 1333
 }
