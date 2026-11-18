@@ -4806,8 +4806,9 @@
       "name": "JB² KALB/GAG 2/\nSAB/ STEAL AN AGG/ SAB DLL ||\nEPINSTUR"
     },
     "JiKJFn28hzEI19WiyCDxDZ": {
-      "status": "new",
-      "time": 1794812454795
+      "status": "error",
+      "time": 1794979064585,
+      "err": "bad-request"
     },
     "JNd1Nmx7jKDHxEVmTA7z36": {
       "status": "new",
@@ -6678,6 +6679,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979049860,
+  "updated": 1794979065119,
   "total": 1294
 }
