@@ -2557,8 +2557,10 @@
       "announce": true
     },
     "IJ74dwPhShsGIHcNSbTCO9": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972977117,
+      "id": "120363429902706990@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟭𝟬"
     },
     "BuwZxjqWF1HLifn0CmfhN7": {
       "status": "new",
@@ -6153,6 +6155,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972968094,
+  "updated": 1794972977584,
   "total": 1332
 }
