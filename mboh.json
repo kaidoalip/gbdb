@@ -2175,8 +2175,9 @@
       "name": "GB¹ PUTRA X RIZIX"
     },
     "CWB18m3hDEXLhS6azd9vGC": {
-      "status": "new",
-      "time": 1794754251601
+      "status": "error",
+      "time": 1794972087170,
+      "err": "bad-request"
     },
     "CqpCsXaOQJT0AXrSihyALQ": {
       "status": "new",
@@ -6059,6 +6060,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972071896,
+  "updated": 1794972087429,
   "total": 1339
 }
