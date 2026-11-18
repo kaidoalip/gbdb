@@ -4811,8 +4811,10 @@
       "err": "bad-request"
     },
     "JNd1Nmx7jKDHxEVmTA7z36": {
-      "status": "new",
-      "time": 1794812454795
+      "status": "pending",
+      "time": 1794979075297,
+      "id": "120363413006319503@g.us",
+      "name": "FT CS [ EPINNCS ] #1"
     },
     "Lntpxl6qP7I9XfRqwsy21Z": {
       "status": "new",
@@ -6679,6 +6681,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979065119,
+  "updated": 1794979075539,
   "total": 1294
 }
