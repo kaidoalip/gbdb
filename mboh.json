@@ -4581,8 +4581,10 @@
       "err": "bad-request"
     },
     "EU8C3DBmOE98Bv3c01ajvQ": {
-      "status": "new",
-      "time": 1794809814885
+      "status": "pending",
+      "time": 1794978431922,
+      "id": "120363432946476209@g.us",
+      "name": "GB BBS SHARE BY ALZ¹"
     },
     "LrdHudNK8vt7z7iLNTXQjn": {
       "status": "new",
@@ -6589,6 +6591,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978425098,
+  "updated": 1794978432258,
   "total": 1289
 }
