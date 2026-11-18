@@ -4019,8 +4019,11 @@
       "announce": true
     },
     "Fmv9ronKXsrB3n5g0DvJjO": {
-      "status": "new",
-      "time": 1794801892592
+      "status": "tertutup",
+      "time": 1794977133727,
+      "id": "120363409872946536@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗔𝗟𝗣𝗔𝗡 𝟮🕊️",
+      "announce": true
     },
     "J8mb0mPdxkg4BrEORQtPaO": {
       "status": "new",
@@ -6455,6 +6458,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977121133,
+  "updated": 1794977134164,
   "total": 1298
 }
