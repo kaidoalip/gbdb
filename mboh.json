@@ -3583,8 +3583,11 @@
       "name": "PUSAT STOK RESS #1"
     },
     "KWBgwxnTRVdAm6jrU7ctU3": {
-      "status": "new",
-      "time": 1794796732573
+      "status": "tertutup",
+      "time": 1794976068181,
+      "id": "120363167180947967@g.us",
+      "name": "𖹭 ֶָ֢  𝖼𝗅𝗈𝗌𝖾 ⨾  𝖻𝗒   @𝗋𝖾𝗌𝗌𝗅𝗂𝗅𝗒   🩰  𝖼𝗎𝗍𝖾   𖬺   𝗌𝗈𝖿𝗍   𝗅𝗈𝗏𝖾𝗅𝗒   𐙚",
+      "announce": true
     },
     "CJ67TR4RYM8De6dL5YHPCh": {
       "status": "new",
@@ -6355,6 +6358,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976047112,
+  "updated": 1794976068497,
   "total": 1306
 }
