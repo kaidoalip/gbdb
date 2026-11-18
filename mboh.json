@@ -4297,8 +4297,10 @@
       "err": "bad-request"
     },
     "D3zNFAa1rVPI9f3ZJRAuXN": {
-      "status": "new",
-      "time": 1794807774777
+      "status": "pending",
+      "time": 1794977857295,
+      "id": "120363411581845157@g.us",
+      "name": "𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝙱𝚈 𝙺𝙴𝙽 𝚅2"
     },
     "GJvNdpxTZdw4MbNOM5AKBC": {
       "status": "new",
@@ -6537,6 +6539,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977849774,
+  "updated": 1794977857525,
   "total": 1297
 }
