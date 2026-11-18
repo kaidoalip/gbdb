@@ -3314,8 +3314,10 @@
       "err": "bad-request"
     },
     "FS6rMjTq9KC0MBGGlG5Y1d": {
-      "status": "new",
-      "time": 1794787972316
+      "status": "pending",
+      "time": 1794975455837,
+      "id": "120363429671558365@g.us",
+      "name": "GB UTAMA AVER🕊️"
     },
     "FdULbPmWM8AHzfGmpDktk2": {
       "status": "new",
@@ -6286,6 +6288,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975448938,
+  "updated": 1794975456074,
   "total": 1310
 }
