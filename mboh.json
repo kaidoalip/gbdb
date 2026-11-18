@@ -2382,8 +2382,11 @@
       "name": "BATTLE OF ALJEY S3 (CLOSE)"
     },
     "JqxOmN9H9cEK5qZpwcZku0": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "tertutup",
+      "time": 1794972535652,
+      "id": "120363411287098524@g.us",
+      "name": "BBS SHARE LINK ZACK¹ #KENONJANOUT",
+      "announce": true
     },
     "DGfylCTDHoCJUdOHsCN85z": {
       "status": "new",
@@ -6102,6 +6105,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972515098,
+  "updated": 1794972535882,
   "total": 1334
 }
