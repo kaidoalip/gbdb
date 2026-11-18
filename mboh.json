@@ -2913,8 +2913,10 @@
       "name": "𝗝𝗕 𝗟𝗔𝗡𝗭𝗭 𝗦𝗧𝗢𝗥𝗘 𝗥𝗘𝗚 𝗝𝗘𝗠𝗕𝗘𝗥 #2"
     },
     "LcBtZpkBVQ55Uk6Brgx09h": {
-      "status": "new",
-      "time": 1794768051703
+      "status": "pending",
+      "time": 1794973883885,
+      "id": "120363411478069186@g.us",
+      "name": "GC AferrUtama V1"
     },
     "LS9Yst7NxSzAwQgp3AKXxP": {
       "status": "new",
@@ -6197,6 +6199,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973862867,
+  "updated": 1794973884130,
   "total": 1317
 }
