@@ -2082,8 +2082,10 @@
       "name": "ALLGAME 413"
     },
     "KgyGw7MouHF9VY1iJindhK": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971833268,
+      "id": "120363414015241766@g.us",
+      "name": "JB JUNZ STAR BOY"
     },
     "GXHOrhmgDtL4XtXA429XO7": {
       "status": "new",
@@ -6030,6 +6032,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971813249,
+  "updated": 1794971833512,
   "total": 1339
 }
