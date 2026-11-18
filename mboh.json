@@ -3577,8 +3577,10 @@
       "err": "bad-request"
     },
     "KP6KY2gJJFgJMb4mPzpKMv": {
-      "status": "new",
-      "time": 1794796492581
+      "status": "pending",
+      "time": 1794976046759,
+      "id": "120363414261138981@g.us",
+      "name": "PUSAT STOK RESS #1"
     },
     "KWBgwxnTRVdAm6jrU7ctU3": {
       "status": "new",
@@ -6353,6 +6355,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976040173,
+  "updated": 1794976047112,
   "total": 1306
 }
