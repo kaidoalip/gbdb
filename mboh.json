@@ -2827,8 +2827,10 @@
       "announce": true
     },
     "Fu1SQouOqsfGORsNY0TPd2": {
-      "status": "new",
-      "time": 1794763611674
+      "status": "pending",
+      "time": 1794973657154,
+      "id": "120363415034120600@g.us",
+      "name": "STOK YANZZ JEBE X PP BOMEL 0.4"
     },
     "J761f3DBZHh3cc0ZK4CwGw": {
       "status": "new",
@@ -6179,6 +6181,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973647129,
+  "updated": 1794973657396,
   "total": 1319
 }
