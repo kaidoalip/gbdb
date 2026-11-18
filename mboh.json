@@ -2100,8 +2100,10 @@
       "name": "ALLGAME 414"
     },
     "EU3T5ZUgE8M19jlGITPfI6": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971889273,
+      "id": "120363432519534904@g.us",
+      "name": "JB ALLGAME 295"
     },
     "BrqT34Rqfzl1466xBguoTk": {
       "status": "new",
@@ -6036,6 +6038,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971871250,
+  "updated": 1794971889541,
   "total": 1339
 }
