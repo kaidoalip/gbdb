@@ -4680,8 +4680,10 @@
       "err": "bad-request"
     },
     "EmxxU3OtKpDKwHhI2TBvqi": {
-      "status": "new",
-      "time": 1794811014874
+      "status": "pending",
+      "time": 1794978702268,
+      "id": "120363432727737676@g.us",
+      "name": "𝗝𝗕|𝗥𝗢𝗕𝗟𝗢𝗫|𝗩𝗔𝗥𝗭|𝗩𝟭™"
     },
     "BWz2he5lLfT83YgPokqnSB": {
       "status": "new",
@@ -6616,6 +6618,6 @@
       "time": 1794978559528
     }
   },
-  "updated": 1794978695768,
+  "updated": 1794978702636,
   "total": 1288
 }
