@@ -4409,8 +4409,11 @@
       "err": "bad-request"
     },
     "BwRqjInWsLWK3JG4BVdy6M": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "tertutup",
+      "time": 1794978057795,
+      "id": "120363432803142559@g.us",
+      "name": "𝐎𝐗𝐘 || 𝐀𝐑𝐄𝐀",
+      "announce": true
     },
     "FZzeTE8fP9yHYtyDkYiCLR": {
       "status": "new",
@@ -6565,6 +6568,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794978048395,
+  "updated": 1794978058043,
   "total": 1296
 }
