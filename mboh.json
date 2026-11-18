@@ -4155,8 +4155,10 @@
       "name": "JB ALLGAME | RANZ STARBOY"
     },
     "L9ATd5d4J4D5jvX1hKATva": {
-      "status": "new",
-      "time": 1794803332878
+      "status": "joined",
+      "time": 1794977519109,
+      "id": "120363408140836790@g.us",
+      "name": "| KOPDES¹ PAK NANDO |"
     },
     "ImRzCzac2747iSezQ0Yum2": {
       "status": "new",
@@ -6491,6 +6493,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977497284,
+  "updated": 1794977519344,
   "total": 1296
 }
