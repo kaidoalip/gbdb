@@ -3753,8 +3753,10 @@
       "name": "[𝐉𝐁] ✦ 𝐀𝐊𝐒𝐄𝐑𝐎 ✦"
     },
     "GB1ATrlIDwLDqq5EfzA7Mm": {
-      "status": "new",
-      "time": 1794799492574
+      "status": "pending",
+      "time": 1794976498829,
+      "id": "120363411873033541@g.us",
+      "name": "[𝐉𝐁] ✦ 𝐀𝐊𝐒𝐄𝐑𝐎 ✦𝙫𝙚𝙧¹"
     },
     "BWQAexpSkzx3BQg4KyPuoZ": {
       "status": "new",
@@ -6401,6 +6403,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976480751,
+  "updated": 1794976499064,
   "total": 1304
 }
