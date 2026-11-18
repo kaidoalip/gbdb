@@ -4334,8 +4334,10 @@
       "name": "𝐁𝐀𝐂𝐊 𝐀𝐆𝐀𝐈𝐍 𝐎𝐌𝐏𝐎𝐍𝐆"
     },
     "DVJ6wNLaAy7IVVIgQBiQ6l": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "pending",
+      "time": 1794977945672,
+      "id": "120363433119387142@g.us",
+      "name": "𝙈𝘼𝙍𝙆𝙀𝙏 𝙔𝙏𝙏𝘼"
     },
     "BSIiDPXz3bF8Mbpq7NSPGO": {
       "status": "new",
@@ -6546,6 +6548,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977928000,
+  "updated": 1794977945902,
   "total": 1296
 }
