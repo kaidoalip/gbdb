@@ -3205,8 +3205,10 @@
       "name": "WARUNG MADURA 24 JAM"
     },
     "CsJLBp8FpIC63mSfzNrtCF": {
-      "status": "new",
-      "time": 1794784732239
+      "status": "pending",
+      "time": 1794975245426,
+      "id": "120363432673946315@g.us",
+      "name": "REXU LEARNS INDONESIAN"
     },
     "JX1l6pRq0g0HCCZkP4wm1j": {
       "status": "new",
@@ -6277,6 +6279,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975229108,
+  "updated": 1794975245857,
   "total": 1315
 }
