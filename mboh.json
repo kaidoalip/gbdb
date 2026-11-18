@@ -3669,8 +3669,10 @@
       "name": "𝗚𝗥𝗨𝗕 𝗦𝗧𝗢𝗞 𝗬𝗨𝗨 𝗦𝗧𝗢𝗥𝗘 𝗩1"
     },
     "ENtmmPPBS8M4nRxwxwTHJj": {
-      "status": "new",
-      "time": 1794797932585
+      "status": "pending",
+      "time": 1794976310709,
+      "id": "120363415442657345@g.us",
+      "name": "𝗚𝗥𝗨𝗕 𝗦𝗧𝗢𝗞 𝗬𝗨𝗨 𝗦𝗧𝗢𝗥𝗘 𝗩2"
     },
     "BuWAXXMQTg4AeBQstNFbi8": {
       "status": "new",
@@ -6373,6 +6375,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976291585,
+  "updated": 1794976311580,
   "total": 1303
 }
