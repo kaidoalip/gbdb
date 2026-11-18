@@ -2575,8 +2575,10 @@
       "name": "𝗚𝗖 𝗟𝗘𝗚𝗘𝗡𝗗𝗔𝗥𝗜𝗦 𝗘𝗥𝗡𝗘𝗦𝗧"
     },
     "EMIgxUV55OpHAseUkHPAFg": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794973029881,
+      "id": "120363412295120280@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟭𝟮"
     },
     "LdYcOwt2KJn5NZqSw3PEad": {
       "status": "new",
@@ -6159,6 +6161,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973010015,
+  "updated": 1794973030183,
   "total": 1332
 }
