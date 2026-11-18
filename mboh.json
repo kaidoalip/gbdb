@@ -4771,8 +4771,10 @@
       "name": "𝙂𝘽 𝙏𝙀𝙍𝘽𝙐𝙆𝘼 𝙑2"
     },
     "EiHf57kX9bu7plcGaCdEmS": {
-      "status": "new",
-      "time": 1794811855057
+      "status": "pending",
+      "time": 1794978923361,
+      "id": "120363430242084576@g.us",
+      "name": "𝙅𝘽 𝘼𝙇𝙇 𝙂𝘼𝙈𝙀 𝙆𝙄𝙄"
     },
     "JlcjngCQDA3E5A65OGYPKF": {
       "status": "new",
@@ -6655,6 +6657,6 @@
       "time": 1794978919523
     }
   },
-  "updated": 1794978919523,
+  "updated": 1794978923778,
   "total": 1291
 }
