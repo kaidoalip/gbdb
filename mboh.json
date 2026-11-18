@@ -2339,8 +2339,11 @@
       "announce": true
     },
     "KMdQvG2ZOR22UlaL0MJVKr": {
-      "status": "new",
-      "time": 1794756051694
+      "status": "tertutup",
+      "time": 1794972412490,
+      "id": "4915222855383-1527170063@g.us",
+      "name": "𝗼𝗽𝗲𝗻 𝗯𝘆 || 𝗮𝘆𝗮𝗮⁵💋",
+      "announce": true
     },
     "HSm6FguNLSi4kms5C8GI3c": {
       "status": "new",
@@ -6083,6 +6086,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972401972,
+  "updated": 1794972412907,
   "total": 1333
 }
