@@ -3104,8 +3104,10 @@
       "name": "GB³ STOK KHUSUS OWN/PT LIDZ"
     },
     "G4vPoCQVyrvDsDBv5Xwq2a": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "pending",
+      "time": 1794974995616,
+      "id": "120363431335675288@g.us",
+      "name": "GB⁴ KHUSUS STOK LIDZ PASUNDAN"
     },
     "DXMcZoFe7cTFJabb93lrcr": {
       "status": "new",
@@ -6248,6 +6250,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974975137,
+  "updated": 1794974995840,
   "total": 1316
 }
