@@ -2408,12 +2408,6 @@
       "name": "BEBAS SHARE ZACK #TAKEPM",
       "announce": true
     },
-    "BhxWdlgCad160JNJ7WGAxu": {
-      "status": "joined",
-      "time": 1794972607879,
-      "id": "120363411914981990@g.us",
-      "name": "Jokers`"
-    },
     "IWi6yhCoi1s5MS7I2q14gy": {
       "status": "pending",
       "time": 1794972625874,
@@ -2925,12 +2919,6 @@
       "time": 1794973925166,
       "id": "120363413459795596@g.us",
       "name": "𝑮𝑶𝑶𝑫 𝑭𝑶𝑹𝑼𝑴 𝑴𝑳𝑩𝑩 𝑩𝒀 @𝑴𝑬𝑰𝑫𝑰"
-    },
-    "IhB7EmyQazM8HkNXZRXd2A": {
-      "status": "pending",
-      "time": 1794973948699,
-      "id": "120363426835270426@g.us",
-      "name": "𝑱𝑩/𝑷𝑻 𝑺𝑴𝑼𝑹𝑭𝑻 𝑨𝑳𝑾𝑨𝒀𝑺 @𝑴𝑬𝑰𝑫𝑰"
     },
     "H3tTIj8DgWICH9YaBL2dEI": {
       "status": "pending",
@@ -3468,18 +3456,6 @@
       "id": "120363433099091469@g.us",
       "name": "RTP TIKTOK NOMINFOLL",
       "announce": true
-    },
-    "LKqCsGcjIn4HuymQ6XdR6p": {
-      "status": "joined",
-      "time": 1794975859357,
-      "id": "120363412173171948@g.us",
-      "name": "MARINA  (B)"
-    },
-    "Dfx2B9zWFiT8JWfmGTGI5l": {
-      "status": "joined",
-      "time": 1794975888114,
-      "id": "120363431056480740@g.us",
-      "name": "RIVIEW PLAYSTORE MOVA CASHBACK 2026"
     },
     "EBrmMNRhXnI4cv1qngm315": {
       "status": "error",
@@ -7064,6 +7040,6 @@
       "time": 1794980721982
     }
   },
-  "updated": 1794980721982,
-  "total": 1363
+  "updated": 1794980729055,
+  "total": 1359
 }
