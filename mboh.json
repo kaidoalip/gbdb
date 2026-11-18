@@ -4514,8 +4514,10 @@
       "announce": true
     },
     "KJf9V27H3v9ETLaQEY8yiQ": {
-      "status": "new",
-      "time": 1794809334783
+      "status": "pending",
+      "time": 1794978261247,
+      "id": "120363428015459290@g.us",
+      "name": "MARGA 123"
     },
     "HRmTf12A1AY1PcqidPa032": {
       "status": "new",
@@ -6574,6 +6576,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978252674,
+  "updated": 1794978261721,
   "total": 1291
 }
