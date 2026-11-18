@@ -2802,8 +2802,10 @@
       "err": "bad-request"
     },
     "K84lhW4A5xACFNkdghHPbM": {
-      "status": "new",
-      "time": 1794763371590
+      "status": "pending",
+      "time": 1794973582628,
+      "id": "120363414655703205@g.us",
+      "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗦𝗬𝗔𝗛𝗛"
     },
     "Fwxck5kqZWtBXVV5n47o5m": {
       "status": "new",
@@ -6170,6 +6172,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973575301,
+  "updated": 1794973582941,
   "total": 1319
 }
