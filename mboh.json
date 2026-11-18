@@ -2169,8 +2169,10 @@
       "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗥𝗔𝗕𝗭𝗭 [1]"
     },
     "JvYzXAxfaea5IioRDlyWVq": {
-      "status": "new",
-      "time": 1794754131635
+      "status": "pending",
+      "time": 1794972071656,
+      "id": "120363413684540610@g.us",
+      "name": "GB¹ PUTRA X RIZIX"
     },
     "CWB18m3hDEXLhS6azd9vGC": {
       "status": "new",
@@ -6057,6 +6059,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972056024,
+  "updated": 1794972071896,
   "total": 1339
 }
