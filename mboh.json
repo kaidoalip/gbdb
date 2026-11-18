@@ -4072,8 +4072,10 @@
       "name": "GB UTAMA KenzlySkiee"
     },
     "JVJY79IcvCQ59MqgfEHyWM": {
-      "status": "new",
-      "time": 1794802852823
+      "status": "pending",
+      "time": 1794977238352,
+      "id": "120363413990715722@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟭"
     },
     "GCJW0p4R13K1mIdTYsvGLE": {
       "status": "new",
@@ -6472,6 +6474,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977221327,
+  "updated": 1794977238800,
   "total": 1298
 }
