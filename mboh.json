@@ -4084,8 +4084,10 @@
       "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗞𝗜𝗜 𝟭"
     },
     "J1dltAKYQYcBx8dOq4eDwC": {
-      "status": "new",
-      "time": 1794802852823
+      "status": "pending",
+      "time": 1794977271717,
+      "id": "120363403958552786@g.us",
+      "name": "𝐆𝐂 𝐔𝐓𝐀𝐌𝐀 𝐊𝐢𝐢𝐁𝐰𝐡𝐚𝐧"
     },
     "LWHap8FVRCVHIcDwMwMrxa": {
       "status": "new",
@@ -6476,6 +6478,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977255747,
+  "updated": 1794977272055,
   "total": 1298
 }
