@@ -3447,8 +3447,10 @@
       "announce": true
     },
     "HXWhF0qebD8CBTeUL4EytD": {
-      "status": "new",
-      "time": 1794793492488
+      "status": "pending",
+      "time": 1794975698415,
+      "id": "120363430420332483@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗨𝗧𝗔𝗠𝗔"
     },
     "HN7hGmp77KUIvCCOt5fBAd": {
       "status": "new",
@@ -6323,6 +6325,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975690300,
+  "updated": 1794975698868,
   "total": 1308
 }
