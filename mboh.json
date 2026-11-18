@@ -3649,8 +3649,11 @@
       "name": "𝐉𝐁⁸ 𝐏𝐑𝐎𝐌𝐏𝐓 𝐃𝐑𝐄 𝐌𝐀𝐘 🤩"
     },
     "CQbaGOREX2n15T3rTHSCFC": {
-      "status": "new",
-      "time": 1794797692663
+      "status": "tertutup",
+      "time": 1794976269940,
+      "id": "120363418137483699@g.us",
+      "name": "STOCK¹ || SANZZ STORE",
+      "announce": true
     },
     "EB3sLhERwV1CLyed6JFHQ1": {
       "status": "new",
@@ -6365,6 +6368,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976251402,
+  "updated": 1794976270389,
   "total": 1303
 }
