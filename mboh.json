@@ -5057,8 +5057,10 @@
       "name": "𝗚𝗕 𝗦𝗧𝗢𝗞 𝗘𝗥𝗭𝗔𝗔𝗠𝗔𝗥𝗞𝗘𝗧 𝗩𝟮"
     },
     "G2SIViXV3Nq2Y79U9geoiJ": {
-      "status": "new",
-      "time": 1794815577149
+      "status": "pending",
+      "time": 1794979749708,
+      "id": "120363282207322231@g.us",
+      "name": "GC LEGENDARIS ANS🪽"
     },
     "GFdv4IlkOGs8HQX3p4wHZX": {
       "status": "new",
@@ -6761,6 +6763,6 @@
       "time": 1794979641485
     }
   },
-  "updated": 1794979731339,
+  "updated": 1794979749939,
   "total": 1296
 }
