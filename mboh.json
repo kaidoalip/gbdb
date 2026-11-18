@@ -2544,8 +2544,10 @@
       "err": "bad-request"
     },
     "JZ61F5fC1Zw6BgsOrIswrs": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972947952,
+      "id": "120363168708629624@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗠𝗟𝗕𝗕 𝗢𝗡𝗟𝗬 𝗩𝟭"
     },
     "FHTxkl3mlKQ5A1NncKwZeE": {
       "status": "new",
@@ -6148,6 +6150,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972941590,
+  "updated": 1794972948230,
   "total": 1332
 }
