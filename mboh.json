@@ -4351,8 +4351,10 @@
       "name": "WARUNG WANN 24 JAM"
     },
     "HkaU2D0tqiY2RTC5eJoacr": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "pending",
+      "time": 1794977988673,
+      "id": "120363431201449610@g.us",
+      "name": "𝐍𝐎𝐗𝐅𝐎𝐑𝐓𝐘"
     },
     "DnXh2WCW4FiJP78nQmQvwz": {
       "status": "new",
@@ -6551,6 +6553,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977970338,
+  "updated": 1794977989301,
   "total": 1296
 }
