@@ -2376,8 +2376,10 @@
       "name": "𝗴𝗯 𝘄𝗮𝗿/𝗰𝗿 𝘄𝗶𝘁𝗵 𝗮𝗹 & 𝗰𝗲𝘆𝗮"
     },
     "KXI78Yl8WTM1or8wBoL4Jm": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972514854,
+      "id": "120363414461497647@g.us",
+      "name": "BATTLE OF ALJEY S3 (CLOSE)"
     },
     "JqxOmN9H9cEK5qZpwcZku0": {
       "status": "new",
@@ -6100,6 +6102,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972496782,
+  "updated": 1794972515098,
   "total": 1334
 }
