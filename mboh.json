@@ -3398,8 +3398,11 @@
       "announce": true
     },
     "Df5vVLOvms24xa7c3UJh1X": {
-      "status": "new",
-      "time": 1794793492488
+      "status": "tertutup",
+      "time": 1794975616750,
+      "id": "120363432358008333@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗦𝗬𝗔𝗛𝗛 𝟱",
+      "announce": true
     },
     "DJXCJv2wHtRKccCNreOqjf": {
       "status": "new",
@@ -6302,6 +6305,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975605772,
+  "updated": 1794975617188,
   "total": 1308
 }
