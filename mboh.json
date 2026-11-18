@@ -3864,8 +3864,10 @@
       "name": "SI!R KAZU MARKET V1 🧢"
     },
     "B5xweF22jVADkWoJVXFR1R": {
-      "status": "new",
-      "time": 1794800572574
+      "status": "pending",
+      "time": 1794976736459,
+      "id": "120363411440651506@g.us",
+      "name": "DUNIA CUAN FF MOLE V1 🧢"
     },
     "JwWnDXg4x9ZCtCW0XTOZzD": {
       "status": "new",
@@ -6412,6 +6414,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976720178,
+  "updated": 1794976736710,
   "total": 1299
 }
