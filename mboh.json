@@ -1908,8 +1908,10 @@
       "err": "bad-request"
     },
     "C8hKzwv8vKE4w3EBvcJCfS": {
-      "status": "new",
-      "time": 1794753291684
+      "status": "pending",
+      "time": 1794971000679,
+      "id": "120363431150980840@g.us",
+      "name": "JB³ ALL GAME || BY ARR STORE"
     },
     "BEaoV5IWLABELzIwKsxH24": {
       "status": "new",
@@ -5984,6 +5986,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794970993256,
+  "updated": 1794971000932,
   "total": 1341
 }
