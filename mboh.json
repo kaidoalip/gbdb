@@ -1946,8 +1946,10 @@
       "err": "bad-request"
     },
     "Lf90s5m7gi8C57IPCdl4Li": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971080591,
+      "id": "120363429851293807@g.us",
+      "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗬𝗮𝗻𝘇𝗡𝗲𝘄𝗘𝗿𝗮"
     },
     "KowovJOGev8319CbWDCeV9": {
       "status": "new",
@@ -5986,6 +5988,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971073702,
+  "updated": 1794971080927,
   "total": 1339
 }
