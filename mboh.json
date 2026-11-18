@@ -1991,8 +1991,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗙𝗘𝗡 𝟮"
     },
     "LEFlzO3sx2EIXbym6EnYae": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971188157,
+      "id": "120363430278461938@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗙𝗘𝗡 𝟯"
     },
     "KvnJF2OGGGp46AglCzu3PJ": {
       "status": "new",
@@ -5999,6 +6001,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971172683,
+  "updated": 1794971188414,
   "total": 1339
 }
