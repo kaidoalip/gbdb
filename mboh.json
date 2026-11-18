@@ -3272,8 +3272,10 @@
       "name": "gb cr with bima #2"
     },
     "C4U6836UH051anhLp4OJ4i": {
-      "status": "new",
-      "time": 1794786652388
+      "status": "pending",
+      "time": 1794975384618,
+      "id": "120363429560356921@g.us",
+      "name": "𝐁𝐄𝐁𝐀𝐒 𝐒𝐇𝐀𝐑𝐄 𝐁𝐈𝐌𝐀(𝐓𝐀𝐊𝐄 𝐏𝐌)"
     },
     "IfSAzbNduwmDP6jqyemNsG": {
       "status": "new",
@@ -6284,6 +6286,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975366288,
+  "updated": 1794975384843,
   "total": 1312
 }
