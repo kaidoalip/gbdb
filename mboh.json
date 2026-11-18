@@ -3996,8 +3996,9 @@
       "name": "³MARKET ALL GAME || DERXZ STURR✨🚀"
     },
     "Ctyy613od2D94iBgluv1bL": {
-      "status": "new",
-      "time": 1794801652575
+      "status": "error",
+      "time": 1794977081888,
+      "err": "bad-request"
     },
     "KgZQcFzoGVMCwJjU4gutUP": {
       "status": "new",
@@ -6448,6 +6449,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794977066552,
+  "updated": 1794977082247,
   "total": 1298
 }
