@@ -2297,8 +2297,10 @@
       "err": "bad-request"
     },
     "EUiBze86Lfd5wRKtn7LfAl": {
-      "status": "new",
-      "time": 1794755931773
+      "status": "joined",
+      "time": 1794972343971,
+      "id": "120363432133832421@g.us",
+      "name": "BaNaNa2"
     },
     "Hgrf3m3Gjmg7rOUcsa3Yco": {
       "status": "new",
@@ -6069,6 +6071,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972334753,
+  "updated": 1794972344189,
   "total": 1333
 }
