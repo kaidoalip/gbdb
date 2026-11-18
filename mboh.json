@@ -3816,8 +3816,10 @@
       "name": "JB ALLGAME 299"
     },
     "CzLoYei6MtRDLaceZXh3Ip": {
-      "status": "new",
-      "time": 1794799972670
+      "status": "pending",
+      "time": 1794976599087,
+      "id": "120363430878805336@g.us",
+      "name": "JB ALLGAME 300"
     },
     "GQxK1V0kZ9F25Cy9kySjNf": {
       "status": "new",
@@ -6404,6 +6406,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976583866,
+  "updated": 1794976599332,
   "total": 1301
 }
