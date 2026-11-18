@@ -1985,8 +1985,10 @@
       "err": "bad-request"
     },
     "IkkblBPamYd0fQrLBfaviD": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971172213,
+      "id": "120363430397496963@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗙𝗘𝗡 𝟮"
     },
     "LEFlzO3sx2EIXbym6EnYae": {
       "status": "new",
@@ -5997,6 +5999,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971164968,
+  "updated": 1794971172683,
   "total": 1339
 }
