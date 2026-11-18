@@ -2656,8 +2656,10 @@
       "err": "bad-request"
     },
     "IDU9ivMZur30ja2aVCNx88": {
-      "status": "new",
-      "time": 1794759171671
+      "status": "pending",
+      "time": 1794973189008,
+      "id": "120363405115050013@g.us",
+      "name": "𝐽𝐵 𝐴𝐿𝐿 𝐺𝐴𝑀𝐸 𝑍𝐸𝑁𝑆𝑇𝑅4 #1🥷"
     },
     "I78NwMyeelABBkegdk8tBT": {
       "status": "new",
@@ -6176,6 +6178,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973181665,
+  "updated": 1794973189254,
   "total": 1331
 }
