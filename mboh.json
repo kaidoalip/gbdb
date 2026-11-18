@@ -4587,8 +4587,10 @@
       "name": "GB BBS SHARE BY ALZ¹"
     },
     "LrdHudNK8vt7z7iLNTXQjn": {
-      "status": "new",
-      "time": 1794809814885
+      "status": "pending",
+      "time": 1794978452584,
+      "id": "120363413698570390@g.us",
+      "name": "GB CR/WAR BY ALZ"
     },
     "JAYH6xH9iFkGAVOlUO2h8N": {
       "status": "new",
@@ -6591,6 +6593,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978432258,
+  "updated": 1794978452932,
   "total": 1289
 }
