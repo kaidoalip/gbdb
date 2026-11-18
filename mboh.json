@@ -4507,8 +4507,11 @@
       "err": "bad-request"
     },
     "G2XMD0QKwwE0ZamEvza9Av": {
-      "status": "new",
-      "time": 1794809334783
+      "status": "tertutup",
+      "time": 1794978252021,
+      "id": "120363431700306965@g.us",
+      "name": "GB OPTES VESPERA",
+      "announce": true
     },
     "KJf9V27H3v9ETLaQEY8yiQ": {
       "status": "new",
@@ -6571,6 +6574,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978242146,
+  "updated": 1794978252674,
   "total": 1291
 }
