@@ -4962,8 +4962,10 @@
       "err": "bad-request"
     },
     "HersxYJjBpT5lqZerOaZSy": {
-      "status": "new",
-      "time": 1794814497107
+      "status": "pending",
+      "time": 1794979466268,
+      "id": "120363430854544443@g.us",
+      "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗛𝗔𝗞𝗭𝗬 𝗩𝟮👑🔥"
     },
     "Ez2rjBbWm4DCndai3nWzRT": {
       "status": "new",
@@ -6686,6 +6688,6 @@
       "time": 1794979401383
     }
   },
-  "updated": 1794979458960,
+  "updated": 1794979466495,
   "total": 1285
 }
