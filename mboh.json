@@ -2704,8 +2704,10 @@
       "name": "STOK XTUSEN V²"
     },
     "JxqkSrYGBDs82qkz2hkpxz": {
-      "status": "new",
-      "time": 1794760251670
+      "status": "pending",
+      "time": 1794973339035,
+      "id": "120363431782224723@g.us",
+      "name": "GRUP UTAMA LANGZ STURR"
     },
     "DXd33LmMGk1C73zsyWpVyO": {
       "status": "new",
@@ -6192,6 +6194,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973319615,
+  "updated": 1794973339295,
   "total": 1331
 }
