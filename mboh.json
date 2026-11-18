@@ -3810,8 +3810,10 @@
       "name": "𝐂𝐄𝐘𝐈𝐍𝐂 𝟒𝟕𝟖 || 𝐉𝐆𝐍 𝐁𝐈𝐒𝐔 𝐊𝐍𝐓𝐎𝐋"
     },
     "JmbcYSvh1kfIilg2mA0uEd": {
-      "status": "new",
-      "time": 1794799972670
+      "status": "pending",
+      "time": 1794976583502,
+      "id": "120363413150843481@g.us",
+      "name": "JB ALLGAME 299"
     },
     "CzLoYei6MtRDLaceZXh3Ip": {
       "status": "new",
@@ -6402,6 +6404,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976566467,
+  "updated": 1794976583866,
   "total": 1301
 }
