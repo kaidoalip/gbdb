@@ -4906,8 +4906,10 @@
       "err": "bad-request"
     },
     "FdD9LFlD26vFmmVmq3sCMW": {
-      "status": "new",
-      "time": 1794813897015
+      "status": "pending",
+      "time": 1794979315866,
+      "id": "120363427342446200@g.us",
+      "name": "JB 2  || ALL STORE"
     },
     "HIRrv3Sivj5KMl5qLvJwd5": {
       "status": "new",
@@ -6682,6 +6684,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979307989,
+  "updated": 1794979316525,
   "total": 1288
 }
