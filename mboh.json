@@ -2786,8 +2786,10 @@
       "err": "bad-request"
     },
     "FRKuDgkwTgrHVEh2xbEnJM": {
-      "status": "new",
-      "time": 1794762771836
+      "status": "joined",
+      "time": 1794973554233,
+      "id": "120363321384326823@g.us",
+      "name": "GB¹ SANZZ STURR"
     },
     "BBRGHe0V3BS9Ey6ivJa9MV": {
       "status": "new",
@@ -6166,6 +6168,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973545165,
+  "updated": 1794973554557,
   "total": 1319
 }
