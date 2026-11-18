@@ -4789,8 +4789,9 @@
       "name": "𝐆𝐁 𝐁𝐄𝐁𝐀𝐒 𝐒𝐇𝐄𝐑𝐄 𝐕𝟏"
     },
     "IfMWvkFlu256ECcc2cgtp7": {
-      "status": "new",
-      "time": 1794812334886
+      "status": "error",
+      "time": 1794979017238,
+      "err": "bad-request"
     },
     "F8L457ZDYRWHd5t5q6swO8": {
       "status": "new",
@@ -6653,6 +6654,6 @@
       "time": 1794978919523
     }
   },
-  "updated": 1794979012357,
+  "updated": 1794979017564,
   "total": 1289
 }
