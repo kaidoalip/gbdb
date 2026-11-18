@@ -2121,8 +2121,10 @@
       "err": "bad-request"
     },
     "LmpiPlgnz46JgCPNJ3EhS5": {
-      "status": "new",
-      "time": 1794753771554
+      "status": "pending",
+      "time": 1794971923084,
+      "id": "120363430619791311@g.us",
+      "name": "TOKO [3] JOKI KONTAK WILZZ X OWN PT"
     },
     "HlU4wooxD9mJBxpB2JglS8": {
       "status": "new",
@@ -6041,6 +6043,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971915055,
+  "updated": 1794971923309,
   "total": 1339
 }
