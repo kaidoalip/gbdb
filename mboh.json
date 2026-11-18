@@ -5147,8 +5147,10 @@
       "err": "bad-request"
     },
     "Jrsh8KkTxAoD4bOMqXBb3M": {
-      "status": "new",
-      "time": 1794816417599
+      "status": "pending",
+      "time": 1794979974803,
+      "id": "120363429868283486@g.us",
+      "name": "𝙿𝚄𝚂𝙰𝚃 𝚂𝚃𝙾𝙲𝙺 𝚁𝙴𝚂𝚂 𝙱𝚈 𝚁𝙰𝙵"
     },
     "E1PeyKJMtLmGzXPCf9wUiF": {
       "status": "new",
@@ -6803,6 +6805,6 @@
       "time": 1794979881303
     }
   },
-  "updated": 1794979968294,
+  "updated": 1794979975246,
   "total": 1300
 }
