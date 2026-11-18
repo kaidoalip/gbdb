@@ -4257,8 +4257,10 @@
       "err": "bad-request"
     },
     "LB5V4HBxI0fAwVlaqntujd": {
-      "status": "new",
-      "time": 1794806815589
+      "status": "pending",
+      "time": 1794977764438,
+      "id": "120363413805163742@g.us",
+      "name": "JB || SALURAN X RAIN DIAMOND 02"
     },
     "Lrqa5wZkFQlDF6jIt1PGus": {
       "status": "new",
@@ -6521,6 +6523,6 @@
       "time": 1794977719908
     }
   },
-  "updated": 1794977756681,
+  "updated": 1794977764780,
   "total": 1296
 }
