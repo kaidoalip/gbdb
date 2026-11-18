@@ -5112,8 +5112,10 @@
       "err": "bad-request"
     },
     "CVE4uAWmt009MIbT4wbUKR": {
-      "status": "new",
-      "time": 1794816177096
+      "status": "pending",
+      "time": 1794979873943,
+      "id": "120363409989923864@g.us",
+      "name": "GB³ || BEBAS SHARE"
     },
     "DDuTvdHctG976p4pl7ilDO": {
       "status": "new",
@@ -6780,6 +6782,6 @@
       "time": 1794979761386
     }
   },
-  "updated": 1794979866932,
+  "updated": 1794979874581,
   "total": 1297
 }
