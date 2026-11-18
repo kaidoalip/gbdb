@@ -2640,8 +2640,10 @@
       "err": "bad-request"
     },
     "Cx0swGNMmso5Yx7XGiq2fS": {
-      "status": "new",
-      "time": 1794758691608
+      "status": "joined",
+      "time": 1794973158711,
+      "id": "120363412204752860@g.us",
+      "name": "MARKET || LANNN EFB (1)"
     },
     "CrflwdgDJry2vZDl6rNRdM": {
       "status": "new",
@@ -6176,6 +6178,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973149272,
+  "updated": 1794973158988,
   "total": 1332
 }
