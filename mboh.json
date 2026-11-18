@@ -2433,8 +2433,10 @@
       "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗞𝗔𝗟𝗟 𝗩𝟮"
     },
     "GB2qBCLM0tQL7UydueS7MT": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "pending",
+      "time": 1794972663566,
+      "id": "120363430197573939@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗞𝗔𝗟𝗟"
     },
     "JAwBQPznceM3JoVAbgBW9E": {
       "status": "new",
@@ -6121,6 +6123,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972644971,
+  "updated": 1794972664077,
   "total": 1334
 }
