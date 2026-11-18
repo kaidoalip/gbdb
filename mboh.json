@@ -4006,8 +4006,10 @@
       "err": "bad-request"
     },
     "BEeTYcWjq1WL1hLKL1QZdl": {
-      "status": "new",
-      "time": 1794801892592
+      "status": "pending",
+      "time": 1794977097765,
+      "id": "120363429602593715@g.us",
+      "name": "𝗝𝗕 || 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 𝗕𝗘𝗥𝗦𝗔𝗠𝗔 𝗔𝗟𝗣𝗔𝗡"
     },
     "GL1dCPvGGwQG4kGOHDwyBE": {
       "status": "new",
@@ -6446,6 +6448,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794977091332,
+  "updated": 1794977098107,
   "total": 1297
 }
