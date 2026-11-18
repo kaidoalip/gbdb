@@ -4839,8 +4839,9 @@
       "name": "JB¹ || ARNO STORE REAL"
     },
     "Dbdd5r5gf4QIj43wBAwshM": {
-      "status": "new",
-      "time": 1794812936491
+      "status": "error",
+      "time": 1794979166339,
+      "err": "bad-request"
     },
     "C144HwURWBPHViHqdHBZ3b": {
       "status": "new",
@@ -6679,6 +6680,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979167677,
+  "updated": 1794979169200,
   "total": 1292
 }
