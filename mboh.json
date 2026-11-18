@@ -3068,8 +3068,10 @@
       "announce": true
     },
     "C1ngObBXs62GL1SjN1T9bs": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "pending",
+      "time": 1794974885870,
+      "id": "120363429694874199@g.us",
+      "name": "GB 3 KHUSUS STOK LIDZ SUNDA 💸"
     },
     "IAQQh9lWl9b6TUJd2cq79N": {
       "status": "new",
@@ -6236,6 +6238,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974875940,
+  "updated": 1794974886199,
   "total": 1316
 }
