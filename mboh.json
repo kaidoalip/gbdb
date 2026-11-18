@@ -2497,8 +2497,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗩𝟮 𝗘𝗥𝗡𝗘𝗦𝗧"
     },
     "LkND1zyW28kJhQBUBH9kAz": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972825814,
+      "id": "120363410052707367@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟭"
     },
     "FsI9tNGb2L0L2POhiuusNg": {
       "status": "new",
@@ -6133,6 +6135,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972807022,
+  "updated": 1794972826096,
   "total": 1332
 }
