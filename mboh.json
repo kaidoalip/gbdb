@@ -1926,8 +1926,9 @@
       "name": "𝙂𝘽 𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝘼𝙍𝙅𝙐𝙉 𝟰"
     },
     "BkIkbwNQzQp9MJBdPtGZvq": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "error",
+      "time": 1794971052308,
+      "err": "bad-request"
     },
     "BEgt301HcG33b5DlwsJFGv": {
       "status": "new",
@@ -5990,6 +5991,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971038501,
+  "updated": 1794971052701,
   "total": 1341
 }
