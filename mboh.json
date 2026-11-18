@@ -2662,8 +2662,10 @@
       "name": "𝐽𝐵 𝐴𝐿𝐿 𝐺𝐴𝑀𝐸 𝑍𝐸𝑁𝑆𝑇𝑅4 #1🥷"
     },
     "I78NwMyeelABBkegdk8tBT": {
-      "status": "new",
-      "time": 1794759171671
+      "status": "pending",
+      "time": 1794973205036,
+      "id": "120363408146854359@g.us",
+      "name": "𝗙𝗧 𝗣𝗘𝗣𝗘𝗡𝗚 𝟱𝟬𝟬𝗣-𝟱𝗞 𝗕𝗬 Ź𝗘𝗡 #𝟭"
     },
     "DzST3YsqsdDFatt79HuZV6": {
       "status": "new",
@@ -6178,6 +6180,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973189254,
+  "updated": 1794973205278,
   "total": 1331
 }
