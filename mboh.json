@@ -2251,8 +2251,10 @@
       "name": "LADANG CUAN BY LANZX #1"
     },
     "LHkL2x2AF6I9pchShV0GRB": {
-      "status": "new",
-      "time": 1794755211558
+      "status": "pending",
+      "time": 1794972244079,
+      "id": "120363432850883463@g.us",
+      "name": "𝙒𝘼𝙍𝙐𝙉𝙂 𝙅𝙋𝙈 𝙉𝙄𝙂𝙃𝙏𝙈𝘼𝙍𝙀 𝙀𝙈𝙋𝙄𝙍𝙀"
     },
     "EZSeqAL0qzDHHdPrTol6IF": {
       "status": "new",
@@ -6055,6 +6057,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972226718,
+  "updated": 1794972244322,
   "total": 1333
 }
