@@ -2614,8 +2614,10 @@
       "err": "bad-request"
     },
     "Jl3r7T2OYprA35hhr6XqVQ": {
-      "status": "new",
-      "time": 1794757971587
+      "status": "pending",
+      "time": 1794973122675,
+      "id": "120363414378136881@g.us",
+      "name": "GB¹ TERBUKA || VENTRA STR X NEXRO🤑"
     },
     "CYv524xYrw19wv5glBjlZZ": {
       "status": "new",
@@ -6170,6 +6172,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973115113,
+  "updated": 1794973123028,
   "total": 1332
 }
