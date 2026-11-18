@@ -2620,8 +2620,9 @@
       "name": "GB¹ TERBUKA || VENTRA STR X NEXRO🤑"
     },
     "CYv524xYrw19wv5glBjlZZ": {
-      "status": "new",
-      "time": 1794758211580
+      "status": "error",
+      "time": 1794973136253,
+      "err": "bad-request"
     },
     "BgSTzpiATv7EqsGMosJVQ7": {
       "status": "new",
@@ -6172,6 +6173,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973123028,
+  "updated": 1794973136685,
   "total": 1332
 }
