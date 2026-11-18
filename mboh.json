@@ -3061,8 +3061,11 @@
       "err": "bad-request"
     },
     "DzHISOxljfO9hiNQ15zjzN": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "tertutup",
+      "time": 1794974875702,
+      "id": "120363410474252359@g.us",
+      "name": "GB STOK || LIDZ PASUNDAN 1🔥",
+      "announce": true
     },
     "C1ngObBXs62GL1SjN1T9bs": {
       "status": "new",
@@ -6233,6 +6236,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794974866530,
+  "updated": 1794974875940,
   "total": 1316
 }
