@@ -2127,8 +2127,10 @@
       "name": "TOKO [3] JOKI KONTAK WILZZ X OWN PT"
     },
     "HlU4wooxD9mJBxpB2JglS8": {
-      "status": "new",
-      "time": 1794753771554
+      "status": "pending",
+      "time": 1794971942135,
+      "id": "120363410680278150@g.us",
+      "name": "TOKO [4] JOKI KONTAK WILZZ X OWN PT"
     },
     "J6d01cdw0tf0qAxACXkDZW": {
       "status": "new",
@@ -6043,6 +6045,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971923309,
+  "updated": 1794971942466,
   "total": 1339
 }
