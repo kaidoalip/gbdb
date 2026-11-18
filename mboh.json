@@ -4384,8 +4384,9 @@
       "announce": true
     },
     "BftnRu8WrIP4HdhlB9T7Ky": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "error",
+      "time": 1794978032264,
+      "err": "bad-request"
     },
     "HvnHWUjlQVQ97qOj9TSFCt": {
       "status": "new",
@@ -6560,6 +6561,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794978025602,
+  "updated": 1794978032719,
   "total": 1296
 }
