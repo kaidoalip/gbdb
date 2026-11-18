@@ -3464,8 +3464,10 @@
       "name": "𝗰𝗿 𝘄𝗮𝗿 𝗹𝘂𝗻𝗻𝗮𝘄𝘃𝘆 𝗹𝘂𝗰𝘂𝘂 𝘃𝟯"
     },
     "BTjJal7ew0nCYNrOy3DpdI": {
-      "status": "new",
-      "time": 1794793612655
+      "status": "pending",
+      "time": 1794975770314,
+      "id": "120363410395939540@g.us",
+      "name": "𝗰𝗿 𝘄𝗮𝗿 𝗹𝘂𝗻𝗻𝗮𝘄𝘃𝘆 𝗹𝘂𝗰𝘂𝘂 𝘃𝟱"
     },
     "Bdz0xyGdBWsHhoKm6jHcPz": {
       "status": "new",
@@ -6320,6 +6322,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975747010,
+  "updated": 1794975770631,
   "total": 1306
 }
