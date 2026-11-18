@@ -2270,8 +2270,10 @@
       "name": "STOK RESS BILZ 🐍"
     },
     "CJzeeDetma8E90XIdis1UE": {
-      "status": "new",
-      "time": 1794755451667
+      "status": "pending",
+      "time": 1794972291767,
+      "id": "120363429372953312@g.us",
+      "name": "STOK RES BILZ  1 🐍"
     },
     "BFH2KqTYnOaDGw5n6fuMds": {
       "status": "new",
@@ -6062,6 +6064,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972272406,
+  "updated": 1794972292192,
   "total": 1333
 }
