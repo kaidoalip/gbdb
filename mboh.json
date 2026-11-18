@@ -4235,8 +4235,10 @@
       "err": "bad-request"
     },
     "L05pdeOBjqWF31lK8K9v2D": {
-      "status": "new",
-      "time": 1794806092893
+      "status": "pending",
+      "time": 1794977709815,
+      "id": "120363430074846009@g.us",
+      "name": "FT FREE 11 PP 5K"
     },
     "BttkaHHLuZM8DrlHdgJlVU": {
       "status": "new",
@@ -6511,6 +6513,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977702827,
+  "updated": 1794977710250,
   "total": 1295
 }
