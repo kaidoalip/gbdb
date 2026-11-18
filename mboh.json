@@ -4884,8 +4884,11 @@
       "err": "bad-request"
     },
     "FBZto9H1bk5CECBvSdUfwC": {
-      "status": "new",
-      "time": 1794813776854
+      "status": "tertutup",
+      "time": 1794979292889,
+      "id": "120363432495511767@g.us",
+      "name": "GC UTAMA DILZ STORE",
+      "announce": true
     },
     "DmdeFieUE9G0boUSOcUy6b": {
       "status": "new",
@@ -6676,6 +6679,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979284427,
+  "updated": 1794979293218,
   "total": 1288
 }
