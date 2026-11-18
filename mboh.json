@@ -2027,8 +2027,11 @@
       "name": "JB ALLGAME 290"
     },
     "HRVrDTeOxn351LMkGiqdLp": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "tertutup",
+      "time": 1794971673999,
+      "id": "120363411592768624@g.us",
+      "name": "JB ALLGAME 292",
+      "announce": true
     },
     "Kn4h7AgvDatDUFuOZJyrbw": {
       "status": "new",
@@ -6011,6 +6014,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971664785,
+  "updated": 1794971674249,
   "total": 1339
 }
