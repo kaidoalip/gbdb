@@ -1886,8 +1886,9 @@
       "name": "JB/ALLGAME JAMAL STORE | 💸"
     },
     "HmApWT3oLd7AnrXN8KNQ5d": {
-      "status": "new",
-      "time": 1794753291684
+      "status": "error",
+      "time": 1794970973594,
+      "err": "bad-request"
     },
     "BZpA7BC6Ydf4Dtop1CcGlA": {
       "status": "new",
@@ -5978,6 +5979,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794970959308,
+  "updated": 1794970973880,
   "total": 1341
 }
