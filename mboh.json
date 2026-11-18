@@ -4558,8 +4558,11 @@
       "announce": true
     },
     "IbxwEqJLIWH64ggxdIC3Se": {
-      "status": "new",
-      "time": 1794809574967
+      "status": "tertutup",
+      "time": 1794978392997,
+      "id": "120363413122412333@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝟯",
+      "announce": true
     },
     "LuW6yuFJkgV9GEVbPIRCsg": {
       "status": "new",
@@ -6586,6 +6589,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978379794,
+  "updated": 1794978393264,
   "total": 1290
 }
