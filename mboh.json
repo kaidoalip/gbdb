@@ -3332,8 +3332,9 @@
       "name": "JB TERBUKA ALIP STORE 1#"
     },
     "E9wmXKuJV9iLGzZzCEcmS1": {
-      "status": "new",
-      "time": 1794788812502
+      "status": "error",
+      "time": 1794975510212,
+      "err": "bad-request"
     },
     "B72KXyLZkcbL4yPATiEw4V": {
       "status": "new",
@@ -6292,6 +6293,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975492741,
+  "updated": 1794975510551,
   "total": 1310
 }
