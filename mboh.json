@@ -3524,8 +3524,10 @@
       "name": "STOK¹ || BEDCTUR"
     },
     "L4a4SV6eL1v1ODiDbnT4cF": {
-      "status": "new",
-      "time": 1794795892507
+      "status": "pending",
+      "time": 1794975962895,
+      "id": "120363420683892578@g.us",
+      "name": "GB TERBUKA BEDCTUR"
     },
     "EuUU8qdUHTB8KASfm7vuwt": {
       "status": "new",
@@ -6336,6 +6338,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794975942858,
+  "updated": 1794975963164,
   "total": 1305
 }
