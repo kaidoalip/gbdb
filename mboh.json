@@ -3590,8 +3590,10 @@
       "announce": true
     },
     "CJ67TR4RYM8De6dL5YHPCh": {
-      "status": "new",
-      "time": 1794796852533
+      "status": "pending",
+      "time": 1794976078500,
+      "id": "120363423383749122@g.us",
+      "name": "Jb¹ || Utama Dann"
     },
     "DuVVPqtPvF7JEdfDpQKmPZ": {
       "status": "new",
@@ -6358,6 +6360,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976068497,
+  "updated": 1794976078979,
   "total": 1306
 }
