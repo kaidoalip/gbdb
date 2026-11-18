@@ -4861,8 +4861,9 @@
       "name": "𝐄𝐓𝐃𝐀𝐇"
     },
     "BmJWpVBGAA0BFQPbuUKKgG": {
-      "status": "new",
-      "time": 1794813536346
+      "status": "error",
+      "time": 1794979249785,
+      "err": "bad-request"
     },
     "Ks3M2Pba9WXFiIGo6Fe65V": {
       "status": "new",
@@ -6669,6 +6670,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979234429,
+  "updated": 1794979250035,
   "total": 1288
 }
