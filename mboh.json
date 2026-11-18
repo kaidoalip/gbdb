@@ -3136,8 +3136,10 @@
       "err": "bad-request"
     },
     "C7g7WTKEm7LE3Vmv3EBjJr": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "pending",
+      "time": 1794975052958,
+      "id": "120363431275183176@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗟𝗣𝗜𝗡 𝟯"
     },
     "Ff364lBCJeh5zBoNI44hIU": {
       "status": "new",
@@ -6256,6 +6258,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975046302,
+  "updated": 1794975053379,
   "total": 1316
 }
