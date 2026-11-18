@@ -4612,8 +4612,9 @@
       "announce": true
     },
     "CLtU4sSyesZ2YfEaDfQ1Q3": {
-      "status": "new",
-      "time": 1794810054792
+      "status": "error",
+      "time": 1794978517507,
+      "err": "bad-request"
     },
     "FBlgjI2TtiAL5s0PDxQkZi": {
       "status": "new",
@@ -6596,6 +6597,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978511600,
+  "updated": 1794978517726,
   "total": 1288
 }
