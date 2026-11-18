@@ -3556,8 +3556,9 @@
       "name": "𝐌𝐀𝐑𝐊𝐄𝐓 𝐅𝐅 𝐈𝐌𝐀𝐍𝐒𝐓𝐔𝐑"
     },
     "FLoHOqtUc04JegpKkQ0aPI": {
-      "status": "new",
-      "time": 1794796252655
+      "status": "error",
+      "time": 1794976008709,
+      "err": "bad-request"
     },
     "LFaLqmCuUXFGLXDZ8k5Yrg": {
       "status": "new",
@@ -6344,6 +6345,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794975996529,
+  "updated": 1794976008981,
   "total": 1305
 }
