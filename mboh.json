@@ -2370,8 +2370,10 @@
       "name": "GB FT CS BY RAMZ 1K-5K"
     },
     "KN2cO4idSEHL1Xw9cGknjm": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972496520,
+      "id": "120363429761905669@g.us",
+      "name": "𝗴𝗯 𝘄𝗮𝗿/𝗰𝗿 𝘄𝗶𝘁𝗵 𝗮𝗹 & 𝗰𝗲𝘆𝗮"
     },
     "KXI78Yl8WTM1or8wBoL4Jm": {
       "status": "new",
@@ -6098,6 +6100,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972478570,
+  "updated": 1794972496782,
   "total": 1334
 }
