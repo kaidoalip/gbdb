@@ -3663,8 +3663,10 @@
       "announce": true
     },
     "CBtizlxc710Jia8xh4iLK5": {
-      "status": "new",
-      "time": 1794797932585
+      "status": "pending",
+      "time": 1794976291051,
+      "id": "120363413747698321@g.us",
+      "name": "𝗚𝗥𝗨𝗕 𝗦𝗧𝗢𝗞 𝗬𝗨𝗨 𝗦𝗧𝗢𝗥𝗘 𝗩1"
     },
     "ENtmmPPBS8M4nRxwxwTHJj": {
       "status": "new",
@@ -6371,6 +6373,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976281368,
+  "updated": 1794976291585,
   "total": 1303
 }
