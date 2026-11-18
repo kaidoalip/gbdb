@@ -4912,8 +4912,9 @@
       "name": "JB 2  || ALL STORE"
     },
     "HIRrv3Sivj5KMl5qLvJwd5": {
-      "status": "new",
-      "time": 1794813897015
+      "status": "error",
+      "time": 1794979329793,
+      "err": "bad-request"
     },
     "Klvuwfw5Bvx2NxE7gwvmfE": {
       "status": "new",
@@ -6684,6 +6685,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979316525,
+  "updated": 1794979330059,
   "total": 1288
 }
