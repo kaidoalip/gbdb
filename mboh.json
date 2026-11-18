@@ -4102,8 +4102,10 @@
       "name": "𝗚𝗖 𝗨𝗧𝗔𝗠𝗔 𝗧𝗔𝗠𝗭𝘆(𝗡𝗘𝗪)"
     },
     "ENfqTl19Fg7LBuTP7WD17t": {
-      "status": "new",
-      "time": 1794803092672
+      "status": "pending",
+      "time": 1794977337930,
+      "id": "120363429899495434@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗧𝗔𝗠𝗭𝘆 𝟭"
     },
     "KpK7Jp8QM3fEV5meqtYokV": {
       "status": "new",
@@ -6474,6 +6476,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977317102,
+  "updated": 1794977338376,
   "total": 1296
 }
