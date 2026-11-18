@@ -2395,8 +2395,10 @@
       "name": "CR BEBAS SHARE ZACK¹"
     },
     "I6zgE7aNd0NG5ZQjF7F9TC": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972565083,
+      "id": "120363413820464582@g.us",
+      "name": "CR BEBAS SHARE ZACK²"
     },
     "LMfdk8VNEPmL8GgGJd6Nmd": {
       "status": "new",
@@ -6107,6 +6109,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972545125,
+  "updated": 1794972565348,
   "total": 1334
 }
