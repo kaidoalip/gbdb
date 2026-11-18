@@ -3899,8 +3899,10 @@
       "err": "bad-request"
     },
     "B8nbnAO2Z9ULegRRIbnBpS": {
-      "status": "new",
-      "time": 1794800572574
+      "status": "pending",
+      "time": 1794976840847,
+      "id": "120363432245649508@g.us",
+      "name": "gb² falz mau cb 🤲"
     },
     "Jaz5xdKcmSa8hCIMdy8Fgm": {
       "status": "new",
@@ -6423,6 +6425,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976832679,
+  "updated": 1794976841222,
   "total": 1299
 }
