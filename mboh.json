@@ -2346,8 +2346,10 @@
       "announce": true
     },
     "HSm6FguNLSi4kms5C8GI3c": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "pending",
+      "time": 1794972421399,
+      "id": "120363432186328007@g.us",
+      "name": "GB FTCS BY #HAMZ"
     },
     "E7Pqupzxf7x01SAZPgMsyH": {
       "status": "new",
@@ -6086,6 +6088,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972412907,
+  "updated": 1794972421710,
   "total": 1333
 }
