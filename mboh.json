@@ -2814,8 +2814,10 @@
       "name": "𝗔𝗥𝗘𝗔 𝗨𝗧𝗔𝗠𝗔 𝗦𝗬𝗔𝗛𝗛"
     },
     "LTSpGbicm15F68zPJRFPxs": {
-      "status": "new",
-      "time": 1794763371590
+      "status": "pending",
+      "time": 1794973625128,
+      "id": "120363430093699286@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗦𝗬𝗔𝗛𝗛 𝟮"
     },
     "CUhKYCqNBpyI4hRkfJewuJ": {
       "status": "new",
@@ -6170,6 +6172,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973618070,
+  "updated": 1794973625639,
   "total": 1318
 }
