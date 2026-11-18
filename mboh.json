@@ -3656,8 +3656,11 @@
       "announce": true
     },
     "EB3sLhERwV1CLyed6JFHQ1": {
-      "status": "new",
-      "time": 1794797692663
+      "status": "tertutup",
+      "time": 1794976281049,
+      "id": "120363401179207283@g.us",
+      "name": "STOCK² || SANZZ STORE",
+      "announce": true
     },
     "CBtizlxc710Jia8xh4iLK5": {
       "status": "new",
@@ -6368,6 +6371,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976278707,
+  "updated": 1794976281368,
   "total": 1303
 }
