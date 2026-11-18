@@ -2587,8 +2587,9 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟭𝟯"
     },
     "LWgq6tBRQ0uLIlegS9EAaS": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "error",
+      "time": 1794973068904,
+      "err": "bad-request"
     },
     "HfkJ8zpozwBBRzOfxeYO5t": {
       "status": "new",
@@ -6163,6 +6164,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973051589,
+  "updated": 1794973069242,
   "total": 1332
 }
