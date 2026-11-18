@@ -4725,8 +4725,9 @@
       "name": "JB ALLGAME (DIJUAL, MINAT PM)"
     },
     "Hd0RgpHZTJQ6e8poPfnCb6": {
-      "status": "new",
-      "time": 1794811734750
+      "status": "error",
+      "time": 1794978802277,
+      "err": "bad-request"
     },
     "CnYmXcyPRmn2ZlqY1Grum5": {
       "status": "new",
@@ -6633,6 +6634,6 @@
       "time": 1794978799508
     }
   },
-  "updated": 1794978799508,
+  "updated": 1794978802731,
   "total": 1289
 }
