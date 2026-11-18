@@ -4303,8 +4303,11 @@
       "name": "𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝙱𝚈 𝙺𝙴𝙽 𝚅2"
     },
     "GJvNdpxTZdw4MbNOM5AKBC": {
-      "status": "new",
-      "time": 1794807774777
+      "status": "tertutup",
+      "time": 1794977877111,
+      "id": "120363412415290777@g.us",
+      "name": "𝙿𝚁𝙾𝙹𝙴𝙲𝚃 𝙵𝙰𝙽𝙲𝚈 𝚇 𝙺𝙴𝙽",
+      "announce": true
     },
     "H66OLDy2SGoJixgXYjetbD": {
       "status": "new",
@@ -6539,6 +6542,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794977857525,
+  "updated": 1794977877730,
   "total": 1297
 }
