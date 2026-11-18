@@ -2891,8 +2891,9 @@
       "name": "INFO JOOB/FREELANCE CUAN 😋🤤💰🔥💸💸"
     },
     "E30hS1bcvpN8Z5wBkUii2c": {
-      "status": "new",
-      "time": 1794766131600
+      "status": "error",
+      "time": 1794973831911,
+      "err": "bad-request"
     },
     "KK8RBLpFwZOBEPWsJ03c92": {
       "status": "new",
@@ -6191,6 +6192,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973818598,
+  "updated": 1794973832142,
   "total": 1317
 }
