@@ -2286,8 +2286,10 @@
       "err": "bad-request"
     },
     "DntjTVIloKkChK5Y6KQiDV": {
-      "status": "new",
-      "time": 1794755451667
+      "status": "pending",
+      "time": 1794972319769,
+      "id": "120363411021930283@g.us",
+      "name": "STOK RESS BILZ 2 🐍"
     },
     "DBtbzIrZuhQDWPYCzRaVuq": {
       "status": "new",
@@ -6066,6 +6068,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972312936,
+  "updated": 1794972320232,
   "total": 1333
 }
