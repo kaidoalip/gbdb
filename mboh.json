@@ -3888,8 +3888,10 @@
       "name": "JB KAZU STR REGION JEPARA 🧢"
     },
     "D47OcEwIUw2JODnfCgxwG9": {
-      "status": "new",
-      "time": 1794800572574
+      "status": "pending",
+      "time": 1794976815346,
+      "id": "120363423829868940@g.us",
+      "name": "GAK STOK GAK CUAN V1 🧢"
     },
     "EHbtVgX5UPDBMf82RioS4p": {
       "status": "new",
@@ -6420,6 +6422,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976795393,
+  "updated": 1794976815582,
   "total": 1299
 }
