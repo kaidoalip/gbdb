@@ -2034,8 +2034,10 @@
       "announce": true
     },
     "Kn4h7AgvDatDUFuOZJyrbw": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971683905,
+      "id": "120363431601775922@g.us",
+      "name": "JB ALLGAME 293"
     },
     "Fx17U57wKAEJJSXmNoOf0d": {
       "status": "new",
@@ -6014,6 +6016,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971674249,
+  "updated": 1794971684232,
   "total": 1339
 }
