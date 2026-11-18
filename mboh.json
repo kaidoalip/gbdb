@@ -4224,8 +4224,10 @@
       "err": "bad-request"
     },
     "Cr4zgTHWCLCHlJ9dq62xjU": {
-      "status": "new",
-      "time": 1794806092893
+      "status": "joined",
+      "time": 1794977686967,
+      "id": "120363425766068257@g.us",
+      "name": "INFINITY WINGS COMMUNITY"
     },
     "Co4ZngUDVWL2EuhCTW9ptO": {
       "status": "new",
@@ -6508,6 +6510,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977677573,
+  "updated": 1794977687393,
   "total": 1295
 }
