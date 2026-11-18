@@ -3530,8 +3530,9 @@
       "name": "GB TERBUKA BEDCTUR"
     },
     "EuUU8qdUHTB8KASfm7vuwt": {
-      "status": "new",
-      "time": 1794796132614
+      "status": "error",
+      "time": 1794975976294,
+      "err": "bad-request"
     },
     "Dq9pCBnO2zSGkpKqzWmMSF": {
       "status": "new",
@@ -6338,6 +6339,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794975963164,
+  "updated": 1794975976753,
   "total": 1305
 }
