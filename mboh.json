@@ -3230,8 +3230,9 @@
       "name": "𝐍𝐀𝐂𝐀 𝐂𝐑𝐄𝐖"
     },
     "DpBpaAKvIMMEmcVVhjBeT8": {
-      "status": "new",
-      "time": 1794785212497
+      "status": "error",
+      "time": 1794975305379,
+      "err": "bad-request"
     },
     "IZeQ0M0Oaih57EfR7x7Y0w": {
       "status": "new",
@@ -6286,6 +6287,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975292158,
+  "updated": 1794975306246,
   "total": 1315
 }
