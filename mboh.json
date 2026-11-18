@@ -2332,8 +2332,11 @@
       "announce": true
     },
     "BTrULfAjRb477zbYqgnM1f": {
-      "status": "new",
-      "time": 1794756051694
+      "status": "tertutup",
+      "time": 1794972401740,
+      "id": "4915214713535-1558372453@g.us",
+      "name": "𝗼𝗽𝗲𝗻 𝗯𝘆 || 𝗮𝘆𝗮𝗮⁴💋",
+      "announce": true
     },
     "KMdQvG2ZOR22UlaL0MJVKr": {
       "status": "new",
@@ -6080,6 +6083,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972389243,
+  "updated": 1794972401972,
   "total": 1333
 }
