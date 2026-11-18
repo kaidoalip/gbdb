@@ -4219,8 +4219,9 @@
       "name": "GB UTAMA REPANO #1"
     },
     "BTig2G9Zw6X69myk6qqvOZ": {
-      "status": "new",
-      "time": 1794805853189
+      "status": "error",
+      "time": 1794977677210,
+      "err": "bad-request"
     },
     "Cr4zgTHWCLCHlJ9dq62xjU": {
       "status": "new",
@@ -6507,6 +6508,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977662849,
+  "updated": 1794977677573,
   "total": 1295
 }
