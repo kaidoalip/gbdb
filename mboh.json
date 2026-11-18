@@ -2439,8 +2439,9 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗞𝗔𝗟𝗟"
     },
     "JAwBQPznceM3JoVAbgBW9E": {
-      "status": "new",
-      "time": 1794756891957
+      "status": "error",
+      "time": 1794972678402,
+      "err": "bad-request"
     },
     "H0yjTcGoV0WGnYTV8qkTEo": {
       "status": "new",
@@ -6123,6 +6124,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972664077,
+  "updated": 1794972678767,
   "total": 1334
 }
