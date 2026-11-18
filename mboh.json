@@ -3458,8 +3458,10 @@
       "err": "bad-request"
     },
     "KDrAsEZSLTHIfRL0C2R3rA": {
-      "status": "new",
-      "time": 1794793612655
+      "status": "pending",
+      "time": 1794975725007,
+      "id": "120363413345178316@g.us",
+      "name": "𝗰𝗿 𝘄𝗮𝗿 𝗹𝘂𝗻𝗻𝗮𝘄𝘃𝘆 𝗻𝗼 𝘀𝗵𝗿𝗲𝗹𝗶𝗻𝗸 𝘃𝟮"
     },
     "D2svwXSlNHwBJc14T901Lk": {
       "status": "new",
@@ -6322,6 +6324,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975717279,
+  "updated": 1794975725509,
   "total": 1307
 }
