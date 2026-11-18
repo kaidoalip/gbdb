@@ -5045,8 +5045,10 @@
       "name": "𝙂𝘾 𝙎𝙏𝙊𝙆 𝙑𝘼𝙉𝙊𝙎𝙏𝙊𝙍𝙀 𝟬.𝟰"
     },
     "HVcp7E9zZM1IZNAupkBneZ": {
-      "status": "new",
-      "time": 1794815337505
+      "status": "pending",
+      "time": 1794979705534,
+      "id": "120363410978069133@g.us",
+      "name": "𝗔𝗟𝗟 𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗩𝗔𝗡𝗢𝗦𝗧𝗥"
     },
     "C0CVLEBIIbvK6W5wCVsvat": {
       "status": "new",
@@ -6761,6 +6763,6 @@
       "time": 1794979641485
     }
   },
-  "updated": 1794979684930,
+  "updated": 1794979705850,
   "total": 1297
 }
