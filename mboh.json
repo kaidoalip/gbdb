@@ -1861,8 +1861,11 @@
       "err": "bad-request"
     },
     "L3qETZcIfVwAUEg0vGsedh": {
-      "status": "new",
-      "time": 1794753291684
+      "status": "tertutup",
+      "time": 1794970909270,
+      "id": "120363412979800422@g.us",
+      "name": "GC UTAMA KADUT V3",
+      "announce": true
     },
     "Kg9GXBIP4uNIT8f1NU4oDx": {
       "status": "new",
@@ -5969,6 +5972,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794970900141,
+  "updated": 1794970909512,
   "total": 1341
 }
