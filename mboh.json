@@ -3181,8 +3181,10 @@
       "name": "[ GC ] UTAMA REXU || REG SUMATRA V1"
     },
     "HokTRcXDp17KK2bBBbT1tu": {
-      "status": "new",
-      "time": 1794784732239
+      "status": "pending",
+      "time": 1794975172064,
+      "id": "120363428636298920@g.us",
+      "name": "[ GC ] UTAMA REXU || REG SUMATRA V2"
     },
     "F1MFCbOKtoF8FVSEbSi9n4": {
       "status": "new",
@@ -6269,6 +6271,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975151700,
+  "updated": 1794975172694,
   "total": 1315
 }
