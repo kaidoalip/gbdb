@@ -3475,8 +3475,11 @@
       "err": "bad-request"
     },
     "KWSGzOoccvR7F09UsHEm6v": {
-      "status": "new",
-      "time": 1794794692713
+      "status": "tertutup",
+      "time": 1794975831601,
+      "id": "120363433099091469@g.us",
+      "name": "RTP TIKTOK NOMINFOLL",
+      "announce": true
     },
     "LKqCsGcjIn4HuymQ6XdR6p": {
       "status": "new",
@@ -6319,6 +6322,6 @@
       "time": 1794975798868
     }
   },
-  "updated": 1794975819639,
+  "updated": 1794975831812,
   "total": 1305
 }
