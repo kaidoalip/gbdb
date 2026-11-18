@@ -4879,8 +4879,9 @@
       "name": "INFO FT CS VALZ X OWN #1"
     },
     "FjxNckpLNtm4KXeJW6uJbm": {
-      "status": "new",
-      "time": 1794813776854
+      "status": "error",
+      "time": 1794979284184,
+      "err": "bad-request"
     },
     "FBZto9H1bk5CECBvSdUfwC": {
       "status": "new",
@@ -6675,6 +6676,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979281482,
+  "updated": 1794979284427,
   "total": 1288
 }
