@@ -2710,8 +2710,10 @@
       "name": "GRUP UTAMA LANGZ STURR"
     },
     "DXd33LmMGk1C73zsyWpVyO": {
-      "status": "new",
-      "time": 1794760251670
+      "status": "pending",
+      "time": 1794973359481,
+      "id": "120363411968088570@g.us",
+      "name": "MARKET FREE FIRE LANGZ STURR"
     },
     "Eo2b3v1iBeW85QSQlkQZU7": {
       "status": "new",
@@ -6194,6 +6196,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973339295,
+  "updated": 1794973359705,
   "total": 1331
 }
