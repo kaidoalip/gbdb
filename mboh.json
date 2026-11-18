@@ -2748,8 +2748,10 @@
       "name": "GB WARJOK DIRZ X OWN/PT"
     },
     "CiSHubmKaiHFIcplTaAlJs": {
-      "status": "new",
-      "time": 1794761091576
+      "status": "pending",
+      "time": 1794973481066,
+      "id": "120363432656413106@g.us",
+      "name": "Gb Warjok Dirz Joki Kontak☕"
     },
     "JLD8He8cuJ8EF1hypSzUkz": {
       "status": "new",
@@ -6156,6 +6158,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973465003,
+  "updated": 1794973481291,
   "total": 1319
 }
