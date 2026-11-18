@@ -2633,12 +2633,6 @@
       "time": 1794974658838,
       "err": "bad-request"
     },
-    "Cx0swGNMmso5Yx7XGiq2fS": {
-      "status": "joined",
-      "time": 1794973158711,
-      "id": "120363412204752860@g.us",
-      "name": "MARKET || LANNN EFB (1)"
-    },
     "H5bCdk95DaqKnCKBL5DAni": {
       "status": "error",
       "time": 1794974663180,
@@ -3312,12 +3306,6 @@
       "time": 1794975455837,
       "id": "120363429671558365@g.us",
       "name": "GB UTAMA AVER🕊️"
-    },
-    "FdULbPmWM8AHzfGmpDktk2": {
-      "status": "joined",
-      "time": 1794975475274,
-      "id": "120363404075444548@g.us",
-      "name": "AX BoT GRUP🫪"
     },
     "CF4b1UoA7yE484ntMUO4Fo": {
       "status": "pending",
@@ -6665,6 +6653,6 @@
       "time": 1794978919523
     }
   },
-  "updated": 1794978999464,
-  "total": 1291
+  "updated": 1794979012357,
+  "total": 1289
 }
