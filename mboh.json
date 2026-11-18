@@ -3984,8 +3984,10 @@
       "err": "bad-request"
     },
     "Kec9GmQp8pG70WgVEIVhpy": {
-      "status": "new",
-      "time": 1794801532655
+      "status": "pending",
+      "time": 1794977045297,
+      "id": "120363425896319949@g.us",
+      "name": "JB² || AL GEME DERXZ STR🔰"
     },
     "HNcVZQxvP111NwZJpGhnoo": {
       "status": "new",
@@ -6444,6 +6446,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794977038009,
+  "updated": 1794977045551,
   "total": 1298
 }
