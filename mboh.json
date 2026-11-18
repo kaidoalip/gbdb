@@ -4043,8 +4043,10 @@
       "err": "bad-request"
     },
     "KjZwuwDJtwtAgCSNgL3J0l": {
-      "status": "new",
-      "time": 1794802252683
+      "status": "joined",
+      "time": 1794977183427,
+      "id": "120363432074374870@g.us",
+      "name": "𝐝𝐫.𝐒𝐇𝐈𝐎𝐍 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐊𝐘𝐂"
     },
     "FOUKAZIG45MFsyAIJ7VaF0": {
       "status": "new",
@@ -6463,6 +6465,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977174551,
+  "updated": 1794977183757,
   "total": 1298
 }
