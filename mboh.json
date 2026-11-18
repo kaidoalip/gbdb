@@ -2879,8 +2879,10 @@
       "name": "JB ALLGAME 297"
     },
     "EcxDShWG2wwA8ciYvoWlWX": {
-      "status": "new",
-      "time": 1794764811587
+      "status": "pending",
+      "time": 1794973798457,
+      "id": "120363432642929387@g.us",
+      "name": "JB ALLGAME 298"
     },
     "FUytleUf7aK9RApYxPWjXS": {
       "status": "new",
@@ -6187,6 +6189,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973782861,
+  "updated": 1794973799664,
   "total": 1317
 }
