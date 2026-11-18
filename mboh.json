@@ -2861,8 +2861,10 @@
       "name": "𝗚𝗖 𝗠𝗘𝗡𝗨𝗝𝗨 𝗕𝗨𝗟𝗔𝗡 𝗥𝗔𝗠𝗔𝗗𝗛𝗔𝗡 2027"
     },
     "GIBhqvvjS2A7sdP6FzGAQV": {
-      "status": "new",
-      "time": 1794764811587
+      "status": "pending",
+      "time": 1794973745613,
+      "id": "120363431512203030@g.us",
+      "name": "JB ALLGAME 296"
     },
     "IKH5vnrbmvA3hbOYvKfmE4": {
       "status": "new",
@@ -6181,6 +6183,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973727317,
+  "updated": 1794973745841,
   "total": 1317
 }
