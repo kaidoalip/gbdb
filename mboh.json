@@ -1957,8 +1957,10 @@
       "err": "bad-request"
     },
     "CVO4zlmzEK66axNIY6qqIK": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971101211,
+      "id": "120363432012130290@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝟮 𝗥𝗜𝗦𝗦𝘂𝘁𝗮𝗺𝗮"
     },
     "KD7lkYBZFdk0CzHeeamGDD": {
       "status": "new",
@@ -5989,6 +5991,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971094373,
+  "updated": 1794971101680,
   "total": 1339
 }
