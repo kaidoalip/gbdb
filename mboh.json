@@ -1952,8 +1952,9 @@
       "name": "𝗚𝗕 𝗨𝗧𝗔𝗠𝗔 𝗬𝗮𝗻𝘇𝗡𝗲𝘄𝗘𝗿𝗮"
     },
     "KowovJOGev8319CbWDCeV9": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "error",
+      "time": 1794971094124,
+      "err": "bad-request"
     },
     "CVO4zlmzEK66axNIY6qqIK": {
       "status": "new",
@@ -5988,6 +5989,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971080927,
+  "updated": 1794971094373,
   "total": 1339
 }
