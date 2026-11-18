@@ -2472,8 +2472,10 @@
       "name": "𝗠𝗔𝗥𝗞𝗘𝗧𝗣𝗟𝗔𝗖𝗘 𝗘𝗥𝗡𝗘𝗦𝗧 𝟭"
     },
     "BBaKYorkHHf6LNmXI8g0aM": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972756999,
+      "id": "120363389127964643@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧"
     },
     "IwJSOIXkfGb5IbB8O0kxua": {
       "status": "new",
@@ -6124,6 +6126,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972737315,
+  "updated": 1794972757320,
   "total": 1332
 }
