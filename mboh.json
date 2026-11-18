@@ -3550,8 +3550,10 @@
       "err": "bad-request"
     },
     "DuM2mj5KYG45ArqFBDtDL2": {
-      "status": "new",
-      "time": 1794796252655
+      "status": "pending",
+      "time": 1794975996289,
+      "id": "120363430556408195@g.us",
+      "name": "𝐌𝐀𝐑𝐊𝐄𝐓 𝐅𝐅 𝐈𝐌𝐀𝐍𝐒𝐓𝐔𝐑"
     },
     "FLoHOqtUc04JegpKkQ0aPI": {
       "status": "new",
@@ -6342,6 +6344,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794975989946,
+  "updated": 1794975996529,
   "total": 1305
 }
