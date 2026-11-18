@@ -4605,8 +4605,11 @@
       "name": "JB ALLGAME PEMALANG PEKALONGAN BATANG BREBES TEGAL DLL"
     },
     "I2P0w0FQh8hI70jxuo432Z": {
-      "status": "new",
-      "time": 1794809934756
+      "status": "tertutup",
+      "time": 1794978511286,
+      "id": "120363429749860208@g.us",
+      "name": "GB OPTES MATNAH AREA",
+      "announce": true
     },
     "CLtU4sSyesZ2YfEaDfQ1Q3": {
       "status": "new",
@@ -6593,6 +6596,6 @@
       "time": 1794978199722
     }
   },
-  "updated": 1794978493896,
+  "updated": 1794978511600,
   "total": 1288
 }
