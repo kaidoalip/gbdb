@@ -2521,8 +2521,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟳"
     },
     "FYbLaNCs10iAFs6ByXVVGX": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972895518,
+      "id": "120363427105001980@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟲"
     },
     "EBPmdsE23jAEQJe4a1SNIP": {
       "status": "new",
@@ -6141,6 +6143,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972879003,
+  "updated": 1794972895973,
   "total": 1332
 }
