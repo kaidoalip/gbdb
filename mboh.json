@@ -5124,8 +5124,10 @@
       "name": "GB⁴ || BEBAS SHARE"
     },
     "ITy16cMTpbI8Smavz1uWJy": {
-      "status": "new",
-      "time": 1794816177096
+      "status": "pending",
+      "time": 1794979913034,
+      "id": "120363412083942332@g.us",
+      "name": "GB⁵ || BEBAS SHARE"
     },
     "CTQC1yE8G7s887VuEgHoDj": {
       "status": "new",
@@ -6796,6 +6798,6 @@
       "time": 1794979881303
     }
   },
-  "updated": 1794979892248,
+  "updated": 1794979913292,
   "total": 1300
 }
