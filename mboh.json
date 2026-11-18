@@ -4939,8 +4939,10 @@
       "name": "CR WAR || JVV¹"
     },
     "CE6WAqvTjq0DcahKKwiX8k": {
-      "status": "new",
-      "time": 1794814257196
+      "status": "pending",
+      "time": 1794979387741,
+      "id": "120363413733449642@g.us",
+      "name": "CR WAR | JVV²"
     },
     "FmAiH8NXUlZ7CcmXfvjUx2": {
       "status": "new",
@@ -6687,6 +6689,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979370316,
+  "updated": 1794979388322,
   "total": 1287
 }
