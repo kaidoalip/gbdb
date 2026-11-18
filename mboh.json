@@ -3161,8 +3161,11 @@
       "announce": true
     },
     "BXL7ejy2iEODYJvZ7NgdAB": {
-      "status": "new",
-      "time": 1794784372384
+      "status": "tertutup",
+      "time": 1794975128438,
+      "id": "120363413546523946@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗔𝗟𝗣𝗜𝗡 𝟴",
+      "announce": true
     },
     "BGU93Tny3SCLaJo2ey4ldc": {
       "status": "new",
@@ -6261,6 +6264,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975116423,
+  "updated": 1794975128884,
   "total": 1315
 }
