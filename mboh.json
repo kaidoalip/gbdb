@@ -2221,8 +2221,10 @@
       "err": "bad-request"
     },
     "FDT7KyrZhsgIidd4Sdz4mn": {
-      "status": "new",
-      "time": 1794754731659
+      "status": "pending",
+      "time": 1794972170726,
+      "id": "120363414928116364@g.us",
+      "name": "𝗽𝘂𝘀𝗮𝘁 𝘀𝘁𝗼𝗸 𝗺𝗹𝗯𝗯 𝘅 𝗳𝗿𝗲𝗲 𝗳𝗶𝗿𝗲 𝗵𝗮𝗺 𝗩𝟭"
     },
     "EY4Mf6Nu3gnFhppT0JetvU": {
       "status": "new",
@@ -6045,6 +6047,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972163163,
+  "updated": 1794972171062,
   "total": 1333
 }
