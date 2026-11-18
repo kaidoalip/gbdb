@@ -2094,8 +2094,10 @@
       "name": "JB ALLGAME 291"
     },
     "DKFli4Zing94sLaNZ25mtI": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971870628,
+      "id": "120363432353240197@g.us",
+      "name": "ALLGAME 414"
     },
     "EU3T5ZUgE8M19jlGITPfI6": {
       "status": "new",
@@ -6034,6 +6036,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971851903,
+  "updated": 1794971871250,
   "total": 1339
 }
