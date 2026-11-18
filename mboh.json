@@ -4252,8 +4252,9 @@
       "name": "STOK RESS ICIK STORE✅‼️"
     },
     "IErwvvprJaH8eVeV7VYsmE": {
-      "status": "new",
-      "time": 1794806815589
+      "status": "error",
+      "time": 1794977756449,
+      "err": "bad-request"
     },
     "LB5V4HBxI0fAwVlaqntujd": {
       "status": "new",
@@ -6520,6 +6521,6 @@
       "time": 1794977719908
     }
   },
-  "updated": 1794977753239,
+  "updated": 1794977756681,
   "total": 1296
 }
