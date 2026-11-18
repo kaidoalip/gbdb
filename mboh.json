@@ -5033,8 +5033,10 @@
       "name": "𝙂𝘾 𝙎𝙏𝙊𝙆 𝙑𝘼𝙉𝙊𝙎𝙏𝙊𝙍𝙀 𝟬.𝟮"
     },
     "Ip8ITpi3C6Y6E0eYTJ6m2B": {
-      "status": "new",
-      "time": 1794815337505
+      "status": "pending",
+      "time": 1794979668836,
+      "id": "120363430258849548@g.us",
+      "name": "𝙂𝘾 𝙎𝙏𝙊𝙆 𝙑𝘼𝙉𝙊𝙎𝙏𝙊𝙍𝙀 𝟬.𝟯"
     },
     "Fb2QH2H6KcpDoFFeIhOcZM": {
       "status": "new",
@@ -6757,6 +6759,6 @@
       "time": 1794979641485
     }
   },
-  "updated": 1794979651640,
+  "updated": 1794979669060,
   "total": 1297
 }
