@@ -4850,8 +4850,9 @@
       "name": "GB TT/BT/JUALAN BY OCID"
     },
     "DezLl9nvSC240Hvca5ywVU": {
-      "status": "new",
-      "time": 1794813056533
+      "status": "error",
+      "time": 1794979226289,
+      "err": "bad-request"
     },
     "IcsP7LLhVUEHztfCoRkwaN": {
       "status": "new",
@@ -6666,6 +6667,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979219743,
+  "updated": 1794979226956,
   "total": 1288
 }
