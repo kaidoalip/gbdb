@@ -4161,8 +4161,10 @@
       "name": "| KOPDES¹ PAK NANDO |"
     },
     "ImRzCzac2747iSezQ0Yum2": {
-      "status": "new",
-      "time": 1794803332878
+      "status": "joined",
+      "time": 1794977540736,
+      "id": "120363412143378264@g.us",
+      "name": "| KOPDES² PAK NANDO |"
     },
     "LAKyl52s3zpGAZ0doYCMoU": {
       "status": "new",
@@ -6493,6 +6495,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977519344,
+  "updated": 1794977540953,
   "total": 1296
 }
