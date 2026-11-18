@@ -4645,8 +4645,10 @@
       "name": "𝗯𝗯𝘀 𝘀𝗵𝗮𝗿𝗲 𝗺𝗶𝗰𝗶 #𝟯 (𝗸𝗲𝗻𝗼𝗻 𝗴𝘀𝗵 𝗼𝘂𝘁)"
     },
     "CYh6j05UoKQ7jvlYYosyfo": {
-      "status": "new",
-      "time": 1794810654993
+      "status": "pending",
+      "time": 1794978598057,
+      "id": "120363431084327639@g.us",
+      "name": "𝘊𝘏𝘗𝘚𝘛𝘖𝘙𝘌𝘐𝘋"
     },
     "Cqa9I77zBXwGRAVW4sEnTR": {
       "status": "new",
@@ -6609,6 +6611,6 @@
       "time": 1794978559528
     }
   },
-  "updated": 1794978578955,
+  "updated": 1794978598402,
   "total": 1289
 }
