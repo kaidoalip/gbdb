@@ -4828,8 +4828,9 @@
       "name": "JB PRIBADI TAMA[TAKE GB PM]"
     },
     "Cs95VDPBzZbJgKziYiS01W": {
-      "status": "new",
-      "time": 1794812816525
+      "status": "error",
+      "time": 1794979132576,
+      "err": "bad-request"
     },
     "KuxAa6Ysey5I34JePwa5N3": {
       "status": "new",
@@ -6676,6 +6677,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979113698,
+  "updated": 1794979132838,
   "total": 1292
 }
