@@ -3686,8 +3686,10 @@
       "err": "bad-request"
     },
     "HTWCE99kxop8cqSF3KuKxq": {
-      "status": "new",
-      "time": 1794798052576
+      "status": "pending",
+      "time": 1794976352775,
+      "id": "120363410837230534@g.us",
+      "name": "𝐉𝐁 | 𝐔𝐓𝐀𝐌𝐀 Kiaza X kaelly"
     },
     "GelsVvIXbHl7FYc4H0BS7Q": {
       "status": "new",
@@ -6378,6 +6380,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976344577,
+  "updated": 1794976353147,
   "total": 1303
 }
