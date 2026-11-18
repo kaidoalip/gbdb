@@ -1920,8 +1920,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗟𝗘𝗥𝗥𝗧𝗭𝗬 (𝗻𝗲𝘄)"
     },
     "LrUr2tpC9JS2fdWkkglHiW": {
-      "status": "new",
-      "time": 1794753291685
+      "status": "pending",
+      "time": 1794971038134,
+      "id": "120363430856941289@g.us",
+      "name": "𝙂𝘽 𝙎𝙏𝙊𝙆 𝙍𝙀𝙎𝙎 𝘼𝙍𝙅𝙐𝙉 𝟰"
     },
     "BkIkbwNQzQp9MJBdPtGZvq": {
       "status": "new",
@@ -5988,6 +5990,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794971020184,
+  "updated": 1794971038501,
   "total": 1341
 }
