@@ -2674,8 +2674,10 @@
       "name": "JB TERBUKA XTUSEN V¹"
     },
     "LBbfa6GCAs5LaSDrjiDjhf": {
-      "status": "new",
-      "time": 1794759291580
+      "status": "pending",
+      "time": 1794973240968,
+      "id": "120363410246612221@g.us",
+      "name": "JB TERBUKA XTUSEN V²"
     },
     "IBx80jB0m0sDgxJSzGGyEy": {
       "status": "new",
@@ -6182,6 +6184,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794973223177,
+  "updated": 1794973241193,
   "total": 1331
 }
