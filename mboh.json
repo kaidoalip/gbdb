@@ -2408,8 +2408,11 @@
       "announce": true
     },
     "JGKvFqJkWM87Ii7CcKsgcR": {
-      "status": "new",
-      "time": 1794756171671
+      "status": "tertutup",
+      "time": 1794972596106,
+      "id": "120363432046582820@g.us",
+      "name": "BEBAS SHARE ZACK #TAKEPM",
+      "announce": true
     },
     "BhxWdlgCad160JNJ7WGAxu": {
       "status": "new",
@@ -6112,6 +6115,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972584880,
+  "updated": 1794972596353,
   "total": 1334
 }
