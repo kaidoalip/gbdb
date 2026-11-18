@@ -4241,8 +4241,9 @@
       "name": "FT FREE 11 PP 5K"
     },
     "CP00rd1q5Dz2Fd8HwUgpYV": {
-      "status": "new",
-      "time": 1794806692875
+      "status": "error",
+      "time": 1794977728565,
+      "err": "bad-request"
     },
     "JTlu5XgRfJ39T3pXm8tnFW": {
       "status": "new",
@@ -6525,6 +6526,6 @@
       "time": 1794977719908
     }
   },
-  "updated": 1794977724848,
+  "updated": 1794977728906,
   "total": 1298
 }
