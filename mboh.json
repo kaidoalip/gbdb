@@ -2926,8 +2926,11 @@
       "announce": true
     },
     "DrLcKGD2PK91Qv1BYCEluQ": {
-      "status": "new",
-      "time": 1794768051703
+      "status": "tertutup",
+      "time": 1794973914278,
+      "id": "120363414532709082@g.us",
+      "name": "INFO SEWA WA",
+      "announce": true
     },
     "GysWTk6CL3LDnfZAj7s1MZ": {
       "status": "new",
@@ -6202,6 +6205,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973902518,
+  "updated": 1794973914495,
   "total": 1317
 }
