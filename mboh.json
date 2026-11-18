@@ -2527,8 +2527,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟲"
     },
     "EBPmdsE23jAEQJe4a1SNIP": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "pending",
+      "time": 1794972911020,
+      "id": "120363408956264233@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧 𝟴"
     },
     "IP2gYagc3L33Jzv2ajjT5C": {
       "status": "new",
@@ -6143,6 +6145,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972895973,
+  "updated": 1794972911395,
   "total": 1332
 }
