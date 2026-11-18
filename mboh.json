@@ -4202,8 +4202,9 @@
       "name": "TOKO KELONTONG BY ARZ"
     },
     "HHFmpWjLzxOHxpouIzt9pH": {
-      "status": "new",
-      "time": 1794805372646
+      "status": "error",
+      "time": 1794977634023,
+      "err": "bad-request"
     },
     "LIDzeWKZqmhIWw1RB3aulI": {
       "status": "new",
@@ -6502,6 +6503,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977618814,
+  "updated": 1794977634448,
   "total": 1295
 }
