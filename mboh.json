@@ -3602,8 +3602,10 @@
       "name": "༺ 𝙈𝙄𝙚𝙞𝙨𝙞𝙞 × 𝘼𝙘𝙖𝙣𝙚𝙬𝙚𝙧𝙖 ༻"
     },
     "FICiAzTdUyQ6woYJjlICRJ": {
-      "status": "new",
-      "time": 1794796972804
+      "status": "pending",
+      "time": 1794976120064,
+      "id": "120363290411229215@g.us",
+      "name": "ALL OTC BY ACAA V3"
     },
     "J2o7GzMaJ1jJjJxoUnUvE7": {
       "status": "new",
@@ -6362,6 +6364,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976099313,
+  "updated": 1794976120335,
   "total": 1306
 }
