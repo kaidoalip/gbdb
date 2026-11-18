@@ -2919,8 +2919,11 @@
       "name": "GC AferrUtama V1"
     },
     "LS9Yst7NxSzAwQgp3AKXxP": {
-      "status": "new",
-      "time": 1794768051703
+      "status": "tertutup",
+      "time": 1794973902078,
+      "id": "120363409032914971@g.us",
+      "name": "ALL STOK/TEBENGAN AferrUtama",
+      "announce": true
     },
     "DrLcKGD2PK91Qv1BYCEluQ": {
       "status": "new",
@@ -6199,6 +6202,6 @@
       "time": 1794973638737
     }
   },
-  "updated": 1794973884130,
+  "updated": 1794973902518,
   "total": 1317
 }
