@@ -4759,8 +4759,10 @@
       "name": "𝙆𝙄 𝙐𝙏𝘼𝙈𝘼 𝙑4"
     },
     "CqMfb8T9kCM9nZfwnrOFxr": {
-      "status": "new",
-      "time": 1794811855057
+      "status": "pending",
+      "time": 1794978885655,
+      "id": "120363411769973558@g.us",
+      "name": "𝙂𝘽 𝙏𝙀𝙍𝘽𝙐𝙆𝘼 𝙑1"
     },
     "KuXaLKBA5l659daNeQQdxw": {
       "status": "new",
@@ -6639,6 +6641,6 @@
       "time": 1794978799508
     }
   },
-  "updated": 1794978869791,
+  "updated": 1794978886186,
   "total": 1288
 }
