@@ -4822,8 +4822,10 @@
       "err": "bad-request"
     },
     "KVEDQHArUSVHSo5QCiyouE": {
-      "status": "new",
-      "time": 1794812816525
+      "status": "pending",
+      "time": 1794979113470,
+      "id": "120363413040920449@g.us",
+      "name": "JB PRIBADI TAMA[TAKE GB PM]"
     },
     "Cs95VDPBzZbJgKziYiS01W": {
       "status": "new",
@@ -6674,6 +6676,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979104211,
+  "updated": 1794979113698,
   "total": 1292
 }
