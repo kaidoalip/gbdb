@@ -3699,8 +3699,10 @@
       "announce": true
     },
     "Br3jous112o2coP14zqotB": {
-      "status": "new",
-      "time": 1794798172602
+      "status": "pending",
+      "time": 1794976388664,
+      "id": "120363413614273461@g.us",
+      "name": "𝐒𝐓𝐎𝐂𝐊 || 𝐌𝐀𝐄𝐋𝐋 𝐒𝐓𝐎𝐑𝐄 𝐗 𝐎𝐖𝐍𝐄𝐑 𝟎.𝟑"
     },
     "GZBR8vMDdZk96gcdOmqwzY": {
       "status": "new",
@@ -6379,6 +6381,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976381744,
+  "updated": 1794976389007,
   "total": 1302
 }
