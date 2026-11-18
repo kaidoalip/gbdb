@@ -2157,8 +2157,10 @@
       "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗥𝗔𝗕𝗭𝗭 [3]"
     },
     "Dg8pyjABEyO3zuBwjisGj1": {
-      "status": "new",
-      "time": 1794754131635
+      "status": "pending",
+      "time": 1794972035923,
+      "id": "120363429574969537@g.us",
+      "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗥𝗔𝗕𝗭𝗭 [2]"
     },
     "KHJRVC0BpqI3KUz22UxxPh": {
       "status": "new",
@@ -6053,6 +6055,6 @@
       "time": 1794829138484
     }
   },
-  "updated": 1794972015995,
+  "updated": 1794972036178,
   "total": 1339
 }
