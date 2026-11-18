@@ -2415,8 +2415,10 @@
       "announce": true
     },
     "BhxWdlgCad160JNJ7WGAxu": {
-      "status": "new",
-      "time": 1794756531549
+      "status": "joined",
+      "time": 1794972607879,
+      "id": "120363411914981990@g.us",
+      "name": "Jokers`"
     },
     "IWi6yhCoi1s5MS7I2q14gy": {
       "status": "new",
@@ -6115,6 +6117,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972596353,
+  "updated": 1794972608096,
   "total": 1334
 }
