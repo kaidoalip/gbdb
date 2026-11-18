@@ -3608,8 +3608,9 @@
       "name": "ALL OTC BY ACAA V3"
     },
     "J2o7GzMaJ1jJjJxoUnUvE7": {
-      "status": "new",
-      "time": 1794797332682
+      "status": "error",
+      "time": 1794976134614,
+      "err": "bad-request"
     },
     "HAyRdjKzO9iKnd2Adys5w5": {
       "status": "new",
@@ -6364,6 +6365,6 @@
       "time": 1794976038682
     }
   },
-  "updated": 1794976120335,
+  "updated": 1794976134890,
   "total": 1306
 }
