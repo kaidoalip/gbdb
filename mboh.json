@@ -3727,8 +3727,9 @@
       "name": "GB JB ALLGAME FARCIK | STORE"
     },
     "GVKRPl9xo1OFH3z6TYTnNX": {
-      "status": "new",
-      "time": 1794798772592
+      "status": "error",
+      "time": 1794976454501,
+      "err": "bad-request"
     },
     "B6SbZ6nbtZJ7mZ4WnLIYJB": {
       "status": "new",
@@ -6399,6 +6400,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976438269,
+  "updated": 1794976454988,
   "total": 1305
 }
