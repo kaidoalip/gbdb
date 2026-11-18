@@ -3362,8 +3362,10 @@
       "err": "bad-request"
     },
     "JwVMuTDEXoGFODLFOPsYaG": {
-      "status": "new",
-      "time": 1794789772484
+      "status": "joined",
+      "time": 1794975545017,
+      "id": "120363414953945253@g.us",
+      "name": "JB UTAMA||PAUJI📉💸"
     },
     "BEzgZMuUTNW4bY6IZomfWm": {
       "status": "new",
@@ -6294,6 +6296,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975535677,
+  "updated": 1794975545308,
   "total": 1309
 }
