@@ -3759,8 +3759,9 @@
       "name": "[𝐉𝐁] ✦ 𝐀𝐊𝐒𝐄𝐑𝐎 ✦𝙫𝙚𝙧¹"
     },
     "BWQAexpSkzx3BQg4KyPuoZ": {
-      "status": "new",
-      "time": 1794799492574
+      "status": "error",
+      "time": 1794976512183,
+      "err": "bad-request"
     },
     "Fe2pgOeXgUC9YHCabOJce0": {
       "status": "new",
@@ -6403,6 +6404,6 @@
       "time": 1794976399020
     }
   },
-  "updated": 1794976499064,
+  "updated": 1794976512436,
   "total": 1304
 }
