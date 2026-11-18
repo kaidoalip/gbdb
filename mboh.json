@@ -3506,8 +3506,11 @@
       "announce": true
     },
     "DPBSY2FuaA43NYi6opzu0e": {
-      "status": "new",
-      "time": 1794794813903
+      "status": "tertutup",
+      "time": 1794975924725,
+      "id": "120363371822350348@g.us",
+      "name": "𝗗𝗨𝗡𝗜𝗔 𝗖𝗨𝗔𝗡 𝗗𝗜𝗟𝗭𝗫 𝘃𝟭🇮🇩🇲🇾",
+      "announce": true
     },
     "KdxkDofxLvoCJx4JY3SCkF": {
       "status": "new",
@@ -6334,6 +6337,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794975919104,
+  "updated": 1794975925257,
   "total": 1306
 }
