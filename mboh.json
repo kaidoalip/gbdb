@@ -4108,8 +4108,10 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗧𝗔𝗠𝗭𝘆 𝟭"
     },
     "KpK7Jp8QM3fEV5meqtYokV": {
-      "status": "new",
-      "time": 1794803092672
+      "status": "pending",
+      "time": 1794977357285,
+      "id": "120363432984357210@g.us",
+      "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗧𝗔𝗠𝗭𝘆  𝟮"
     },
     "DVdXbLhmZkLLCbPwVrCII2": {
       "status": "new",
@@ -6476,6 +6478,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977338376,
+  "updated": 1794977357652,
   "total": 1296
 }
