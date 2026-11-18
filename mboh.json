@@ -3518,8 +3518,10 @@
       "err": "bad-request"
     },
     "KsmZNZmrzDADAFdeEzMR5I": {
-      "status": "new",
-      "time": 1794795892507
+      "status": "pending",
+      "time": 1794975942605,
+      "id": "120363426503979697@g.us",
+      "name": "STOK¹ || BEDCTUR"
     },
     "L4a4SV6eL1v1ODiDbnT4cF": {
       "status": "new",
@@ -6334,6 +6336,6 @@
       "time": 1794975919104
     }
   },
-  "updated": 1794975935472,
+  "updated": 1794975942858,
   "total": 1305
 }
