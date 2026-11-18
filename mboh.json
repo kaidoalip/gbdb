@@ -2478,8 +2478,11 @@
       "name": "𝗦𝗧𝗢𝗞 𝗥𝗘𝗦𝗦 𝗘𝗥𝗡𝗘𝗦𝗧"
     },
     "IwJSOIXkfGb5IbB8O0kxua": {
-      "status": "new",
-      "time": 1794757011567
+      "status": "tertutup",
+      "time": 1794972776568,
+      "id": "120363408306143563@g.us",
+      "name": "𝗣𝗨𝗦𝗔𝗧 𝗦𝗧𝗢𝗞 𝗘𝗥𝗡𝗘𝗦𝗧 (NEW)",
+      "announce": true
     },
     "Csjg3bS7hgxLHxGYoSWAQC": {
       "status": "new",
@@ -6126,6 +6129,6 @@
       "time": 1794972438886
     }
   },
-  "updated": 1794972757320,
+  "updated": 1794972776896,
   "total": 1332
 }
