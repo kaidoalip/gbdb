@@ -4800,8 +4800,10 @@
       "name": "PUSAT STOK RESS #1 (kenon jngn out)"
     },
     "ElAcHciLAqjK202sTLWDr6": {
-      "status": "new",
-      "time": 1794812334886
+      "status": "pending",
+      "time": 1794979049157,
+      "id": "120363408759524024@g.us",
+      "name": "JB² KALB/GAG 2/\nSAB/ STEAL AN AGG/ SAB DLL ||\nEPINSTUR"
     },
     "JiKJFn28hzEI19WiyCDxDZ": {
       "status": "new",
@@ -6676,6 +6678,6 @@
       "time": 1794979039752
     }
   },
-  "updated": 1794979039752,
+  "updated": 1794979049860,
   "total": 1294
 }
