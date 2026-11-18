@@ -4185,8 +4185,10 @@
       "err": "bad-request"
     },
     "HzvR0KF0VR12m9qKC5iaHW": {
-      "status": "new",
-      "time": 1794804892724
+      "status": "pending",
+      "time": 1794977597719,
+      "id": "120363429218352772@g.us",
+      "name": "𝙂𝘽 𝘽𝙀𝘽𝘼𝙎 𝙎𝙃𝘼𝙍𝙀 𝙇𝙄𝙉𝙆"
     },
     "G4jh5WmOntZ5QWP7GeG3nr": {
       "status": "new",
@@ -6497,6 +6499,6 @@
       "time": 1794977119563
     }
   },
-  "updated": 1794977590329,
+  "updated": 1794977597951,
   "total": 1295
 }
