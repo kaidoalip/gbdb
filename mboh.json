@@ -3199,8 +3199,10 @@
       "name": "[ GC ] ROBLOX UTAMA || PRINCEE REXU"
     },
     "EfsGsFJDN9g5wgQ8yQnX43": {
-      "status": "new",
-      "time": 1794784732239
+      "status": "pending",
+      "time": 1794975228881,
+      "id": "120363430344522469@g.us",
+      "name": "WARUNG MADURA 24 JAM"
     },
     "CsJLBp8FpIC63mSfzNrtCF": {
       "status": "new",
@@ -6275,6 +6277,6 @@
       "time": 1794974718747
     }
   },
-  "updated": 1794975208251,
+  "updated": 1794975229108,
   "total": 1315
 }
