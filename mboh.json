@@ -4443,8 +4443,9 @@
       "name": "GB BEBAS PROMOSI BY FEARLESS"
     },
     "B7o34fcGOloD4PcOW2UUZZ": {
-      "status": "new",
-      "time": 1794808374807
+      "status": "error",
+      "time": 1794978118723,
+      "err": "bad-request"
     },
     "HUvUDuRdPhWDEhms5VvfLo": {
       "status": "new",
@@ -6571,6 +6572,6 @@
       "time": 1794977839609
     }
   },
-  "updated": 1794978115253,
+  "updated": 1794978119159,
   "total": 1295
 }
