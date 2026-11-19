@@ -2150,12 +2150,6 @@
       "id": "120363430292878713@g.us",
       "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗥𝗔𝗕𝗭𝗭 [4]"
     },
-    "H9Q6fOISBPp8v1s9wVpu9b": {
-      "status": "pending",
-      "time": 1794972015767,
-      "id": "120363414414157322@g.us",
-      "name": "𝗠𝗔𝗥𝗞𝗘𝗧 𝗔𝗟𝗟 𝗚𝗔𝗠𝗘 || 𝗥𝗔𝗕𝗭𝗭 [3]"
-    },
     "Dg8pyjABEyO3zuBwjisGj1": {
       "status": "pending",
       "time": 1794972035923,
@@ -2636,12 +2630,6 @@
       "status": "error",
       "time": 1794974667420,
       "err": "bad-request"
-    },
-    "IDU9ivMZur30ja2aVCNx88": {
-      "status": "pending",
-      "time": 1794973189008,
-      "id": "120363405115050013@g.us",
-      "name": "𝐽𝐵 𝐴𝐿𝐿 𝐺𝐴𝑀𝐸 𝑍𝐸𝑁𝑆𝑇𝑅4 #1🥷"
     },
     "I78NwMyeelABBkegdk8tBT": {
       "status": "pending",
@@ -4561,12 +4549,6 @@
       "time": 1794978475122,
       "id": "120363433623149728@g.us",
       "name": "𝙂𝘾 𝙋𝙀𝙍𝙏𝘼𝙈𝘼 𝙈𝙁𝙍 𝙎𝙏𝙐𝙍𝙀😻"
-    },
-    "CUxiDsUTQQo3sn8mx7ik42": {
-      "status": "pending",
-      "time": 1794978493191,
-      "id": "120363433058284894@g.us",
-      "name": "JB ALLGAME PEMALANG PEKALONGAN BATANG BREBES TEGAL DLL"
     },
     "I2P0w0FQh8hI70jxuo432Z": {
       "status": "tertutup",
@@ -8996,6 +8978,6 @@
       "time": 1795091198793
     }
   },
-  "updated": 1795091198793,
-  "total": 1848
+  "updated": 1795091219153,
+  "total": 1845
 }
